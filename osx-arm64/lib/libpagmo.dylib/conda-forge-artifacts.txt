@@ -1,0 +1,15 @@
+pagmo-2.17.0-h7546657_4
+pagmo-2.18.0-h7546657_0
+pagmo-2.18.0-h3aa0475_1
+pagmo-2.18.0-h3984517_2
+pagmo-2.18.0-h3984517_3
+pagmo-2.18.0-hb6c41e9_4
+pagmo-2.18.0-h08a8095_5
+pagmo-2.18.0-he029f5a_6
+pagmo-2.18.0-he029f5a_7
+pagmo-2.19.0-he029f5a_0
+pagmo-2.19.0-h41438fe_1
+pagmo-2.19.0-haa85fd2_2
+pagmo-2.19.0-h0a08be9_3
+pagmo-2.19.0-hbd14501_4
+pagmo-2.19.0-h098ee58_5

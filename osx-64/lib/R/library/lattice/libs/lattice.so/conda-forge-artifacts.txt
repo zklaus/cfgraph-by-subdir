@@ -1,0 +1,12 @@
+r-lattice-0.20_34-r3.3.2_0
+r-lattice-0.20_34-r3.4.1_0
+r-lattice-0.20_35-r351hc070d10_0
+r-lattice-0.20_35-r341hc070d10_0
+r-lattice-0.20_35-r351h46e59ec_1000
+r-lattice-0.20_38-r351hc070d10_0
+r-lattice-0.20_38-r351h46e59ec_1000
+r-lattice-0.20_38-r35h159158b_1001
+r-lattice-0.20_38-r35h159158b_1002
+r-lattice-0.20_40-r35h17f1fa6_0
+r-lattice-0.20_41-r35h17f1fa6_0
+r-lattice-0.20_41-r35h17f1fa6_1

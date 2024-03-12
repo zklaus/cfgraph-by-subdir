@@ -1,0 +1,8 @@
+r-mime-0.11-r40h28b5c78_0
+r-mime-0.11-r41h28b5c78_0
+r-mime-0.12-r41h28b5c78_0
+r-mime-0.12-r40h28b5c78_0
+r-mime-0.12-r41h815d134_1
+r-mime-0.12-r42h815d134_1
+r-mime-0.12-r42h6dc245f_2
+r-mime-0.12-r43h6dc245f_2

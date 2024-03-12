@@ -1,0 +1,7 @@
+libjpeg-turbo-1.5.1-vc10_0
+libjpeg-turbo-1.5.1-vc14_0
+libjpeg-turbo-1.5.1-vc9_0
+libjpeg-turbo-1.5.2-vc14_0
+libjpeg-turbo-1.5.2-vc9_0
+libjpeg-turbo-1.5.3-vc14_0
+libjpeg-turbo-1.5.3-vc9_0

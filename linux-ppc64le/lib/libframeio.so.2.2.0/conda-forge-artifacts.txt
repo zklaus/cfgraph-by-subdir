@@ -1,0 +1,3 @@
+gds-frameio-base-2.19.6-hfdaf99e_1
+gds-frameio-base-2.19.6-h38a2aeb_2
+gds-frameio-base-2.19.7-h38a2aeb_0

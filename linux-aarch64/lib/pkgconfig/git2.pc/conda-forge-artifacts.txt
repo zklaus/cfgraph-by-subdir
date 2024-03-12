@@ -1,0 +1,2 @@
+libgit2-1.6.0-h8cfa638_0
+libgit2-1.6.1-h8cfa638_0

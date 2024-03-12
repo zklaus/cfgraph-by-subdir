@@ -1,0 +1,6 @@
+libpqxx-7.7.0-h607005b_0
+libpqxx-7.7.2-h5746210_0
+libpqxx-7.7.3-h5746210_0
+libpqxx-7.7.4-h89a6bbd_0
+libpqxx-7.7.4-ha8f1c16_1
+libpqxx-7.7.5-ha8f1c16_0

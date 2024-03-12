@@ -1,0 +1,12 @@
+r-mnormt-1.5_5-r35h17ddedb_1002
+r-mnormt-1.5_5-r36h17ddedb_1002
+r-mnormt-1.5_5-r35h17ddedb_1003
+r-mnormt-1.5_5-r36h17ddedb_1003
+r-mnormt-1.5_6-r35h17ddedb_0
+r-mnormt-1.5_6-r36h17ddedb_0
+r-mnormt-1.5_7-r35h17ddedb_0
+r-mnormt-1.5_7-r36h17ddedb_0
+r-mnormt-1.5_7-r36h17ddedb_1
+r-mnormt-1.5_7-r40h17ddedb_1
+r-mnormt-1.5_7-r40h87ffe87_2
+r-mnormt-1.5_7-r36h87ffe87_2

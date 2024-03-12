@@ -1,0 +1,2 @@
+htcondor-classads-10.0.6-h34fbbfc_0
+htcondor-classads-10.0.6-h34fbbfc_1

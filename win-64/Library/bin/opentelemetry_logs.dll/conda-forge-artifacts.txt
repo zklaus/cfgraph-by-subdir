@@ -1,0 +1,5 @@
+libopentelemetry-cpp-1.11.0-h156e78f_0
+libopentelemetry-cpp-1.11.0-hb72b896_1
+libopentelemetry-cpp-1.11.0-hd5c52a9_2
+libopentelemetry-cpp-1.12.0-hd5c52a9_0
+libopentelemetry-cpp-1.12.0-h2f34e4b_1

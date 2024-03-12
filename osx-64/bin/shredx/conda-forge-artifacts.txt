@@ -1,0 +1,5 @@
+shredx-0.9.3-py38h50d1736_0
+shredx-0.9.3-py37hf985489_0
+shredx-0.9.3-py39h6e9494a_0
+shredx-0.9.3-py38h50d1736_1
+shredx-0.9.3-py39h6e9494a_1

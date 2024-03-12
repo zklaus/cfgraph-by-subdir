@@ -1,0 +1,12 @@
+conda-forge-pinning-2021.10.30.13.29.36-hd8ed1ab_0
+conda-forge-pinning-2021.10.30.13.31.05-hd8ed1ab_0
+conda-forge-pinning-2021.10.30.17.45.23-hd8ed1ab_0
+conda-forge-pinning-2021.10.31.18.51.35-hd8ed1ab_0
+conda-forge-pinning-2021.11.01.03.37.22-hd8ed1ab_0
+conda-forge-pinning-2021.11.01.14.38.46-hd8ed1ab_0
+conda-forge-pinning-2021.11.01.14.43.27-hd8ed1ab_0
+conda-forge-pinning-2021.11.01.16.15.27-hd8ed1ab_0
+conda-forge-pinning-2021.11.01.20.14.43-hd8ed1ab_0
+conda-forge-pinning-2021.11.01.21.58.36-hd8ed1ab_0
+conda-forge-pinning-2021.11.02.10.51.41-hd8ed1ab_0
+conda-forge-pinning-2021.11.02.13.16.49-hd8ed1ab_0

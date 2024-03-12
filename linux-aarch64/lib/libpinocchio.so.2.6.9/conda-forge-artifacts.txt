@@ -1,0 +1,12 @@
+pinocchio-2.6.9-py310h1e20850_0
+pinocchio-2.6.9-py37hf7168c5_0
+pinocchio-2.6.9-py39h6e2d7f5_0
+pinocchio-2.6.9-py38h069df69_0
+pinocchio-2.6.9-py39h6e2d7f5_1
+pinocchio-2.6.9-py37hf7168c5_1
+pinocchio-2.6.9-py310h1e20850_1
+pinocchio-2.6.9-py38h069df69_1
+pinocchio-2.6.9-py310h3e499be_2
+pinocchio-2.6.9-py39h0c11ad8_2
+pinocchio-2.6.9-py37h2483004_2
+pinocchio-2.6.9-py38h57696bb_2

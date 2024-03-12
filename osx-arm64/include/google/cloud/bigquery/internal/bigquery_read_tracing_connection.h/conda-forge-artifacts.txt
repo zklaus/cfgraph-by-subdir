@@ -1,0 +1,3 @@
+google-cloud-cpp-2.7.0-hcf11473_0
+google-cloud-cpp-2.7.0-hcf11473_1
+google-cloud-cpp-2.7.0-haa7394f_2

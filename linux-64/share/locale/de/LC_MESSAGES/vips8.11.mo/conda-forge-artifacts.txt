@@ -1,0 +1,9 @@
+libvips-8.11.0-h275373c_0
+libvips-8.11.1-h275373c_0
+libvips-8.11.2-h275373c_0
+libvips-8.11.3-h275373c_0
+libvips-8.11.3-h0632ac6_1
+libvips-8.11.4-h0632ac6_0
+libvips-8.11.4-h74a9ea1_1
+libvips-8.11.4-h99d820a_2
+libvips-8.11.4-hcde81df_3

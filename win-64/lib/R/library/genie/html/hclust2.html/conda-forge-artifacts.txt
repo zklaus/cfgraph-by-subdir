@@ -1,0 +1,7 @@
+r-genie-1.0.4-r36h796a38f_0
+r-genie-1.0.4-r35h796a38f_0
+r-genie-1.0.4-r36h796a38f_1
+r-genie-1.0.4-r40h796a38f_1
+r-genie-1.0.5-r40h796a38f_0
+r-genie-1.0.5-r36h796a38f_0
+r-genie-1.0.5-r40ha856d6a_0

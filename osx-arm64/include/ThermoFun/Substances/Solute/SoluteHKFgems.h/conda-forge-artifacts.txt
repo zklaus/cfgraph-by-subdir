@@ -1,0 +1,17 @@
+thermofun-0.4.4-py310ha926e62_1
+thermofun-0.4.4-py311h0935781_1
+thermofun-0.4.4-py38hf1820b5_1
+thermofun-0.4.4-py39haaa2ba6_1
+thermofun-0.4.4-py38hf1820b5_2
+thermofun-0.4.4-py39haaa2ba6_2
+thermofun-0.4.4-py311h0935781_2
+thermofun-0.4.4-py310ha926e62_2
+thermofun-0.4.5-py310ha926e62_0
+thermofun-0.4.5-py39haaa2ba6_0
+thermofun-0.4.5-py38hf1820b5_0
+thermofun-0.4.5-py311h0935781_0
+thermofun-0.4.5-py312h9a62ef3_1
+thermofun-0.4.5-py311h0935781_1
+thermofun-0.4.5-py39haaa2ba6_1
+thermofun-0.4.5-py38hf1820b5_1
+thermofun-0.4.5-py310ha926e62_1

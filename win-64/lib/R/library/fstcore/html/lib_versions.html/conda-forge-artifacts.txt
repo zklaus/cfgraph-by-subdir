@@ -1,0 +1,4 @@
+r-fstcore-0.9.8-r40ha856d6a_0
+r-fstcore-0.9.10-r40ha856d6a_0
+r-fstcore-0.9.12-r40ha856d6a_0
+r-fstcore-0.9.12-r40h49a1dc0_1

@@ -1,0 +1,13 @@
+ghostscript-9.20-0
+ghostscript-9.22-0
+ghostscript-9.22-hfc679d8_1
+ghostscript-9.22-h0a44026_1001
+ghostscript-9.22-h6de7cb9_1
+ghostscript-9.53.1-hb1e8313_0
+ghostscript-9.53.3-hb1e8313_0
+ghostscript-9.53.3-hb1e8313_1
+ghostscript-9.53.3-h2e338ed_2
+ghostscript-9.54.0-h370ebc4_0
+ghostscript-9.54.0-he49afe7_1
+ghostscript-9.54.0-h96cf925_2
+ghostscript-9.56.1-he965462_0

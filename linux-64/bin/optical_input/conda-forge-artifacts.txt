@@ -1,0 +1,9 @@
+siesta-4.0.2-nompi_h08208a7_1013
+siesta-4.0.2-mpi_mpich_h797fc72_13
+siesta-4.0.2-mpi_openmpi_hb8d532e_13
+siesta-4.1.5-nompi_h91825ee_1004
+siesta-4.1.5-mpi_mpich_ha9019fe_4
+siesta-4.1.5-mpi_openmpi_hde42284_4
+siesta-4.0.2-mpi_mpich_h797fc72_14
+siesta-4.0.2-nompi_h08208a7_1014
+siesta-4.0.2-mpi_openmpi_hb8d532e_14

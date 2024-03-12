@@ -1,0 +1,17 @@
+r-rgdal-1.2_16-r3.4.1_0
+r-rgdal-1.2_18-r3.4.1_0
+r-rgdal-1.3_3-r341h67cc41c_0
+r-rgdal-1.3_4-r341h67cc41c_0
+r-rgdal-1.3_6-r341h67cc41c_0
+r-rgdal-1.3_6-r351h67cc41c_0
+r-rgdal-1.3_6-r351h285a78d_1
+r-rgdal-1.3_9-r351hec0b0f2_0
+r-rgdal-1.4_3-r351h0dc004f_0
+r-rgdal-1.4_3-r35h0dc004f_1
+r-rgdal-1.4_3-r35he89b50e_2
+r-rgdal-1.4_4-r35he89b50e_0
+r-rgdal-1.4_4-r35he89b50e_1
+r-rgdal-1.4_4-r35he89b50e_2
+r-rgdal-1.4_4-r35h8a130d2_3
+r-rgdal-1.4_4-r35h8096c81_4
+r-rgdal-1.4_8-r35h275def0_0

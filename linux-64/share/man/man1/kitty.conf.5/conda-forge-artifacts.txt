@@ -1,0 +1,4 @@
+kitty-0.20.2-py38hb29fb22_0
+kitty-0.20.2-py36he475876_0
+kitty-0.20.2-py37h303ab7e_0
+kitty-0.20.2-py39h75052e7_0

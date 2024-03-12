@@ -1,0 +1,3 @@
+barnaba-0.1.7-pyhd8ed1ab_1
+barnaba-0.1.8-pyhd8ed1ab_0
+barnaba-0.1.9-pyhd8ed1ab_0

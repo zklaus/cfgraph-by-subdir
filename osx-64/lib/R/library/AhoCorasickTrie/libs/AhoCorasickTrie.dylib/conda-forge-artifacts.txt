@@ -1,0 +1,11 @@
+r-ahocorasicktrie-0.1.0-r36hf99fc2c_1003
+r-ahocorasicktrie-0.1.0-r40hc5da6b9_1004
+r-ahocorasicktrie-0.1.0-r36hc5da6b9_1004
+r-ahocorasicktrie-0.1.2-r36h710217c_0
+r-ahocorasicktrie-0.1.2-r40h710217c_0
+r-ahocorasicktrie-0.1.2-r40h9951f98_0
+r-ahocorasicktrie-0.1.2-r41h9951f98_0
+r-ahocorasicktrie-0.1.2-r41h49197e3_1
+r-ahocorasicktrie-0.1.2-r42h49197e3_1
+r-ahocorasicktrie-0.1.2-r42hac7d2d5_2
+r-ahocorasicktrie-0.1.2-r43hac7d2d5_2

@@ -1,0 +1,10 @@
+libfaiss-1.6.3-h49bdc20_1_cuda
+libfaiss-1.6.3-hb17eacc_1_cuda
+libfaiss-1.6.3-he61ee18_1_cuda
+libfaiss-1.6.3-he68dc02_1_cuda
+libfaiss-1.6.3-h328c4c8_1_cuda
+libfaiss-1.6.3-h49bdc20_3_cuda
+libfaiss-1.6.3-hb17eacc_3_cuda
+libfaiss-1.6.3-he61ee18_3_cuda
+libfaiss-1.6.3-h328c4c8_3_cuda
+libfaiss-1.6.3-he68dc02_3_cuda

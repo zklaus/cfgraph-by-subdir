@@ -1,0 +1,3 @@
+pyopcode-0.3.3-np111py36_2
+pyopcode-0.3.3-np112py36_2
+pyopcode-0.3.3-np113py36_2

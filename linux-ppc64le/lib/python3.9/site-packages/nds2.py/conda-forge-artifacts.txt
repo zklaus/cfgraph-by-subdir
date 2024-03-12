@@ -1,0 +1,6 @@
+python-nds2-client-0.16.11-py39h78c9397_0
+python-nds2-client-0.16.12-py39h78c9397_0
+python-nds2-client-0.16.12-py39h78c9397_1
+python-nds2-client-0.16.12-py39ha786621_2
+python-nds2-client-0.16.12-py39ha786621_3
+python-nds2-client-0.16.12-py39h81a4a36_4

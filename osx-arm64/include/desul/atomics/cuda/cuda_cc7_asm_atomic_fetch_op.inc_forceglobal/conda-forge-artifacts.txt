@@ -1,0 +1,13 @@
+kokkos-4.0.00-hf2e4e73_0
+kokkos-3.7.01-hf2e4e73_2
+kokkos-4.0.01-hc820d28_0
+kokkos-3.7.01-hc820d28_3
+kokkos-4.0.01-h4a1002f_1
+kokkos-3.7.02-h4a1002f_0
+kokkos-4.0.01-h4a1002f_2
+kokkos-3.7.02-h4a1002f_1
+kokkos-4.0.01-h4a1002f_3
+kokkos-4.1.00-h4a1002f_0
+kokkos-4.1.00-h4a1002f_1
+kokkos-4.1.00-h4a1002f_2
+kokkos-4.1.00-hf543e12_3

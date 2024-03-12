@@ -1,0 +1,12 @@
+r-texreg-1.37.5-r40hc72bb7e_0
+r-texreg-1.37.5-r41hc72bb7e_0
+r-texreg-1.38.5-r40hc72bb7e_0
+r-texreg-1.38.5-r41hc72bb7e_0
+r-texreg-1.38.6-r41hc72bb7e_0
+r-texreg-1.38.6-r40hc72bb7e_0
+r-texreg-1.38.6-r41hc72bb7e_1
+r-texreg-1.38.6-r42hc72bb7e_1
+r-texreg-1.38.6-r43hc72bb7e_2
+r-texreg-1.38.6-r42hc72bb7e_2
+r-texreg-1.39.3-r42hc72bb7e_0
+r-texreg-1.39.3-r43hc72bb7e_0

@@ -1,0 +1,10 @@
+r-fstcore-0.9.12-r42h858999d_2
+r-fstcore-0.9.12-r41h858999d_2
+r-fstcore-0.9.14-r42h858999d_0
+r-fstcore-0.9.14-r41h858999d_0
+r-fstcore-0.9.14-r43hf2b0611_1
+r-fstcore-0.9.14-r42hf2b0611_1
+r-fstcore-0.9.16-r43hed86c4f_0
+r-fstcore-0.9.16-r42hed86c4f_0
+r-fstcore-0.9.18-r43hed86c4f_0
+r-fstcore-0.9.18-r42hed86c4f_0

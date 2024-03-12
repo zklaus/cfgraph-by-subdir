@@ -1,0 +1,8 @@
+netcdf-fortran-4.4.4-5
+netcdf-fortran-4.4.4-6
+netcdf-fortran-4.4.4-7
+netcdf-fortran-4.4.4-h4363f12_8
+netcdf-fortran-4.4.4-h4363f12_9
+netcdf-fortran-4.4.4-h71ea97b_10
+netcdf-fortran-4.4.4-h1c4c09f_1010
+netcdf-fortran-4.4.4-hcfae788_10

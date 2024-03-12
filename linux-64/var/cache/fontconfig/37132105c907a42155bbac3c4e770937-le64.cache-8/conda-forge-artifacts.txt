@@ -1,0 +1,1 @@
+pyside2-5.13.2-py310hcea3d2e_8

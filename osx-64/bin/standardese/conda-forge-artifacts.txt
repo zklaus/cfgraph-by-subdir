@@ -1,0 +1,11 @@
+standardese-0.4.0-hdb1ced3_0
+standardese-0.4.0-hcb3d31a_1
+standardese-0.4.0-h3ece110_2
+standardese-0.4.0-he8d8c1e_3
+standardese-0.4.0-haffb64d_3
+standardese-0.4.1-h74b857b_0
+standardese-0.4.1-h309d23c_0
+standardese-0.5.0-hfbd835c_0
+standardese-0.5.2-hfbd835c_0
+standardese-0.5.2-h12eeba0_1
+standardese-0.5.2-h48f6b6c_2

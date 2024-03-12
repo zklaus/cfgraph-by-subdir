@@ -1,0 +1,15 @@
+r-astsa-1.13-r36hc72bb7e_0
+r-astsa-1.13-r40hc72bb7e_0
+r-astsa-1.13-r41hc72bb7e_0
+r-astsa-1.14-r41hc72bb7e_0
+r-astsa-1.14-r40hc72bb7e_0
+r-astsa-1.15-r41hc72bb7e_0
+r-astsa-1.15-r40hc72bb7e_0
+r-astsa-1.16-r41hc72bb7e_0
+r-astsa-1.16-r40hc72bb7e_0
+r-astsa-1.16-r42hc72bb7e_1
+r-astsa-1.16-r41hc72bb7e_1
+r-astsa-2.0-r42hc72bb7e_0
+r-astsa-2.0-r41hc72bb7e_0
+r-astsa-2.0-r42hc72bb7e_1
+r-astsa-2.0-r43hc72bb7e_1

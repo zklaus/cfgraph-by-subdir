@@ -1,0 +1,13 @@
+python-3.9.7-h7840368_0_cpython
+python-3.9.7-h7840368_1_cpython
+python-3.9.7-h7840368_2_cpython
+python-3.9.7-h7840368_3_cpython
+python-3.9.7-h900ac77_3_cpython
+python-3.10.0-hcf16a7b_0_cpython
+python-3.10.0-h9a09f29_0_cpython
+python-3.10.0-hcf16a7b_1_cpython
+python-3.10.0-h9a09f29_1_cpython
+python-3.10.0-h9a09f29_2_cpython
+python-3.10.0-hcf16a7b_2_cpython
+python-3.10.0-h9a09f29_3_cpython
+python-3.10.0-hcf16a7b_3_cpython

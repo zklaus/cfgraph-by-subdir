@@ -1,0 +1,11 @@
+normaliz-3.9.1-hcb41c49_0
+normaliz-3.9.1-h393e424_1
+normaliz-3.9.1-h78ee629_2
+normaliz-3.9.2-h78ee629_0
+normaliz-3.9.2-hd28f589_1
+normaliz-3.9.3-hd37d937_0
+normaliz-3.9.4-hd37d937_0
+normaliz-3.9.4-ha00be30_1
+normaliz-3.9.4-h615a1c3_2
+normaliz-3.9.4-h96f44b7_3
+normaliz-3.9.4-hf1fb678_4

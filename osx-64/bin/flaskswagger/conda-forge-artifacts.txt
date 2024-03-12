@@ -1,0 +1,3 @@
+flask-swagger-0.2.13-py27_0
+flask-swagger-0.2.13-py35_0
+flask-swagger-0.2.13-py36_0

@@ -1,0 +1,7 @@
+aws-sdk-cpp-1.7.160-h1f8afcc_1
+aws-sdk-cpp-1.7.164-h1f8afcc_0
+aws-sdk-cpp-1.7.164-hc831370_0
+aws-sdk-cpp-1.7.164-hc831370_1
+aws-sdk-cpp-1.7.164-hba45d7a_2
+aws-c-common-0.4.56-he1b5a44_0
+aws-c-common-0.4.56-he1b5a44_1

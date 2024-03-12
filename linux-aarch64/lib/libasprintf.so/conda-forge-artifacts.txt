@@ -1,0 +1,8 @@
+gettext-0.19.8.1-hf34092f_1003
+gettext-0.19.8.1-hf34092f_1004
+gettext-0.19.8.1-h4454c44_1005
+gettext-0.19.8.1-h6edf1e2_1006
+gettext-0.19.8.1-h6edf1e2_1007
+gettext-0.19.8.1-h6edf1e2_1008
+gettext-0.19.8.1-h4de3ea5_1009
+gettext-0.21.1-ha18d298_0

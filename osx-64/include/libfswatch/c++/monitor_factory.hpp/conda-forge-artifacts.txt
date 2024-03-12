@@ -1,0 +1,6 @@
+fswatch-1.13.0-hfc679d8_0
+fswatch-1.13.0-h0a44026_1000
+fswatch-1.14.0-h0a44026_0
+fswatch-1.15.0-hb1e8313_0
+fswatch-1.16.0-he49afe7_0
+fswatch-1.17.0-hb486fe8_0

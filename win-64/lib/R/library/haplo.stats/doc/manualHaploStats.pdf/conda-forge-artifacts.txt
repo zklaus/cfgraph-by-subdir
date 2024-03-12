@@ -1,0 +1,5 @@
+r-haplo.stats-1.7.9-r351h301d43c_1002
+r-haplo.stats-1.7.9-r35h301d43c_1003
+r-haplo.stats-1.7.9-r36h301d43c_1003
+r-haplo.stats-1.7.9-r40h301d43c_1004
+r-haplo.stats-1.7.9-r36h301d43c_1004

@@ -1,0 +1,16 @@
+typos-1.13.10-h0f5d50b_0
+typos-1.13.10-h0f5d50b_1
+typos-1.13.11-h0f5d50b_0
+typos-1.13.12-h0f5d50b_0
+typos-1.13.16-h0f5d50b_0
+typos-1.13.18-h0f5d50b_0
+typos-1.13.19-h0f5d50b_0
+typos-1.13.20-h0f5d50b_0
+typos-1.13.25-he8a937b_0
+typos-1.16.17-he8a937b_0
+typos-1.16.18-he8a937b_0
+typos-1.16.19-he8a937b_0
+typos-1.16.20-he8a937b_0
+typos-1.16.21-he8a937b_0
+typos-1.16.22-he8a937b_0
+typos-1.16.23-he8a937b_0

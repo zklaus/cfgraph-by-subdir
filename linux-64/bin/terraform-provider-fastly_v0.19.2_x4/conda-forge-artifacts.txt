@@ -1,0 +1,2 @@
+terraform-provider-fastly-0.19.2-h630e55e_0
+terraform-provider-fastly-0.19.2-h520bb56_1

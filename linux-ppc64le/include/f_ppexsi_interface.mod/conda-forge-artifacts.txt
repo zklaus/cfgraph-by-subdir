@@ -1,0 +1,16 @@
+elsi-2.8.2-mpi_mpich_hb27407b_0
+elsi-2.8.2-mpi_openmpi_h11bec1d_0
+pexsi-1.2.0-mpi_mpich_hfe5d17c_1
+pexsi-1.2.0-mpi_openmpi_h5dd7c89_1
+elsi-2.8.2-mpi_mpich_hb27407b_1
+elsi-2.8.2-mpi_openmpi_h11bec1d_1
+elsi-2.8.2-mpi_openmpi_h11bec1d_2
+elsi-2.8.2-mpi_mpich_hb27407b_2
+elsi-2.9.0-mpi_mpich_hb27407b_0
+elsi-2.9.0-mpi_openmpi_h11bec1d_0
+pexsi-1.2.0-mpi_openmpi_h6c90076_1
+pexsi-1.2.0-mpi_mpich_h89c9322_1
+pexsi-2.0.0-mpi_mpich_hf47366b_0
+pexsi-2.0.0-mpi_openmpi_hfe4b79c_0
+elsi-2.9.1-mpi_mpich_hf904bf8_0
+elsi-2.9.1-mpi_openmpi_hfabfba0_0

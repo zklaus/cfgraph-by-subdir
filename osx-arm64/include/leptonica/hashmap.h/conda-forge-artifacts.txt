@@ -1,0 +1,12 @@
+leptonica-1.81.0-h27f1f06_0
+leptonica-1.81.1-h27f1f06_0
+leptonica-1.82.0-h27f1f06_0
+leptonica-1.82.0-hfbf9fac_1
+leptonica-1.82.0-h2ec74d5_1
+leptonica-1.82.0-h2ec74d5_2
+leptonica-1.83.1-hc5693f2_0
+leptonica-1.83.1-hce3091f_1
+leptonica-1.83.1-hce3091f_2
+leptonica-1.83.1-hce3091f_3
+leptonica-1.83.1-hfd1401c_4
+leptonica-1.83.1-hc69d283_5

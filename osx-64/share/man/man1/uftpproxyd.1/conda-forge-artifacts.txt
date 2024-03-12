@@ -1,0 +1,6 @@
+uftp-4.10.1-hafa8578_0
+uftp-4.10.2-h790d484_0
+uftp-5.0.1-hc97edf9_0
+uftp-5.0.1-hc97edf9_1
+uftp-5.0.1-h9cee658_1
+uftp-5.0.2-hcd7b74e_0

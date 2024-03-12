@@ -1,0 +1,16 @@
+triqs_dft_tools-3.2.0-py310h1d84f6f_3
+triqs_dft_tools-3.2.0-py311hd3c9566_3
+triqs_dft_tools-3.2.0-py311h62ba0a5_3
+triqs_dft_tools-3.2.0-py39h5a87703_3
+triqs_dft_tools-3.2.0-py38h053eb57_3
+triqs_dft_tools-3.2.0-py38hb78e8de_3
+triqs_dft_tools-3.2.0-py310h8daded1_3
+triqs_dft_tools-3.2.0-py39h6d9bfd9_3
+triqs_dft_tools-3.2.0-py310hfb1aa0e_4
+triqs_dft_tools-3.2.0-py39h991e3e2_4
+triqs_dft_tools-3.2.0-py311hf3704df_4
+triqs_dft_tools-3.2.0-py311hcc71c76_4
+triqs_dft_tools-3.2.0-py38h1d1af26_4
+triqs_dft_tools-3.2.0-py38hf430a2b_4
+triqs_dft_tools-3.2.0-py39h506e681_4
+triqs_dft_tools-3.2.0-py310h7375afd_4

@@ -1,0 +1,10 @@
+r-future.apply-1.9.1-r41hc72bb7e_0
+r-future.apply-1.9.1-r40hc72bb7e_0
+r-future.apply-1.9.1-r42hc72bb7e_1
+r-future.apply-1.9.1-r41hc72bb7e_1
+r-future.apply-1.10.0-r41hc72bb7e_0
+r-future.apply-1.10.0-r42hc72bb7e_0
+r-future.apply-1.11.0-r42hc72bb7e_0
+r-future.apply-1.11.0-r41hc72bb7e_0
+r-future.apply-1.11.0-r42hc72bb7e_1
+r-future.apply-1.11.0-r43hc72bb7e_1

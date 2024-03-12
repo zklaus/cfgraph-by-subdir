@@ -1,0 +1,13 @@
+libmagic-5.30-0
+libmagic-5.32-0
+libmagic-5.33-0
+libmagic-5.33-h470a237_0
+libmagic-5.33-h14c3975_1000
+libmagic-5.35-h14c3975_1000
+libmagic-5.36-h14c3975_0
+file-5.37-h8b12597_0
+libmagic-5.36-h516909a_1
+libmagic-5.36-h516909a_2
+libmagic-5.39-hed695b0_0
+libmagic-5.39-h27826a3_0
+libmagic-5.39-h753d276_1

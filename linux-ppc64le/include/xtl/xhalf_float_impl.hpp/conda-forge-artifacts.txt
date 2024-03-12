@@ -1,0 +1,13 @@
+xtl-0.6.20-h1bb5118_0
+xtl-0.6.21-hecf720e_0
+xtl-0.6.21-hecf720e_1
+xtl-0.6.22-h2acdbc0_1
+xtl-0.6.23-h2acdbc0_1
+xtl-0.6.24-h2acdbc0_0
+xtl-0.7.0-h2acdbc0_0
+xtl-0.7.1-h2acdbc0_0
+xtl-0.7.2-h2acdbc0_0
+xtl-0.7.2-h2acdbc0_1
+xtl-0.7.3-h2acdbc0_0
+xtl-0.7.4-h2acdbc0_0
+xtl-0.7.5-he01d56d_0

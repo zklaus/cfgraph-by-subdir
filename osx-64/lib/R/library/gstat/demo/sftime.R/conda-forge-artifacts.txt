@@ -1,0 +1,6 @@
+r-gstat-2.1_0-r41h815d134_0
+r-gstat-2.1_0-r42h815d134_0
+r-gstat-2.1_1-r42h815d134_0
+r-gstat-2.1_1-r41h815d134_0
+r-gstat-2.1_1-r43h6dc245f_1
+r-gstat-2.1_1-r42h6dc245f_1

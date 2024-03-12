@@ -1,0 +1,15 @@
+librdkafka-1.9.0-h9e317bd_0
+librdkafka-1.9.0-h8bc9935_0
+librdkafka-1.9.1-h70a263e_0
+librdkafka-1.9.1-h5eb4358_0
+librdkafka-1.9.1-h70a263e_1
+librdkafka-1.9.1-h5eb4358_1
+librdkafka-1.9.2-h5eb4358_0
+librdkafka-1.9.2-h70a263e_0
+librdkafka-1.9.2-h6fe9ebe_1
+librdkafka-1.9.2-hcd1f046_1
+librdkafka-1.9.2-h6f4c50b_2
+librdkafka-1.9.2-h70cd987_2
+librdkafka-2.1.0-hb18e517_0
+librdkafka-2.1.1-hb18e517_0
+librdkafka-2.2.0-hb18e517_0

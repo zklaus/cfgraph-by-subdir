@@ -1,0 +1,6 @@
+quantlib-1.29-h12eeba0_0
+quantlib-1.29-h12eeba0_1
+quantlib-1.29-h12eeba0_2
+quantlib-1.31.1-hf4765bd_0
+quantlib-1.31.1-h369ffa3_1
+quantlib-1.32-h2eb9dff_0

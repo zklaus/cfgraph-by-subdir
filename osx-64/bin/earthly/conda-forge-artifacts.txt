@@ -1,0 +1,8 @@
+earthly-0.7.15-h694c41f_0
+earthly-0.7.16-h694c41f_0
+earthly-0.5.16-h694c41f_0
+earthly-0.5.17-h694c41f_0
+earthly-0.5.18-h694c41f_0
+earthly-0.7.19-h694c41f_0
+earthly-0.7.20-h694c41f_0
+earthly-0.7.21-h694c41f_0

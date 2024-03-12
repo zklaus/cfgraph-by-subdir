@@ -1,0 +1,4 @@
+pyside6-6.5.2-py311h8f3932c_0
+pyside6-6.5.2-py38h366722c_0
+pyside6-6.5.2-py310h1570d6a_0
+pyside6-6.5.2-py39he8468b0_0

@@ -1,0 +1,6 @@
+libraw-0.20.0-hefcb256_0
+libraw-0.20.1-hefcb256_0
+libraw-0.20.2-hefcb256_0
+libraw-0.20.2-habc1c0d_0
+libraw-0.20.2-hc8204c4_1
+libraw-0.20.2-hb6731fe_2

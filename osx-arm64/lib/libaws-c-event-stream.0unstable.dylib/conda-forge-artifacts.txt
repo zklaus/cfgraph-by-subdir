@@ -1,0 +1,7 @@
+aws-c-event-stream-0.1.6-hc88da5d_0
+aws-c-event-stream-0.1.6-hc88da5d_1
+aws-c-event-stream-0.1.6-h2ca9e37_2
+aws-c-event-stream-0.1.6-h54b3e7a_3
+aws-c-event-stream-0.1.6-hc8e9808_4
+aws-c-event-stream-0.1.6-h36e90d6_5
+aws-c-event-stream-0.1.6-h0d44b10_6

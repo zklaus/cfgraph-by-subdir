@@ -1,0 +1,3 @@
+symengine-0.8.0-h5442b08_0
+symengine-0.8.1-h5442b08_0
+symengine-0.8.1-hde5acf3_1

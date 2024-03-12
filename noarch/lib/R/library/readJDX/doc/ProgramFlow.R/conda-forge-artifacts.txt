@@ -1,0 +1,13 @@
+r-readjdx-0.4.29-r36h6115d3f_0
+r-readjdx-0.4.29-r35h6115d3f_0
+r-readjdx-0.4.29-r36h6115d3f_1
+r-readjdx-0.4.29-r40h6115d3f_1
+r-readjdx-0.5.1-r40h6115d3f_0
+r-readjdx-0.5.1-r36h6115d3f_0
+r-readjdx-0.5.36-r40hc72bb7e_0
+r-readjdx-0.5.36-r36hc72bb7e_0
+r-readjdx-0.5.41-r40hc72bb7e_0
+r-readjdx-0.5.41-r36hc72bb7e_0
+r-readjdx-0.5.41-r41hc72bb7e_0
+r-readjdx-0.5.61-r41hc72bb7e_0
+r-readjdx-0.5.61-r40hc72bb7e_0

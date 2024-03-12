@@ -1,0 +1,7 @@
+libiio-0.19-py36h17c4326_0
+libiio-0.19-py37he3881c9_0
+libiio-0.19-py38hbb43d70_0
+libiio-0.19-py36h0258339_1
+libiio-0.19-py37he3881c9_1
+libiio-0.19-py36h17c4326_1
+libiio-0.19-py38hbb43d70_1

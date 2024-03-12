@@ -1,0 +1,9 @@
+swi-prolog-7.7.0-he3942ae_0
+swi-prolog-9.0.4-h1f919d0_0
+swi-prolog-9.0.4-hce7e716_1
+swi-prolog-9.0.4-h1f919d0_1
+swi-prolog-9.0.4-h566be0b_2
+swi-prolog-9.0.4-he3bedbe_2
+swi-prolog-9.0.4-h7ffad7a_3
+swi-prolog-9.0.4-h2fa8fc1_4
+swi-prolog-9.0.4-hb97c47e_6

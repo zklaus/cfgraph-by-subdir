@@ -1,0 +1,16 @@
+wxpython-4.1.0-py36h3da4f72_0
+wxpython-4.1.0-py38h725c64c_0
+wxpython-4.1.0-py37ha726058_0
+wxpython-4.1.0-py36hd77b259_1
+wxpython-4.1.0-py38hc540f52_1
+wxpython-4.1.0-py37ha000f7d_1
+wxpython-4.1.0-py36hc5c7372_2
+wxpython-4.1.0-py38ha0724a5_2
+wxpython-4.1.0-py37h9f16c6e_2
+wxpython-4.1.0-py37h7046339_3
+wxpython-4.1.0-py38h2a0d1f2_3
+wxpython-4.1.0-py36h387fc31_3
+wxpython-4.1.0-py39h48d42a0_4
+wxpython-4.1.0-py37h7046339_4
+wxpython-4.1.0-py36h387fc31_4
+wxpython-4.1.0-py38h2a0d1f2_4

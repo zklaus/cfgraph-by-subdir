@@ -1,0 +1,9 @@
+r-fts-0.9.9.2-r351hca4a3dc_1000
+r-fts-0.9.9.2-r35hca4a3dc_1001
+r-fts-0.9.9.2-r36hca4a3dc_1001
+r-fts-0.9.9.2-r36hca4a3dc_1002
+r-fts-0.9.9.2-r40hca4a3dc_1002
+r-fts-0.9.9.2-r41ha856d6a_1002
+r-fts-0.9.9.2-r40ha856d6a_1002
+r-fts-0.9.9.2-r41ha856d6a_1003
+r-fts-0.9.9.2-r41ha856d6a_1004

@@ -1,0 +1,7 @@
+kaleido-core-0.1.0a5-h294d835_0
+kaleido-core-0.1.0a5-hcc03f2d_0
+kaleido-core-0.1.0a5-h68aa20f_0
+kaleido-core-0.1.0a5-h8ffe710_1
+kaleido-core-0.1.0-h8ffe710_0
+kaleido-core-0.2.0-h8ffe710_0
+kaleido-core-0.2.1-h8ffe710_0

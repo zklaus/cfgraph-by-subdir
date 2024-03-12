@@ -1,0 +1,8 @@
+pagmo-2.18.0-hcd9baf0_0
+pagmo-2.18.0-h6e52e42_1
+pagmo-2.18.0-h75ee210_2
+pagmo-2.18.0-h469a148_3
+pagmo-2.18.0-h469a148_4
+pagmo-2.18.0-h5b2370e_5
+pagmo-2.18.0-hd8e3d54_6
+pagmo-2.18.0-hd8e3d54_7

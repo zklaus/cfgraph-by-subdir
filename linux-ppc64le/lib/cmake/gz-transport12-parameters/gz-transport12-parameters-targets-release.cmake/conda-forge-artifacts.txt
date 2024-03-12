@@ -1,0 +1,12 @@
+libgz-transport12-12.1.0-hb4a5bf6_0
+libgz-transport12-12.2.0-h61414e8_0
+libgz-transport12-12.2.0-h61414e8_1
+libgz-transport12-12.2.0-h43a91bd_1
+libgz-transport12-12.2.0-h61414e8_2
+libgz-transport12-12.2.0-h19ed9cd_2
+libgz-transport12-12.2.0-heba0542_3
+libgz-transport12-12.2.1-heba0542_0
+libgz-transport12-12.2.1-heba0542_1
+libgz-transport12-12.2.1-hb4f1968_2
+libgz-transport12-12.2.1-h09cd95f_3
+libgz-transport12-12.2.1-hb5bd0ab_4

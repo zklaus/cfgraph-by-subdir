@@ -1,0 +1,7 @@
+codec2-0.9.2-h301d43c_1
+codec2-0.9.2-hcd874cb_1
+libcodec2-1.0.0-hcd874cb_0
+libcodec2-1.0.1-hcd874cb_0
+libcodec2-1.0.1-hcd874cb_1
+libcodec2-1.03-hcd874cb_0
+libcodec2-1.0.3-hcd874cb_0

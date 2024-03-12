@@ -1,0 +1,8 @@
+pygypsy-0.2.5-np111py27_0
+pygypsy-0.2.8-np111py27_0
+pygypsy-0.2.9-np111py27_0
+pygypsy-0.3.1-np111py27_0
+pygypsy-0.4.0-np111py27_0
+pygypsy-0.4.0-np112py27_0
+pygypsy-0.4.0-py27h7eb728f_0
+pygypsy-0.4.0-py27h917ab60_1000

@@ -1,0 +1,2 @@
+r-spatstat.linnet-2.3_1-r40h6d2157b_0
+r-spatstat.linnet-2.3_2-r40h6d2157b_0

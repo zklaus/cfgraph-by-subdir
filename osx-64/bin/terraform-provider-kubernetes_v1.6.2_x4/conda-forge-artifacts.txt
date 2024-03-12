@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-1.6.2-h3eaf7b7_0

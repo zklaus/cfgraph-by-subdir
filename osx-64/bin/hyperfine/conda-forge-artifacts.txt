@@ -1,0 +1,16 @@
+hyperfine-1.5.0-0
+hyperfine-1.6.0-0
+hyperfine-1.7.0-0
+hyperfine-1.7.0-h01d97ff_1
+hyperfine-1.8.0-h0b31af3_0
+hyperfine-1.9.0-h0b31af3_0
+hyperfine-1.10.0-h0b31af3_0
+hyperfine-1.11.0-haf1e3a3_0
+hyperfine-1.11.0-h9c272f4_1
+hyperfine-1.12.0-h80d2146_0
+hyperfine-1.13.0-hbbacdb1_0
+hyperfine-1.14.0-hbd21883_0
+hyperfine-1.16.0-hf9fc8f3_0
+hyperfine-1.16.1-hf9fc8f3_0
+hyperfine-1.17.0-h7205ca4_0
+hyperfine-1.18.0-h63b85fc_0

@@ -1,0 +1,9 @@
+libgfortran-devel_osx-arm64-11.3.0-hfe9555d_24
+libgfortran-devel_osx-arm64-11.3.0-hfe9555d_25
+libgfortran-devel_osx-arm64-11.3.0-hfe9555d_26
+libgfortran-devel_osx-arm64-11.3.0-hfe9555d_27
+libgfortran-devel_osx-arm64-11.3.0-hfe9555d_28
+libgfortran-devel_osx-arm64-11.3.0-hfe9555d_29
+libgfortran-devel_osx-arm64-11.3.0-hfe9555d_30
+libgfortran-devel_osx-arm64-11.3.0-hfe9555d_31
+libgfortran-devel_osx-arm64-11.3.0-hfe9555d_32

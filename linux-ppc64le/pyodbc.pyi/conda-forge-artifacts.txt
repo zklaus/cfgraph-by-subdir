@@ -1,0 +1,4 @@
+pyodbc-4.0.35-py39h89b8a7f_1
+pyodbc-4.0.35-py38h9e38afe_1
+pyodbc-4.0.35-py311ha880dfd_1
+pyodbc-4.0.35-py310h7eda2be_1

@@ -1,0 +1,9 @@
+pyagrum-0.10.3-py27_0
+pyagrum-0.10.3-py27_1
+pyagrum-0.10.3-py27_2
+pyagrum-0.10.3-py34_0
+pyagrum-0.10.3-py35_0
+pyagrum-0.10.3-py35_1
+pyagrum-0.10.3-py35_2
+pyagrum-0.10.3-py36_1
+pyagrum-0.10.3-py36_2

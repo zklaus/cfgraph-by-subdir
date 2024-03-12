@@ -1,0 +1,7 @@
+bumpversion-0.5.3-py27_0
+bumpversion-0.5.3-py35_0
+bumpversion-0.5.3-py36_0
+bumpversion-0.5.3-py27_1000
+bumpversion-0.5.3-py35_1000
+bumpversion-0.5.3-py36_1000
+bumpversion-0.5.3-py37_1000

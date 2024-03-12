@@ -1,0 +1,7 @@
+r-bigstatsr-1.5.5-r40h399f8d5_0
+r-bigstatsr-1.5.5-r41h399f8d5_0
+r-bigstatsr-1.5.6-r41h399f8d5_0
+r-bigstatsr-1.5.6-r40h399f8d5_0
+r-bigstatsr-1.5.12-r41h78deb2a_0
+r-bigstatsr-1.5.12-r41h78deb2a_1
+r-bigstatsr-1.5.12-r41h78deb2a_2

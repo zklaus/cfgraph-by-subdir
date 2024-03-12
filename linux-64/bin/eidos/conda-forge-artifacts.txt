@@ -1,0 +1,11 @@
+slim-3.3.2-he1b5a44_0
+slim-3.4-he1b5a44_0
+slim-3.5-h9c3ff4c_0
+slim-3.6-h9c3ff4c_0
+slim-3.7-h9c3ff4c_1
+slim-3.7-h9c3ff4c_2
+slim-3.7.1-h9c3ff4c_0
+slim-3.7.1-h9c3ff4c_1
+slim-4.0-h27087fc_0
+slim-4.0.1-h27087fc_0
+slim-4.0.1-h27087fc_1

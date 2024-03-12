@@ -1,0 +1,8 @@
+r-gmp-0.6_1-r36h096a1c2_0
+r-gmp-0.6_1-r40h096a1c2_0
+r-gmp-0.6_2-r40ha856d6a_0
+r-gmp-0.6_2-r36ha856d6a_0
+r-gmp-0.6_2.1-r40ha856d6a_0
+r-gmp-0.6_4-r40ha856d6a_0
+r-gmp-0.6_5-r40ha856d6a_0
+r-gmp-0.6_6-r40ha856d6a_0

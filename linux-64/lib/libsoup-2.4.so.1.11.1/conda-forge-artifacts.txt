@@ -1,0 +1,2 @@
+libsoup-2.74.0-hdd0e21f_0
+libsoup-2.74.1-hdd0e21f_0

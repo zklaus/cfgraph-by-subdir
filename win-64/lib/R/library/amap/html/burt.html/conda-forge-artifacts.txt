@@ -1,0 +1,11 @@
+r-amap-0.8_16-r351h6115d3f_1000
+r-amap-0.8_16-r35h5b3a9a7_1001
+r-amap-0.8_16-r36h5b3a9a7_1001
+r-amap-0.8_16-r35h5b3a9a7_1002
+r-amap-0.8_16-r36h5b3a9a7_1002
+r-amap-0.8_18-r36h5b3a9a7_0
+r-amap-0.8_18-r40h5b3a9a7_1
+r-amap-0.8_18-r36h5b3a9a7_1
+r-amap-0.8_18-r40h7ff5ea2_2
+r-amap-0.8_18-r36h7ff5ea2_2
+r-amap-0.8_18-r40h96779af_2

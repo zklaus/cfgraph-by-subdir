@@ -1,0 +1,4 @@
+libgfortran-devel_osx-arm64-12.2.0-he825656_29
+libgfortran-devel_osx-arm64-12.2.0-he825656_30
+libgfortran-devel_osx-arm64-12.2.0-he825656_31
+libgfortran-devel_osx-arm64-12.2.0-he825656_32

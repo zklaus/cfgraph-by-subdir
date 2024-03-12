@@ -1,0 +1,4 @@
+fontconfig-cos7-ppc64le-2.13.0-hdf0574f_102
+fontconfig-cos7-ppc64le-2.13.0-ha826a6f_103
+fontconfig-cos7-ppc64le-2.13.0-h9d98e8f_104
+fontconfig-cos7-ppc64le-2.13.0-h9b0a68f_105

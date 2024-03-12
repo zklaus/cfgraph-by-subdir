@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-1.12.0-h918b63b_0

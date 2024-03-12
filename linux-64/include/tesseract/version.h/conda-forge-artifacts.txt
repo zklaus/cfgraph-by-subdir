@@ -1,0 +1,13 @@
+tesseract-5.0.0-h84e3e21_0
+tesseract-5.0.0-h84e3e21_1
+tesseract-5.0.1-h84e3e21_0
+tesseract-5.1.0-h7bf7e52_0
+tesseract-5.2.0-h7bf7e52_0
+tesseract-5.2.0-h2ac6c52_1
+tesseract-5.2.0-hbc07a9d_2
+tesseract-5.3.0-he1868e8_0
+tesseract-5.3.1-he1868e8_0
+tesseract-5.3.2-h4838625_0
+tesseract-5.3.2-h0e145ea_1
+tesseract-5.3.2-h7aa9634_1
+tesseract-5.3.2-hbeb23df_2

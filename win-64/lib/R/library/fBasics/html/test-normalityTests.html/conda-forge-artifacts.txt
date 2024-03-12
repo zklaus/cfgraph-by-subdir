@@ -1,0 +1,10 @@
+r-fbasics-3042.89-r351h301d43c_1001
+r-fbasics-3042.89-r35h301d43c_1002
+r-fbasics-3042.89-r36h301d43c_1002
+r-fbasics-3042.89.1-r36h301d43c_0
+r-fbasics-3042.89.1-r35h301d43c_0
+r-fbasics-3042.89.1-r36h301d43c_1
+r-fbasics-3042.89.1-r40h301d43c_1
+r-fbasics-3042.89.1-r40h6d2157b_1
+r-fbasics-3042.89.2-r40h6d2157b_0
+r-fbasics-4021.92-r40h6d2157b_0

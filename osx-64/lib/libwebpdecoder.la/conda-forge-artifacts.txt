@@ -1,0 +1,12 @@
+libwebp-0.5.1-0
+libwebp-0.5.2-0
+libwebp-0.5.2-1
+libwebp-0.5.2-2
+libwebp-0.5.2-3
+libwebp-0.5.2-4
+libwebp-0.5.2-5
+libwebp-0.5.2-6
+libwebp-0.5.2-7
+libwebp-1.0.0-h36c3e75_0
+libwebp-1.0.0-h81b54a9_0
+libwebp-1.0.0-he252da6_1

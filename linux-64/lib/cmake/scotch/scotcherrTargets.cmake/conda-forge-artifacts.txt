@@ -1,0 +1,8 @@
+libscotch-7.0.2-h5da6e24_0
+libscotch-7.0.2-h5251ff9_0
+libscotch-7.0.3-h5251ff9_0
+libscotch-7.0.3-h5da6e24_0
+libscotch-7.0.3-h5da6e24_1
+libscotch-7.0.3-h5251ff9_1
+libscotch-7.0.4-h91e35bf_0
+libscotch-7.0.4-h0c89965_0

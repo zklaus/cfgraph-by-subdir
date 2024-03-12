@@ -1,0 +1,14 @@
+gap-4.11.0-hde09018_7
+gap-4.11.0-hfd43d0d_8
+gap-4.11.0-h5c66ea2_9
+gap-4.11.1-h17d9d78_0
+gap-4.11.1-h5c66ea2_1
+gap-4.11.1-h17d9d78_2
+gap-4.11.1-h18ae053_3
+gap-4.11.1-h428da0d_4
+gap-4.11.1-hbdae739_5
+gap-4.12.2-hbdae739_0
+gap-4.12.2-h4bef738_1
+gap-4.12.2-h4bef738_2
+gap-4.12.2-h4bef738_3
+gap-4.12.2-he92d0e8_3

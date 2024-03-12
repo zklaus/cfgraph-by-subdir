@@ -1,0 +1,5 @@
+ptpython-3.0.17-py36h5fab9bb_0
+ptpython-3.0.17-py36hd000896_0
+ptpython-3.0.18-py36h5fab9bb_0
+ptpython-3.0.19-py36h5fab9bb_0
+ptpython-3.0.20-py36h5fab9bb_0

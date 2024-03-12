@@ -1,0 +1,1 @@
+ipycytoscape-0.2.2-py_0

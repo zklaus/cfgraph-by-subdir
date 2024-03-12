@@ -1,0 +1,6 @@
+libsoup-2.74.0-h3e8c93f_0
+libsoup-2.74.1-h3e8c93f_0
+libsoup-2.74.2-ha8663b0_0
+libsoup-2.74.2-h4fb8bbe_0
+libsoup-2.74.3-h4fb8bbe_0
+libsoup-2.74.3-h771374c_1

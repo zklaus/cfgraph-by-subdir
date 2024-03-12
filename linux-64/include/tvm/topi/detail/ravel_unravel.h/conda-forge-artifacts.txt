@@ -1,0 +1,10 @@
+libtvm-0.8.0-py39ha3b9936_0_cpu
+libtvm-0.8.0-py39112h1162d21_0_cuda
+libtvm-0.8.0-py39ha3b9936_1_cpu
+libtvm-0.8.0-py39112h1162d21_1_cuda
+libtvm-0.8.0-py39ha3b9936_2_cpu
+libtvm-0.8.0-py39112h1162d21_2_cuda
+libtvm-0.8.0-ha3b9936_3_cpu
+libtvm-0.8.0-h1162d21_3_cuda112
+libtvm-0.8.0-ha3b9936_4_cpu
+libtvm-0.8.0-h1162d21_4_cuda112

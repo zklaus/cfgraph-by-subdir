@@ -1,0 +1,1 @@
+libfaiss-avx2-1.7.4-h1234567_0_cpu

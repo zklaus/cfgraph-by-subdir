@@ -1,0 +1,10 @@
+r-collapse-1.9.6-r42ha503ecb_0
+r-collapse-1.9.6-r41ha503ecb_0
+r-collapse-1.9.6-r43ha503ecb_1
+r-collapse-1.9.6-r42ha503ecb_1
+r-collapse-2.0.2-r43ha503ecb_0
+r-collapse-2.0.2-r42ha503ecb_0
+r-collapse-2.0.3-r42ha503ecb_0
+r-collapse-2.0.3-r43ha503ecb_0
+r-collapse-2.0.6-r42ha503ecb_0
+r-collapse-2.0.6-r43ha503ecb_0

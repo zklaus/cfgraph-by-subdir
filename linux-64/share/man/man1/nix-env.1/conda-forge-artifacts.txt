@@ -1,0 +1,17 @@
+nix-2.3.3-h959b288_0
+nix-2.3.3-h7b5fbe2_1
+nix-2.3.4-h7b5fbe2_0
+nix-2.3.5-h2c956b2_0
+nix-2.3.6-h2c956b2_0
+nix-2.3.9-h4c6eb13_0
+nix-2.3.10-hab8fb4a_0
+nix-2.3.11-hf1adc6d_0
+nix-2.3.12-hf1adc6d_0
+nix-2.3.13-hf1adc6d_0
+nix-2.3.14-hf1adc6d_0
+nix-2.3.15-hf1adc6d_0
+nix-2.3.16-hf1adc6d_0
+nix-2.3.16-h71cfd19_1
+nix-2.3.16-h85d4d0a_1
+nix-2.3.16-h9a91417_2
+nix-2.3.16-hff0ff35_3

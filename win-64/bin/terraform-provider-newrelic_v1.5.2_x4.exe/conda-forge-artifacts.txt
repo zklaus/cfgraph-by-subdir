@@ -1,0 +1,1 @@
+terraform-provider-newrelic-1.5.2-h33c4730_0

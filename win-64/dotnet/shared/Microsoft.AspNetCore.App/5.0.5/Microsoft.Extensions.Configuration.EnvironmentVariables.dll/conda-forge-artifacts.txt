@@ -1,0 +1,4 @@
+dotnet-aspnetcore-5.0.5-h2d74725_0
+dotnet-aspnetcore-5.0.5-h2d74725_1
+dotnet-aspnetcore-5.0.5-h2d74725_2
+dotnet-aspnetcore-5.0.5-h2d74725_3

@@ -1,0 +1,3 @@
+xorg-libxt-1.2.1-h27ca646_2
+xorg-libxt-1.3.0-hb547adb_0
+xorg-libxt-1.3.0-hb547adb_1

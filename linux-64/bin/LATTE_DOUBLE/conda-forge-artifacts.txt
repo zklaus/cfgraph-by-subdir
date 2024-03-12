@@ -1,0 +1,2 @@
+latte-1.2.2-hb97063f_2
+latte-1.2.2-nompi_hd3f0df1_103

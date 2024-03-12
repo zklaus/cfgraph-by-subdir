@@ -1,0 +1,6 @@
+libgcc-devel_linux-ppc64le-12.3.0-h335f5e5_0
+gcc_bootstrap_linux-ppc64le-12.3.0-h43c4698_0
+gcc_bootstrap_linux-ppc64le-12.3.0-h43c4698_1
+gcc_bootstrap_linux-ppc64le-12.3.0-h43c4698_2
+libgcc-devel_linux-ppc64le-12.3.0-h335f5e5_1
+libgcc-devel_linux-ppc64le-12.3.0-h335f5e5_2

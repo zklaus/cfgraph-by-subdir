@@ -1,0 +1,5 @@
+mfront-4.2.0-py312hed16063_0
+mfront-4.2.0-py39h4c763d4_0
+mfront-4.2.0-py38h42ccf06_0
+mfront-4.2.0-py311he0b7bb1_0
+mfront-4.2.0-py310hb8c7b27_0

@@ -1,0 +1,10 @@
+go-cgo-1.12.5-h77d97cf_0
+go-nocgo-1.12.5-h8b2e17f_0
+go-nocgo-1.12.5-h8b2e17f_1
+go-cgo-1.12.5-h77d97cf_1
+go-1.12.17-h0e7f9d5_0
+go-1.12.17-hd4bb31f_0
+go-1.12.17-h0e7f9d5_1
+go-1.12.17-hd4bb31f_1
+go-1.12.17-h0e7f9d5_2
+go-1.12.17-hd4bb31f_2

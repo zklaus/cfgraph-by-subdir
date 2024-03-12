@@ -1,0 +1,3 @@
+xorg-libxau-1.0.8-0
+xorg-libxau-1.0.8-vc14_0
+xorg-libxau-1.0.8-vc9_0

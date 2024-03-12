@@ -1,0 +1,3 @@
+r-sits-0.14.1-r40h8bdc2d5_0
+r-sits-0.15.0-r40h8bdc2d5_0
+r-sits-0.15.1-r40h8bdc2d5_0

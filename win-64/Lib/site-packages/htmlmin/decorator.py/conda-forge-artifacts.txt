@@ -1,0 +1,4 @@
+htmlmin-0.1.10-py27_0
+htmlmin-0.1.10-py34_0
+htmlmin-0.1.10-py35_0
+htmlmin-0.1.10-py36_0

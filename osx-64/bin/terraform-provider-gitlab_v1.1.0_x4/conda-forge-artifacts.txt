@@ -1,0 +1,1 @@
+terraform-provider-gitlab-1.1.0-h3eaf7b7_1000

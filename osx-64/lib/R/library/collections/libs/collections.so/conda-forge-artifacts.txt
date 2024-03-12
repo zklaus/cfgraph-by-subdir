@@ -1,0 +1,7 @@
+r-collections-0.2.0-r35h17f1fa6_0
+r-collections-0.2.1-r35h17f1fa6_0
+r-collections-0.2.2-r35h17f1fa6_0
+r-collections-0.2.3-r35h17f1fa6_0
+r-collections-0.2.4-r35h17f1fa6_0
+r-collections-0.3.0-r35h17f1fa6_0
+r-collections-0.3.1-r35h17f1fa6_0

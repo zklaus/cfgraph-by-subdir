@@ -1,0 +1,5 @@
+nsis-3.08-h57928b3_0
+nsis-3.08-h9ead6bc_log_1
+nsis-3.08-h2be35fd_1
+nsis-3.08-h9ead6bc_log_2
+nsis-3.08-h2be35fd_2

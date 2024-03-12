@@ -1,0 +1,8 @@
+scotch-7.0.2-h3fee66b_0
+scotch-7.0.2-h7ee3361_0
+scotch-7.0.3-h3fee66b_0
+scotch-7.0.3-h7ee3361_0
+scotch-7.0.3-h7ee3361_1
+scotch-7.0.3-h3fee66b_1
+scotch-7.0.4-h3fee66b_0
+scotch-7.0.4-h7ee3361_0

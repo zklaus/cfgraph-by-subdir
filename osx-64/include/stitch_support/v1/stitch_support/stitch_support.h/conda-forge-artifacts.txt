@@ -1,0 +1,16 @@
+mongodb-5.0.0-h847d424_0
+mongodb-5.0.1-h847d424_0
+mongodb-5.0.2-h847d424_0
+mongodb-5.0.3-h847d424_0
+mongodb-5.0.3-h847d424_1
+mongodb-5.0.3-h7e76b44_2
+mongodb-5.1.0-h7e76b44_0
+mongodb-5.1.1-h7e76b44_0
+mongodb-5.1.1-h51580be_1
+mongodb-5.1.1-h0a1aecf_2
+mongodb-5.1.1-h207facf_3
+mongodb-5.1.1-h281f97d_3
+mongodb-5.2.0-h207facf_0
+mongodb-5.2.0-h281f97d_0
+mongodb-5.2.1-h207facf_0
+mongodb-5.2.1-h281f97d_0

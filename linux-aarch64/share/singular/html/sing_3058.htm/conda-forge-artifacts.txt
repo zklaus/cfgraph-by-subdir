@@ -1,0 +1,3 @@
+singular-4.2.0.p3-had40871_0
+singular-4.2.0.p3-had40871_1
+singular-4.2.0.p3-h96b6e50_2

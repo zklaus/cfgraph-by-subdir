@@ -1,0 +1,6 @@
+stackvana-lsst_distrib-0.2021.17-py38hdb9386a_1
+stackvana-afw-0.2021.18-py38h7684ba8_0
+pyagrum-0.20.2-py39h4d6be9b_0
+pyagrum-0.20.2-py37hb23ed4d_0
+pyagrum-0.20.2-py38h1f261ad_0
+pyagrum-0.20.2-py36h4772d2b_0

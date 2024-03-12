@@ -1,0 +1,6 @@
+r-xtable-1.8_2-r3.3.2_0
+r-xtable-1.8_2-r3.4.1_0
+r-xtable-1.8_3-r341_0
+r-xtable-1.8_3-r351_0
+r-xtable-1.8_3-r341_1000
+r-xtable-1.8_3-r351_1000

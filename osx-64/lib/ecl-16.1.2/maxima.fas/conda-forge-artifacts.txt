@@ -1,0 +1,5 @@
+maxima-5.41.0-h0b9cf6d_1
+maxima-5.41.0-h91b6395_1001
+maxima-5.42.2-h3123da9_1
+maxima-5.42.2-h11d4597_2
+maxima-5.42.2-h0672242_2

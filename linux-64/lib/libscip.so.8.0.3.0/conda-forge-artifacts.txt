@@ -1,0 +1,3 @@
+scip-8.0.3-h13e48e5_0
+scip-8.0.3-hd64c6ca_1
+scip-8.0.3-h4a32fe0_2

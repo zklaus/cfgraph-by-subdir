@@ -1,0 +1,14 @@
+wabt-1.0.6-hfc679d8_0
+wabt-1.0.6-h0a44026_1000
+wabt-1.0.7-h0a44026_1000
+wabt-1.0.8-h0a44026_1000
+wabt-1.0.9-h0a44026_0
+wabt-1.0.10-h0a44026_0
+wabt-1.0.11-h6de7cb9_0
+wabt-1.0.11-hb1e8313_0
+wabt-1.0.24-he49afe7_0
+wabt-1.0.27-he49afe7_0
+wabt-1.0.28-h96cf925_0
+wabt-1.0.29-hf0c8a7f_0
+wabt-1.0.30-hf0c8a7f_0
+wabt-1.0.31-hf0c8a7f_0

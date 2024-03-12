@@ -1,0 +1,8 @@
+vcpkg-2020.07-hb1e8313_0
+vcpkg-2020.07-hb1e8313_1
+vcpkg-2020.11-h046ec9c_0
+vcpkg-2020.11-h046ec9c_1
+vcpkg-2020.11-h1c7c35f_1
+vcpkg-2021.05.12-h694c41f_0
+vcpkg-2022.01.01-h694c41f_0
+vcpkg-2022.01.01-h694c41f_1

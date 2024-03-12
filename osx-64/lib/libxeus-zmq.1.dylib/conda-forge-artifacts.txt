@@ -1,0 +1,7 @@
+xeus-zmq-1.0.0-ha27c2bb_0
+xeus-zmq-1.0.1-ha27c2bb_0
+xeus-zmq-1.0.1-ha27c2bb_1
+xeus-zmq-1.0.2-ha27c2bb_0
+xeus-zmq-1.0.2-ha27c2bb_1
+xeus-zmq-1.0.2-ha27c2bb_2
+xeus-zmq-1.0.3-ha27c2bb_0

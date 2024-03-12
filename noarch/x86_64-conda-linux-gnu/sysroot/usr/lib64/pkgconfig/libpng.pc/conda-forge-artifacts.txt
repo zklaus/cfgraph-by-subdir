@@ -1,0 +1,6 @@
+libpng-devel-cos6-x86_64-1.2.49-ha826a6f_1103
+libpng-devel-cos7-x86_64-1.5.13-ha826a6f_1103
+libpng-devel-cos6-x86_64-1.2.49-h9d98e8f_1104
+libpng-devel-cos7-x86_64-1.5.13-h9d98e8f_1104
+libpng-devel-cos6-x86_64-1.2.49-h9b0a68f_1105
+libpng-devel-cos7-x86_64-1.5.13-h9b0a68f_1105

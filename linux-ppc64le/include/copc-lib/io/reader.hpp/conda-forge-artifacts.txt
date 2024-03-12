@@ -1,0 +1,6 @@
+copc-lib-2.2.2-py38h06b7ddb_1
+copc-lib-2.2.2-py39h4d17caa_1
+copc-lib-2.2.2-py37h0d693e4_1
+copc-lib-2.2.3-py39h4d17caa_0
+copc-lib-2.2.3-py37h0d693e4_0
+copc-lib-2.2.3-py38h06b7ddb_0

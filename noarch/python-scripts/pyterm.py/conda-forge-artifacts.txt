@@ -1,0 +1,12 @@
+pyftdi-0.50.0-py_0
+pyftdi-0.50.1-py_0
+pyftdi-0.50.2-py_0
+pyftdi-0.51.0-py_0
+pyftdi-0.51.2-py_0
+pyftdi-0.52.0-py_0
+pyftdi-0.52.9-pyhd8ed1ab_0
+pyftdi-0.53.1-pyhd8ed1ab_0
+pyftdi-0.53.2-pyhd8ed1ab_0
+pyftdi-0.53.3-pyhd8ed1ab_0
+pyftdi-0.54.0-pyhd8ed1ab_0
+pyftdi-0.55.0-pyhd8ed1ab_0

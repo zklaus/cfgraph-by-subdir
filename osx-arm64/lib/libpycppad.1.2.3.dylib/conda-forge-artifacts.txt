@@ -1,0 +1,9 @@
+pycppad-1.2.3-py39h3a9e884_0
+pycppad-1.2.3-py310h96e9823_0
+pycppad-1.2.3-py38h8ac5375_0
+pycppad-1.2.3-py311h24fa84d_0
+pycppad-1.2.3-py39h3a9e884_1
+pycppad-1.2.3-py312h225d345_1
+pycppad-1.2.3-py310h96e9823_1
+pycppad-1.2.3-py38h8ac5375_1
+pycppad-1.2.3-py311h24fa84d_1

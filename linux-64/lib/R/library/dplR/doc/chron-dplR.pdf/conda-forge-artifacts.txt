@@ -1,0 +1,11 @@
+r-dplr-1.7.0-r36hcdcec82_0
+r-dplr-1.7.0-r35hcdcec82_0
+r-dplr-1.7.1-r35hcdcec82_0
+r-dplr-1.7.1-r36hcdcec82_0
+r-dplr-1.7.1-r36hcdcec82_1
+r-dplr-1.7.1-r40hcdcec82_1
+r-dplr-1.7.2-r40hcfec24a_0
+r-dplr-1.7.2-r36hcfec24a_0
+r-dplr-1.7.2-r36hcfec24a_1
+r-dplr-1.7.2-r40hcfec24a_1
+r-dplr-1.7.2-r41hcfec24a_1

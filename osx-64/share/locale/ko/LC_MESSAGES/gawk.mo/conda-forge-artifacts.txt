@@ -1,0 +1,8 @@
+gawk-5.0.0-h6a5b60f_0
+gawk-5.0.1-h6a5b60f_0
+gawk-5.0.1-h55c7030_1
+gawk-5.1.0-h55c7030_0
+gawk-5.1.0-h8a989fb_0
+gawk-5.2.2-hd098c1d_0
+gawk-5.2.2-hd098c1d_1
+gawk-5.3.0-h2c496e9_0

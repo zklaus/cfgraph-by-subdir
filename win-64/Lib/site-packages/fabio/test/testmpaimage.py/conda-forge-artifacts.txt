@@ -1,0 +1,17 @@
+fabio-0.5.0-py27_0
+fabio-0.5.0-py35_0
+fabio-0.5.0-py36_0
+fabio-0.6.0-py27_0
+fabio-0.6.0-py35_0
+fabio-0.6.0-py36_0
+fabio-0.7.0-py27_0
+fabio-0.7.0-py35_0
+fabio-0.7.0-py36_0
+fabio-0.7.0-py27hc997a72_1
+fabio-0.7.0-py36h452e1ab_1
+fabio-0.7.0-py27hc997a72_1001
+fabio-0.7.0-py36h452e1ab_1001
+fabio-0.7.0-py37h452e1ab_1001
+fabio-0.8.0-py36h452e1ab_1000
+fabio-0.8.0-py27hc997a72_1000
+fabio-0.8.0-py37h452e1ab_1000

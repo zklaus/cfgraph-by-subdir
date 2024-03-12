@@ -1,0 +1,1 @@
+dotnet-aspnetcore-6.0.1-h25a8a10_0

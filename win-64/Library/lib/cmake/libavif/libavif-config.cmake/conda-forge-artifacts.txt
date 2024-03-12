@@ -1,0 +1,17 @@
+libavif-0.9.0-h8ffe710_0
+libavif-0.9.3-h8ffe710_0
+libavif-0.9.3-h8ffe710_1
+libavif-0.10.0-h8ffe710_0
+libavif-0.10.0-h8ffe710_1
+libavif-0.10.1-h8ffe710_0
+libavif-0.10.1-h8ffe710_1
+libavif-0.10.1-h8f5c5bc_2
+libavif-0.11.0-h8f5c5bc_0
+libavif-0.11.1-h8f5c5bc_0
+libavif-0.11.1-h5da7522_1
+libavif-0.11.1-ha7b97ba_2
+libavif-1.0.1-h29d3e55_0
+libavif-1.0.1-h29d3e55_1
+libavif-1.0.1-hea6d26e_2
+libavif-1.0.1-h7a9aacb_3
+libavif-1.0.2-h7a9aacb_0

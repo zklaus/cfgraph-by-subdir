@@ -1,0 +1,7 @@
+healpix_cxx-3.80-h1a6db18_0
+healpix_cxx-3.80-hcc39d02_1
+healpix_cxx-3.80-h0e72645_2
+healpix_cxx-3.81-h0e72645_0
+healpix_cxx-3.81-h34ce982_1
+healpix_cxx-3.81-h91585dd_2
+healpix_cxx-3.81-h86370c8_3

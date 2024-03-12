@@ -1,0 +1,6 @@
+pymeep-1.12.0-mpi_mpich_py36h9e09276_8
+pymeep-1.12.0-nompi_py37haad599a_108
+pymeep-1.12.0-nompi_py27haad599a_108
+pymeep-1.12.0-nompi_py36haad599a_108
+pymeep-1.12.0-mpi_mpich_py37h9e09276_8
+pymeep-1.12.0-mpi_mpich_py27h9e09276_8

@@ -1,0 +1,4 @@
+libxcomposite-devel-cos6-x86_64-0.4.3-hdf0574f_102
+libxcomposite-devel-cos6-x86_64-0.4.3-ha826a6f_103
+libxcomposite-devel-cos6-x86_64-0.4.3-h9d98e8f_104
+libxcomposite-devel-cos6-x86_64-0.4.3-h9b0a68f_105

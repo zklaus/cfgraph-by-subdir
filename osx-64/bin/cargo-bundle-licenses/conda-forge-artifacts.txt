@@ -1,0 +1,5 @@
+cargo-bundle-licenses-0.3.0-h80d2146_0
+cargo-bundle-licenses-0.4.0-h80d2146_0
+cargo-bundle-licenses-0.4.0-h9e9b156_1
+cargo-bundle-licenses-1.2.1-hf7df15c_0
+cargo-bundle-licenses-1.3.0-h6ffb035_0

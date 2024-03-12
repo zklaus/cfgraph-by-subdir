@@ -1,0 +1,9 @@
+abinit-8.10.2-hbe17f75_0
+abinit-8.10.2-h279e56a_1
+abinit-8.10.2-h279e56a_2
+abinit-8.10.2-h279e56a_3
+abinit-8.10.2-h279e56a_4
+abinit-8.10.2-h279e56a_5
+abinit-8.10.2-h279e56a_6
+abinit-8.10.2-h279e56a_7
+abinit-8.10.2-h279e56a_8

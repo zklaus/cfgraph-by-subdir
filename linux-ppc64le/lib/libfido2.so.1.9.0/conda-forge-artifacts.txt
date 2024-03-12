@@ -1,0 +1,2 @@
+libfido2-1.9.0-h42039ad_1
+libfido2-1.9.0-h66fdf1b_1

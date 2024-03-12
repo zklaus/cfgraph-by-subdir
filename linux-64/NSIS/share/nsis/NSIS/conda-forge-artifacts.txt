@@ -1,0 +1,2 @@
+nsis-3.08-he4c38b2_log_1
+nsis-3.08-he4c38b2_log_2

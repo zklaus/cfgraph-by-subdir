@@ -1,0 +1,11 @@
+mysql-5.7.20-0
+mysql-5.7.20-1
+mysql-5.7.20-h0a44026_1001
+mysql-server-8.0.19-h79b540e_0
+mysql-server-8.0.20-h79b540e_0
+mysql-server-8.0.20-h7b0e7fd_1
+mysql-server-8.0.20-he5a5df6_1
+mysql-server-8.0.21-he5a5df6_0
+mysql-server-8.0.21-h1273b1c_0
+mysql-server-8.0.21-h1273b1c_1
+mysql-server-8.0.21-h0b219bb_2

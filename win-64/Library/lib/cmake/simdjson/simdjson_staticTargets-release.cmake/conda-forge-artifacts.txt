@@ -1,0 +1,6 @@
+simdjson-static-3.3.0-h91493d7_0
+simdjson-static-3.4.0-h91493d7_0
+simdjson-static-3.5.0-h91493d7_0
+simdjson-static-3.6.0-h91493d7_0
+simdjson-static-3.6.1-h91493d7_0
+simdjson-static-3.6.2-h91493d7_0

@@ -1,0 +1,10 @@
+cutensornet-2.0.0-nompi_h3977d7e_100
+cutensornet-2.0.0-mpi_mpich_hb861b7c_0
+cutensornet-2.0.0-nompi_h3977d7e_101
+cutensornet-2.0.0-mpi_openmpi_hf2634e2_0
+cutensornet-2.0.0-nompi_h3977d7e_102
+cutensornet-2.0.0-mpi_mpich_hb861b7c_1
+cutensornet-2.0.0-mpi_openmpi_hf2634e2_1
+cutensornet-2.0.0-nompi_h1212f3d_103
+cutensornet-2.0.0-mpi_mpich_h1212f3d_2
+cutensornet-2.0.0-mpi_openmpi_h1212f3d_2

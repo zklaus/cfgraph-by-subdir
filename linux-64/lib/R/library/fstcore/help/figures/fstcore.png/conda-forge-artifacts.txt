@@ -1,0 +1,4 @@
+r-fstcore-0.9.16-r42h28505b9_0
+r-fstcore-0.9.16-r43h28505b9_0
+r-fstcore-0.9.18-r43h28505b9_0
+r-fstcore-0.9.18-r42h28505b9_0

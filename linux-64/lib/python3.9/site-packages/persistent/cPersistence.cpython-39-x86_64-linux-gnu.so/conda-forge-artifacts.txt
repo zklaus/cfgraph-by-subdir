@@ -1,0 +1,11 @@
+persistent-4.7.0-py39h3811e60_0
+persistent-4.7.0-py39h3811e60_1
+persistent-4.8.0-py39hb9d737c_0
+persistent-4.9.0-py39hb9d737c_0
+persistent-4.9.0-py39hb9d737c_1
+persistent-4.9.1-py39hb9d737c_0
+persistent-4.9.1-py39hb9d737c_1
+persistent-4.9.2-py39hb9d737c_0
+persistent-4.9.3-py39hb9d737c_0
+persistent-5.0-py39h72bdee0_0
+persistent-5.0-py39hd1e30aa_1

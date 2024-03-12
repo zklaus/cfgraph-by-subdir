@@ -1,0 +1,10 @@
+utfcpp-3.1.1-0
+utfcpp-3.1.2-0
+utfcpp-3.1.2-h8af1aa0_1
+utfcpp-3.2-h8af1aa0_0
+utfcpp-3.2.1-h8af1aa0_0
+utfcpp-3.2.2-h8af1aa0_0
+utfcpp-3.2.3-h8af1aa0_0
+utfcpp-3.2.4-h8af1aa0_0
+utfcpp-3.2.5-h8af1aa0_0
+utfcpp-4.0.1-h8af1aa0_0

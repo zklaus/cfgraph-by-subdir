@@ -1,0 +1,9 @@
+librdmacm-devel-cos6-x86_64-1.0.21-h2da7399_1100
+librdmacm-devel-cos6-x86_64-1.0.21-h1795305_1101
+librdmacm-devel-cos6-x86_64-1.0.21-hdf0574f_1102
+librdmacm-devel-cos6-x86_64-1.0.21-ha826a6f_1103
+rdma-core-devel-cos7-x86_64-22.4-ha826a6f_1103
+librdmacm-devel-cos6-x86_64-1.0.21-h9d98e8f_1104
+rdma-core-devel-cos7-x86_64-22.4-h9d98e8f_1104
+librdmacm-devel-cos6-x86_64-1.0.21-h9b0a68f_1105
+rdma-core-devel-cos7-x86_64-22.4-h9b0a68f_1105

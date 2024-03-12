@@ -1,0 +1,3 @@
+azure-storage-files-shares-cpp-12.6.1-h2a328a1_0
+azure-storage-files-shares-cpp-12.7.0-h2a328a1_0
+azure-storage-files-shares-cpp-12.8.0-h2a328a1_0

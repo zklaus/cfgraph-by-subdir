@@ -1,0 +1,11 @@
+stackvana-lsst_distrib-0.2022.12-py38h70cb9f3_0
+stackvana-lsst_distrib-0.2022.13-py38h70cb9f3_0
+stackvana-lsst_distrib-0.2022.15-py38h70cb9f3_0
+stackvana-lsst_distrib-0.2022.15-py38h4f3229e_1
+stackvana-lsst_distrib-0.2022.16-py38h4f3229e_0
+stackvana-lsst_distrib-0.2022.22-py310hd51a0b0_2
+stackvana-lsst_distrib-0.2022.23-py310hd51a0b0_0
+stackvana-lsst_distrib-0.2022.24-py310hd51a0b0_0
+stackvana-lsst_distrib-0.2022.25-py310hd51a0b0_0
+stackvana-lsst_distrib-0.2022.26-py310hd51a0b0_0
+stackvana-lsst_distrib-0.2022.27-py310hd51a0b0_0

@@ -1,0 +1,12 @@
+r-tokenizers-0.2.1-r36h0357c0b_1002
+r-tokenizers-0.2.1-r40h0357c0b_1002
+r-tokenizers-0.2.1-r40hecdc70b_1002
+r-tokenizers-0.2.1-r41hecdc70b_1002
+r-tokenizers-0.2.3-r40hf13958e_0
+r-tokenizers-0.2.3-r41hf13958e_0
+r-tokenizers-0.2.3-r41hf13958e_1
+r-tokenizers-0.2.3-r42hf13958e_1
+r-tokenizers-0.3.0-r42hc3d7334_0
+r-tokenizers-0.3.0-r41hc3d7334_0
+r-tokenizers-0.3.0-r42ha6e910b_1
+r-tokenizers-0.3.0-r43ha6e910b_1

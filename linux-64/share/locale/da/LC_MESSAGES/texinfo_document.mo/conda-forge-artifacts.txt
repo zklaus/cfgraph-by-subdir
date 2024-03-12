@@ -1,0 +1,7 @@
+texinfo-6.5-pl5.20.3.1_0
+texinfo-6.5-pl5.22.0.1_0
+texinfo-6.5-pl5.22.2.1_0
+texinfo-6.5-pl5.26.0_0
+texinfo-6.5-pl526hf8c457e_1000
+texinfo-6.5-pl526haf1bffa_0
+texinfo-6.6-pl526hf8c457e_0

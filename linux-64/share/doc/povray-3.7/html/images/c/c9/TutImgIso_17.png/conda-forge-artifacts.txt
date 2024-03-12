@@ -1,0 +1,11 @@
+povray-3.7.0.8-h4bd2361_0
+povray-3.7.0.8-hdf7bbdf_1
+povray-3.7.0.8-hdf7bbdf_2
+povray-3.7.0.8-h160e566_3
+povray-3.7.0.8-h160e566_4
+povray-3.7.0.8-h7376ae0_5
+povray-3.7.0.8-h4a0979c_6
+povray-3.7.0.8-h52c8d17_7
+povray-3.7.0.8-h5888656_8
+povray-3.7.0.8-hfc037ee_9
+povray-3.7.0.8-h86c1fa1_10

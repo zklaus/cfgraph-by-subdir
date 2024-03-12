@@ -1,0 +1,8 @@
+r-spatstat.random-3.1_5-r42ha6e910b_1
+r-spatstat.random-3.1_5-r43ha6e910b_1
+r-spatstat.random-3.1_6-r43ha6e910b_0
+r-spatstat.random-3.1_6-r42ha6e910b_0
+r-spatstat.random-3.2_1-r43ha6e910b_0
+r-spatstat.random-3.2_1-r42ha6e910b_0
+r-spatstat.random-3.2_2-r42ha6e910b_0
+r-spatstat.random-3.2_2-r43ha6e910b_0

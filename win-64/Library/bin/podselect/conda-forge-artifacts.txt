@@ -1,0 +1,9 @@
+perl-5.20.3.1-1
+perl-5.20.3.1-2
+perl-5.32.0.1-h8ffe710_0
+perl-5.32.0.1-h57928b3_0
+perl-5.32.1.1-0_h57928b3_strawberry
+perl-5.32.1.1-1_h57928b3_strawberry
+perl-5.32.1.1-2_h57928b3_strawberry
+perl-5.32.1.1-3_h57928b3_strawberry
+perl-5.32.1.1-4_h57928b3_strawberry

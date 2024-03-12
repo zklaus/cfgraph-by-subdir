@@ -1,0 +1,14 @@
+r-dtwclust-5.5.1-r351h6115d3f_0
+r-dtwclust-5.5.2-r351h6115d3f_0
+r-dtwclust-5.5.3-r351h796a38f_0
+r-dtwclust-5.5.3-r36h796a38f_1
+r-dtwclust-5.5.3-r35h796a38f_1
+r-dtwclust-5.5.4-r36h796a38f_0
+r-dtwclust-5.5.4-r35h796a38f_0
+r-dtwclust-5.5.5-r36h796a38f_0
+r-dtwclust-5.5.6-r35h796a38f_0
+r-dtwclust-5.5.6-r36h796a38f_0
+r-dtwclust-5.5.6-r36h796a38f_1
+r-dtwclust-5.5.6-r40h796a38f_1
+r-dtwclust-5.5.6-r41ha856d6a_1
+r-dtwclust-5.5.6-r40ha856d6a_1

@@ -1,0 +1,6 @@
+automake-1.15.1-pl5.20.3.1_0
+automake-1.15.1-pl5.22.0.1_0
+automake-1.15.1-pl5.22.2.1_0
+automake-1.15-pl5.20.3.1_0
+automake-1.15.1-pl526_1
+automake-1.15.1-pl526_1001

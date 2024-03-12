@@ -1,0 +1,6 @@
+r-igraph-1.2.6-r40h6ea4cb7_1
+r-igraph-1.2.6-r41h6ea4cb7_1
+r-igraph-1.2.7-r40h6ea4cb7_0
+r-igraph-1.2.7-r41h6ea4cb7_0
+r-igraph-1.2.8-r41h6ea4cb7_0
+r-igraph-1.2.8-r40h6ea4cb7_0

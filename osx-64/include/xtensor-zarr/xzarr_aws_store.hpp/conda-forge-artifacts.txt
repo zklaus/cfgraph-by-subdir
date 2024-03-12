@@ -1,0 +1,9 @@
+xtensor-zarr-0.0.2-h926bf3e_0
+xtensor-zarr-0.0.3-h940c156_0
+xtensor-zarr-0.0.3-h940c156_1
+xtensor-zarr-0.0.4-h940c156_0
+xtensor-zarr-0.0.5-h940c156_0
+xtensor-zarr-0.0.7-h940c156_0
+xtensor-zarr-0.0.7-h940c156_1
+xtensor-zarr-0.0.7-h940c156_2
+xtensor-zarr-0.0.7-hb8565cd_3

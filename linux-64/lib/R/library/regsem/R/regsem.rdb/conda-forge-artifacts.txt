@@ -1,0 +1,10 @@
+r-regsem-1.8.0-r40h026d9a5_0
+r-regsem-1.8.0-r41h026d9a5_0
+r-regsem-1.9.3-r40hc5baf53_0
+r-regsem-1.9.3-r41hc5baf53_0
+r-regsem-1.9.3-r42hc5baf53_1
+r-regsem-1.9.3-r41hc5baf53_1
+r-regsem-1.9.5-r42h9c1d1bc_0
+r-regsem-1.9.5-r41h9c1d1bc_0
+r-regsem-1.9.5-r43h9c1d1bc_1
+r-regsem-1.9.5-r42h9c1d1bc_1

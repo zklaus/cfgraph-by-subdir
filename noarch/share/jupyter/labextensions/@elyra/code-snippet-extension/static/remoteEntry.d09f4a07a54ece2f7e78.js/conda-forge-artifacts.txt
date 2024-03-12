@@ -1,0 +1,2 @@
+elyra-3.8.0-pyhd8ed1ab_0
+elyra-code-snippet-extension-3.8.0-pyhd8ed1ab_0

@@ -1,0 +1,10 @@
+damask-2.0.3-py27hfaebbb4_3
+damask-2.0.3-py38hfaebbb4_3
+damask-2.0.3-py37hfaebbb4_3
+damask-2.0.3-py36hfaebbb4_3
+damask-2.0.3-py37h33dd450_4
+damask-2.0.3-py38h7fe1a21_4
+damask-2.0.3-py36h570a05c_4
+damask-2.0.3-py37h33dd450_5
+damask-2.0.3-py36h570a05c_5
+damask-2.0.3-py38h7fe1a21_5

@@ -1,0 +1,1 @@
+soapysdr-module-rtlsdr-0.3.0-hc9558a2_0

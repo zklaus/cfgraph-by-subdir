@@ -1,0 +1,6 @@
+caddy-2.6.4-ha770c72_0
+caddy-2.6.4-ha770c72_1
+caddy-2.7.3-ha770c72_0
+caddy-2.7.4-ha770c72_0
+caddy-2.7.4-ha770c72_1
+caddy-2.7.5-ha770c72_0

@@ -1,0 +1,4 @@
+dav1d-1.0.0-h8ffe710_0
+dav1d-1.0.0-h8ffe710_1
+dav1d-1.2.0-hcfcfb64_0
+dav1d-1.2.1-hcfcfb64_0

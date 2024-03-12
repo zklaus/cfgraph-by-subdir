@@ -1,0 +1,7 @@
+giza-0.9.4-0
+giza-0.9.4-1
+giza-0.9.5-0
+giza-0.9.5-hcc246a6_0
+giza-0.9.5-hcd949a4_1001
+giza-1.1.0-h9e62ece_0
+giza-1.1.0-hcd949a4_0

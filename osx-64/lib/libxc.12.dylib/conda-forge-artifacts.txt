@@ -1,0 +1,14 @@
+libxc-6.1.0-py310h90acd4f_0
+libxc-6.1.0-py38hef030d1_0
+libxc-6.1.0-py311h5547dcb_0
+libxc-6.1.0-py39ha30fb19_0
+libxc-6.1.0-py39h4a5f16e_0
+libxc-c-6.1.0-hb7f2c08_1
+libxc-c-6.1.0-cpu_h6f3e28f_2
+libxc-c-6.1.0-cpu_h6f3e28f_3
+libxc-c-6.2.0-cpu_h7fb0593_0
+libxc-c-6.2.0-cpu_h7fb0593_1
+libxc-c-6.2.1-cpu_h7fb0593_0
+libxc-c-6.2.2-cpu_h7fb0593_0
+libxc-c-6.2.2-cpu_h7fb0593_1
+libxc-c-6.2.2-cpu_hebaf863_2

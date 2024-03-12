@@ -1,0 +1,2 @@
+terraform-provider-fastly-0.4.0-0
+terraform-provider-fastly-0.4.0-1000

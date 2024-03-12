@@ -1,0 +1,6 @@
+casacore-3.4.0-py310hafd01d1_3
+casacore-3.4.0-py38he99652c_3
+casacore-3.4.0-py39ha523319_3
+casacore-3.4.0-py38hc6814e9_4
+casacore-3.4.0-py310h0173d1e_4
+casacore-3.4.0-py39h2e76f10_4

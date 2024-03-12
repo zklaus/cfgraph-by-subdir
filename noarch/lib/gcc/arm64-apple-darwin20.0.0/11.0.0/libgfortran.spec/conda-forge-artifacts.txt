@@ -1,0 +1,11 @@
+libgfortran-devel_osx-arm64-11.0.0.dev0-h19a3b67_9
+libgfortran-devel_osx-arm64-11.0.0.dev0-h19a3b67_10
+libgfortran-devel_osx-arm64-11.0.0.dev0-h19a3b67_11
+libgfortran-devel_osx-arm64-11.0.0.dev0-h181927c_12
+libgfortran-devel_osx-arm64-11.0.0.dev0-h181927c_13
+libgfortran-devel_osx-arm64-11.0.0.dev0-hdc626ea_14
+libgfortran-devel_osx-arm64-11.0.0.dev0-hdc626ea_15
+libgfortran-devel_osx-arm64-11.0.0.dev0-hdc626ea_16
+libgfortran-devel_osx-arm64-11.0.0.dev0-hdc626ea_17
+libgfortran-devel_osx-arm64-11.0.0.dev0-hdc626ea_18
+libgfortran-devel_osx-arm64-11.0.0.dev0-hdc626ea_19

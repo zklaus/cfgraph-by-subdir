@@ -1,0 +1,4 @@
+simple-dftd3-0.3.0-hb01ceae_0
+simple-dftd3-0.4.0-hb01ceae_0
+simple-dftd3-0.4.1-hb01ceae_0
+simple-dftd3-0.4.1-hb01ceae_1

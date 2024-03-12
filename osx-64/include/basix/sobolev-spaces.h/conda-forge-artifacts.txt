@@ -1,0 +1,8 @@
+fenics-libbasix-0.6.0-h7396341_0
+fenics-libbasix-0.6.0-hb6e1445_1
+fenics-libbasix-0.6.0-hb6e1445_2
+fenics-libbasix-0.6.0-hb6e1445_3
+fenics-libbasix-0.6.0-hb6e1445_4
+fenics-libbasix-0.6.0-hb6e1445_5
+fenics-libbasix-0.7.0-hb6e1445_0
+fenics-libbasix-0.7.0-h8074f5a_1

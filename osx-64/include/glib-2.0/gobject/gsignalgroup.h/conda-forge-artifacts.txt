@@ -1,0 +1,11 @@
+glib-2.72.1-h2292cb8_0
+glib-2.74.0-hbc0c0cd_0
+glib-2.74.1-hbc0c0cd_0
+glib-2.74.1-hbc0c0cd_1
+glib-2.76.1-hbc0c0cd_0
+glib-2.76.2-h7d26f99_0
+glib-2.76.3-h7d26f99_0
+glib-2.76.4-h7d26f99_0
+glib-2.78.0-h7d26f99_0
+glib-2.78.1-hf4d7fad_0
+glib-2.78.1-hf4d7fad_1

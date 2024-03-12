@@ -1,0 +1,2 @@
+libmagic-5.39-hbbe82c9_0
+libmagic-5.39-haaf19a9_0

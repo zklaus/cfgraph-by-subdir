@@ -1,0 +1,6 @@
+spfft-1.0.4-h07fa59a_0
+spfft-1.0.4-hc4255f5_0
+spfft-1.0.5-h07fa59a_0
+spfft-1.0.5-hc4255f5_0
+spfft-1.0.6-h07fa59a_0
+spfft-1.0.6-hc4255f5_0

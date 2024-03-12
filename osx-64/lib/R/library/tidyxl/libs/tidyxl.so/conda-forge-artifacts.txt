@@ -1,0 +1,9 @@
+r-tidyxl-1.0.1-r341_0
+r-tidyxl-1.0.3-r341_0
+r-tidyxl-1.0.3-r341hfc679d8_1
+r-tidyxl-1.0.3-r341h9d2a408_2
+r-tidyxl-1.0.3-r351h9d2a408_2
+r-tidyxl-1.0.3-r351h466af19_1002
+r-tidyxl-1.0.4-r351h466af19_0
+r-tidyxl-1.0.4-r35hf99fc2c_1
+r-tidyxl-1.0.5-r35hc5da6b9_0

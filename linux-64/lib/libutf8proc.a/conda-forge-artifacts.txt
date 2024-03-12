@@ -1,0 +1,5 @@
+libutf8proc-2.2.0-h14c3975_0
+libutf8proc-2.2.0-h14c3975_1
+libutf8proc-2.4.0-h516909a_0
+libutf8proc-2.5.0-h516909a_0
+libutf8proc-2.5.0-h516909a_1

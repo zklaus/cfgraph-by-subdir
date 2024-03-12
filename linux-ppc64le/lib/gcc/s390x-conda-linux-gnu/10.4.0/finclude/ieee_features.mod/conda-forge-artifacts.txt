@@ -1,0 +1,8 @@
+gfortran_impl_linux-s390x-10.4.0-h74e49af_16
+gcc_bootstrap_linux-s390x-10.4.0-h3789868_10
+gfortran_impl_linux-s390x-10.4.0-h74e49af_17
+gfortran_impl_linux-s390x-10.4.0-ha2684bd_18
+gcc_bootstrap_linux-s390x-10.4.0-h4f83bcc_11
+gfortran_impl_linux-s390x-10.4.0-ha2684bd_19
+gcc_bootstrap_linux-s390x-10.4.0-h4f83bcc_12
+gcc_bootstrap_linux-s390x-10.4.0-h4f83bcc_13

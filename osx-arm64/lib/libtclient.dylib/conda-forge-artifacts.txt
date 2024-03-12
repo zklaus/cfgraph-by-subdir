@@ -1,0 +1,13 @@
+gds-base-monitors-2.19.7-h96f5bf0_0
+gds-base-monitors-2.19.7-h96f5bf0_1
+gds-base-monitors-2.19.7-h96f5bf0_2
+gds-base-monitors-2.19.7-h96f5bf0_3
+gds-base-monitors-2.19.8-hc021e02_0
+gds-base-monitors-2.19.8-hc021e02_1
+gds-base-monitors-2.19.8-h2732935_1
+gds-base-monitors-2.19.10-hffc8910_0
+gds-base-monitors-2.19.11-hffc8910_0
+gds-base-monitors-3.0.0-hffc8910_0
+gds-base-monitors-3.0.0-hffc8910_1
+gds-base-monitors-3.0.0-hffc8910_2
+gds-base-monitors-3.0.0-hffc8910_3

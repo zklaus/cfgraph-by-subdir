@@ -1,0 +1,12 @@
+pyaedt-0.6.28-py38h50d1736_0
+pyaedt-0.6.28-py39h6e9494a_0
+pyaedt-0.6.28-py310h2ec42d9_0
+pyaedt-0.6.36-py39h6e9494a_0
+pyaedt-0.6.36-py38h50d1736_0
+pyaedt-0.6.36-py310h2ec42d9_0
+pyaedt-0.6.37-py38h50d1736_0
+pyaedt-0.6.37-py310h2ec42d9_0
+pyaedt-0.6.37-py39h6e9494a_0
+pyaedt-0.6.40-py38h50d1736_0
+pyaedt-0.6.40-py310h2ec42d9_0
+pyaedt-0.6.40-py39h6e9494a_0

@@ -1,0 +1,10 @@
+opencv-3.3.0-py35_200
+opencv-3.3.0-py35_201
+opencv-3.3.0-py35_202
+opencv-3.3.0-py35_203
+opencv-3.3.0-py35_204
+opencv-3.3.0-py36_200
+opencv-3.3.0-py36_201
+opencv-3.3.0-py36_202
+opencv-3.3.0-py36_203
+opencv-3.3.0-py36_204

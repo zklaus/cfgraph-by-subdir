@@ -1,0 +1,12 @@
+mupdf-1.16.1-h1a7bed8_0
+mupdf-1.17.0-he8fca2b_0
+mupdf-1.17.0-hc1613c0_1
+mupdf-1.17.0-hfde1fec_2
+mupdf-1.17.0-h9bca9b2_3
+mupdf-1.19.1-hce1da50_0
+mupdf-1.21.1-h91e9ca8_0
+mupdf-1.21.1-h4ed7177_1
+mupdf-1.22.0-h4ed7177_0
+mupdf-1.22.1-h6a0f10e_0
+mupdf-1.22.2-he328532_0
+mupdf-1.22.2-h1005354_1

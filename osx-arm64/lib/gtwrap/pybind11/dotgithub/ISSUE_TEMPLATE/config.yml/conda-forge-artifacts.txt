@@ -1,0 +1,8 @@
+gtsam-4.1.1-py311h5b7f7f5_5
+gtsam-4.1.1-py310h222f42e_5
+gtsam-4.1.1-py38h9b47521_5
+gtsam-4.1.1-py39ha009e0d_5
+gtsam-4.1.1-py310h222f42e_6
+gtsam-4.1.1-py39ha009e0d_6
+gtsam-4.1.1-py38h9b47521_6
+gtsam-4.1.1-py311h5b7f7f5_6

@@ -1,0 +1,11 @@
+r-stringi-1.6.1-r36ha856d6a_0
+r-stringi-1.6.1-r40ha856d6a_0
+r-stringi-1.6.2-r36ha856d6a_0
+r-stringi-1.6.2-r40ha856d6a_0
+r-stringi-1.7.2-r40ha856d6a_0
+r-stringi-1.7.3-r40ha856d6a_0
+r-stringi-1.7.4-r40ha856d6a_0
+r-stringi-1.7.5-r40ha856d6a_0
+r-stringi-1.7.6-r40ha856d6a_0
+r-stringi-1.7.6-r40ha856d6a_2
+r-stringi-1.7.8-r40ha856d6a_0

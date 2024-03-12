@@ -1,0 +1,17 @@
+manif-0.0.4-h0e60522_0
+manif-0.0.4-h0e60522_1
+manif-0.0.4-h0e60522_2
+manif-0.0.4-h0e60522_3
+manif-0.0.4-h0e60522_4
+manif-0.0.4-h63175ca_5
+manif-0.0.4-h63175ca_6
+manif-0.0.4-h63175ca_7
+manif-0.0.4-h63175ca_8
+manif-0.0.4-h63175ca_9
+manif-0.0.4-h63175ca_10
+manif-0.0.4-h63175ca_11
+manif-0.0.4-h63175ca_12
+manif-0.0.4-h63175ca_13
+manif-0.0.4-h63175ca_14
+manif-0.0.4-h63175ca_15
+manif-0.0.4-h63175ca_16

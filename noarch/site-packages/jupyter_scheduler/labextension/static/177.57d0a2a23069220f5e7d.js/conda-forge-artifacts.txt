@@ -1,0 +1,6 @@
+jupyter-scheduler-1.4.0-pyhd8ed1ab_0
+jupyter_scheduler-1.4.0-pyh00ab1b0_0
+jupyter_scheduler-1.5.0-pyh00ab1b0_0
+jupyter_scheduler-1.6.0-pyh00ab1b0_0
+jupyter_scheduler-1.7.0-pyh00ab1b0_0
+jupyter_scheduler-1.7.0-pyh00ab1b0_1

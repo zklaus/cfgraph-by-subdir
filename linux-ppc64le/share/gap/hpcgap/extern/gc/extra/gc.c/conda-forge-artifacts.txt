@@ -1,0 +1,17 @@
+gap-core-4.10.2-h0a1d3d6_5
+gap-core-4.11.0-h0a1d3d6_0
+gap-core-4.11.0-h0a1d3d6_1
+gap-core-4.11.0-h0a1d3d6_2
+gap-core-4.10.2-h8c875fd_6
+gap-core-4.11.0-h8c875fd_3
+gap-core-4.11.0-h76459d9_4
+gap-core-4.11.0-h76459d9_5
+gap-core-4.11.0-h76459d9_6
+gap-core-4.11.0-hf604d9a_8
+gap-core-4.11.0-hf604d9a_9
+gap-core-4.11.1-hf604d9a_0
+gap-core-4.11.1-hf604d9a_1
+gap-core-4.11.1-hf604d9a_2
+gap-core-4.11.1-hf604d9a_3
+gap-core-4.11.1-hdaa22ee_4
+gap-core-4.11.1-h89d3f81_5

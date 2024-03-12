@@ -1,0 +1,6 @@
+mysql-connector-c-6.1.11-he025d50_1001
+mysql-connector-c-6.1.11-he025d50_1002
+mysql-connector-c-6.1.11-he025d50_1004
+mysql-connector-c-6.1.11-habb2df7_1005
+mysql-connector-c-6.1.11-he025d50_1006
+mysql-connector-c-6.1.11-h33f27b4_1006

@@ -1,0 +1,11 @@
+fabric3-1.12.post1-py27_0
+fabric3-1.12.post1-py34_0
+fabric3-1.12.post1-py35_0
+fabric3-1.12.post1-py36_0
+fabric3-1.13.1.post1-py27_0
+fabric3-1.13.1.post1-py35_0
+fabric3-1.13.1.post1-py36_0
+fabric-1.12.0-py27_0
+fabric-1.13.1-py27_0
+fabric-1.13.2-py27_0
+fabric-1.14.0-py27_0

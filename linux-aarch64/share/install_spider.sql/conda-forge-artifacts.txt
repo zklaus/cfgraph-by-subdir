@@ -1,0 +1,9 @@
+libtiledb-sql-0.8.2-h78e14d5_3
+libtiledb-sql-0.9.0-h78e14d5_0
+libtiledb-sql-0.9.1-h78e14d5_0
+libtiledb-sql-0.9.2-h78e14d5_0
+libtiledb-sql-0.9.2-h322b63e_1
+libtiledb-sql-0.9.3-h322b63e_0
+libtiledb-sql-0.9.4-h322b63e_0
+libtiledb-sql-0.9.5-h322b63e_0
+libtiledb-sql-0.9.6-h322b63e_0

@@ -1,0 +1,9 @@
+libxc-6.1.0-cpu_he85d187_2
+libxc-6.1.0-cpu_he85d187_3
+libxc-6.2.0-cpu_h1215afe_0
+libxc-4.3.4-h7fca3d0_4
+libxc-6.2.0-cpu_h1215afe_1
+libxc-6.2.1-cpu_h1215afe_0
+libxc-6.2.2-cpu_h1215afe_0
+libxc-6.2.2-cpu_h1215afe_1
+libxc-6.2.2-cpu_h178e635_2

@@ -1,0 +1,15 @@
+easyocr-1.6.2-py39haaf3ac1_0
+easyocr-1.6.2-py38h9dc3d6a_0
+easyocr-1.6.2-py310h2887b22_0
+easyocr-1.6.2-py39hbd775c9_1
+easyocr-1.6.2-py38h9afee92_1
+easyocr-1.6.2-py311he4fd1f5_1
+easyocr-1.6.2-py310h38f39d4_1
+easyocr-1.7.0-py39hbd775c9_0
+easyocr-1.7.0-py38h9afee92_0
+easyocr-1.7.0-py311he4fd1f5_0
+easyocr-1.7.0-py310h38f39d4_0
+easyocr-1.7.1-py310h38f39d4_0
+easyocr-1.7.1-py39hbd775c9_0
+easyocr-1.7.1-py311he4fd1f5_0
+easyocr-1.7.1-py38h9afee92_0

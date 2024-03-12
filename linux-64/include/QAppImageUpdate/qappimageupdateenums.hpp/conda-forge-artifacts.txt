@@ -1,0 +1,5 @@
+appimage-updater-bridge-2.0.0-hed507bd_0
+appimage-updater-bridge-2.0.1-hed507bd_0
+appimage-updater-bridge-2.0.2-hed507bd_0
+appimage-updater-bridge-2.0.2-h51b374b_1
+appimage-updater-bridge-2.0.2-hc0e5487_2

@@ -1,0 +1,6 @@
+singular-4.1.0-0
+singular-4.1.0.p3-0
+singular-4.1.0.p3-1
+singular-4.1.0.p3-h1e9d69d_2
+singular-4.1.0.p3-h61b60e8_2
+singular-4.1.0.p3-hb389b6f_1002

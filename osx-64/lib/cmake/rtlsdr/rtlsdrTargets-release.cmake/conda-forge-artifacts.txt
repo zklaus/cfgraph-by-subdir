@@ -1,0 +1,7 @@
+rtl-sdr-0.6.0.post20220126-h0d85af4_0
+rtl-sdr-0.6.0.post20230822-h0dc2134_0
+rtl-sdr-0.6.0.post20230829-h0dc2134_0
+rtl-sdr-0.6.0.post20230829-h0dc2134_1
+rtl-sdr-0.6.0.post20231004-h0dc2134_0
+rtl-sdr-2.0.0-h10d778d_0
+rtl-sdr-2.0.1-h10d778d_0

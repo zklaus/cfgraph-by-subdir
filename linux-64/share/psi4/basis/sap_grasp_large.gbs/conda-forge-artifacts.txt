@@ -1,0 +1,14 @@
+psi4-1.8.2-py311h2556c78_0
+psi4-1.8.2-py39h20fd4c3_0
+psi4-1.8.2-py310h475055f_0
+psi4-1.8.2-py38hbff2ed3_0
+psi4-1.8.2-py38hbff2ed3_1
+psi4-1.8.2-py312h24d3718_1
+psi4-1.8.2-py39h20fd4c3_1
+psi4-1.8.2-py310h475055f_1
+psi4-1.8.2-py311h2556c78_1
+psi4-1.8.2-py38hb8c802c_2
+psi4-1.8.2-py312hef1bf4d_2
+psi4-1.8.2-py311hed31b30_2
+psi4-1.8.2-py39h602ceab_2
+psi4-1.8.2-py310hb14b25f_2

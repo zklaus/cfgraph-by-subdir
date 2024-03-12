@@ -1,0 +1,4 @@
+hackrf-2021.03.1-h5812942_0
+hackrf-2022.09.1-h75b6cab_0
+hackrf-2022.09.1-h75b6cab_1
+hackrf-2023.01.1-h75b6cab_0

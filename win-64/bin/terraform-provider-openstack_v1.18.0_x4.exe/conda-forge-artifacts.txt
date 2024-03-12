@@ -1,0 +1,1 @@
+terraform-provider-openstack-1.18.0-h33c4730_0

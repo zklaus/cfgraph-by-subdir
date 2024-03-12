@@ -1,0 +1,2 @@
+pcsclite-1.9.9-hb4cce97_0
+pcsclite-2.0.0-h31becfc_0

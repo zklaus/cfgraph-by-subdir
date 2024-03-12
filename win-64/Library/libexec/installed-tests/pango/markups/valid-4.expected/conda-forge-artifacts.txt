@@ -1,0 +1,5 @@
+pango-1.42.4-h8cb6782_2
+pango-1.42.4-h8cb6782_3
+pango-1.42.4-h8cb6782_4
+pango-1.42.4-h51d95ee_5
+pango-1.42.4-hec34917_5

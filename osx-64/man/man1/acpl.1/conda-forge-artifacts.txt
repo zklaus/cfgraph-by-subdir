@@ -1,0 +1,8 @@
+scotch-7.0.2-h52a132a_0
+scotch-7.0.2-h40132e6_0
+scotch-7.0.3-h40132e6_0
+scotch-7.0.3-h52a132a_0
+scotch-7.0.3-h40132e6_1
+scotch-7.0.3-h52a132a_1
+scotch-7.0.4-h40132e6_0
+scotch-7.0.4-h52a132a_0

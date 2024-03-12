@@ -1,0 +1,6 @@
+r-rcppeigen-0.3.3.9.1-r41h664ce27_0
+r-rcppeigen-0.3.3.9.1-r40h664ce27_0
+r-rcppeigen-0.3.3.9.2-r40h5c42799_0
+r-rcppeigen-0.3.3.9.2-r41h5c42799_0
+r-rcppeigen-0.3.3.9.2-r42h55306a0_1
+r-rcppeigen-0.3.3.9.2-r41h55306a0_1

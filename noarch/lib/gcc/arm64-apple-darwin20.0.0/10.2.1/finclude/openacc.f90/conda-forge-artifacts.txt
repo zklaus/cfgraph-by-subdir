@@ -1,0 +1,8 @@
+libgfortran-devel_osx-arm64-10.2.1-h5d56895_16
+libgfortran-devel_osx-arm64-10.2.1-h5d56895_17
+libgfortran-devel_osx-arm64-10.2.1-h5d56895_18
+libgfortran-devel_osx-arm64-10.2.1-h5d56895_19
+libgfortran-devel_osx-arm64-10.2.1-h5d56895_20
+libgfortran-devel_osx-arm64-10.2.1-h5d56895_21
+libgfortran-devel_osx-arm64-10.2.1-h5d56895_22
+libgfortran-devel_osx-arm64-10.2.1-h5d56895_23

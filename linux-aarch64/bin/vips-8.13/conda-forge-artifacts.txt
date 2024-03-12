@@ -1,0 +1,15 @@
+libvips-8.13.0-h595dfea_0
+libvips-8.13.1-h595dfea_0
+libvips-8.13.1-hc79bdf0_1
+libvips-8.13.1-h3876494_2
+libvips-8.13.2-h3876494_0
+libvips-8.13.3-h3876494_0
+libvips-8.13.3-h1561e8c_1
+libvips-8.13.3-h1a9880c_2
+libvips-8.13.3-ha8f5a0d_3
+libvips-8.13.3-h5c0b04a_4
+libvips-8.13.3-h5781e33_5
+libvips-8.13.3-h224e97e_6
+libvips-8.13.3-hb5640db_7
+libvips-8.13.3-hdbe93fc_8
+libvips-8.13.3-h2441668_9

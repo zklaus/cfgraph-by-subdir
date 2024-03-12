@@ -1,0 +1,3 @@
+tableschema-py-1.0.0a5-py27_0
+tableschema-py-1.0.0a5-py35_0
+tableschema-py-1.0.0a5-py36_0

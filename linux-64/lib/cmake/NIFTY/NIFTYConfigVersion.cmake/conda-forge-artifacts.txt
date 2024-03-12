@@ -1,0 +1,7 @@
+nifty-1.2.1-py310h15a057f_3
+nifty-1.2.1-py39hc309b06_3
+nifty-1.2.1-py38hadb2437_3
+nifty-1.2.1-py310h16739e1_4
+nifty-1.2.1-py311h6e55cdc_4
+nifty-1.2.1-py38h144f5e2_4
+nifty-1.2.1-py39hc81e8ff_4

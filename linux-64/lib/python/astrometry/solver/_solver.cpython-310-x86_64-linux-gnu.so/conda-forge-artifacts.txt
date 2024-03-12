@@ -1,0 +1,6 @@
+astrometry-0.87-py310h016e769_1
+astrometry-0.88-py310h016e769_0
+astrometry-0.89-py310h016e769_0
+astrometry-0.89-py310hbd7b93c_1
+astrometry-0.90-py310hbd7b93c_0
+astrometry-0.90-py310h47ba2b7_1

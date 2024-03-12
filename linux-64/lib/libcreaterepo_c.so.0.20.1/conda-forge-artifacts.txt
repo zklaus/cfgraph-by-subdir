@@ -1,0 +1,16 @@
+createrepo_c-0.20.1-py38hcb80abe_0
+createrepo_c-0.20.1-py310h7ca2958_0
+createrepo_c-0.20.1-py310hb52ebc5_0
+createrepo_c-0.20.1-py38h9030dcd_0
+createrepo_c-0.20.1-py39hb908eda_0
+createrepo_c-0.20.1-py37h85cd5c2_0
+createrepo_c-0.20.1-py37h0332789_0
+createrepo_c-0.20.1-py39h3c599e5_0
+createrepo_c-0.20.1-py310h4e54def_1
+createrepo_c-0.20.1-py39h3136dcf_1
+createrepo_c-0.20.1-py39h18fa28e_1
+createrepo_c-0.20.1-py311h3ca266d_1
+createrepo_c-0.20.1-py310h23d957c_1
+createrepo_c-0.20.1-py38h5deb088_1
+createrepo_c-0.20.1-py311h62dc7c4_1
+createrepo_c-0.20.1-py38h65c481c_1

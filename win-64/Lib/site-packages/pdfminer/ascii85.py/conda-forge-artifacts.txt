@@ -1,0 +1,16 @@
+pdfminer3k-1.3.1-py35_0
+pdfminer3k-1.3.1-py36_0
+pdfminer-20140328-py27_0
+pdfminer.six-20160614-py27_0
+pdfminer.six-20160614-py34_0
+pdfminer.six-20160614-py35_0
+pdfminer.six-20170419-py27_0
+pdfminer.six-20170419-py35_0
+pdfminer.six-20170419-py36_0
+pdfminer.six-20170720-py27_0
+pdfminer.six-20170720-py35_0
+pdfminer.six-20170720-py36_0
+pdfminer-20140328-py27_1000
+pdfminer.six-20181108-py27_0
+pdfminer.six-20181108-py37_0
+pdfminer.six-20181108-py36_0

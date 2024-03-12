@@ -1,0 +1,17 @@
+r-farver-1.0-r351h6115d3f_1000
+r-farver-1.1.0-r351h6115d3f_0
+r-farver-1.1.0-r35h796a38f_1
+r-farver-1.1.0-r36h796a38f_1
+r-farver-2.0.0-r35h796a38f_0
+r-farver-2.0.0-r36h796a38f_0
+r-farver-2.0.1-r35h796a38f_0
+r-farver-2.0.1-r36h796a38f_0
+r-farver-2.0.2-r35h796a38f_0
+r-farver-2.0.2-r36h796a38f_0
+r-farver-2.0.3-r36h796a38f_0
+r-farver-2.0.3-r35h796a38f_0
+r-farver-2.0.3-r36h796a38f_1
+r-farver-2.0.3-r40h796a38f_1
+r-farver-2.1.0-r40ha856d6a_0
+r-farver-2.1.0-r36ha856d6a_0
+r-farver-2.1.1-r40ha856d6a_0

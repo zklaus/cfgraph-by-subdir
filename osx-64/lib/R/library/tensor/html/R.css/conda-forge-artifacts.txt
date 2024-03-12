@@ -1,0 +1,4 @@
+r-tensor-1.5-r3.3.2_0
+r-tensor-1.5-r3.4.1_0
+r-tensor-1.5-r341h6115d3f_1
+r-tensor-1.5-r351h6115d3f_1

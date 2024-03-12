@@ -1,0 +1,3 @@
+r-moments-0.14-r3.3.2_0
+r-moments-0.14-r3.4.1_0
+r-moments-0.14-r341_1

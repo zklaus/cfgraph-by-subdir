@@ -1,0 +1,1 @@
+terraform-provider-opentelekomcloud-1.13.0-h33c4730_0

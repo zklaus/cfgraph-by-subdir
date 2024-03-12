@@ -1,0 +1,9 @@
+pyspice-1.4.2-py37hc8dfbb8_0
+pyspice-1.4.2-py36h9f0ad1d_0
+pyspice-1.4.2-py38h32f6830_0
+pyspice-1.4.2-py38h32f6830_1
+pyspice-1.4.2-py36h9f0ad1d_1
+pyspice-1.4.2-py37hc8dfbb8_1
+pyspice-1.4.2-py36h9f0ad1d_2
+pyspice-1.4.2-py38h32f6830_2
+pyspice-1.4.2-py37hc8dfbb8_2

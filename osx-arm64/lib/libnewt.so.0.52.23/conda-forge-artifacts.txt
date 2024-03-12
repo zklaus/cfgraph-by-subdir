@@ -1,0 +1,13 @@
+newt-0.52.23-py39h02fc5c5_0
+newt-0.52.23-py311he2be06e_0
+newt-0.52.23-py310h8e9501a_0
+newt-0.52.23-py38hb991d35_0
+newt-0.52.23-py310h8e9501a_1
+newt-0.52.23-py39h02fc5c5_1
+newt-0.52.23-py311he2be06e_1
+newt-0.52.23-py38hb991d35_1
+newt-0.52.23-py312h02f2b3b_2
+newt-0.52.23-py310h2aa6e3c_2
+newt-0.52.23-py38hb192615_2
+newt-0.52.23-py39h0f82c59_2
+newt-0.52.23-py311heffc1b2_2

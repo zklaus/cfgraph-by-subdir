@@ -1,0 +1,8 @@
+magics-4.0.2-py37_vc14h015e591_0
+magics-4.0.2-py36_vc14h015e591_0
+magics-4.0.2-py37_vc14h015e591_1
+magics-4.0.2-py36_vc14h015e591_1
+magics-4.0.2-py36_vc14h015e591_2
+magics-4.0.2-py37_vc14h015e591_2
+magics-4.0.2-py36_vc14h015e591_3
+magics-4.0.2-py37_vc14h015e591_3

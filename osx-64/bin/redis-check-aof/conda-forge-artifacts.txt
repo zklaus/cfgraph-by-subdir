@@ -1,0 +1,17 @@
+redis-server-6.2.5-h05f672f_1
+redis-server-6.2.5-h80fc002_1
+redis-server-6.2.6-h05f672f_0
+redis-server-6.2.6-h80fc002_0
+redis-server-7.0.0-h3fcc8fb_0
+redis-server-7.0.0-h25ffcba_0
+redis-server-7.0.4-h54dc03d_0
+redis-server-7.0.4-hc68d04a_0
+redis-server-7.0.8-hc68d04a_0
+redis-server-7.0.9-hc68d04a_0
+redis-server-7.0.10-hc68d04a_0
+redis-server-7.0.11-hc68d04a_0
+redis-server-7.0.12-h2f7af46_0
+redis-server-7.2.0-h2f7af46_0
+redis-server-7.2.1-h2f7af46_0
+redis-server-7.2.2-h6916386_0
+redis-server-7.2.3-h6916386_0

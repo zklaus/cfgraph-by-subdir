@@ -1,0 +1,16 @@
+coreutils-8.29-h470a237_0
+coreutils-8.30-h470a237_0
+coreutils-8.30-h14c3975_1000
+coreutils-8.31-h14c3975_0
+coreutils-8.31-h516909a_0
+coreutils-9.0-h7f98852_0
+coreutils-9.1-h166bdaf_0
+uutils-coreutils-0.0.16-hbd0da30_0
+uutils-coreutils-0.0.17-hbd0da30_0
+uutils-coreutils-0.0.17-hbd0da30_1
+coreutils-9.2-h0b41bf4_0
+uutils-coreutils-0.0.18-hbd0da30_0
+coreutils-9.3-h0b41bf4_0
+uutils-coreutils-0.0.19-h1ffa460_0
+uutils-coreutils-0.0.20-h1ffa460_0
+coreutils-9.4-hd590300_0

@@ -1,0 +1,2 @@
+pyjokes-0.5.0-py_0
+pyjokes-0.6.0-py_0

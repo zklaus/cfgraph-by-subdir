@@ -1,0 +1,11 @@
+xorg-libxau-1.0.8-0
+xorg-libxau-1.0.8-1
+xorg-libxau-1.0.8-2
+xorg-libxau-1.0.8-3
+xorg-libxau-1.0.8-h470a237_4
+xorg-libxau-1.0.8-h470a237_5
+xorg-libxau-1.0.8-h470a237_6
+xorg-libxau-1.0.8-h1de35cc_1006
+xorg-libxau-1.0.9-h1de35cc_0
+xorg-libxau-1.0.9-h35c211d_0
+xorg-libxau-1.0.11-h0dc2134_0

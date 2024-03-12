@@ -1,0 +1,5 @@
+emacs-26.1-h5d2cb88_0
+emacs-26.1-h3a2ea38_1
+emacs-26.1-h2e30b44_2
+emacs-26.1-he9320e1_1002
+emacs-26.1-h745135b_1003

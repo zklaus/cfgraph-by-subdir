@@ -1,0 +1,2 @@
+assimp-5.0.1-hdbacb41_3
+assimp-5.0.1-h044441e_3

@@ -1,0 +1,7 @@
+r-ellipsis-0.0.2-r351h46e59ec_0
+r-ellipsis-0.1.0-r351h46e59ec_0
+r-ellipsis-0.2.0-r35h159158b_0
+r-ellipsis-0.2.0.1-r351h159158b_0
+r-ellipsis-0.2.0.1-r35h159158b_1
+r-ellipsis-0.3.0-r35h159158b_0
+r-ellipsis-0.3.0-r35h17f1fa6_0

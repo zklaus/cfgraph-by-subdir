@@ -1,0 +1,5 @@
+libvips-8.15.0-h0e81681_0
+libvips-8.15.0-hbf2047f_1
+libvips-8.15.0-hd347eac_2
+libvips-8.15.0-h4a36919_3
+libvips-8.15.0-h4142c04_4

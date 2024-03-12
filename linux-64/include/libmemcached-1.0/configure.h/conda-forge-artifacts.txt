@@ -1,0 +1,6 @@
+libmemcached-1.0.18-0
+libmemcached-1.0.18-1
+libmemcached-1.0.18-hc46c6b1_1
+libmemcached-1.0.18-h1b9f96f_2
+libmemcached-1.0.18-h9e8dfc8_1002
+libmemcached-1.0.18-h17b2bb4_1003

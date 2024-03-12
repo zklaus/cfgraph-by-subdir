@@ -1,0 +1,4 @@
+docx2txt-0.6-py27_0
+docx2txt-0.6-py34_0
+docx2txt-0.6-py35_0
+docx2txt-0.6-py36_0

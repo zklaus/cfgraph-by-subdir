@@ -1,0 +1,2 @@
+libidn2-2.3.3-h166bdaf_0
+libidn2-2.3.4-h166bdaf_0

@@ -1,0 +1,8 @@
+qt6-main-6.5.0-hcdf21d6_1
+qt6-main-6.5.0-hcdf21d6_2
+qt6-main-6.5.0-hcdf21d6_3
+qt6-main-6.5.0-hcdf21d6_4
+qt6-main-6.5.0-h372468e_5
+qt6-main-6.5.0-h372468e_6
+qt6-main-6.5.0-h372468e_7
+qt6-main-6.5.0-h372468e_8

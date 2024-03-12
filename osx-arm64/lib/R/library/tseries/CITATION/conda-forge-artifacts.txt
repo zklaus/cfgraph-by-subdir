@@ -1,0 +1,10 @@
+r-tseries-0.10_49-r41h7b4509a_0
+r-tseries-0.10_49-r40h7b4509a_0
+r-tseries-0.10_50-r41h7b4509a_0
+r-tseries-0.10_50-r40h7b4509a_0
+r-tseries-0.10_51-r41h9203072_0
+r-tseries-0.10_51-r40h9203072_0
+r-tseries-0.10_51-r41h0419871_1
+r-tseries-0.10_51-r42h0419871_1
+r-tseries-0.10_52-r42h0419871_0
+r-tseries-0.10_52-r41h0419871_0

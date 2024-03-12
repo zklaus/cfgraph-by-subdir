@@ -1,0 +1,2 @@
+soapysdr-module-remote-0.5.2-hd785b87_0
+soapysdr-module-remote-0.5.2-h9903d45_1

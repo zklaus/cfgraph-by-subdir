@@ -1,0 +1,3 @@
+libmediainfo-21.09-h1161a11_0
+libmediainfo-21.09-h1161a11_1
+libmediainfo-21.09-h1161a11_2

@@ -1,0 +1,8 @@
+pymor-0.5.1-py36h3010b51_0
+pymor-0.5.1-py37h3010b51_0
+pymor-0.5.1-py36h3010b51_2
+pymor-0.5.1-py37h3010b51_2
+pymor-0.5.1-py37hd352d35_3
+pymor-0.5.1-py36hd352d35_3
+pymor-0.5.2-py37hd352d35_0
+pymor-0.5.2-py36hd352d35_0

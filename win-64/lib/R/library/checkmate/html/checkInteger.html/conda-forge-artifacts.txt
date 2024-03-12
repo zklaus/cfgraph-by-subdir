@@ -1,0 +1,12 @@
+r-checkmate-1.8.5-r351h6115d3f_1002
+r-checkmate-1.9.1-r351h6115d3f_0
+r-checkmate-1.9.3-r351h6115d3f_0
+r-checkmate-1.9.4-r351hda5aaf8_0
+r-checkmate-1.9.4-r35hda5aaf8_1
+r-checkmate-1.9.4-r36hda5aaf8_1
+r-checkmate-2.0.0-r35hda5aaf8_0
+r-checkmate-2.0.0-r36hda5aaf8_0
+r-checkmate-2.0.0-r36hda5aaf8_1
+r-checkmate-2.0.0-r40hda5aaf8_1
+r-checkmate-2.0.0-r40h6d2157b_1
+r-checkmate-2.1.0-r40h6d2157b_0

@@ -1,0 +1,7 @@
+tracktable-1.6.0-py37h51bc477_0
+tracktable-1.6.0-py37hddb2b6f_0
+tracktable-1.6.0.1-py37hddb2b6f_0
+tracktable-1.6.0.1-py37h51bc477_0
+tracktable-1.6.0.2-py37hddb2b6f_0
+tracktable-1.6.0.2-py37h51bc477_0
+tracktable-1.6.0.2-py37h0018892_1

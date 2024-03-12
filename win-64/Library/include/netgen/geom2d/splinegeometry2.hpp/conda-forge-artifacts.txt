@@ -1,0 +1,12 @@
+netgen-6.2.1802-py35_vc14_0
+netgen-6.2.1802-py35_vc14_3
+netgen-6.2.1802-py36_vc14_0
+netgen-6.2.1802-py36_vc14_3
+netgen-6.2.1804-py35_vc14_0
+netgen-6.2.1804-py36_vc14_0
+netgen-6.2.1804-py35he980bc4_1
+netgen-6.2.1804-py36he980bc4_1
+netgen-6.2.1804-py35he980bc4_2
+netgen-6.2.1804-py36he980bc4_2
+netgen-6.2.1804-py35he980bc4_3
+netgen-6.2.1804-py36he980bc4_3

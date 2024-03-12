@@ -1,0 +1,2 @@
+libarrow-14.0.0-hbd9a721_0_cpu
+libarrow-14.0.0-he3b2c5c_0_cuda

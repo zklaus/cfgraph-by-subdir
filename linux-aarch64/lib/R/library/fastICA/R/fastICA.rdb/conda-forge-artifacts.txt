@@ -1,0 +1,4 @@
+r-fastica-1.2_3-r42hb00aac3_2
+r-fastica-1.2_3-r43hb00aac3_2
+r-fastica-1.2_4-r42hb00aac3_0
+r-fastica-1.2_4-r43hb00aac3_0

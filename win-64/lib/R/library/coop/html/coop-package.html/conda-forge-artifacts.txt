@@ -1,0 +1,9 @@
+r-coop-0.6_1-r351h6115d3f_1000
+r-coop-0.6_2-r35hda5aaf8_0
+r-coop-0.6_2-r35hda5aaf8_1
+r-coop-0.6_2-r36hda5aaf8_1
+r-coop-0.6_2-r36hda5aaf8_2
+r-coop-0.6_2-r40hda5aaf8_2
+r-coop-0.6_2-r40h6d2157b_2
+r-coop-0.6_2-r40hd2e18ed_3
+r-coop-0.6_3-r40hd2e18ed_0

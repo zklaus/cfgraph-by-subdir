@@ -1,0 +1,4 @@
+arrow-c-glib-12.0.0-h53e17e3_1
+arrow-c-glib-12.0.1-h53e17e3_0
+arrow-c-glib-12.0.1-h53e17e3_1
+arrow-c-glib-12.0.1-h53e17e3_2

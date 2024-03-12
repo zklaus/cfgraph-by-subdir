@@ -1,0 +1,6 @@
+mysql-connector-cpp-8.0.29-hdc4c26a_0
+mysql-connector-cpp-8.0.29-hdc4c26a_1
+mysql-connector-cpp-8.0.29-ha5f195b_1
+mysql-connector-cpp-8.0.29-h4b5b3cf_2
+mysql-connector-cpp-8.0.29-hc77c790_2
+mysql-connector-cpp-8.0.29-h9bc8c17_3

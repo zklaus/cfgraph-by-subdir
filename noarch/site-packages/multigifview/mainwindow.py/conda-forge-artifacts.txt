@@ -1,0 +1,2 @@
+multigifview-0.2.7-pyhd8ed1ab_1
+multigifview-0.2.8-pyhd8ed1ab_0

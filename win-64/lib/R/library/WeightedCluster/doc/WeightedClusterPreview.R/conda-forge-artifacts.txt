@@ -1,0 +1,9 @@
+r-weightedcluster-1.4_1-r40ha856d6a_0
+r-weightedcluster-1.4_1-r36ha856d6a_0
+r-weightedcluster-1.4_1-r41ha856d6a_0
+r-weightedcluster-1.6_0-r40ha856d6a_0
+r-weightedcluster-1.6_0-r41ha856d6a_0
+r-weightedcluster-1.6_0-r41ha856d6a_1
+r-weightedcluster-1.6_2-r41ha856d6a_0
+r-weightedcluster-1.6_2-r41ha856d6a_1
+r-weightedcluster-1.6_4-r41ha856d6a_0

@@ -1,0 +1,7 @@
+libpqxx-7.7.2-h27087fc_0
+libpqxx-7.7.3-h27087fc_0
+libpqxx-7.7.4-h27087fc_0
+libpqxx-7.7.4-h70715bb_1
+libpqxx-7.7.5-h70715bb_0
+libpqxx-7.8.1-h74d7adb_0
+libpqxx-7.8.1-h424f755_1

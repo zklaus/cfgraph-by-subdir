@@ -1,0 +1,7 @@
+soapysdr-module-uhd-0.3.6-hcb3d31a_0
+soapysdr-module-uhd-0.4.1-h604f9d1_0
+soapysdr-module-uhd-0.4.1-hbf6900a_1
+soapysdr-module-uhd-0.4.1-h6d43eb6_1
+soapysdr-module-uhd-0.4.1-h0db5485_1
+soapysdr-module-uhd-0.4.1-h049f099_1
+soapysdr-module-uhd-0.4.1-hf8d1830_2

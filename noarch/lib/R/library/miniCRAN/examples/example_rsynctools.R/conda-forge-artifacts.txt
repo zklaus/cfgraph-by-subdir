@@ -1,0 +1,13 @@
+r-minicran-0.2.10-r351_1000
+r-minicran-0.2.11-r351h6115d3f_0
+r-minicran-0.2.12-r351h6115d3f_0
+r-minicran-0.2.12-r36h6115d3f_1
+r-minicran-0.2.12-r35h6115d3f_1
+r-minicran-0.2.12-r36h6115d3f_2
+r-minicran-0.2.12-r40h6115d3f_2
+r-minicran-0.2.13-r36h6115d3f_0
+r-minicran-0.2.13-r40h6115d3f_0
+r-minicran-0.2.14-r40h6115d3f_0
+r-minicran-0.2.14-r36h6115d3f_0
+r-minicran-0.2.14-r40hc72bb7e_0
+r-minicran-0.2.14-r41hc72bb7e_0

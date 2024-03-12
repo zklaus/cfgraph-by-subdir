@@ -1,0 +1,7 @@
+cgal-cpp-5.0.3-h747953b_0
+cgal-cpp-5.0.3-h4548ac7_1
+cgal-cpp-5.0.3-h764656a_1
+cgal-cpp-5.1-h764656a_0
+cgal-cpp-5.1-h4548ac7_0
+cgal-cpp-5.1.1-h7e1a99d_0
+cgal-cpp-5.1.1-h4e7cd93_0

@@ -1,0 +1,9 @@
+ipympl-0.0.10-py27_1
+ipympl-0.0.10-py35_1
+ipympl-0.0.10-py36_1
+ipympl-0.0.11-py27_1
+ipympl-0.0.11-py35_1
+ipympl-0.0.11-py36_1
+ipympl-0.0.12-py27_1
+ipympl-0.0.12-py35_1
+ipympl-0.0.12-py36_1

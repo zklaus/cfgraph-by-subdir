@@ -1,0 +1,9 @@
+libblas-3.8.0-4_h3875876_netlib
+libblas-3.8.0-5_h3875876_netlib
+libblas-3.8.0-6_h3875876_netlib
+libblas-3.8.0-7_h3875876_netlib
+libblas-3.8.0-8_h3875876_netlib
+libblas-3.8.0-10_h86c2bf4_netlib
+libblas-3.8.0-10_h3875876_netlib
+libblas-3.8.0-11_h3875876_netlib
+libblas-3.8.0-11_h86c2bf4_netlib

@@ -1,0 +1,15 @@
+gobject-introspection-1.68.0-py38hcb2c0c0_0
+gobject-introspection-1.68.0-py38hcb2c0c0_1
+g-ir-build-tools-1.68.0-py38he43ce63_2
+g-ir-build-tools-1.68.0-py38he43ce63_3
+g-ir-build-tools-1.68.0-py38he43ce63_4
+g-ir-build-tools-1.70.0-py38he43ce63_0
+g-ir-build-tools-1.70.0-py38he43ce63_1
+g-ir-build-tools-1.72.0-py38he43ce63_0
+g-ir-build-tools-1.72.0-py38he43ce63_1
+g-ir-build-tools-1.74.0-py38he1b5a46_0
+g-ir-build-tools-1.74.0-py38he1b5a46_1
+g-ir-build-tools-1.76.1-py38he1b5a46_0
+g-ir-build-tools-1.78.0-py38he1b5a46_0
+g-ir-build-tools-1.78.1-py38he1b5a46_0
+g-ir-build-tools-1.78.1-py38he1b5a46_1

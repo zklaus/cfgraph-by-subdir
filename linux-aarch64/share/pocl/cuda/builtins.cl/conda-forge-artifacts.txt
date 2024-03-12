@@ -1,0 +1,8 @@
+pocl-3.1-hcf59d26_0
+pocl-3.1-h55a1252_0
+pocl-cuda-4.0-hdc5eb1c_0
+pocl-cuda-4.0-hf5bab2c_0
+pocl-cuda-4.0-hbcea8d6_1
+pocl-cuda-4.0-h0be5588_1
+pocl-cuda-4.0-hbcea8d6_2
+pocl-cuda-4.0-h0be5588_2

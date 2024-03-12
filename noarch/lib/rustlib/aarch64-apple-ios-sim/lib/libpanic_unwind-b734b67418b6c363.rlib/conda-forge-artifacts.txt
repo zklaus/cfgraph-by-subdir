@@ -1,0 +1,2 @@
+rust-std-aarch64-apple-ios-sim-1.71.0-hb721902_0
+rust-std-aarch64-apple-ios-sim-1.71.0-unix_0

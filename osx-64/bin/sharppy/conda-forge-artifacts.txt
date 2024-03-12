@@ -1,0 +1,17 @@
+sharppy-v1.4.0b1-py37_0
+sharppy-v1.4.0b1-py36_0
+sharppy-v1.4.0b1-py38_0
+sharppy-v1.4.0-py37hc8dfbb8_0
+sharppy-v1.4.0-py36h9f0ad1d_0
+sharppy-v1.4.0-py38h32f6830_0
+sharppy-1.4.0-py37hc8dfbb8_0
+sharppy-1.4.0-py38h32f6830_0
+sharppy-1.4.0-py36h9f0ad1d_0
+sharppy-1.4.0-py39hde42818_1
+sharppy-1.4.0-py38h32f6830_1
+sharppy-1.4.0-py36h9f0ad1d_1
+sharppy-1.4.0-py37hc8dfbb8_1
+sharppy-1.4.0-py39h6e9494a_2
+sharppy-1.4.0-py311h6eed73b_2
+sharppy-1.4.0-py38h50d1736_2
+sharppy-1.4.0-py310h2ec42d9_2

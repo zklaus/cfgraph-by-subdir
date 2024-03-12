@@ -1,0 +1,6 @@
+xlsxwriter-0.9.6-py27_0
+xlsxwriter-0.9.6-py35_0
+xlsxwriter-0.9.6-py36_0
+xlsxwriter-0.9.8-py27_0
+xlsxwriter-0.9.8-py35_0
+xlsxwriter-0.9.8-py36_0

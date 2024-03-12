@@ -1,0 +1,2 @@
+chktex-1.7.6-h301d43c_0
+chktex-1.7.8-hcd874cb_0

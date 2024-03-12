@@ -1,0 +1,4 @@
+bertha-1.0.0-py37hc9558a2_0
+bertha-1.0.0-py27hc9558a2_0
+bertha-1.0.0-py36hc9558a2_0
+bertha-1.0.0-py38hc9558a2_0

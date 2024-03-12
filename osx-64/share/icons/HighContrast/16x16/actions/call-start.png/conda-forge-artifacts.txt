@@ -1,0 +1,3 @@
+gnome-themes-standard-3.28-h6628dcf_0
+gnome-themes-standard-3.28-h59597dc_1
+gnome-themes-standard-3.28-hc930350_2

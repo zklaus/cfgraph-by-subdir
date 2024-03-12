@@ -1,0 +1,11 @@
+r-futile.logger-1.4.3-r351h6115d3f_1001
+r-futile.logger-1.4.3-r36h6115d3f_1002
+r-futile.logger-1.4.3-r35h6115d3f_1002
+r-futile.logger-1.4.3-r40h6115d3f_1003
+r-futile.logger-1.4.3-r36h6115d3f_1003
+r-futile.logger-1.4.3-r41hc72bb7e_1003
+r-futile.logger-1.4.3-r40hc72bb7e_1003
+r-futile.logger-1.4.3-r41hc72bb7e_1004
+r-futile.logger-1.4.3-r42hc72bb7e_1004
+r-futile.logger-1.4.3-r42hc72bb7e_1005
+r-futile.logger-1.4.3-r43hc72bb7e_1005

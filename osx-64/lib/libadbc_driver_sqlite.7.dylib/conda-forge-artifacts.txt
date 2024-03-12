@@ -1,0 +1,4 @@
+libadbc-driver-sqlite-0.7.0-hd8b3c58_0
+libadbc-driver-sqlite-0.7.0-hd8b3c58_1
+libadbc-driver-sqlite-0.7.0-hd8b3c58_2
+libadbc-driver-sqlite-0.7.0-hd8b3c58_3

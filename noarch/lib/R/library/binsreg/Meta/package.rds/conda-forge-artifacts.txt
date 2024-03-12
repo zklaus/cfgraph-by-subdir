@@ -1,0 +1,12 @@
+r-binsreg-0.6-r41hc72bb7e_0
+r-binsreg-0.6-r40hc72bb7e_0
+r-binsreg-0.7-r40hc72bb7e_0
+r-binsreg-0.7-r41hc72bb7e_0
+r-binsreg-0.7-r41hc72bb7e_1
+r-binsreg-0.7-r42hc72bb7e_1
+r-binsreg-0.9-r41hc72bb7e_0
+r-binsreg-0.9-r42hc72bb7e_0
+r-binsreg-0.9-r42hc72bb7e_1
+r-binsreg-0.9-r43hc72bb7e_1
+r-binsreg-1.0-r42hc72bb7e_0
+r-binsreg-1.0-r43hc72bb7e_0

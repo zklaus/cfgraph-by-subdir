@@ -1,0 +1,4 @@
+xorg-x11-server-xvfb-cos6-x86_64-1.17.4-hdf0574f_102
+xorg-x11-server-xvfb-cos6-x86_64-1.17.4-ha826a6f_103
+xorg-x11-server-xvfb-cos6-x86_64-1.17.4-h9d98e8f_104
+xorg-x11-server-xvfb-cos6-x86_64-1.17.4-h9b0a68f_105

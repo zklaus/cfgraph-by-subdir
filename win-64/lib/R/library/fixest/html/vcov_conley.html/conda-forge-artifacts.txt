@@ -1,0 +1,5 @@
+r-fixest-0.10.0-r40ha856d6a_0
+r-fixest-0.10.1-r40ha856d6a_0
+r-fixest-0.10.2-r40ha856d6a_0
+r-fixest-0.10.3-r40ha856d6a_0
+r-fixest-0.10.4-r40ha856d6a_0

@@ -1,0 +1,11 @@
+cppe-0.3.2-py38h2740feb_0
+cppe-0.3.2-py39hda0c02d_0
+cppe-0.3.2-py310h2b8a7e3_0
+cppe-0.3.2-py39h086382a_0
+cppe-0.3.2-py311hffee36d_0
+cppe-0.3.2-py39h086382a_1
+cppe-0.3.2-py310h2b8a7e3_1
+cppe-0.3.2-py39hda0c02d_1
+cppe-0.3.2-py311hffee36d_1
+cppe-0.3.2-py312h8a6a750_1
+cppe-0.3.2-py38h2740feb_1

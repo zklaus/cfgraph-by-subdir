@@ -1,0 +1,9 @@
+r-zip-2.1.0-r36hda5aaf8_0
+r-zip-2.1.0-r40hda5aaf8_0
+r-zip-2.1.1-r40hda5aaf8_0
+r-zip-2.1.1-r36hda5aaf8_0
+r-zip-2.1.1-r40h6d2157b_0
+r-zip-2.1.1-r36h6d2157b_0
+r-zip-2.1.1-r41h6d2157b_0
+r-zip-2.2.0-r41h6d2157b_0
+r-zip-2.2.0-r40h6d2157b_0

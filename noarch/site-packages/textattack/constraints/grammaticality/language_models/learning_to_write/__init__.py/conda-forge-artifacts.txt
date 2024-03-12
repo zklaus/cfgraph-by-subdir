@@ -1,0 +1,4 @@
+textattack-0.2.0-pyh9f0ad1d_1
+textattack-0.2.14-pyhd8ed1ab_0
+textattack-0.2.15-pyhd8ed1ab_0
+textattack-0.3.0-pyhd8ed1ab_0

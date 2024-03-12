@@ -1,0 +1,10 @@
+hypre-2.26.0-mpi_mpich_h2b8ee5f_0
+hypre-2.26.0-mpi_openmpi_h7e06e14_0
+hypre-2.27.0-mpi_openmpi_h1d8bf39_0
+hypre-2.27.0-mpi_mpich_haf212de_0
+hypre-2.28.0-mpi_openmpi_h1d8bf39_0
+hypre-2.28.0-mpi_mpich_haf212de_0
+hypre-2.29.0-mpi_mpich_h79e33d3_0
+hypre-2.29.0-mpi_openmpi_hfe343c6_0
+hypre-2.30.0-mpi_mpich_h79e33d3_0
+hypre-2.30.0-mpi_openmpi_hfe343c6_0

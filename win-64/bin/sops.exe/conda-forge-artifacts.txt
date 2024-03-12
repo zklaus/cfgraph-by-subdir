@@ -1,0 +1,4 @@
+go-sops-3.6.1-h8ffe710_1
+go-sops-3.7.0-h8ffe710_0
+go-sops-3.7.1-h8ffe710_0
+go-sops-3.7.2-h8ffe710_0

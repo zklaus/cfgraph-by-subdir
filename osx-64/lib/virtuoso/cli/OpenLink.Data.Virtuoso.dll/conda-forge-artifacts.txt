@@ -1,0 +1,8 @@
+virtuoso-opensource-7.2.6-h815e4d9_0
+virtuoso-opensource-7.2.6.1-h815e4d9_0
+virtuoso-opensource-7.2.7-hfe7281d_0
+virtuoso-opensource-7.2.8-h049b76e_0
+virtuoso-opensource-7.2.8-h0165f36_0
+virtuoso-opensource-7.2.9-h049b76e_0
+virtuoso-opensource-7.2.10-h049b76e_0
+virtuoso-opensource-7.2.11-h049b76e_0

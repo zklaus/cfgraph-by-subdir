@@ -1,0 +1,12 @@
+google-cloud-cpp-2.7.0-h101168d_1
+google-cloud-cpp-2.7.0-he4a5a33_2
+google-cloud-cpp-2.8.0-he4a5a33_0
+google-cloud-cpp-2.8.0-hc634a66_1
+google-cloud-cpp-2.8.0-h48e691c_2
+google-cloud-cpp-2.9.1-h48e691c_0
+google-cloud-cpp-2.10.0-h48e691c_0
+google-cloud-cpp-2.10.1-h48e691c_0
+google-cloud-cpp-2.10.1-h48e691c_1
+google-cloud-cpp-2.11.0-h48e691c_0
+google-cloud-cpp-2.11.0-h84d7bec_1
+google-cloud-cpp-2.11.0-h48e691c_1

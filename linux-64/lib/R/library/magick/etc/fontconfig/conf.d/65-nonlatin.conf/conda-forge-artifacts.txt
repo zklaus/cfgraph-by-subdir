@@ -1,0 +1,2 @@
+r-magick-2.5.1-r40he524a50_0
+r-magick-2.5.1-r36he524a50_0

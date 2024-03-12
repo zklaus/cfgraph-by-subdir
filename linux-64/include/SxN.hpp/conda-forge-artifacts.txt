@@ -1,0 +1,13 @@
+sphinxdft-2.6.1-hd944b3e_0
+sphinxdft-2.6.1-hd944b3e_1
+sphinxdft-2.6.1-h5cc2dfa_3
+sphinxdft-2.6.1-h6ced99e_4
+sphinxdft-2.6.1-h6ced99e_5
+sphinxdft-2.6.1-h939dafb_6
+sphinxdft-2.6.1-h6ced99e_7
+sphinxdft-2.6.1-h6ced99e_8
+sphinxdft-2.6.1-h6ced99e_9
+sphinxdft-2.6.1-h0dc8829_10
+sphinxdft-2.6.1-h0dc8829_11
+sphinxdft-2.6.1-h7b8f8e9_12
+sphinxdft-2.6.1-h22b626b_13

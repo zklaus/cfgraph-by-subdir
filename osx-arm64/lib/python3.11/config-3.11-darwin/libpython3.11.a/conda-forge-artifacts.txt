@@ -1,0 +1,8 @@
+libpython-static-3.11.0-hb7217d7_0_cpython
+libpython-static-3.11.0-hb7217d7_1_cpython
+libpython-static-3.11.1-hb7217d7_0_cpython
+libpython-static-3.11.2-hb7217d7_0_cpython
+libpython-static-3.11.3-hb7217d7_0_cpython
+libpython-static-3.11.4-h13dd4ca_0_cpython
+libpython-static-3.11.5-h13dd4ca_0_cpython
+libpython-static-3.11.6-h13dd4ca_0_cpython

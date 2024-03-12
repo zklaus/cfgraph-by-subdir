@@ -1,0 +1,11 @@
+superlance-1.0.0-py27_0
+superlance-1.0.0-py310hff52083_1001
+superlance-1.0.0-py310hff52083_1002
+superlance-1.0.0-py310hff52083_1003
+superlance-1.0.0-py311h38be061_1003
+superlance-1.0.0-py311h38be061_1004
+superlance-1.0.0-py312h7900ff3_1004
+superlance-1.0.0-py310hff52083_1004
+superlance-2.0.0-py310hff52083_0
+superlance-2.0.0-py312h7900ff3_0
+superlance-2.0.0-py311h38be061_0

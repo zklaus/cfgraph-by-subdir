@@ -1,0 +1,6 @@
+r-readxl-1.4.1-r41h09f486c_0
+r-readxl-1.4.1-r40h09f486c_0
+r-readxl-1.4.1-r41h1c2d66b_1
+r-readxl-1.4.2-r41h1c2d66b_0
+r-readxl-1.4.2-r41h1c2d66b_1
+r-readxl-1.4.3-r41h1c2d66b_0

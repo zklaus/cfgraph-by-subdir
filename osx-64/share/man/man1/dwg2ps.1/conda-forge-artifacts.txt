@@ -1,0 +1,11 @@
+libredwg-0.8.2337-py37he54a443_0
+libredwg-0.8.2337-py36he54a443_0
+libredwg-0.8.2337-py27he54a443_0
+libredwg-0.8.2337-py27he54a443_1
+libredwg-0.8.2337-py37he54a443_1
+libredwg-0.8.2337-py38he54a443_1
+libredwg-0.8.2337-py36he54a443_1
+libredwg-0.9.3.2543-py37he54a443_0
+libredwg-0.9.3.2543-py38he54a443_0
+libredwg-0.9.3.2543-py27he54a443_0
+libredwg-0.9.3.2543-py36he54a443_0

@@ -1,0 +1,3 @@
+ipyparallel-7.0.1-pyhd8ed1ab_0
+ipyparallel-7.1.0-pyhd8ed1ab_0
+ipyparallel-8.0.0-pyhd8ed1ab_0

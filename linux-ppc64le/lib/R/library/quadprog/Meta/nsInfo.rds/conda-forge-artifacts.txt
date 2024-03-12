@@ -1,0 +1,13 @@
+r-quadprog-1.5_8-r36h502d61b_1
+r-quadprog-1.5_8-r36h502d61b_2
+r-quadprog-1.5_8-r40h502d61b_2
+r-quadprog-1.5_8-r36h72e1c77_3
+r-quadprog-1.5_8-r40hd3b9da8_3
+r-quadprog-1.5_8-r36hd3b9da8_3
+r-quadprog-1.5_8-r40h72e1c77_3
+r-quadprog-1.5_8-r41h1686639_3
+r-quadprog-1.5_8-r40h1686639_3
+r-quadprog-1.5_8-r41hdd7f0af_4
+r-quadprog-1.5_8-r42hdd7f0af_4
+r-quadprog-1.5_8-r43h6fab3c9_5
+r-quadprog-1.5_8-r42h6fab3c9_5

@@ -1,0 +1,16 @@
+gstlal-ugly-1.10.0-py310ha340a21_3
+gstlal-ugly-1.10.0-py38h7ffc139_3
+gstlal-ugly-1.10.0-py39h27341b2_3
+gstlal-ugly-1.10.0-py311h40e89bf_3
+gstlal-ugly-1.10.0-py38h3fb8617_4
+gstlal-ugly-1.10.0-py310h976aafe_4
+gstlal-ugly-1.10.0-py311h624962b_4
+gstlal-ugly-1.10.0-py39h7341865_4
+gstlal-ugly-1.11.0-py39ha082699_0
+gstlal-ugly-1.11.0-py311hb60dd74_0
+gstlal-ugly-1.12.0-py311hb60dd74_0
+gstlal-ugly-1.12.0-py39hc88d131_0
+gstlal-ugly-1.12.0-py310h5b7b8d0_0
+gstlal-ugly-1.12.0-py38h69b4122_0
+gstlal-ugly-1.11.0-py38hcb43c4a_0
+gstlal-ugly-1.11.0-py310h8da8db1_0

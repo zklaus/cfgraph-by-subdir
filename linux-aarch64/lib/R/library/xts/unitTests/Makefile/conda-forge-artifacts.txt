@@ -1,0 +1,8 @@
+r-xts-0.12.1-r36h6ddfea1_0
+r-xts-0.12.1-r40h6ddfea1_0
+r-xts-0.12.1-r40h96a179c_0
+r-xts-0.12.1-r41h96a179c_0
+r-xts-0.12.1-r40hc7730c6_0
+r-xts-0.12.1-r41hc7730c6_0
+r-xts-0.12.1-r41h8e445f0_1
+r-xts-0.12.1-r42h8e445f0_1

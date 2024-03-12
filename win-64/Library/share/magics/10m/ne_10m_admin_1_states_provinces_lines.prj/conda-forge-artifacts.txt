@@ -1,0 +1,10 @@
+magics-4.2.3-h5ec3e93_0
+magics-4.2.3-h9aab2ac_1
+magics-4.2.6-h9aab2ac_1
+magics-4.2.6-h4f2dedf_2
+magics-4.2.6-h373555e_3
+magics-4.3.0-h373555e_0
+magics-4.4.1-he5e2dfa_0
+magics-4.4.1-hb556dd9_0
+magics-4.4.1-h4d84abf_3
+magics-4.4.1-ha5a9ba6_3

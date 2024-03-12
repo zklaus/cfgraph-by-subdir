@@ -1,0 +1,11 @@
+libexactreal-2.1.0-h7725c05_0
+libexactreal-2.1.0-ha45f4f4_1
+libexactreal-2.2.0-ha45f4f4_0
+libexactreal-2.2.1-ha45f4f4_0
+libexactreal-2.2.1-h8b9717c_1
+libexactreal-2.3.0-h8b9717c_0
+libexactreal-2.3.0-h05def33_1
+libexactreal-2.3.0-h135f518_2
+libexactreal-2.3.0-h5abf39e_3
+libexactreal-2.3.0-he84b109_4
+libexactreal-2.3.0-h1b2fad7_5

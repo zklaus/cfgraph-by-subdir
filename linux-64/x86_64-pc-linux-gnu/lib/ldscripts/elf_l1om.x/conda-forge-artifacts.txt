@@ -1,0 +1,8 @@
+binutils-2.26-0
+binutils-2.27-0
+binutils-2.28-0
+binutils-2.30-0
+binutils-2.31-0
+binutils-2.32-hf484d3e_0
+binutils-2.32-hf484d3e_2
+binutils-2.32-he1b5a44_3

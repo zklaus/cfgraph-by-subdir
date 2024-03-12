@@ -1,0 +1,4 @@
+einsums-0.2-mkl_h09027b7_0
+einsums-0.2-openblas_hd68ea69_0
+einsums-0.3-mkl_h09027b7_0
+einsums-0.3-openblas_hd68ea69_0

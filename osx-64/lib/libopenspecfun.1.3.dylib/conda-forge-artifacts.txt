@@ -1,0 +1,7 @@
+openspecfun-0.5.3-0
+openspecfun-0.5.3-h26a2512_0
+openspecfun-0.5.3-h12d9a10_1000
+openspecfun-0.5.3-hfcebdee_1001
+openspecfun-0.5.3-ha90c164_1001
+openspecfun-0.5.3-h131c384_1002
+openspecfun-0.5.3-h1423387_1002

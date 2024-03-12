@@ -1,0 +1,8 @@
+pyreadr-0.1.8-py36ha441bb4_0
+pyreadr-0.1.8-py37ha441bb4_0
+pyreadr-0.1.8-py37ha441bb4_2
+pyreadr-0.1.8-py36ha441bb4_2
+pyreadr-0.1.9-py36ha441bb4_0
+pyreadr-0.1.9-py37ha441bb4_0
+pyreadr-0.1.9-py36h2573ce8_0
+pyreadr-0.1.9-py37h2573ce8_0

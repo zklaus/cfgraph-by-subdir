@@ -1,0 +1,16 @@
+primesieve-5.6.0-vc10_0
+primesieve-5.6.0-vc10_3
+primesieve-5.6.0-vc14_0
+primesieve-5.6.0-vc14_3
+primesieve-5.6.0-vc14_4
+primesieve-5.7.3-vc14_0
+primesieve-5.7.3-he025d50_1
+primesieve-5.7.3-he025d50_1001
+primesieve-7.6-h0e60522_0
+primesieve-7.7-h0e60522_0
+primesieve-7.8-h0e60522_0
+primesieve-7.8-h0e60522_1
+primesieve-7.9-h0e60522_0
+primesieve-8.0-h0e60522_0
+primesieve-11.0-h63175ca_0
+primesieve-11.1-h63175ca_0

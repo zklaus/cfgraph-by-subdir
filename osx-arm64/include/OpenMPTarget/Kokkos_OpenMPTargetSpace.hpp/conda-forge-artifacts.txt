@@ -1,0 +1,5 @@
+kokkos-4.1.00-h4a1002f_0
+kokkos-4.1.00-h4a1002f_1
+kokkos-4.1.00-h4a1002f_2
+kokkos-4.1.00-hf543e12_3
+kokkos-4.2.00-hf543e12_0

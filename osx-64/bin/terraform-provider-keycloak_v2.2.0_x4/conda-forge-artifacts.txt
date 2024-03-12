@@ -1,0 +1,1 @@
+terraform-provider-keycloak-2.2.0-hac98541_0

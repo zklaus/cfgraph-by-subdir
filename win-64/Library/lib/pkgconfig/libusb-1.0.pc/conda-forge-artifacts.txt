@@ -1,0 +1,5 @@
+libusb-1.0.24-h0e60522_2
+libusb-1.0.24-h8ffe710_4
+libusb-1.0.24-h8ffe710_105
+libusb-1.0.25-h8ffe710_100
+libusb-1.0.26-h8ffe710_100

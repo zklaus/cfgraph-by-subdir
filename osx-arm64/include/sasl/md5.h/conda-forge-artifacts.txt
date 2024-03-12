@@ -1,0 +1,10 @@
+cyrus-sasl-2.1.27-h34943eb_1
+cyrus-sasl-2.1.27-h7c04901_2
+cyrus-sasl-2.1.27-h7c04901_3
+cyrus-sasl-2.1.27-hf0ddce2_4
+cyrus-sasl-2.1.27-h7c04901_4
+cyrus-sasl-2.1.27-h7c04901_5
+cyrus-sasl-2.1.27-hf0ddce2_5
+cyrus-sasl-2.1.27-h59bf3fd_6
+cyrus-sasl-2.1.27-h8ea298c_6
+cyrus-sasl-2.1.27-h60b93bd_7

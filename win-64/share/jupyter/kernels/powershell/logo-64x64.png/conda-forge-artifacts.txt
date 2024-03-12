@@ -1,0 +1,5 @@
+dotnet-interactive-1.0.157409-h57928b3_0
+dotnet-interactive-1.0.221505-h57928b3_0
+dotnet-interactive-1.0.225602-h57928b3_0
+dotnet-interactive-1.0.2275031-h57928b3_0
+dotnet-interactive-1.0.2309030-h57928b3_0

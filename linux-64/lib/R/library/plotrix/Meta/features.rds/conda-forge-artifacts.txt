@@ -1,0 +1,4 @@
+r-plotrix-3.6_6-r3.4.1_0
+r-plotrix-3.7-r3.4.1_0
+r-plotrix-3.7_3-r341h6115d3f_0
+r-plotrix-3.7_3-r351h6115d3f_0

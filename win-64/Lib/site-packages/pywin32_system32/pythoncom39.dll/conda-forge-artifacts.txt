@@ -1,0 +1,13 @@
+pywin32-228-py39h4cdbadb_0
+pywin32-228-py39hb82d6ee_1
+pywin32-300-py39hb82d6ee_0
+pywin32-227-py39hb82d6ee_1
+pywin32-301-py39hb82d6ee_0
+pywin32-302-py39hb82d6ee_2
+pywin32-303-py39hb82d6ee_0
+pywin32-303-py39ha55989b_1
+pywin32-304-py39h99910a6_1
+pywin32-304-py39h99910a6_2
+pywin32-306-py39h99910a6_0
+pywin32-306-py39h99910a6_1
+pywin32-306-py39h99910a6_2

@@ -1,0 +1,14 @@
+r-rcppspdlog-0.0.10-r41h9a38a31_0
+r-rcppspdlog-0.0.10-r42h9a38a31_0
+r-rcppspdlog-0.0.11-r42h9a38a31_0
+r-rcppspdlog-0.0.11-r41h9a38a31_0
+r-rcppspdlog-0.0.12-r41h9a38a31_0
+r-rcppspdlog-0.0.12-r42h9a38a31_0
+r-rcppspdlog-0.0.12-r42he62749d_1
+r-rcppspdlog-0.0.12-r43he62749d_1
+r-rcppspdlog-0.0.13-r42he62749d_0
+r-rcppspdlog-0.0.13-r43he62749d_0
+r-rcppspdlog-0.0.14-r43he62749d_0
+r-rcppspdlog-0.0.14-r42he62749d_0
+r-rcppspdlog-0.0.15-r42he96f11e_0
+r-rcppspdlog-0.0.15-r43he96f11e_0

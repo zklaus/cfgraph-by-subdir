@@ -1,0 +1,2 @@
+openvino-2023.0.0-py310hcbf0ffb_0
+openvino-2023.0.0-h2244a9a_1

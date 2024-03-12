@@ -1,0 +1,8 @@
+pgvector-0.4.0-h5a695e1_1
+pgvector-0.4.0-h5a695e1_2
+pgvector-0.4.0-haf31df1_3
+pgvector-0.4.2-h4bacaaa_0
+pgvector-0.4.3-h4bacaaa_0
+pgvector-0.4.4-h4bacaaa_0
+pgvector-0.5.0-h4bacaaa_0
+pgvector-0.5.1-h7d6f1e2_0

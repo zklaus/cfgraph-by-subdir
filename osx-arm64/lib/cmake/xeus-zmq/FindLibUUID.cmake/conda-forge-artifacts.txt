@@ -1,0 +1,4 @@
+xeus-zmq-1.0.1-h54398fd_1
+xeus-zmq-1.0.2-h54398fd_0
+xeus-zmq-1.0.2-h54398fd_1
+xeus-zmq-1.0.2-h54398fd_2

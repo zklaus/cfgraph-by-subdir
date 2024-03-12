@@ -1,0 +1,16 @@
+mongodb-4.2.9-hab9ba73_1
+mongodb-4.2.9-h7fc9462_1
+mongodb-4.2.10-h1381638_0
+mongodb-4.2.10-hc729fc0_0
+mongodb-4.2.11-h3e0f712_0
+mongodb-4.2.11-h843d515_1
+mongodb-4.2.12-h843d515_0
+mongodb-4.2.12-h3e7226c_1
+mongodb-4.2.12-h78d8dce_2
+mongodb-4.2.13-h78d8dce_0
+mongodb-4.2.13-h444e458_1
+mongodb-4.2.14-h444e458_0
+mongodb-4.2.14-h90cb6bc_1
+mongodb-4.2.14-hfec38ac_2
+mongodb-4.2.14-h8931249_3
+mongodb-4.2.15-h8931249_0

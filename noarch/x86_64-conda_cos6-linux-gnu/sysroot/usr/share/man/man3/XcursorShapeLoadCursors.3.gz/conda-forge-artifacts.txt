@@ -1,0 +1,4 @@
+libxcursor-devel-cos6-x86_64-1.1.14-hdf0574f_102
+libxcursor-devel-cos6-x86_64-1.1.14-ha826a6f_103
+libxcursor-devel-cos6-x86_64-1.1.14-h9d98e8f_104
+libxcursor-devel-cos6-x86_64-1.1.14-h9b0a68f_105

@@ -1,0 +1,12 @@
+pymeep-1.16.1-nompi_py38hb649f08_100
+pymeep-1.16.1-nompi_py37hd591831_100
+pymeep-1.16.1-nompi_py36h567ff51_100
+pymeep-1.16.1-nompi_py37heab4fd8_100
+pymeep-1.16.1-nompi_py36h0568061_100
+pymeep-1.16.1-nompi_py38h381129c_100
+pymeep-1.16.1-mpi_mpich_py37he041905_0
+pymeep-1.16.1-mpi_mpich_py36h0467161_0
+pymeep-1.16.1-mpi_mpich_py38h25fa764_0
+pymeep-1.16.1-mpi_mpich_py36h3980bd4_0
+pymeep-1.16.1-mpi_mpich_py37h7a7d4e8_0
+pymeep-1.16.1-mpi_mpich_py38hcf345d3_0

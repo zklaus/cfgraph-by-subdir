@@ -1,0 +1,6 @@
+lua-luaposix-33.4.0-pl5.20.3.1lua5.2_0
+lua-luaposix-33.4.0-pl5.20.3.1lua5.2_1
+lua-luaposix-33.4.0-pl5.22.0.1lua5.2_0
+lua-luaposix-33.4.0-pl5.22.0.1lua5.2_1
+lua-luaposix-33.4.0-pl5.22.2.1lua5.2_0
+lua-luaposix-33.4.0-pl5.22.2.1lua5.2_1

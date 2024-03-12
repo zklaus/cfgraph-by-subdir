@@ -1,0 +1,4 @@
+cantera-3.0.0-py310hdfd91f9_0
+cantera-3.0.0-py310h35d042d_1
+cantera-3.0.0-py310ha6a63a6_2
+cantera-3.0.0-py310ha6a63a6_3

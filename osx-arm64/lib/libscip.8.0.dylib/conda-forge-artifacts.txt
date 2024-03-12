@@ -1,0 +1,11 @@
+scip-8.0.0-h7158e95_1
+scip-8.0.1-h7158e95_0
+scip-8.0.1-hc348fcc_1
+scip-8.0.1-hb8cc2fd_2
+scip-8.0.1-hb8cc2fd_3
+scip-8.0.2-hb7915e4_0
+scip-8.0.2-h0b19ae7_1
+scip-8.0.3-h0b19ae7_0
+scip-8.0.3-h4bea629_1
+scip-8.0.3-h94111ae_2
+scip-8.0.4-h94111ae_0

@@ -1,0 +1,2 @@
+scijava-jupyter-kernel-0.6.0-0
+scijava-jupyter-kernel-0.6.1-0

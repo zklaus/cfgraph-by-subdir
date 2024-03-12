@@ -1,0 +1,9 @@
+pari-2.11.1-pl526h0169eea_0
+pari-2.11.1-pl526h71decd9_1
+pari-2.11.1-pl526h71decd9_2
+pari-2.11.1-pl526h5f483b1_2
+pari-2.11.2-pl526h5f483b1_0
+pari-2.11.4-pl5262h250645c_0
+pari-2.11.4-h23558ed_0
+pari-2.11.4-h797e938_1
+pari-2.11.4-h797e938_2

@@ -1,0 +1,10 @@
+libignition-sensors5-5.0.0-hc219fc0_4
+libignition-sensors5-5.0.0-hd9c418b_4
+libignition-sensors5-5.0.0-h3fbc3cb_5
+libignition-sensors5-5.0.0-hf12a5d0_5
+libignition-sensors5-5.0.0-h75cae10_6
+libignition-sensors5-5.0.0-hd714761_6
+libignition-sensors5-5.0.0-hb952e3c_7
+libignition-sensors5-5.0.0-h35ea0af_7
+libignition-sensors5-5.0.0-hf430581_8
+libignition-sensors5-5.0.0-hbef4a3b_8

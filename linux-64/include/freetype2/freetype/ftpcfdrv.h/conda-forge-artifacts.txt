@@ -1,0 +1,2 @@
+freetype-2.8.1-0
+freetype-2.8.1-hfa320df_1

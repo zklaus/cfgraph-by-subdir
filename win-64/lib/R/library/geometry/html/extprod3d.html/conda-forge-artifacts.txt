@@ -1,0 +1,15 @@
+r-geometry-0.3_6-r351h6115d3f_1002
+r-geometry-0.4.0-r351h6115d3f_0
+r-geometry-0.4.1-r35h796a38f_0
+r-geometry-0.4.1.1-r35h796a38f_0
+r-geometry-0.4.2-r35h796a38f_0
+r-geometry-0.4.2-r36h796a38f_0
+r-geometry-0.4.4-r35h796a38f_0
+r-geometry-0.4.4-r36h796a38f_0
+r-geometry-0.4.5-r35h796a38f_0
+r-geometry-0.4.5-r36h796a38f_0
+r-geometry-0.4.5-r36h796a38f_1
+r-geometry-0.4.5-r40h796a38f_1
+r-geometry-0.4.5-r40ha856d6a_1
+r-geometry-0.4.6-r40ha856d6a_0
+r-geometry-0.4.6.1-r40ha856d6a_0

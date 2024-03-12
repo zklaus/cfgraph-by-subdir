@@ -1,0 +1,9 @@
+assimp-5.2.3-hd77be17_0
+assimp-5.2.3-hd77be17_1
+assimp-5.2.4-h3287542_0
+assimp-5.2.4-h276577b_1
+assimp-5.2.4-h276577b_2
+assimp-5.2.5-h276577b_0
+assimp-5.3.1-he4e5961_1
+assimp-5.3.0-he4e5961_0
+assimp-5.3.1-he63ff86_2

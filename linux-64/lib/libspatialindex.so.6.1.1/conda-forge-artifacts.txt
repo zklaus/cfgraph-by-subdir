@@ -1,0 +1,5 @@
+libspatialindex-1.9.3-he1b5a44_0
+libspatialindex-1.9.3-he1b5a44_1
+libspatialindex-1.9.3-he1b5a44_3
+libspatialindex-1.9.3-h9c3ff4c_3
+libspatialindex-1.9.3-h9c3ff4c_4

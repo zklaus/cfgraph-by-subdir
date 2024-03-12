@@ -1,0 +1,10 @@
+r-stringdist-0.9.7-r40h6d2157b_0
+r-stringdist-0.9.7-r41h6d2157b_0
+r-stringdist-0.9.8-r40h6d2157b_0
+r-stringdist-0.9.8-r41h6d2157b_0
+r-stringdist-0.9.8-r41h6d2157b_1
+r-stringdist-0.9.8-r40h6d2157b_1
+r-stringdist-0.9.8-r41h6d2157b_2
+r-stringdist-0.9.9-r41h6d2157b_0
+r-stringdist-0.9.10-r41h6d2157b_0
+r-stringdist-0.9.10-r41h6d2157b_1

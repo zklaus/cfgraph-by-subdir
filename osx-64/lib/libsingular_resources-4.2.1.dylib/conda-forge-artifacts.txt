@@ -1,0 +1,4 @@
+singular-4.2.1.p3-h363432b_0
+singular-4.2.1.p3-h28b0f62_1
+singular-4.2.1.p3-hac851df_2
+singular-4.2.1.p3-h0d51a9f_3

@@ -1,0 +1,2 @@
+regolith-0.7.2-pyh050c7b8_1
+regolith-0.8.2-pyhc1e730c_0

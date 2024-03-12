@@ -1,0 +1,13 @@
+gudhi-3.8.0-py38he3e8eed_5
+gudhi-3.8.0-py310h8ff1a59_5
+gudhi-3.8.0-py311hd14b731_5
+gudhi-3.8.0-py39hb1d1659_5
+gudhi-3.8.0-py39h02c0164_6
+gudhi-3.8.0-py311ha13b220_6
+gudhi-3.8.0-py38hd75cd57_6
+gudhi-3.8.0-py310h0c0fdcc_6
+gudhi-3.8.0-py311ha13b220_7
+gudhi-3.8.0-py310h0c0fdcc_7
+gudhi-3.8.0-py38hd75cd57_7
+gudhi-3.8.0-py312h4b1db41_7
+gudhi-3.8.0-py39h02c0164_7

@@ -1,0 +1,17 @@
+libarrow-14.0.1-h007172e_0_cpu
+libarrow-14.0.1-haaf7269_0_cuda
+libarrow-14.0.1-h0a5bb7e_1_cpu
+libarrow-14.0.1-h733b303_1_cuda
+libarrow-14.0.1-h38604f6_2_cpu
+libarrow-14.0.1-h8104869_2_cuda
+libarrow-14.0.1-h8f55250_3_cpu
+libarrow-14.0.1-h73ac756_3_cuda
+libarrow-14.0.1-hc7032e4_4_cpu
+libarrow-14.0.1-hb441215_4_cuda
+libarrow-14.0.1-hdfc1338_5_cpu
+libarrow-14.0.1-h6e3241d_5_cuda
+libarrow-14.0.1-he0a0def_6_cuda
+libarrow-14.0.1-h4266d94_6_cpu
+libarrow-14.0.1-h0991cb5_7_cpu
+libarrow-14.0.1-h9b6b63f_7_cuda
+libarrow-14.0.1-h0991cb5_8_cpu

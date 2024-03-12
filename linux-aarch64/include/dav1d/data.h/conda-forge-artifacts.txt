@@ -1,0 +1,3 @@
+dav1d-1.0.0-h4e544f5_1
+dav1d-1.2.0-h31becfc_0
+dav1d-1.2.1-h31becfc_0

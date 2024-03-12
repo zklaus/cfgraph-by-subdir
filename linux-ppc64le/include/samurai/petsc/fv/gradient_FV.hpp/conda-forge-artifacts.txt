@@ -1,0 +1,3 @@
+samurai-0.1.1-h43f89eb_1
+samurai-0.2.0-h43f89eb_0
+samurai-0.3.0-h3de9e99_1

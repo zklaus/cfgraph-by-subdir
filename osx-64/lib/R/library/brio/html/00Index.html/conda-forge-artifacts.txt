@@ -1,0 +1,15 @@
+r-brio-1.1.0-r36h800e0f2_0
+r-brio-1.1.0-r40h800e0f2_0
+r-brio-1.1.0-r36h6b199c2_1
+r-brio-1.1.0-r40h6b199c2_1
+r-brio-1.1.1-r36h066c5db_0
+r-brio-1.1.1-r40h066c5db_0
+r-brio-1.1.2-r40h28b5c78_0
+r-brio-1.1.2-r36h28b5c78_0
+r-brio-1.1.2-r41h28b5c78_0
+r-brio-1.1.3-r41h28b5c78_0
+r-brio-1.1.3-r40h28b5c78_0
+r-brio-1.1.3-r42h815d134_1
+r-brio-1.1.3-r41h815d134_1
+r-brio-1.1.3-r42h6dc245f_2
+r-brio-1.1.3-r43h6dc245f_2

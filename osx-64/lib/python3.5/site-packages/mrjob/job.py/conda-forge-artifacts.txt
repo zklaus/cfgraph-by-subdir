@@ -1,0 +1,4 @@
+mrjob-0.5.10-py35_0
+mrjob-0.5.5-py35_0
+mrjob-0.5.8-py35_0
+mrjob-0.5.9-py35_0

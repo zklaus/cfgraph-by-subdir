@@ -1,0 +1,12 @@
+r-rcsf-1.0.1-r36h0357c0b_0
+r-rcsf-1.0.1-r35h0357c0b_0
+r-rcsf-1.0.2-r35h0357c0b_0
+r-rcsf-1.0.2-r36h0357c0b_0
+r-rcsf-1.0.2-r36h0357c0b_1
+r-rcsf-1.0.2-r40h0357c0b_1
+r-rcsf-1.0.2-r41h03ef668_1
+r-rcsf-1.0.2-r40h03ef668_1
+r-rcsf-1.0.2-r41h7525677_2
+r-rcsf-1.0.2-r42h7525677_2
+r-rcsf-1.0.2-r42ha503ecb_3
+r-rcsf-1.0.2-r43ha503ecb_3

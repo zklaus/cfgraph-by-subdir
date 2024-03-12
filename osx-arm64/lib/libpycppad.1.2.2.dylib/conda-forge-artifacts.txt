@@ -1,0 +1,13 @@
+pycppad-1.2.2-py38h2aceca4_0
+pycppad-1.2.2-py39h73bb208_0
+pycppad-1.2.2-py310h27c05e7_0
+pycppad-1.2.2-py39hb94e712_1
+pycppad-1.2.2-py310ha2643af_1
+pycppad-1.2.2-py38h5fc7918_1
+pycppad-1.2.2-py38h5fc7918_2
+pycppad-1.2.2-py310ha2643af_2
+pycppad-1.2.2-py39hb94e712_2
+pycppad-1.2.2-py311h6857c3b_3
+pycppad-1.2.2-py310ha2643af_3
+pycppad-1.2.2-py39hb94e712_3
+pycppad-1.2.2-py38h5fc7918_3

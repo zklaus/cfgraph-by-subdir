@@ -1,0 +1,10 @@
+persistent-4.7.0-py310h6acc77f_1
+persistent-4.8.0-py310h5764c6d_0
+persistent-4.9.0-py310h5764c6d_0
+persistent-4.9.0-py310h5764c6d_1
+persistent-4.9.1-py310h5764c6d_0
+persistent-4.9.1-py310h5764c6d_1
+persistent-4.9.2-py310h5764c6d_0
+persistent-4.9.3-py310h5764c6d_0
+persistent-5.0-py310h1fa729e_0
+persistent-5.0-py310h2372a71_1

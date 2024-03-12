@@ -1,0 +1,4 @@
+jupyterlab-git-0.38.0-pyhd8ed1ab_0
+jupyterlab-git-0.39.0-pyhd8ed1ab_0
+jupyterlab-git-0.39.1-pyhd8ed1ab_0
+jupyterlab-git-0.39.2-pyhd8ed1ab_0

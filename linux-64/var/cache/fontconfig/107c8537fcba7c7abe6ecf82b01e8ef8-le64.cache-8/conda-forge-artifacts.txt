@@ -1,0 +1,1 @@
+pyside2-5.15.8-py39h36db9bd_0

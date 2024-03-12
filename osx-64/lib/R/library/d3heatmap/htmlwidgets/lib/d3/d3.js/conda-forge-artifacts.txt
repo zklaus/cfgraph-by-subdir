@@ -1,0 +1,6 @@
+r-d3heatmap-0.6.1.1-r3.3.2_0
+r-d3heatmap-0.6.1.1-r3.4.1_0
+r-d3heatmap-0.6.1.2-r3.3.2_0
+r-d3heatmap-0.6.1.2-r3.4.1_0
+r-d3heatmap-0.6.1.2-r351h6115d3f_1
+r-d3heatmap-0.6.1.2-r341h6115d3f_1

@@ -1,0 +1,13 @@
+singular-4.1.0.p3-0
+singular-4.1.0.p3-1
+singular-4.1.0.p3-h1e9d69d_2
+singular-4.1.0.p3-h61b60e8_2
+singular-4.1.0.p3-h2f446a3_1002
+singular-4.1.2.p1-h787fc11_0
+singular-4.1.2.p1-hdd094a0_1
+singular-4.1.2.p1-hdd094a0_2
+singular-4.1.1.p2-hdd094a0_0
+singular-4.1.1.p2-h7f49944_1
+singular-4.1.1.p2-h7f49944_2
+singular-4.1.1.p2-h2509de8_3
+singular-4.1.1.p2-ha188dad_4

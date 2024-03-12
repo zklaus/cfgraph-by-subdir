@@ -1,0 +1,15 @@
+patchelf-0.11-he1b5a44_0
+patchelf-0.12-h9c3ff4c_0
+patchelf-0.12-h58526e2_1
+patchelf-0.13-h58526e2_0
+patchelf-0.14-h58526e2_0
+patchelf-0.14.1-h58526e2_0
+patchelf-0.14.2-h58526e2_0
+patchelf-0.14.3-h58526e2_0
+patchelf-0.14.5-h58526e2_0
+patchelf-0.15.0-h58526e2_0
+patchelf-0.16.1-h58526e2_0
+patchelf-0.17.0-h58526e2_0
+patchelf-0.17.2-h58526e2_0
+patchelf-0.18.0-h59595ed_0
+patchelf-0.18.0-h59595ed_1

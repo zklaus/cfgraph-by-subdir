@@ -1,0 +1,17 @@
+google-cloud-cpp-2.3.0-h5544587_0
+google-cloud-cpp-2.3.0-h838d150_0
+google-cloud-cpp-2.3.0-hd6f79ff_0
+google-cloud-cpp-2.3.0-hd012917_0
+google-cloud-cpp-2.3.0-hcb5eced_1
+google-cloud-cpp-2.3.0-h66391e6_1
+google-cloud-cpp-2.4.0-hcb5eced_0
+google-cloud-cpp-2.4.0-h66391e6_0
+google-cloud-cpp-2.5.0-h66391e6_0
+google-cloud-cpp-2.5.0-hcb5eced_0
+google-cloud-cpp-2.5.0-h5d50b59_1
+google-cloud-cpp-2.5.0-h21dfe5b_1
+google-cloud-cpp-2.6.0-h5d50b59_0
+google-cloud-cpp-2.6.0-h21dfe5b_0
+google-cloud-cpp-2.7.0-h21dfe5b_0
+google-cloud-cpp-2.7.0-h21dfe5b_1
+google-cloud-cpp-2.7.0-h3c06191_2

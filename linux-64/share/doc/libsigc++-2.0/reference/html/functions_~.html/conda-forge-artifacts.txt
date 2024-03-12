@@ -1,0 +1,9 @@
+libsigcpp-2.10.0-0
+libsigcpp-2.6.2-0
+libsigcpp-2.8.0-0
+libsigcpp-2.8.0-1
+libsigcpp-2.8.0-2
+libsigcpp-2.8.0-3
+libsigcpp-2.10.0-hfc679d8_0
+libsigcpp-2.10.0-hfc679d8_1
+libsigcpp-2.10.0-hf484d3e_1001

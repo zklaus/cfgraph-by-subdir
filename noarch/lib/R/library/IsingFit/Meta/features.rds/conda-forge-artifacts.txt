@@ -1,0 +1,8 @@
+r-isingfit-0.3.1-r41hc72bb7e_0
+r-isingfit-0.3.1-r40hc72bb7e_0
+r-isingfit-0.3.1-r41hc72bb7e_1
+r-isingfit-0.3.1-r42hc72bb7e_1
+r-isingfit-0.3.1-r42hc72bb7e_2
+r-isingfit-0.3.1-r43hc72bb7e_2
+r-isingfit-0.4-r43hc72bb7e_0
+r-isingfit-0.4-r42hc72bb7e_0

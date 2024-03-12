@@ -1,0 +1,16 @@
+kubelogin-0.0.6-h77a327e_1
+kubelogin-0.0.6-h412194d_1
+kubelogin-0.0.7-h92b2616_0
+kubelogin-0.0.8-h92b2616_0
+kubelogin-0.0.9-h92b2616_0
+kubelogin-0.0.10-h92b2616_0
+kubelogin-0.0.11-h92b2616_0
+kubelogin-0.0.12-h92b2616_0
+kubelogin-0.0.13-h92b2616_0
+kubelogin-0.0.14-h92b2616_0
+kubelogin-0.0.15-h92b2616_0
+kubelogin-0.0.16-h92b2616_0
+kubelogin-0.0.17-h92b2616_0
+kubelogin-0.0.18-h92b2616_0
+kubelogin-0.0.19-h92b2616_0
+kubelogin-0.0.20-h92b2616_0

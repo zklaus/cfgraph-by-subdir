@@ -1,0 +1,5 @@
+vscode-jupyter-2021.3.1-py36h90d456b_0
+vscode-jupyter-2021.3.1-py36hcae0fc4_0
+vscode-jupyter-2021.3.1-py37h237f8a2_0
+vscode-jupyter-2021.3.1-py37h6191671_0
+vscode-jupyter-2021.3.1-py39hbd5773b_0

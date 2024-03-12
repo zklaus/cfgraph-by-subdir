@@ -1,0 +1,4 @@
+libqglviewer-2.7.2-hd481e31_0
+libqglviewer-2.8.0-h0e60522_0
+libqglviewer-2.8.0-h2db317d_1
+libqglviewer-2.9.1-h07be427_0

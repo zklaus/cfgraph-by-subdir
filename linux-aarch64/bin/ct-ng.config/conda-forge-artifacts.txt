@@ -1,0 +1,17 @@
+c-compiler-1.0.4-h6dd45c4_0
+fortran-compiler-1.0.4-h4ad3b0d_0
+c-compiler-1.1.0-h6dd45c4_0
+fortran-compiler-1.1.0-h4ad3b0d_0
+c-compiler-1.1.1-h6dd45c4_0
+fortran-compiler-1.1.1-h4ad3b0d_0
+c-compiler-1.1.1-h6dd45c4_1
+fortran-compiler-1.1.1-h4ad3b0d_1
+c-compiler-1.1.1-h307535f_1
+fortran-compiler-1.1.1-he63740c_1
+c-compiler-1.1.2-h3557bc0_0
+fortran-compiler-1.1.2-h074f5a3_0
+c-compiler-1.1.2-hfd2af3c_0
+fortran-compiler-1.1.2-h244419a_0
+c-compiler-1.1.3-h3557bc0_0
+fortran-compiler-1.1.3-h074f5a3_0
+c-compiler-1.2.0-h3557bc0_0

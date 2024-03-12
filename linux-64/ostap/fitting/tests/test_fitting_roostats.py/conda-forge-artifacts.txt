@@ -1,0 +1,3 @@
+ostaphep-1.9.6.2-py38h0b8acf7_0
+ostaphep-1.9.6.2-py39hdb82873_0
+ostaphep-1.9.6.2-py310hd5012a4_0

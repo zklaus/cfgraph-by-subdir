@@ -1,0 +1,6 @@
+osqp-eigen-0.6.4-he49afe7_0
+osqp-eigen-0.6.4-he49afe7_1
+osqp-eigen-0.7.0-he49afe7_0
+osqp-eigen-0.8.0-hf0c8a7f_0
+osqp-eigen-0.8.0-hede6739_1
+osqp-eigen-0.8.1-hede6739_0

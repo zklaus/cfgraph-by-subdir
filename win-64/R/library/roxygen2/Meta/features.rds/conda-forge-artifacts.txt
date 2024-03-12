@@ -1,0 +1,6 @@
+r-roxygen2-6.0.1-r3.4.1_0
+r-roxygen2-6.0.1-r341hca4a3dc_1
+r-roxygen2-6.0.1-r351h6115d3f_2
+r-roxygen2-6.0.1-r341h6115d3f_2
+r-roxygen2-6.1.0-r341h6115d3f_0
+r-roxygen2-6.1.0-r351h6115d3f_0

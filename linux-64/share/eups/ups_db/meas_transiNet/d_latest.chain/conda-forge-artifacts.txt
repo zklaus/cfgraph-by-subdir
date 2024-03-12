@@ -1,0 +1,8 @@
+stackvana-lsst_distrib-0.2023.27-py310h58b28c2_0
+stackvana-lsst_distrib-0.2023.32-py311hece06ba_0
+stackvana-lsst_distrib-0.2023.33-py311hece06ba_0
+stackvana-lsst_distrib-0.2023.34-py311hece06ba_0
+stackvana-lsst_distrib-0.2023.38-py311hece06ba_0
+stackvana-lsst_distrib-0.2023.40-py311hece06ba_0
+stackvana-lsst_distrib-0.2023.45-py311hece06ba_0
+stackvana-lsst_distrib-0.2023.47-py311hece06ba_0

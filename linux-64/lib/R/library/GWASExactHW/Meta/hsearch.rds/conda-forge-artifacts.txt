@@ -1,0 +1,10 @@
+r-gwasexacthw-1.01-r35hcdcec82_0
+r-gwasexacthw-1.01-r36hcdcec82_0
+r-gwasexacthw-1.01-r36hcdcec82_1
+r-gwasexacthw-1.01-r40hcdcec82_1
+r-gwasexacthw-1.01-r41hcfec24a_1
+r-gwasexacthw-1.01-r40hcfec24a_1
+r-gwasexacthw-1.01-r42h06615bd_2
+r-gwasexacthw-1.01-r41h06615bd_2
+r-gwasexacthw-1.01-r43h57805ef_3
+r-gwasexacthw-1.01-r42h57805ef_3

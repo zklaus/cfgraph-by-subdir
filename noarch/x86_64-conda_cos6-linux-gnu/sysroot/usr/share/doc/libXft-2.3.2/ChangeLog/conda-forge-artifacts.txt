@@ -1,0 +1,4 @@
+libxft-cos6-x86_64-2.3.2-hdf0574f_102
+libxft-cos6-x86_64-2.3.2-ha826a6f_103
+libxft-cos6-x86_64-2.3.2-h9d98e8f_104
+libxft-cos6-x86_64-2.3.2-h9b0a68f_105

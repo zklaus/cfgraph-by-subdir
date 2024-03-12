@@ -1,0 +1,4 @@
+bazel_buildozer-4.0.0-ha8f183a_0
+bazel_buildozer-4.2.4-ha8f183a_0
+bazel_buildozer-5.1.0-ha8f183a_0
+bazel_buildozer-6.0.0-ha8f183a_0

@@ -1,0 +1,7 @@
+libgpg-error-1.27-0
+libgpg-error-1.27-1
+libgpg-error-1.29-0
+libgpg-error-1.30-0
+libgpg-error-1.31-hf484d3e_0
+libgpg-error-1.32-hfc679d8_0
+libgpg-error-1.32-hf484d3e_1000

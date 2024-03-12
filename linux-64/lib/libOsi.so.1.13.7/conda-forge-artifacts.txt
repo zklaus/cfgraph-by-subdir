@@ -1,0 +1,3 @@
+coin-or-osi-0.108.7-h3b589db_0
+coin-or-osi-0.108.7-h2720bb7_1
+coin-or-osi-0.108.7-h2720bb7_2

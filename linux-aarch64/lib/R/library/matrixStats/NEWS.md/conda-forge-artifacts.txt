@@ -1,0 +1,8 @@
+r-matrixstats-0.63.0-r41h8e445f0_0
+r-matrixstats-0.63.0-r42h8e445f0_0
+r-matrixstats-1.0.0-r42h25e906a_0
+r-matrixstats-1.0.0-r41h25e906a_0
+r-matrixstats-1.0.0-r42h25e906a_1
+r-matrixstats-1.0.0-r43h25e906a_1
+r-matrixstats-1.1.0-r42h25e906a_0
+r-matrixstats-1.1.0-r43h25e906a_0

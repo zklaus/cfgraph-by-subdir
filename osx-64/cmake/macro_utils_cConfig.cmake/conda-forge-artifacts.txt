@@ -1,0 +1,3 @@
+azure-macro-utils-c-2022.08.09-hbbd2c75_0
+azure-macro-utils-c-2022.08.09-hbbd2c75_1
+azure-macro-utils-c-2022.08.09-he965462_2

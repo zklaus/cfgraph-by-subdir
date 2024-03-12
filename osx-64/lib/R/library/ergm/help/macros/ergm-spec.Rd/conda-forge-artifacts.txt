@@ -1,0 +1,17 @@
+r-ergm-4.2.1-r41h67d6963_0
+r-ergm-4.2.1-r40h67d6963_0
+r-ergm-4.2.2-r41h67d6963_0
+r-ergm-4.2.2-r40h67d6963_0
+r-ergm-4.2.3-r41h815d134_0
+r-ergm-4.2.3-r42h815d134_1
+r-ergm-4.2.3-r41h815d134_1
+r-ergm-4.3.1-r41h815d134_0
+r-ergm-4.3.1-r42h815d134_0
+r-ergm-4.3.2-r41h815d134_0
+r-ergm-4.3.2-r42h815d134_0
+r-ergm-4.4.0-r41h815d134_0
+r-ergm-4.4.0-r42h815d134_0
+r-ergm-4.5.0-r42h6dc245f_0
+r-ergm-4.5.0-r41h6dc245f_0
+r-ergm-4.5.0-r43h6dc245f_1
+r-ergm-4.5.0-r42h6dc245f_1

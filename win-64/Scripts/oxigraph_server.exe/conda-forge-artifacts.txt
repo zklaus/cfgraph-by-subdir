@@ -1,0 +1,8 @@
+oxigraph-server-0.2.5-hf14c853_0
+oxigraph-server-0.2.5-hf14c853_1
+oxigraph-server-0.3.0-hf14c853_0
+oxigraph-server-0.3.1-hf14c853_0
+oxigraph-server-0.3.1-hf14c853_1
+oxigraph-server-0.3.1-h308cbc3_1
+oxigraph-server-0.3.2-hf14c853_1
+oxigraph-server-0.3.2-h308cbc3_1

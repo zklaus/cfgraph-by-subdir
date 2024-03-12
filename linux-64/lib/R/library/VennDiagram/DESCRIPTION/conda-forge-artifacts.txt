@@ -1,0 +1,6 @@
+r-venndiagram-1.6.17-r3.3.2_0
+r-venndiagram-1.6.17-r3.4.1_0
+r-venndiagram-1.6.18-r3.3.2_0
+r-venndiagram-1.6.18-r3.4.1_0
+r-venndiagram-1.6.20-r351h6115d3f_0
+r-venndiagram-1.6.20-r341h6115d3f_0

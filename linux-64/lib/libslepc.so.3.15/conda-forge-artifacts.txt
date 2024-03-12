@@ -1,0 +1,12 @@
+slepc-3.15.0-hbe48036_0
+slepc-3.15.0-h6a49e56_0
+slepc-3.15.1-h25c8711_0
+slepc-3.15.1-hf69d3b5_0
+slepc-3.15.1-complex_h6897356_1
+slepc-3.15.1-complex_h75ead03_1
+slepc-3.15.1-real_h6e7ff00_101
+slepc-3.15.1-real_h7bbb3bb_101
+slepc-3.15.2-complex_h6897356_0
+slepc-3.15.2-complex_h75ead03_0
+slepc-3.15.2-real_h6e7ff00_100
+slepc-3.15.2-real_h7bbb3bb_100

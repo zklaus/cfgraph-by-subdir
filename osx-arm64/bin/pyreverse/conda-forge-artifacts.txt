@@ -1,0 +1,4 @@
+pylint-2.6.0-py38h10201cd_1
+pylint-2.6.0-py39h2804cbe_1
+pylint-2.7.2-py39h2804cbe_0
+pylint-2.7.2-py38h10201cd_0

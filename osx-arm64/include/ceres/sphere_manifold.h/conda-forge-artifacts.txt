@@ -1,0 +1,5 @@
+ceres-solver-2.1.0-h003d947_0
+ceres-solver-2.1.0-ha0d94fb_1
+ceres-solver-2.1.0-hfaa3f39_2
+ceres-solver-2.2.0-h1a5cec8_0
+ceres-solver-2.2.0-h1a5cec8_1

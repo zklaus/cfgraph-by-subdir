@@ -1,0 +1,5 @@
+libatomic_ops-7.4.10-0
+libatomic_ops-7.4.2-0
+libatomic_ops-7.6.4-0
+libatomic_ops-7.6.4-h470a237_0
+libatomic_ops-7.6.6-h470a237_0

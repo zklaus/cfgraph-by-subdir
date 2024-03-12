@@ -1,0 +1,8 @@
+librmm-21.10.00-he569e34_0
+librmm-21.10.01-he569e34_0
+thrust-1.16.0-ha3edaa6_0
+thrust-1.16.0-hc9efd5c_1
+thrust-1.15.0-hc9efd5c_0
+thrust-1.16.0-hc9efd5c_2
+cuda-cccl-impl-2.0.1-ha3edaa6_0
+cuda-cccl-impl-2.0.1-ha3edaa6_1

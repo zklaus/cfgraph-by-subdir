@@ -1,0 +1,6 @@
+nionswift-tool-0.4.19-py39hb5f30e2_0
+nionswift-tool-0.4.19-py311hb5f30e2_0
+nionswift-tool-0.4.19-py310hb5f30e2_0
+nionswift-tool-0.4.20-py39hb5f30e2_0
+nionswift-tool-0.4.20-py311hb5f30e2_0
+nionswift-tool-0.4.20-py310hb5f30e2_0

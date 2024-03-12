@@ -1,0 +1,7 @@
+texlive-core-20160520-pl5.20.3.1_1
+texlive-core-20160523b-pl5.20.3.1_0
+texlive-core-20160523b-pl5.20.3.1_1
+texlive-core-20160523b-pl5.20.3_3
+texlive-core-20170520-pl5.22.2.1_0
+texlive-core-20170520-pl5.22.2.1_1
+texlive-core-20170520-pl5.22.2.1_2

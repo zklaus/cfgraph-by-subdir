@@ -1,0 +1,15 @@
+go-cgo-1.11.3-h50ee34d_0
+go-cgo-1.11.3-hd078518_1000
+go-cgo-1.11.3-hd0735e9_1001
+go-cgo-1.11.3-he87d7e1_1
+go-cgo-1.11.3-hd0735e9_1002
+go-cgo-1.11.3-he87d7e1_2
+go-cgo-1.11.3-hd0735e9_1003
+go-cgo-1.11.3-he87d7e1_3
+go-cgo-1.11.3-hb4532e9_1004
+go-cgo-1.8.7-hb4532e9_1002
+go-cgo-1.9.7-hb4532e9_1001
+go-cgo-1.10.7-h5521817_1000
+go-cgo-1.11.9-h1a690f8_0
+go-cgo-1.12.5-hadbf9aa_1
+go-cgo-1.13.5-h25e948e_0

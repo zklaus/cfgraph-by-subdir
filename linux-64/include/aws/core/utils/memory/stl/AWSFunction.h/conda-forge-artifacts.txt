@@ -1,0 +1,12 @@
+aws-sdk-cpp-1.4.41-0
+aws-sdk-cpp-1.4.42-0
+aws-sdk-cpp-1.4.43-0
+aws-sdk-cpp-1.4.44-0
+aws-sdk-cpp-1.4.45-0
+aws-sdk-cpp-1.4.48-0
+aws-sdk-cpp-1.4.49-0
+aws-sdk-cpp-1.4.50-0
+aws-sdk-cpp-1.4.51-0
+aws-sdk-cpp-1.4.52-0
+aws-sdk-cpp-1.4.53-0
+aws-sdk-cpp-1.4.54-0

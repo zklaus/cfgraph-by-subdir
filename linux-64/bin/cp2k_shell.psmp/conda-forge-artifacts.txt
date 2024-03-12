@@ -1,0 +1,11 @@
+cp2k-7.1.0-py38_openmpi_6
+cp2k-7.1.0-py38_openmpi_7
+cp2k-8.1.0-py38_openmpi_0
+cp2k-8.1.0-py38_openmpi_1
+cp2k-8.1.0-py38_openmpi_2
+cp2k-8.1.0-py38_openmpi_3
+cp2k-8.1.0-py38_openmpi_4
+cp2k-8.1.0-py38_openmpi_5
+cp2k-8.2.0-py38_openmpi_0
+cp2k-8.2.0-py38_openmpi_1
+cp2k-9.1.0-py39_openmpi_0

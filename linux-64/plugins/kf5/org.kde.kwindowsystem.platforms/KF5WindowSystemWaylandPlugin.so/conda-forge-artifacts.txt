@@ -1,0 +1,10 @@
+kwindowsystem-5.64.0-h73816c6_0
+kwindowsystem-5.65.0-h73816c6_0
+kwindowsystem-5.66.0-h73816c6_0
+kwindowsystem-5.67.0-h73816c6_0
+kwindowsystem-5.68.0-h73816c6_0
+kwindowsystem-5.69.0-h73816c6_0
+kwindowsystem-5.70.0-h73816c6_0
+kwindowsystem-5.71.0-h73816c6_0
+kwindowsystem-5.72.0-h73816c6_0
+kwindowsystem-5.73.0-h73816c6_0

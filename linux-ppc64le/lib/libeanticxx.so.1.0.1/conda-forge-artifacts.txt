@@ -1,0 +1,4 @@
+e-antic-1.0.2-h1fdd4b6_0
+libeantic-1.0.2-h1fdd4b6_1
+libeantic-1.0.2-ha5aa20a_2
+libeantic-1.0.2-ha5aa20a_3

@@ -1,0 +1,10 @@
+r-dosefinding-1.0_1-r41h7af7814_0
+r-dosefinding-1.0_1-r40h7af7814_0
+r-dosefinding-1.0_2-r40h7af7814_0
+r-dosefinding-1.0_2-r41h7af7814_0
+r-dosefinding-1.0_2-r41h9b904b5_1
+r-dosefinding-1.0_3-r41h9b904b5_0
+r-dosefinding-1.0_4-r41h9b904b5_0
+r-dosefinding-1.0_4-r41h9b904b5_1
+r-dosefinding-1.0_5-r41h9b904b5_0
+r-dosefinding-1.1_1-r41h9b904b5_0

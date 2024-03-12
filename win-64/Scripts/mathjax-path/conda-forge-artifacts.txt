@@ -1,0 +1,11 @@
+mathjax-2.7.5-2
+mathjax-2.7.6-0
+mathjax-2.7.7-0
+mathjax-3.0.0-0
+mathjax-3.0.1-0
+mathjax-3.1.4-h57928b3_0
+mathjax-3.2.0-h57928b3_0
+mathjax-3.2.1-h57928b3_0
+mathjax-3.2.2-h57928b3_0
+mathjax-2.7.7-h57928b3_2
+mathjax-2.7.7-h57928b3_3

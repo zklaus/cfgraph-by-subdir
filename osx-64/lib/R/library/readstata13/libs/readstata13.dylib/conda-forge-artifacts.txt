@@ -1,0 +1,12 @@
+r-readstata13-0.9.2-r36hf99fc2c_1001
+r-readstata13-0.9.2-r40hc5da6b9_1002
+r-readstata13-0.9.2-r36hc5da6b9_1002
+r-readstata13-0.9.2-r41h9951f98_1002
+r-readstata13-0.9.2-r40h9951f98_1002
+r-readstata13-0.10.0-r40h9951f98_0
+r-readstata13-0.10.0-r41h9951f98_0
+r-readstata13-0.10.0-r41h49197e3_1
+r-readstata13-0.10.0-r42h49197e3_1
+r-readstata13-0.10.1-r42h49197e3_0
+r-readstata13-0.10.1-r41h49197e3_0
+r-readstata13-0.10.1-r42hac7d2d5_1

@@ -1,0 +1,2 @@
+libthrift-0.19.0-h0035360_0
+libthrift-0.19.0-h043aeee_1

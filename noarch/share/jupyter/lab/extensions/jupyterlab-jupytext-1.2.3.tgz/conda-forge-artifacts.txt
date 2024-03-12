@@ -1,0 +1,5 @@
+jupytext-1.7.0-pyhd3deb0d_0
+jupytext-1.7.1-pyhd3deb0d_0
+jupytext-1.8.0-pyhd3deb0d_0
+jupytext-1.8.1-pyhd3deb0d_0
+jupytext-1.8.2-pyhd3deb0d_0

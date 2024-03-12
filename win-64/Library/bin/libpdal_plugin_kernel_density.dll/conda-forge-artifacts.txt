@@ -1,0 +1,13 @@
+pdal-1.7.1-py35_vc14h5d9141f_9
+pdal-1.7.1-py36_vc14h5d9141f_9
+pdal-1.7.1-py36h33f895e_11
+pdal-1.7.1-py35h33f895e_11
+pdal-1.7.1-py36h33f895e_12
+pdal-1.7.1-py35h33f895e_12
+pdal-1.7.2-py35h33f895e_0
+pdal-1.7.2-py36h33f895e_0
+pdal-1.7.2-py35h33f895e_1
+pdal-1.7.2-py36h33f895e_1
+pdal-1.7.2-py36h67a855c_2
+pdal-1.7.2-py35h67a855c_2
+pdal-1.7.2-py36h25aa171_3

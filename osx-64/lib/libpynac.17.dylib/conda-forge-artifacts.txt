@@ -1,0 +1,12 @@
+pynac-0.7.17-py27_0
+pynac-0.7.17-py35_0
+pynac-0.7.17-py36_0
+pynac-0.7.17-py27h075c78f_1
+pynac-0.7.17-py35h075c78f_1
+pynac-0.7.17-py36h075c78f_1
+pynac-0.7.16-py27h075c78f_0
+pynac-0.7.16-py35h075c78f_0
+pynac-0.7.16-py36h075c78f_0
+pynac-0.7.16-py35h075c78f_1
+pynac-0.7.16-py36h075c78f_1
+pynac-0.7.16-py27h075c78f_1

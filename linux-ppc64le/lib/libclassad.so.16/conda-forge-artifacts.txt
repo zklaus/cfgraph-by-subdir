@@ -1,0 +1,9 @@
+htcondor-classads-10.3.0-h3e55de8_0
+htcondor-classads-10.3.1-h3e55de8_0
+htcondor-classads-10.3.1-h0eb51fd_1
+htcondor-classads-10.5.0-h0eb51fd_0
+htcondor-classads-10.5.1-h0eb51fd_0
+htcondor-classads-10.6.0-h0eb51fd_0
+htcondor-classads-10.6.0-h0eb51fd_1
+htcondor-classads-10.7.0-h0eb51fd_0
+htcondor-classads-10.7.1-h0eb51fd_0

@@ -1,0 +1,7 @@
+leptonica-1.80.0-h950d820_0
+leptonica-1.81.0-h950d820_0
+leptonica-1.81.1-h950d820_0
+leptonica-1.82.0-h950d820_0
+leptonica-1.82.0-he3a9120_1
+leptonica-1.82.0-h74f16a4_1
+leptonica-1.82.0-h74f16a4_2

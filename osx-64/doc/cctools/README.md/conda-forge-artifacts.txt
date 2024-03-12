@@ -1,0 +1,16 @@
+ndcctools-7.7.0-py39hd4b95d6_0
+ndcctools-7.7.0-py310h442c573_0
+ndcctools-7.7.0-py38h0a8965a_0
+ndcctools-7.7.0-py311h54575cd_0
+ndcctools-7.7.1-py311h3fee2e7_0
+ndcctools-7.7.1-py38h9e0349e_0
+ndcctools-7.7.1-py310he6a79d6_0
+ndcctools-7.7.1-py39h910a6c2_0
+ndcctools-7.7.2-py38hd480228_0
+ndcctools-7.7.2-py310h3f3ca68_0
+ndcctools-7.7.2-py311hc4bdf42_0
+ndcctools-7.7.2-py39h677b332_0
+ndcctools-7.7.2-py310he6a79d6_0
+ndcctools-7.7.2-py39h910a6c2_0
+ndcctools-7.7.2-py311h3fee2e7_0
+ndcctools-7.7.2-py38h9e0349e_0

@@ -1,0 +1,9 @@
+onednn-2.6-tbb_h1536c92_0
+onednn-2.6-threadpool_h9701671_0
+onednn-2.6-omp_h2073566_0
+onednn-2.6.1-omp_hc561c20_0
+onednn-2.6.1-threadpool_h7d45b70_0
+onednn-2.6.1-tbb_h39fe683_0
+onednn-2.6.2-omp_h77b2d07_0
+onednn-2.6.2-tbb_h8c2115b_0
+onednn-2.6.2-threadpool_h88d46bb_0

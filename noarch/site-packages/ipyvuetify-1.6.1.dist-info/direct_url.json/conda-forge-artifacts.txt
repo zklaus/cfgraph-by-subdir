@@ -1,0 +1,1 @@
+ipyvuetify-1.6.1-pyhd3deb0d_0

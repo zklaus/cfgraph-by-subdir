@@ -1,0 +1,2 @@
+freesasa-2.2.0.post3-py312h98912ed_3
+freesasa-2.2.1-py312h98912ed_0

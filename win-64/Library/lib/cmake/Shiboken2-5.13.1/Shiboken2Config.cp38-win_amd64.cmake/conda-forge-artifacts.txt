@@ -1,0 +1,3 @@
+pyside2-5.13.1-py38hfa7ce6d_6
+pyside2-5.13.1-py38hfa7ce6d_7
+pyside2-5.13.1-py38hfa7ce6d_8

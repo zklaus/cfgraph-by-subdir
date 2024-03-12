@@ -1,0 +1,8 @@
+r-ttr-0.24.0-r40hda5aaf8_0
+r-ttr-0.24.0-r36hda5aaf8_0
+r-ttr-0.24.1-r40hda5aaf8_0
+r-ttr-0.24.1-r36hda5aaf8_0
+r-ttr-0.24.2-r40hda5aaf8_0
+r-ttr-0.24.2-r36hda5aaf8_0
+r-ttr-0.24.2-r40h6d2157b_0
+r-ttr-0.24.3-r40h6d2157b_0

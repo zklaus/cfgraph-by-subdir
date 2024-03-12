@@ -1,0 +1,14 @@
+libignition-math6-6.8.0-h3b9df90_0
+libignition-math6-6.9.0-h3b9df90_0
+libignition-math6-6.9.1-h3b9df90_0
+libignition-math6-6.9.2-h3b9df90_0
+libignition-math6-6.10.0-h3b9df90_0
+libignition-math6-6.10.0-py37h8bbc795_1
+libignition-math6-6.10.0-py38hf6d09f7_1
+libignition-math6-6.10.0-py39h79703f4_1
+libignition-math6-6.11.0-py39h79703f4_0
+libignition-math6-6.11.0-py38hf6d09f7_1
+libignition-math6-6.11.0-py37h8bbc795_1
+libignition-math6-6.11.0-py310h5745e68_1
+libignition-math6-6.12.0-py37h8bbc795_0
+libignition-math6-6.12.0-py38hf6d09f7_0

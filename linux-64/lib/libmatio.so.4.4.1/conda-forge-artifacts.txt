@@ -1,0 +1,7 @@
+libmatio-1.5.12-0
+libmatio-1.5.12-1
+libmatio-1.5.12-h85aff2a_1001
+libmatio-1.5.12-ha8a747d_1
+libmatio-1.5.12-h0a12713_1002
+libmatio-1.5.12-h0a12713_1003
+libmatio-1.5.12-hf54d351_1004

@@ -1,0 +1,13 @@
+r-parmigene-1.0.2-r351h6115d3f_1002
+r-parmigene-1.0.2-r35hda5aaf8_1003
+r-parmigene-1.0.2-r36hda5aaf8_1003
+r-parmigene-1.0.2-r40hda5aaf8_1004
+r-parmigene-1.0.2-r36hda5aaf8_1004
+r-parmigene-1.1.0-r40hda5aaf8_0
+r-parmigene-1.1.0-r36hda5aaf8_0
+r-parmigene-1.1.0-r40h6d2157b_0
+r-parmigene-1.1.0-r41h6d2157b_0
+r-parmigene-1.1.0-r41h6d2157b_1
+r-parmigene-1.1.0-r40h6d2157b_1
+r-parmigene-1.1.0-r41h6d2157b_2
+r-parmigene-1.1.0-r41h6d2157b_3

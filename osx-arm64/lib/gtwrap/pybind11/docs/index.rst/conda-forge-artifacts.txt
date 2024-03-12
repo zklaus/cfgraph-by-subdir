@@ -1,0 +1,17 @@
+gtsam-4.1.1-py38h11d27a8_2
+gtsam-4.1.1-py310h338db84_2
+gtsam-4.1.1-py39h5b0dc66_2
+gtsam-4.1.1-py39h0c69fe0_3
+gtsam-4.1.1-py38h3a83413_3
+gtsam-4.1.1-py310h634a65c_3
+gtsam-4.1.1-py39ha5da26c_4
+gtsam-4.1.1-py310h222f42e_4
+gtsam-4.1.1-py38h0f98739_4
+gtsam-4.1.1-py311h5b7f7f5_5
+gtsam-4.1.1-py310h222f42e_5
+gtsam-4.1.1-py38h9b47521_5
+gtsam-4.1.1-py39ha009e0d_5
+gtsam-4.1.1-py310h222f42e_6
+gtsam-4.1.1-py39ha009e0d_6
+gtsam-4.1.1-py38h9b47521_6
+gtsam-4.1.1-py311h5b7f7f5_6

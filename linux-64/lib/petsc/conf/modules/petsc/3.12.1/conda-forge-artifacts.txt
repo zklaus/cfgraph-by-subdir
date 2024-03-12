@@ -1,0 +1,4 @@
+petsc-3.12.1-h6322da9_0
+petsc-3.12.1-hbc125d9_0
+petsc-3.12.1-h6322da9_1
+petsc-3.12.1-hbc125d9_1

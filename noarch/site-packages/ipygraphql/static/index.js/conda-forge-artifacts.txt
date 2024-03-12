@@ -1,0 +1,2 @@
+ipygraphql-0.0.3-py_0
+ipygraphql-0.0.4-py_0

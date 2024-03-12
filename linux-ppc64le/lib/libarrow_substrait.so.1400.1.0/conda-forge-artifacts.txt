@@ -1,0 +1,17 @@
+libarrow-substrait-14.0.1-hd26bb74_0_cuda
+libarrow-substrait-14.0.1-hbc17c7d_0_cpu
+libarrow-substrait-14.0.1-hd26bb74_1_cuda
+libarrow-substrait-14.0.1-hbc17c7d_1_cpu
+libarrow-substrait-14.0.1-hd26bb74_2_cuda
+libarrow-substrait-14.0.1-hbc17c7d_2_cpu
+libarrow-substrait-14.0.1-hbc17c7d_3_cpu
+libarrow-substrait-14.0.1-hd26bb74_3_cuda
+libarrow-substrait-14.0.1-hbc17c7d_4_cpu
+libarrow-substrait-14.0.1-hd26bb74_4_cuda
+libarrow-substrait-14.0.1-hbc17c7d_5_cpu
+libarrow-substrait-14.0.1-hd26bb74_5_cuda
+libarrow-substrait-14.0.1-hbc17c7d_6_cpu
+libarrow-substrait-14.0.1-hd26bb74_6_cuda
+libarrow-substrait-14.0.1-hd26bb74_7_cuda
+libarrow-substrait-14.0.1-hbc17c7d_7_cpu
+libarrow-substrait-14.0.1-hd26bb74_8_cuda

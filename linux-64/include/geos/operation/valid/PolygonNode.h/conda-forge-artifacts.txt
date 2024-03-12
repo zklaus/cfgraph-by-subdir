@@ -1,0 +1,8 @@
+geos-3.10.0-h9c3ff4c_0
+geos-3.10.1-h9c3ff4c_0
+geos-3.10.1-h9c3ff4c_1
+geos-3.10.2-h9c3ff4c_0
+geos-3.10.3-h27087fc_0
+geos-3.11.0-h27087fc_0
+geos-3.11.1-h27087fc_0
+geos-3.11.2-hcb278e6_0

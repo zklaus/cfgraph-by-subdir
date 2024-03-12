@@ -1,0 +1,17 @@
+armadillo-7.800.1-blas_openblas_200
+armadillo-7.950.1-blas_openblas_200
+armadillo-8.200.0-blas_openblas_200
+armadillo-8.200.0-blas_openblas_201
+armadillo-8.500.0-blas_openblash273bd81_201
+armadillo-8.500.0-blas_openblash45cfd7e_202
+armadillo-8.600.0-blas_openblash45cfd7e_202
+armadillo-9.200.4-blas_openblash45cfd7e_202
+armadillo-9.200.4-blas_openblash0df89dd_202
+armadillo-9.200.4-blas_openblash0df89dd_1202
+armadillo-9.200.4-blas_openblashf40ae6a_203
+armadillo-9.200.4-blas_openblash0df89dd_1203
+armadillo-9.200.4-h9753e90_1204
+armadillo-9.200.4-h3e68736_1205
+armadillo-9.200.4-hf4e8f56_1206
+armadillo-9.200.6-hf4e8f56_0
+armadillo-9.200.7-hf4e8f56_0

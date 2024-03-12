@@ -1,0 +1,10 @@
+r-storr-1.2.4-r40hb5ad454_1
+r-storr-1.2.4-r36hb5ad454_1
+r-storr-1.2.5-r40he27d7ee_0
+r-storr-1.2.5-r36he27d7ee_0
+r-storr-1.2.5-r40h28b5c78_0
+r-storr-1.2.5-r41h28b5c78_0
+r-storr-1.2.5-r41h815d134_1
+r-storr-1.2.5-r42h815d134_1
+r-storr-1.2.5-r43h6dc245f_2
+r-storr-1.2.5-r42h6dc245f_2

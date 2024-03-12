@@ -1,0 +1,4 @@
+qscintilla2-2.11.2-py39h7735e2f_6
+qscintilla2-2.11.2-py37hea06613_6
+qscintilla2-2.11.2-py38h7cb29f2_6
+qscintilla2-2.11.2-py310h16c9dca_6

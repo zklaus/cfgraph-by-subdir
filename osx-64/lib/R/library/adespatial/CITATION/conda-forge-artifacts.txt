@@ -1,0 +1,14 @@
+r-adespatial-0.3_19-r40hce01bf1_0
+r-adespatial-0.3_19-r41hce01bf1_0
+r-adespatial-0.3_19-r42hce01bf1_1
+r-adespatial-0.3_19-r41hce01bf1_1
+r-adespatial-0.3_20-r41hce01bf1_0
+r-adespatial-0.3_20-r42hce01bf1_0
+r-adespatial-0.3_21-r41hce01bf1_0
+r-adespatial-0.3_21-r42hce01bf1_0
+r-adespatial-0.3_21-r42hc46c21c_1
+r-adespatial-0.3_21-r43hc46c21c_1
+r-adespatial-0.3_22-r43h39411cf_0
+r-adespatial-0.3_22-r42h39411cf_0
+r-adespatial-0.3_23-r42h39411cf_0
+r-adespatial-0.3_23-r43h39411cf_0

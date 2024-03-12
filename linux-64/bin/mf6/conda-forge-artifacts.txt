@@ -1,0 +1,13 @@
+modflow6-6.1.0-h6e990d7_0
+modflow6-6.1.1-h6e990d7_0
+modflow6-6.1.1-h86c2bf4_1
+modflow6-6.1.1-h6e990d7_1
+modflow6-6.3.0-h2a4ca65_0
+modflow6-6.3.0-h2a4ca65_1
+modflow6-6.3.0-h2a4ca65_2
+modflow6-6.3.0-h2a4ca65_3
+modflow6-6.3.0-h2a4ca65_4
+modflow6-6.4.0-heb67821_0
+modflow6-6.4.1-heb67821_0
+modflow6-6.4.2-heb67821_0
+modflow6-6.4.2-heb67821_1

@@ -1,0 +1,5 @@
+plotly-5.8.0-pyhd8ed1ab_0
+plotly-5.8.0-pyhd8ed1ab_1
+plotly-5.8.1-pyhd8ed1ab_0
+plotly-5.8.2-pyhd8ed1ab_0
+plotly-5.9.0-pyhd8ed1ab_0

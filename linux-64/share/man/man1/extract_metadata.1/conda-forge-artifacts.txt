@@ -1,0 +1,5 @@
+readstat-1.1.6-h1b53331_0
+readstat-1.1.7-h1b53331_0
+readstat-1.1.8-hbe1e993_0
+readstat-1.1.8-h5e2004d_1
+readstat-1.1.9-hd7af4f0_0

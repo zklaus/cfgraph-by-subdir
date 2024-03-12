@@ -1,0 +1,16 @@
+xtensor-0.23.5-h4bd325d_0
+xtensor-0.23.6-h4bd325d_0
+xtensor-0.23.7-h4bd325d_0
+xtensor-0.23.8-h4bd325d_0
+xtensor-0.23.9-h4bd325d_0
+xtensor-0.23.9-h4bd325d_1
+xtensor-0.23.10-h4bd325d_0
+xtensor-0.24.0-h4bd325d_0
+xtensor-0.24.1-h924138e_0
+xtensor-0.24.2-h924138e_0
+xtensor-0.24.3-h924138e_0
+xtensor-0.24.3-h924138e_1
+xtensor-0.24.4-hf52228f_0
+xtensor-0.24.5-hf52228f_0
+xtensor-0.24.6-hf52228f_0
+xtensor-0.24.7-h00ab1b0_0

@@ -1,0 +1,8 @@
+libsdformat10-10.0.0-hb5a3e86_1
+libsdformat10-10.0.0-had1f909_1
+libsdformat10-10.0.0-hf7a5c58_1
+libsdformat10-10.0.0-h32b47e2_1
+libsdformat10-10.0.0-had1f909_2
+libsdformat10-10.0.0-hf7a5c58_2
+libsdformat10-10.0.0-h32b47e2_2
+libsdformat10-10.0.0-hb5a3e86_2

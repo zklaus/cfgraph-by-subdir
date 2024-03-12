@@ -1,0 +1,8 @@
+esbuild-0.14.54-hce30654_0
+esbuild-0.15.1-h055d602_0
+esbuild-0.15.1-hbe2f22c_0
+esbuild-0.15.5-hbe2f22c_0
+esbuild-0.15.5-h055d602_0
+esbuild-0.15.5-hce30654_1
+esbuild-0.15.5-hce30654_2
+esbuild-0.19.2-hce30654_0

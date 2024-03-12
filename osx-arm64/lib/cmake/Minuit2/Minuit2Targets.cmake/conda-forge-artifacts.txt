@@ -1,0 +1,2 @@
+minuit2_standalone-6.22.06-h9f76cd9_100
+minuit2_standalone-6.22.06-hbdafb3b_100

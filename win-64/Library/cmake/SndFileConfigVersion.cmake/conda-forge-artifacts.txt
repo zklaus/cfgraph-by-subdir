@@ -1,0 +1,10 @@
+libsndfile-1.0.29-ha925a31_0
+libsndfile-1.0.30-h0e60522_0
+libsndfile-1.0.30-h0e60522_1
+libsndfile-1.0.31-h0e60522_0
+libsndfile-1.0.31-h0e60522_1
+libsndfile-1.1.0-h63175ca_0
+libsndfile-1.1.0-h63175ca_1
+libsndfile-1.2.0-h2628c91_0
+libsndfile-1.2.2-h2628c91_0
+libsndfile-1.2.2-h81429f1_1

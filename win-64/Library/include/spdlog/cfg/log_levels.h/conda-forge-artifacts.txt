@@ -1,0 +1,6 @@
+spdlog-1.6.0-h7ef1ec2_0
+spdlog-1.6.1-h7ef1ec2_0
+spdlog-1.7.0-h7ef1ec2_0
+spdlog-1.7.0-h7ef1ec2_1
+spdlog-1.7.0-h7ef1ec2_2
+spdlog-1.8.0-h7ef1ec2_0

@@ -1,0 +1,4 @@
+r-quantmod-0.4_8-r3.4.1_0
+r-quantmod-0.4_8-r341h301d43c_1
+r-quantmod-0.4_13-r341h6115d3f_0
+r-quantmod-0.4_13-r351h6115d3f_0

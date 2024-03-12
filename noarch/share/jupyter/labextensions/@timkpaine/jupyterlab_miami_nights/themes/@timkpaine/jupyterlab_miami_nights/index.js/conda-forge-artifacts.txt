@@ -1,0 +1,3 @@
+jupyterlab_miami_nights-0.3.2-pyhd8ed1ab_0
+jupyterlab_miami_nights-0.4.0-pyhd8ed1ab_0
+jupyterlab_miami_nights-0.4.1-pyhd8ed1ab_0

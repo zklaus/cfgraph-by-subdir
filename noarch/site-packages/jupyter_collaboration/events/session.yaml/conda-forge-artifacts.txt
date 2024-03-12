@@ -1,0 +1,4 @@
+jupyter-collaboration-1.0.0-pyhd8ed1ab_0
+jupyter-collaboration-1.0.1-pyhd8ed1ab_0
+jupyter-collaboration-1.1.0-pyhd8ed1ab_0
+jupyter-collaboration-1.2.0-pyhd8ed1ab_0

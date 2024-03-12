@@ -1,0 +1,4 @@
+freetds-1.1rc3-h821aae6_0
+freetds-1.1rc3-h6ad6909_1
+freetds-1.1.15-h6ad6909_0
+freetds-1.1.15-h6f4450b_0

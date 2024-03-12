@@ -1,0 +1,9 @@
+mpfr-3.1.4-vc14_1
+mpfr-3.1.4-vc14_2
+mpfr-3.1.4-vc14_3
+mpfr-3.1.5-vc14_0
+mpfr-4.0.1-vc14_0
+mpfr-4.0.1-h69785c8_0
+mpfr-4.0.1-h2fa13f4_1000
+mpfr-4.0.2-h2fa13f4_0
+mpfr-4.0.2-h62dcd97_1

@@ -1,0 +1,4 @@
+libparallelproj-1.3.6-cuda110_hdb97b34_200
+libparallelproj-1.3.6-cuda112_h9631440_200
+libparallelproj-1.3.6-cuda111_h9ceb898_200
+libparallelproj-1.3.6-cuda102_h9a3eccd_200

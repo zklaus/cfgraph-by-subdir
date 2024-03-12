@@ -1,0 +1,12 @@
+gudhi-3.6.0-py310h8ff1a59_3
+gudhi-3.6.0-py38hb054daf_3
+gudhi-3.6.0-py311hd14b731_3
+gudhi-3.6.0-py39h9993004_3
+gudhi-3.7.0-py310h8ff1a59_0
+gudhi-3.7.0-py311hd14b731_0
+gudhi-3.7.0-py39h9993004_0
+gudhi-3.7.0-py38hb054daf_0
+gudhi-3.7.1-py310h8ff1a59_0
+gudhi-3.7.1-py311hd14b731_0
+gudhi-3.7.1-py38hb054daf_0
+gudhi-3.7.1-py39h9993004_0

@@ -1,0 +1,3 @@
+fish-3.6.0-hb5ee2b5_0
+fish-3.6.1-hb5ee2b5_0
+fish-3.6.1-hdab1d28_1

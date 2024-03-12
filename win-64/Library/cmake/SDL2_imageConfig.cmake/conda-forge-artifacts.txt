@@ -1,0 +1,13 @@
+sdl2_image-2.6.0-hb27fea3_0
+sdl2_image-2.6.1-hb27fea3_0
+sdl2_image-2.6.1-h4fd72c5_1
+sdl2_image-2.6.1-h22b4670_1
+sdl2_image-2.6.2-h22b4670_0
+sdl2_image-2.6.2-h22b4670_1
+sdl2_image-2.6.2-h22b4670_2
+sdl2_image-2.6.2-h090e09f_3
+sdl2_image-2.6.3-h090e09f_0
+sdl2_image-2.6.3-h3be12bc_1
+sdl2_image-2.6.3-hf506939_2
+sdl2_image-2.6.3-hb5038e8_3
+sdl2_image-2.6.3-he19da31_4

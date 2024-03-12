@@ -1,0 +1,3 @@
+libmagic-5.30-0
+libmagic-5.32-0
+libmagic-5.33-0

@@ -1,0 +1,5 @@
+libflang-5.0.0-1
+libflang-5.0.0-20180101
+libflang-5.0.0-20180207
+libflang-5.0.0-20180208
+libflang-5.0.0-hfc679d8_20180525

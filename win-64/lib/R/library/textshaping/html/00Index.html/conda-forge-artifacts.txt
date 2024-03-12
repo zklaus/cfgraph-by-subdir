@@ -1,0 +1,16 @@
+r-textshaping-0.3.4-r40haa1c89b_0
+r-textshaping-0.3.4-r41haa1c89b_0
+r-textshaping-0.3.4-r40hbe1bd49_1
+r-textshaping-0.3.4-r41hbe1bd49_1
+r-textshaping-0.3.6-r41hbe1bd49_0
+r-textshaping-0.3.6-r40hbe1bd49_0
+r-textshaping-0.3.6-r41haa3e5ab_1
+r-textshaping-0.3.6-r40haa3e5ab_1
+r-textshaping-0.3.6-r41h2321e1b_2
+r-textshaping-0.3.6-r40h2321e1b_2
+r-textshaping-0.3.6-r41h2321e1b_3
+r-textshaping-0.3.6-r41hfd7ed9c_4
+r-textshaping-0.3.6-r41h0488efe_5
+r-textshaping-0.3.6-r41h0488efe_6
+r-textshaping-0.3.6-r41h62baadc_7
+r-textshaping-0.3.7-r41h62baadc_0

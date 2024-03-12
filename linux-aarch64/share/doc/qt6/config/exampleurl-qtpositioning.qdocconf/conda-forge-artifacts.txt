@@ -1,0 +1,12 @@
+qt6-main-6.5.2-h3b63a86_0
+qt6-main-6.5.2-h675fc9d_1
+qt6-main-6.5.2-h3c13d10_2
+qt6-main-6.5.2-hce9033c_3
+qt6-main-6.5.2-hd39fcfc_4
+qt6-main-6.5.2-h97a3909_5
+qt6-main-6.5.2-h97a3909_6
+qt6-main-6.5.2-ha16346e_6
+qt6-main-6.5.3-ha16346e_0
+qt6-main-6.6.0-ha16346e_0
+qt6-main-6.6.1-hb1ad137_0
+qt6-main-6.6.1-hd9c75f7_2

@@ -1,0 +1,2 @@
+airss-0.9.3-h03160e7_1
+airss-with-default-names-0.9.3-ha770c72_1

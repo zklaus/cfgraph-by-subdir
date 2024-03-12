@@ -1,0 +1,2 @@
+luarocks-2.4.2-lua5.2_0
+luarocks-2.4.4-lua5.2_0

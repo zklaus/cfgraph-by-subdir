@@ -1,0 +1,3 @@
+minuit2_standalone-6.18.00-he1b5a44_100
+minuit2_standalone-6.18.00-he1b5a44_101
+minuit2_standalone-6.22.06-h9c3ff4c_100

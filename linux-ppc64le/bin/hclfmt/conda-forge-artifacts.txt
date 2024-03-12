@@ -1,0 +1,6 @@
+hclfmt-2.16.2-ha3edaa6_1
+hclfmt-2.17.0-ha3edaa6_0
+hclfmt-2.18.0-ha3edaa6_0
+hclfmt-2.18.1-ha3edaa6_0
+hclfmt-2.19.0-ha3edaa6_0
+hclfmt-2.19.1-ha3edaa6_0

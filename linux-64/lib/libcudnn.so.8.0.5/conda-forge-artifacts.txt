@@ -1,0 +1,6 @@
+cudnn-8.0.5.39-hc0a50b0_0
+cudnn-8.0.5.39-h01f27c4_0
+cudnn-8.0.5.39-ha5ca753_0
+cudnn-8.0.5.39-hc0a50b0_1
+cudnn-8.0.5.39-h01f27c4_1
+cudnn-8.0.5.39-ha5ca753_1

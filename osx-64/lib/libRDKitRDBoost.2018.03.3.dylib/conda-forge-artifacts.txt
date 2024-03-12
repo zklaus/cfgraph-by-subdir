@@ -1,0 +1,6 @@
+rdkit-2018.03.3-py36hf2429ea_0
+rdkit-2018.03.3-py35hf2429ea_0
+rdkit-2018.03.3-py27hf2429ea_0
+rdkit-2018.03.3-py36hf2429ea_1
+rdkit-2018.03.3-py27hf2429ea_1
+rdkit-2018.03.3-py35hf2429ea_1

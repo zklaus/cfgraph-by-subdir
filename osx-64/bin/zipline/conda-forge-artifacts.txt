@@ -1,0 +1,13 @@
+zipline-1.4.0-py36haf1e3a3_0
+zipline-1.4.1-py36haf1e3a3_0
+zipline-reloaded-2.4-py310h936d966_0
+zipline-reloaded-2.4-py38hbd87e4b_0
+zipline-reloaded-2.4-py39h7cc1f47_0
+zipline-reloaded-2.4-py310h936d966_1
+zipline-reloaded-2.4-py39h7cc1f47_1
+zipline-reloaded-2.4-py38hbd87e4b_1
+zipline-reloaded-3.0-py39h57e1da4_0
+zipline-reloaded-3.0-py310hc1335a1_0
+zipline-reloaded-3.0-py38hd2faf92_0
+zipline-reloaded-3.0.3-py310hc1335a1_0
+zipline-reloaded-3.0.3-py38hd2faf92_0

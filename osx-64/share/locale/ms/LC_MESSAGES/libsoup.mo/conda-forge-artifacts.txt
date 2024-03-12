@@ -1,0 +1,11 @@
+libsoup-2.70.0-he94431c_0
+libsoup-2.70.0-he94431c_1
+libsoup-2.72.0-he94431c_0
+libsoup-2.72.0-h42a99d2_1
+libsoup-2.72.0-h72d9ae8_2
+libsoup-2.74.0-h72d9ae8_0
+libsoup-2.74.1-h72d9ae8_0
+libsoup-2.74.2-he214f22_0
+libsoup-2.74.2-hc48e74a_0
+libsoup-2.74.3-hc48e74a_0
+libsoup-2.74.3-h8ff24ff_1

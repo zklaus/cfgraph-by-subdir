@@ -1,0 +1,4 @@
+minuit2_standalone-6.18.00-h6de7cb9_100
+minuit2_standalone-6.18.00-h6de7cb9_101
+minuit2_standalone-6.22.06-h046ec9c_100
+minuit2_standalone-6.22.06-he49afe7_100

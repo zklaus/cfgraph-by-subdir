@@ -1,0 +1,2 @@
+pyxtensor-0.3.1-py38hf51e4bd_2
+pyxtensor-0.3.1-py38h47a3246_3

@@ -1,0 +1,2 @@
+onnxruntime-cpp-1.15.0-h1ede69c_0
+onnxruntime-novec-cpp-1.15.0-h28ef8fe_0

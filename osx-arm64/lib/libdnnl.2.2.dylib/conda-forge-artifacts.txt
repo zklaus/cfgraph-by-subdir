@@ -1,0 +1,13 @@
+onednn-2.2-tbb_hb6067a2_0
+onednn-2.2.1-tbb_hb6067a2_0
+onednn-2.2.2-tbb_hb6067a2_0
+onednn-2.2.2-tbb_hfa56021_1
+onednn-2.2.2-omp_h64143aa_1
+onednn-2.2.2-tbb_h429de2a_2
+onednn-2.2.2-omp_h64143aa_2
+onednn-2.2.3-tbb_h429de2a_0
+onednn-2.2.3-omp_h64143aa_0
+onednn-2.2.3-omp_h64143aa_1
+onednn-2.2.3-tbb_h429de2a_1
+onednn-2.2.4-omp_h64143aa_0
+onednn-2.2.4-tbb_h429de2a_0

@@ -1,0 +1,5 @@
+libgit2-1.6.1-hce1fc7d_0
+libgit2-1.6.2-hce1fc7d_0
+libgit2-1.6.3-hce1fc7d_0
+libgit2-1.6.3-h30f9a1c_1
+libgit2-1.6.4-h30f9a1c_0

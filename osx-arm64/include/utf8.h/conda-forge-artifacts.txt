@@ -1,0 +1,8 @@
+utfcpp-3.1.2-hce30654_1
+utfcpp-3.2-hce30654_0
+utfcpp-3.2.1-hce30654_0
+utfcpp-3.2.2-hce30654_0
+utfcpp-3.2.3-hce30654_0
+utfcpp-3.2.4-hce30654_0
+utfcpp-3.2.5-hce30654_0
+utfcpp-4.0.1-hce30654_0

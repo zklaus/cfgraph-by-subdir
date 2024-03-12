@@ -1,0 +1,16 @@
+nvcomp-2.6.1-h0800d71_0
+nvcomp-2.6.1-h0800d71_1
+nvcomp-2.6.1-h3a97aeb_2
+nvcomp-2.6.1-h0800d71_2
+nvcomp-3.0.1-h10b603f_2
+nvcomp-3.0.1-h838ba91_2
+nvcomp-3.0.1-h10b603f_3
+nvcomp-3.0.1-h838ba91_3
+nvcomp-3.0.2-h10b603f_0
+nvcomp-3.0.2-h838ba91_0
+nvcomp-2.6.1-h10b603f_3
+nvcomp-2.6.1-h838ba91_3
+nvcomp-3.0.4-h3a97aeb_0
+nvcomp-3.0.4-h0800d71_0
+nvcomp-3.0.4-h10b603f_1
+nvcomp-3.0.4-h838ba91_1

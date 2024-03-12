@@ -1,0 +1,8 @@
+r-xaringanthemer-0.4.1-r41hc72bb7e_0
+r-xaringanthemer-0.4.1-r40hc72bb7e_0
+r-xaringanthemer-0.4.2-r40hc72bb7e_0
+r-xaringanthemer-0.4.2-r41hc72bb7e_0
+r-xaringanthemer-0.4.2-r42hc72bb7e_1
+r-xaringanthemer-0.4.2-r41hc72bb7e_1
+r-xaringanthemer-0.4.2-r42hc72bb7e_2
+r-xaringanthemer-0.4.2-r43hc72bb7e_2

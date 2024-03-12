@@ -1,0 +1,6 @@
+caiman-1.5.2-py37h86efe34_0
+caiman-1.5.2-py36h86efe34_0
+caiman-1.5.3-py37h86efe34_0
+caiman-1.5.3-py36h86efe34_0
+caiman-1.5.3-py37h86efe34_1
+caiman-1.5.3-py36h86efe34_1

@@ -1,0 +1,17 @@
+xeus-lua-0.1.13-lua54h04899b1_0
+xeus-lua-0.1.14-lua54h04899b1_0
+xeus-lua-0.1.16-lua54h04899b1_0
+xeus-lua-0.1.17-lua54h04899b1_0
+xeus-lua-0.1.18-lua54h04899b1_0
+xeus-lua-0.1.20-lua54h04899b1_0
+xeus-lua-0.1.20-lua54h04899b1_1
+xeus-lua-0.2.0-lua54h04899b1_0
+xeus-lua-0.2.2-lua54h04899b1_0
+xeus-lua-0.2.2-lua54h04899b1_1
+xeus-lua-0.3.0-lua54h04899b1_0
+xeus-lua-0.3.2-lua54h04899b1_0
+xeus-lua-0.3.3-lua54h04899b1_0
+xeus-lua-0.4.1-lua54h04899b1_2
+xeus-lua-0.5.0-lua54h04899b1_0
+xeus-lua-0.5.1-lua54h04899b1_0
+xeus-lua-0.5.2-lua54h04899b1_0

@@ -1,0 +1,9 @@
+thrift-cpp-0.13.0-hf3afdfd_0
+thrift-cpp-0.13.0-h62aa4f2_2
+thrift-cpp-0.13.0-h62aa4f2_3
+thrift-cpp-0.13.0-h6c2bee4_4
+thrift-cpp-0.13.0-h9e17ec7_4
+thrift-cpp-0.13.0-h6c2bee4_5
+thrift-cpp-0.13.0-h9e17ec7_5
+libthrift-0.13.0-h9e17ec7_6
+libthrift-0.13.0-h6c2bee4_6

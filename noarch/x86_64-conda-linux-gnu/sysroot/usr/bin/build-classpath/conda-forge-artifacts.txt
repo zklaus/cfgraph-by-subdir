@@ -1,0 +1,8 @@
+jpackage-utils-cos6-x86_64-1.7.5-hdf0574f_1102
+javapackages-tools-cos7-x86_64-3.4.1-hdf0574f_1102
+jpackage-utils-cos6-x86_64-1.7.5-ha826a6f_1103
+javapackages-tools-cos7-x86_64-3.4.1-ha826a6f_1103
+jpackage-utils-cos6-x86_64-1.7.5-h9d98e8f_1104
+javapackages-tools-cos7-x86_64-3.4.1-h9d98e8f_1104
+jpackage-utils-cos6-x86_64-1.7.5-h9b0a68f_1105
+javapackages-tools-cos7-x86_64-3.4.1-h9b0a68f_1105

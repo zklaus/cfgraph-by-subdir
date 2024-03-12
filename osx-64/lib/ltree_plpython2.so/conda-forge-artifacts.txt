@@ -1,0 +1,8 @@
+postgresql-10.2-py27_0
+postgresql-10.3-py27_0
+postgresql-9.6.3-py27_5
+postgresql-9.6.7-py27_0
+postgresql-9.6.8-py27_0
+postgresql-10.4-py27ha98c86b_0
+postgresql-9.6.9-py27ha98c86b_0
+postgresql-10.5-py27h286b696_0

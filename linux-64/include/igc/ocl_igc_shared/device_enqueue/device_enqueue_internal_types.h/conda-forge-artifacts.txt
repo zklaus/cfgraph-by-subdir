@@ -1,0 +1,4 @@
+intel-graphics-compiler-1.0.2652-hc9558a2_0
+intel-graphics-compiler-1.0.2878-hc9558a2_0
+intel-graphics-compiler-1.0.3032-hc9558a2_0
+intel-graphics-compiler-1.0.3041-hc9558a2_0

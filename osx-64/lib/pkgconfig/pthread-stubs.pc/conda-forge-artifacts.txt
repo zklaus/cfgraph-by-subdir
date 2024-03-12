@@ -1,0 +1,7 @@
+pthread-stubs-0.3-1
+pthread-stubs-0.4-0
+xorg-libpthread-stubs-0.3-0
+xorg-libpthread-stubs-0.3-1
+pthread-stubs-0.4-h470a237_1
+pthread-stubs-0.4-h1de35cc_1001
+pthread-stubs-0.4-hc929b4f_1001

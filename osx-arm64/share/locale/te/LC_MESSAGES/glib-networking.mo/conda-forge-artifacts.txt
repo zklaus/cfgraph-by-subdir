@@ -1,0 +1,11 @@
+glib-networking-2.68.2-h5a33efc_0
+glib-networking-2.68.2-h9c85ac7_0
+glib-networking-2.68.3-h9c85ac7_0
+glib-networking-2.70.1-h07fdc7a_0
+glib-networking-2.72.1-h969aa61_0
+glib-networking-2.72.1-h969aa61_1
+glib-networking-2.72.1-hb1e1873_1
+glib-networking-2.72.2-hab23737_0
+glib-networking-2.72.2-h1dd49b5_0
+glib-networking-2.76.1-he79f396_0
+glib-networking-2.78.0-he79f396_0

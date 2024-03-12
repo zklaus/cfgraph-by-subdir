@@ -1,0 +1,3 @@
+dotnet-sdk-6.0.100-h25a8a10_0
+dotnet-sdk-6.0.100-h25a8a10_1
+dotnet-sdk-6.0.101-h25a8a10_0

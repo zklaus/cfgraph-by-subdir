@@ -1,0 +1,6 @@
+nano-2.9.8-h969982e_1000
+nano-2.9.8-hddfc1eb_1001
+nano-6.4-h17f021e_0
+nano-6.4-h17f021e_1
+nano-7.1-h9b990bf_0
+nano-7.2-h9b990bf_0

@@ -1,0 +1,1 @@
+terraform-provider-clc-0.1.0-hac98541_1002

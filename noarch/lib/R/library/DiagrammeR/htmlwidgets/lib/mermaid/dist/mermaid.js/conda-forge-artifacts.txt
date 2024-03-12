@@ -1,0 +1,4 @@
+r-diagrammer-1.0.5-r36h6115d3f_0
+r-diagrammer-1.0.5-r35h6115d3f_0
+r-diagrammer-1.0.5-r40h6115d3f_1
+r-diagrammer-1.0.5-r36h6115d3f_1

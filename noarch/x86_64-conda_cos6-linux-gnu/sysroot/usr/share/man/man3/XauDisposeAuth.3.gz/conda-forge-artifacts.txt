@@ -1,0 +1,4 @@
+libxau-devel-cos6-x86_64-1.0.6-hdf0574f_102
+libxau-devel-cos6-x86_64-1.0.6-ha826a6f_103
+libxau-devel-cos6-x86_64-1.0.6-h9d98e8f_104
+libxau-devel-cos6-x86_64-1.0.6-h9b0a68f_105

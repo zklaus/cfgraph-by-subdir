@@ -1,0 +1,2 @@
+soapysdr-module-audio-0.1.1-h78c1c11_0
+soapysdr-module-audio-0.1.1-h78c1c11_1

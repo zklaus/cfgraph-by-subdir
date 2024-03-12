@@ -1,0 +1,11 @@
+cfitsio-3.470-hb60a0a2_0
+cfitsio-3.470-hb60a0a2_1
+cfitsio-3.470-hb60a0a2_2
+cfitsio-3.470-h00dd3da_3
+cfitsio-3.470-h3eac812_4
+cfitsio-3.470-h3eac812_5
+cfitsio-3.470-hce51eda_6
+cfitsio-3.470-h0392d32_7
+cfitsio-3.470-hce51eda_7
+cfitsio-3.470-hb418390_7
+cfitsio-3.470-h2e3daa1_7

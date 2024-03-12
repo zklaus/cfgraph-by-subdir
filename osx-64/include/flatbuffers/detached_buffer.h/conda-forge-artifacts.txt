@@ -1,0 +1,16 @@
+flatbuffers-2.0.6-h96cf925_0
+flatbuffers-2.0.7-hf0c8a7f_0
+flatbuffers-2.0.8-hf0c8a7f_0
+flatbuffers-22.9.24-hf0c8a7f_0
+flatbuffers-22.9.29-hf0c8a7f_0
+flatbuffers-22.10.25-hf0c8a7f_0
+flatbuffers-22.12.06-hf0c8a7f_0
+flatbuffers-22.12.06-hf0c8a7f_1
+flatbuffers-2.0.8-hf0c8a7f_1
+flatbuffers-22.12.06-hf0c8a7f_2
+flatbuffers-23.1.4-hf0c8a7f_0
+flatbuffers-23.1.21-hf0c8a7f_0
+flatbuffers-23.3.3-hf0c8a7f_0
+flatbuffers-23.5.26-he965462_0
+flatbuffers-23.5.26-he965462_1
+flatbuffers-23.3.3-hf0c8a7f_1

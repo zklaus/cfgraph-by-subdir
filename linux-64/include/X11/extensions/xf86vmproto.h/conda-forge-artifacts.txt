@@ -1,0 +1,10 @@
+xorg-xf86vidmodeproto-2.3.1-0
+xorg-xf86vidmodeproto-2.3.1-h516909a_1002
+xorg-xf86vidmodeproto-2.3.1-h7f98852_1002
+xorg-xorgproto-2021.4-h7f98852_0
+xorg-xorgproto-2021.5-h7f98852_0
+xorg-xorgproto-2022.1-h166bdaf_0
+xorg-xorgproto-2022.2-h0b41bf4_0
+xorg-xorgproto-2022.2-hd590300_1
+xorg-xorgproto-2023.1-hd590300_0
+xorg-xorgproto-2023.2-hd590300_0

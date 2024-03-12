@@ -1,0 +1,8 @@
+r-einsum-0.1.0-r41h03ef668_0
+r-einsum-0.1.0-r40h03ef668_0
+r-einsum-0.1.0-r41h7525677_1
+r-einsum-0.1.0-r42h7525677_1
+r-einsum-0.1.0-r43ha503ecb_2
+r-einsum-0.1.0-r42ha503ecb_2
+r-einsum-0.1.2-r42ha503ecb_0
+r-einsum-0.1.2-r43ha503ecb_0

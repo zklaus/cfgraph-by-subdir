@@ -1,0 +1,6 @@
+qt6-datavis3d-6.5.0-h2e1726e_0
+qt6-datavis3d-6.5.0-h2e1726e_1
+qt6-datavis3d-6.5.2-h3682df9_0
+qt6-datavis3d-6.5.3-h0425590_0
+qt6-datavis3d-6.6.0-h0425590_0
+qt6-datavis3d-6.6.1-h2fbbd21_0

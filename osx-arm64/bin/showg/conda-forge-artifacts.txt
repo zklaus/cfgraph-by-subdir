@@ -1,0 +1,4 @@
+nauty-2.7.1-h27ca646_0
+nauty-2.7.1-h3422bc3_1
+nauty-2.7.1-h3422bc3_2
+nauty-2.7.2-h3422bc3_0

@@ -1,0 +1,2 @@
+terraform-provider-azurerm-1.44.0-h209b5c4_0
+terraform-provider-azurerm-1.44.0-h209b5c4_1

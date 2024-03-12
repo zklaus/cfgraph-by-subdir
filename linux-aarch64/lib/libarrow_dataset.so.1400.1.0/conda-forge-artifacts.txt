@@ -1,0 +1,17 @@
+libarrow-dataset-14.0.1-h2f0025b_0_cpu
+libarrow-dataset-14.0.1-h4de3ea5_0_cuda
+libarrow-dataset-14.0.1-h2f0025b_1_cpu
+libarrow-dataset-14.0.1-h4de3ea5_1_cuda
+libarrow-dataset-14.0.1-h2f0025b_2_cpu
+libarrow-dataset-14.0.1-h4de3ea5_2_cuda
+libarrow-dataset-14.0.1-h2f0025b_3_cpu
+libarrow-dataset-14.0.1-h4de3ea5_3_cuda
+libarrow-dataset-14.0.1-h2f0025b_4_cpu
+libarrow-dataset-14.0.1-h4de3ea5_4_cuda
+libarrow-dataset-14.0.1-h2f0025b_5_cpu
+libarrow-dataset-14.0.1-h4de3ea5_5_cuda
+libarrow-dataset-14.0.1-h4de3ea5_6_cuda
+libarrow-dataset-14.0.1-h2f0025b_6_cpu
+libarrow-dataset-14.0.1-h2f0025b_7_cpu
+libarrow-dataset-14.0.1-h4de3ea5_7_cuda
+libarrow-dataset-14.0.1-h2f0025b_8_cpu

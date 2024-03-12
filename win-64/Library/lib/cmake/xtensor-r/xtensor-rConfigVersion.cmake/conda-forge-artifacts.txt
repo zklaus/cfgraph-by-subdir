@@ -1,0 +1,13 @@
+xtensor-r-0.9.0-h1ad3211_0
+xtensor-r-0.9.0-h1ad3211_1000
+xtensor-r-0.10.0-h1ad3211_0
+xtensor-r-0.11.0-h1ad3211_0
+xtensor-r-0.11.1-h1ad3211_0
+xtensor-r-0.12.0-h1ad3211_0
+xtensor-r-0.12.1-h1ad3211_0
+xtensor-r-0.12.1-h5362a0b_1
+xtensor-r-0.13.0-h5362a0b_0
+xtensor-r-0.13.0-h5362a0b_1
+xtensor-r-0.14.0-h5362a0b_0
+xtensor-r-0.14.1-h181d51b_0
+xtensor-r-0.14.2-h181d51b_0

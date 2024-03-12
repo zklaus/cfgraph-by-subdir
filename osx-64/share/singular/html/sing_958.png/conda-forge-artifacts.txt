@@ -1,0 +1,16 @@
+singular-4.1.0-0
+singular-4.1.0.p3-0
+singular-4.1.0.p3-1
+singular-4.1.0.p3-h1e9d69d_2
+singular-4.1.0.p3-h61b60e8_2
+singular-4.1.0.p3-hb389b6f_1002
+singular-4.1.2.p1-hefc621a_0
+singular-4.1.2.p1-hb41c430_1
+singular-4.1.2.p1-hb41c430_2
+singular-4.2.0.p3-h34d4a07_0
+singular-4.2.0.p3-h34d4a07_1
+singular-4.2.0.p3-h6475a08_2
+singular-4.2.1.p3-h363432b_0
+singular-4.2.1.p3-h28b0f62_1
+singular-4.2.1.p3-hac851df_2
+singular-4.2.1.p3-h0d51a9f_3

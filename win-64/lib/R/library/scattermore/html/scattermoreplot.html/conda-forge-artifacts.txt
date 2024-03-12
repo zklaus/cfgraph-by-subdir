@@ -1,0 +1,3 @@
+r-scattermore-0.7-r40h6d2157b_0
+r-scattermore-0.7-r36h6d2157b_0
+r-scattermore-0.8-r40h6d2157b_0

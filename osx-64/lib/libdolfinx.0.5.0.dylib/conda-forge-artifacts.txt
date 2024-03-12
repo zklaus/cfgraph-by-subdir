@@ -1,0 +1,4 @@
+fenics-libdolfinx-0.5.0-hb3fb44d_100
+fenics-libdolfinx-0.5.0-h9408628_100
+fenics-libdolfinx-0.5.0-h02c378c_0
+fenics-libdolfinx-0.5.0-hc04d746_0

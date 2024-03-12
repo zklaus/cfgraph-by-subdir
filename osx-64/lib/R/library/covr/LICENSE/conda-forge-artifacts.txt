@@ -1,0 +1,14 @@
+r-covr-3.6.0-r40h49197e3_0
+r-covr-3.6.0-r41h49197e3_0
+r-covr-3.6.1-r41h49197e3_0
+r-covr-3.6.1-r40h49197e3_0
+r-covr-3.6.1-r42h49197e3_1
+r-covr-3.6.1-r41h49197e3_1
+r-covr-3.6.2-r41h49197e3_0
+r-covr-3.6.2-r42h49197e3_0
+r-covr-3.6.2-r42hac7d2d5_1
+r-covr-3.6.2-r43hac7d2d5_1
+r-covr-3.6.3-r43h64b2c41_0
+r-covr-3.6.3-r42h64b2c41_0
+r-covr-3.6.4-r42h64b2c41_0
+r-covr-3.6.4-r43h64b2c41_0

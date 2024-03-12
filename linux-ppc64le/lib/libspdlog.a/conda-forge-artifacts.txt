@@ -1,0 +1,3 @@
+spdlog-1.7.0-h1bb5118_2
+spdlog-1.8.0-h1bb5118_0
+spdlog-1.8.1-h1bb5118_0

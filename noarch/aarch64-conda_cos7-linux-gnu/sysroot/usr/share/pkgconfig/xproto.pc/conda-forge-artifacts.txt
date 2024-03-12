@@ -1,0 +1,5 @@
+xorg-x11-proto-devel-cos7-aarch64-2018.4-h1341992_0
+xorg-x11-proto-devel-cos7-aarch64-2018.4-hdf0574f_102
+xorg-x11-proto-devel-cos7-aarch64-2018.4-ha826a6f_103
+xorg-x11-proto-devel-cos7-aarch64-2018.4-h9d98e8f_104
+xorg-x11-proto-devel-cos7-aarch64-2018.4-h9b0a68f_105

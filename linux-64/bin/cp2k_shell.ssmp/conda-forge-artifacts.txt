@@ -1,0 +1,13 @@
+cp2k-7.1.0-hdefa2d7_3
+cp2k-7.1.0-h7866383_4
+cp2k-7.1.0-h7866383_5
+cp2k-7.1.0-py38_nompi_1006
+cp2k-7.1.0-py38_nompi_1007
+cp2k-8.1.0-py38_nompi_1000
+cp2k-8.1.0-py38_nompi_1001
+cp2k-8.1.0-py38_nompi_1002
+cp2k-8.1.0-py38_nompi_1003
+cp2k-8.1.0-py38_nompi_1004
+cp2k-8.1.0-py38_nompi_1005
+cp2k-8.2.0-py38_nompi_1000
+cp2k-8.2.0-py38_nompi_1001

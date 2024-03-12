@@ -1,0 +1,8 @@
+parquet-cpp-0.1.pre-0
+parquet-cpp-0.1.pre-1
+parquet-cpp-0.1.pre-2
+parquet-cpp-0.1.pre-3
+parquet-cpp-0.1.pre-4
+parquet-cpp-0.1.pre-5
+parquet-cpp-0.1.pre-6
+parquet-cpp-0.1.pre-7

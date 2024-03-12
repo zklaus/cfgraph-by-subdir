@@ -1,0 +1,7 @@
+r-cubist-0.2.1-r3.3.2_0
+r-cubist-0.2.1-r3.4.1_0
+r-cubist-0.2.2-r341hc070d10_0
+r-cubist-0.2.2-r351hc070d10_0
+r-cubist-0.2.2-r351h46e59ec_1000
+r-cubist-0.2.2-r35h159158b_1001
+r-cubist-0.2.3-r35h17f1fa6_0

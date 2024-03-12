@@ -1,0 +1,14 @@
+r-rootsolve-1.8.2.1-r35h17ddedb_0
+r-rootsolve-1.8.2.1-r36h17ddedb_0
+r-rootsolve-1.8.2.1-r36h17ddedb_1
+r-rootsolve-1.8.2.1-r40h17ddedb_1
+r-rootsolve-1.8.2.1-r36h87ffe87_2
+r-rootsolve-1.8.2.1-r40h87ffe87_2
+r-rootsolve-1.8.2.1-r41he816bda_2
+r-rootsolve-1.8.2.1-r40he816bda_2
+r-rootsolve-1.8.2.2-r41he816bda_0
+r-rootsolve-1.8.2.2-r40he816bda_0
+r-rootsolve-1.8.2.3-r41he816bda_0
+r-rootsolve-1.8.2.3-r40he816bda_0
+r-rootsolve-1.8.2.3-r41he816bda_1
+r-rootsolve-1.8.2.3-r41he816bda_2

@@ -1,0 +1,7 @@
+libiconv-1.14-0
+libiconv-1.14-1
+libiconv-1.14-2
+libiconv-1.14-3
+libiconv-1.14-4
+libiconv-1.15-0
+libiconv-1.15-h470a237_1

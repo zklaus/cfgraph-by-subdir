@@ -1,0 +1,11 @@
+gcc_bootstrap_linux-aarch64-8.4.0-hdec9fc2_33
+gcc_bootstrap_linux-aarch64-9.3.0-h9c612fe_33
+gcc_bootstrap_linux-aarch64-7.5.0-h3208a7c_33
+gcc_bootstrap_linux-aarch64-10.3.0-hbef2ca3_0
+gcc_bootstrap_linux-aarch64-11.1.0-hc3f1a47_0
+gcc_bootstrap_linux-aarch64-9.4.0-h2df1b74_0
+gcc_bootstrap_linux-aarch64-9.4.0-h2df1b74_1
+gcc_bootstrap_linux-aarch64-11.1.0-hc3f1a47_1
+gcc_bootstrap_linux-aarch64-10.3.0-hbef2ca3_1
+gcc_bootstrap_linux-aarch64-8.5.0-hdf6300f_1
+gcc_bootstrap_linux-aarch64-11.2.0-hd024750_1

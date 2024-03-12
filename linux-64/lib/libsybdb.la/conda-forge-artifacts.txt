@@ -1,0 +1,6 @@
+freetds-1.00.44-0
+freetds-1.00.44-1
+freetds-1.00.44-2
+freetds-1.00.78-h831ec23_0
+freetds-1.00.81-h831ec23_0
+freetds-1.00.89-h831ec23_0

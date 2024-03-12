@@ -1,0 +1,6 @@
+numcosmo-0.18.1-py311haea862b_0
+numcosmo-0.18.1-py39h7803f5f_0
+numcosmo-0.18.1-py310h450588b_0
+numcosmo-0.18.1-py38he4bdb75_0
+numcosmo-0.18.1-py39hb4e560a_0
+numcosmo-0.18.1-py38h6f7cd0d_0

@@ -1,0 +1,13 @@
+libraw-0.19.5-h671cb30_0
+libraw-0.19.5-h671cb30_1
+libraw-0.19.5-h671cb30_2
+libraw-0.20.0-h843297d_0
+libraw-0.20.1-h843297d_0
+libraw-0.20.2-h843297d_0
+libraw-0.20.2-h5398375_0
+libraw-0.20.2-hefd3b78_1
+libraw-0.20.2-h7aa5921_2
+libraw-0.21.0-h7aa5921_0
+libraw-0.21.1-h7aa5921_0
+libraw-0.21.1-h9804679_1
+libraw-0.21.1-h8138101_2

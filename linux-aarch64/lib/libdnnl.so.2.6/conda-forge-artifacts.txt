@@ -1,0 +1,3 @@
+onednn-2.6-omp_hbaf68d1_0
+onednn-2.6.1-omp_hbaf68d1_0
+onednn-2.6.2-omp_hbaf68d1_0

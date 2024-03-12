@@ -1,0 +1,16 @@
+cudatoolkit-10.2.89-hb195166_6
+cudatoolkit-10.1.243-h3826478_6
+cudatoolkit-10.1.243-h3826478_7
+cudatoolkit-10.2.89-hb195166_7
+cudatoolkit-10.1.243-h3826478_8
+cudatoolkit-10.2.89-hb195166_8
+cudatoolkit-10.1.243-h3826478_9
+cudatoolkit-10.2.89-hb195166_9
+cudatoolkit-10.1.243-h3826478_10
+cudatoolkit-10.2.89-hb195166_10
+cudatoolkit-10.2.89-he40447d_10
+cudatoolkit-10.1.243-hc75346c_10
+cudatoolkit-10.1.243-hc75346c_11
+cudatoolkit-10.2.89-he40447d_11
+cudatoolkit-10.1.243-hc75346c_12
+cudatoolkit-10.2.89-he40447d_12

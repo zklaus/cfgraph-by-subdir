@@ -1,0 +1,6 @@
+fates-emerald-3.0.0-py310h49e4dde_8
+fates-emerald-3.0.0-py39he6943f2_8
+fates-emerald-3.0.0-py311h09c66b3_8
+fates-emerald-3.0.0-py38hc333cb7_8
+fates-emerald-3.0.0-py38h20ea2ef_8
+fates-emerald-3.0.0-py39hc6572da_8

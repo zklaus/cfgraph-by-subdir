@@ -1,0 +1,13 @@
+r-weights-1.0.1-r40hcfec24a_0
+r-weights-1.0.1-r36hcfec24a_0
+r-weights-1.0.2-r36hcfec24a_0
+r-weights-1.0.2-r40hcfec24a_0
+r-weights-1.0.2-r41hcfec24a_0
+r-weights-1.0.3-r40hcfec24a_0
+r-weights-1.0.3-r41hcfec24a_0
+r-weights-1.0.4-r41hcfec24a_0
+r-weights-1.0.4-r40hcfec24a_0
+r-weights-1.0.4-r42h06615bd_1
+r-weights-1.0.4-r41h06615bd_1
+r-weights-1.0.4-r42h57805ef_2
+r-weights-1.0.4-r43h57805ef_2

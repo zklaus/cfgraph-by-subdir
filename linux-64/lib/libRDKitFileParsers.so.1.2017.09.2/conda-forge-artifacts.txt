@@ -1,0 +1,3 @@
+rdkit-Release_2017_09-py27_0
+rdkit-Release_2017_09-py35_0
+rdkit-Release_2017_09-py36_0

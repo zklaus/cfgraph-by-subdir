@@ -1,0 +1,8 @@
+parallelproj-1.3.2-cuda11.0h1234567_0
+parallelproj-1.3.2-cuda11.2h1234567_0
+parallelproj-1.3.2-cuda11.1h1234567_0
+parallelproj-1.3.2-cuda10.2h1234567_0
+parallelproj-1.3.2-cuda10.2h1234567_1
+parallelproj-1.3.2-cuda11.1h1234567_1
+parallelproj-1.3.2-cuda11.0h1234567_1
+parallelproj-1.3.2-cuda11.2h1234567_1

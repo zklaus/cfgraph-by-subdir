@@ -1,0 +1,13 @@
+gst-plugins-base-1.22.0-hda5291d_0
+gst-plugins-base-1.22.0-hda5291d_1
+gst-plugins-base-1.22.0-hda5291d_2
+gst-plugins-base-1.22.3-h66bc5c0_0
+gst-plugins-base-1.22.3-h8115ff9_1
+gst-plugins-base-1.22.4-hb6c1c46_0
+gst-plugins-base-1.22.4-hb6c1c46_1
+gst-plugins-base-1.22.5-hb6c1c46_0
+gst-plugins-base-1.22.5-he115d4a_1
+gst-plugins-base-1.22.6-he115d4a_0
+gst-plugins-base-1.22.6-he115d4a_1
+gst-plugins-base-1.22.6-he115d4a_2
+gst-plugins-base-1.22.7-he115d4a_0

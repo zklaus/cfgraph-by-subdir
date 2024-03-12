@@ -1,0 +1,4 @@
+pari-2.15.2-h90a20cb_1_single
+pari-2.15.2-h90a20cb_2_single
+pari-2.15.3-h90a20cb_2_single
+pari-2.15.4-hd8be780_2_single

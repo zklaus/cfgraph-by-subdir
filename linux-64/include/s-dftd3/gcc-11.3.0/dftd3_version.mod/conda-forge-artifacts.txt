@@ -1,0 +1,3 @@
+simple-dftd3-0.7.0-heafb486_0
+simple-dftd3-0.7.0-heafb486_1
+simple-dftd3-0.7.0-heafb486_2

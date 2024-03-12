@@ -1,0 +1,14 @@
+bat-0.16.0-h1efec70_1
+bat-0.17.0-h6ee1f66_0
+bat-0.17.1-h6ee1f66_0
+bat-0.18.0-h6ee1f66_0
+bat-0.18.1-h822aac1_0
+bat-0.18.2-h822aac1_0
+bat-0.18.3-h822aac1_0
+bat-0.19.0-h822aac1_0
+bat-0.20.0-h65448a5_0
+bat-0.21.0-h3e56b83_0
+bat-0.22.0-hb5d5e24_0
+bat-0.22.1-hb5d5e24_0
+bat-0.23.0-hb5d5e24_0
+bat-0.24.0-h5ef7bb8_0

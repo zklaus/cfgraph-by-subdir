@@ -1,0 +1,5 @@
+rust-1.49.0-h4ff7c5d_0
+rust-1.50.0-h4ff7c5d_0
+rust-1.51.0-h4ff7c5d_0
+rust-1.52.0-h4ff7c5d_0
+rust-1.52.1-h4ff7c5d_0

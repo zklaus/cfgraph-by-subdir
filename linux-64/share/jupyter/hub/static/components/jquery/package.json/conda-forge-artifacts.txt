@@ -1,0 +1,11 @@
+jupyterhub-0.6.1-py34_0
+jupyterhub-0.6.1-py35_0
+jupyterhub-0.7.0-py34_0
+jupyterhub-0.7.0-py35_0
+jupyterhub-0.7.1-py34_0
+jupyterhub-0.7.1-py35_0
+jupyterhub-0.7.2-py34_0
+jupyterhub-0.7.2-py35_0
+jupyterhub-0.7.2-py36_0
+jupyterhub-0.8.1-py35_0
+jupyterhub-0.8.1-py36_0

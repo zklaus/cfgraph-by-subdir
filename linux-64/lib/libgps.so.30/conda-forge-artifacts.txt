@@ -1,0 +1,12 @@
+gpsd-3.25-py311h8ccc3d4_0
+gpsd-3.25-py38hbbeefe9_0
+gpsd-3.25-py310he38944a_0
+gpsd-3.25-py39h40abe73_0
+gpsd-3.25-py39h1c21089_0
+gpsd-3.25-py38h3ad4b70_0
+gpsd-3.25-py310he660f0e_1
+gpsd-3.25-py39h5775918_1
+gpsd-3.25-py312h268b8eb_1
+gpsd-3.25-py39hb4338c2_1
+gpsd-3.25-py311hf9d0b55_1
+gpsd-3.25-py38hf097370_1

@@ -1,0 +1,10 @@
+sycomore-1.1.0-py36h1ad3211_1
+sycomore-1.1.0-py38h1ad3211_1
+sycomore-1.1.0-py37h1ad3211_1
+sycomore-1.2.1-py37h1ad3211_0
+sycomore-1.2.1-py38h1ad3211_0
+sycomore-1.2.1-py36h1ad3211_0
+sycomore-1.2.1-py38h6a11f7f_1
+sycomore-1.2.1-py36h02faa31_1
+sycomore-1.2.1-py39h65fa7a7_1
+sycomore-1.2.1-py37h6386701_1

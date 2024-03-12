@@ -1,0 +1,6 @@
+armadillo-12.6.2-hf2536a8_0
+armadillo-12.6.3-hf2536a8_0
+armadillo-12.6.4-hf2536a8_0
+armadillo-12.6.4-h035bbc1_1
+armadillo-12.6.5-h035bbc1_0
+armadillo-12.6.6-h035bbc1_0

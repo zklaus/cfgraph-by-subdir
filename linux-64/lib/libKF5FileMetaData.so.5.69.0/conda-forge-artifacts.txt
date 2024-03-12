@@ -1,0 +1,4 @@
+kfilemetadata-5.69.0-hc1d23e8_0
+kfilemetadata-5.69.0-hc3ae254_1
+kfilemetadata-5.69.0-h6734073_2
+kfilemetadata-5.69.0-heb30465_3

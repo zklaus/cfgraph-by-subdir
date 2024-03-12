@@ -1,0 +1,9 @@
+aws-c-compression-0.2.11-h183d49f_0
+aws-c-compression-0.2.12-h183d49f_0
+aws-c-compression-0.2.12-hafdcbdd_1
+aws-c-compression-0.2.13-hafdcbdd_0
+aws-c-compression-0.2.13-h96e7347_1
+aws-c-compression-0.2.13-h9468e2f_2
+aws-c-compression-0.2.13-h3d8e7ad_3
+aws-c-compression-0.2.13-h20572ff_4
+aws-c-compression-0.2.13-hf0cc06f_5

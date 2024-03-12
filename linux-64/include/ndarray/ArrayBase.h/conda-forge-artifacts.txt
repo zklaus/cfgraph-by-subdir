@@ -1,0 +1,12 @@
+ndarray-1.5.3-hb21ce0d_0
+ndarray-1.5.3-h75f6862_1
+ndarray-1.6.0-h92c5536_0
+ndarray-1.6.0-h54e6974_1
+ndarray-1.6.0-h92c5536_1
+ndarray-1.6.1-hd7faea1_0
+ndarray-1.6.1-he44f83b_1
+ndarray-1.6.1-hc3f3343_2
+ndarray-1.6.3-hb543782_0
+ndarray-1.6.3-hb543782_1
+ndarray-1.6.4-h8f57334_1
+ndarray-1.6.4-h94eb665_2

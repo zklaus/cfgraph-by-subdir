@@ -1,0 +1,8 @@
+mrjob-0.5.10-py27_0
+mrjob-0.5.5-py27_0
+mrjob-0.5.8-py27_0
+mrjob-0.5.9-py27_0
+mrjob-0.6.7-py27_0
+mrjob-0.6.10-py27_0
+mrjob-0.6.12-py27_0
+mrjob-0.7.1-py27_0

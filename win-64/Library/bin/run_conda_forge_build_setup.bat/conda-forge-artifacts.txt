@@ -1,0 +1,4 @@
+conda-forge-build-setup-2.0.0-0
+conda-forge-build-setup-2.0.1-0
+conda-forge-build-setup-2.1.0-0
+conda-forge-build-setup-2.2.0-0

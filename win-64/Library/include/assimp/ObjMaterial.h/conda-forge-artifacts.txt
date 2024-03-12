@@ -1,0 +1,9 @@
+assimp-5.2.3-hc2aa0de_0
+assimp-5.2.3-hc2aa0de_1
+assimp-5.2.4-hc2aa0de_0
+assimp-5.2.4-h4dcb625_1
+assimp-5.2.4-h4dcb625_2
+assimp-5.2.5-h4dcb625_0
+assimp-5.3.0-h4dcb625_0
+assimp-5.3.1-h4dcb625_1
+assimp-5.3.1-h81f0834_2

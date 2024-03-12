@@ -1,0 +1,12 @@
+slepc-3.19.0-real_hae28239_100
+slepc-3.19.0-complex_h658f28a_0
+slepc-3.19.0-real_h961084a_100
+slepc-3.19.0-complex_hee233ab_0
+slepc-3.19.1-complex_h6f17044_0
+slepc-3.19.1-real_h6b08c1a_100
+slepc-3.19.1-real_h9f016af_100
+slepc-3.19.1-complex_he7aed9a_0
+slepc-3.19.2-real_h59c83b4_100
+slepc-3.19.2-complex_h0eb5b89_0
+slepc-3.19.2-real_hd8dc317_100
+slepc-3.19.2-complex_h2c49d64_0

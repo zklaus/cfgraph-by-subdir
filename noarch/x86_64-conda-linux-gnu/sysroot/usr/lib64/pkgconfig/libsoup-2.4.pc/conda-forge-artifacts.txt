@@ -1,0 +1,6 @@
+libsoup-devel-cos7-x86_64-2.62.2-ha826a6f_1103
+libsoup-devel-cos6-x86_64-2.34.3-ha826a6f_1103
+libsoup-devel-cos6-x86_64-2.34.3-h9d98e8f_1104
+libsoup-devel-cos7-x86_64-2.62.2-h9d98e8f_1104
+libsoup-devel-cos6-x86_64-2.34.3-h9b0a68f_1105
+libsoup-devel-cos7-x86_64-2.62.2-h9b0a68f_1105

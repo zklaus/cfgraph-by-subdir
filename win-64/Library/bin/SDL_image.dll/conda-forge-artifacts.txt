@@ -1,0 +1,8 @@
+sdl_image-1.2.12-h51753fe_0
+sdl_image-1.2.12-h368d6c2_1
+sdl_image-1.2.12-h7b9ad3d_1
+sdl_image-1.2.12-hfb6e5ed_2
+sdl_image-1.2.12-h7043300_3
+sdl_image-1.2.12-hc37e020_4
+sdl_image-1.2.12-h1e80787_5
+sdl_image-1.2.12-h4156d39_6

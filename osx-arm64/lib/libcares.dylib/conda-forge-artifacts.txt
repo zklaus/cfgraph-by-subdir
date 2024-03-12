@@ -1,0 +1,17 @@
+c-ares-1.16.1-h642e427_0
+c-ares-1.16.1-h642e427_1
+c-ares-static-1.16.1-h642e427_1
+c-ares-1.16.1-h642e427_2
+c-ares-1.16.1-h642e427_3
+c-ares-1.17.1-h27ca646_0
+c-ares-1.17.1-h27ca646_1
+c-ares-1.17.2-h3422bc3_0
+c-ares-1.18.0-h3422bc3_0
+c-ares-1.18.1-h3422bc3_0
+c-ares-1.19.0-hb547adb_0
+c-ares-1.19.1-hb547adb_0
+c-ares-1.20.1-h93a5062_0
+c-ares-1.20.1-h93a5062_1
+c-ares-1.21.0-h93a5062_0
+c-ares-1.22.1-h93a5062_0
+c-ares-1.23.0-h93a5062_0

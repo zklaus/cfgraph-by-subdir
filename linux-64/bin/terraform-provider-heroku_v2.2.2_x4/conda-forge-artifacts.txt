@@ -1,0 +1,3 @@
+terraform-provider-heroku-2.2.2-h209b5c4_0
+terraform-provider-heroku-2.2.2-h630e55e_0
+terraform-provider-heroku-2.2.2-h630e55e_1

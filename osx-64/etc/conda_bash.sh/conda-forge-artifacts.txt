@@ -1,0 +1,8 @@
+conda-4.8.0-py37_0
+conda-4.8.0-py38_0
+conda-4.8.0-py27_0
+conda-4.8.0-py36_0
+conda-4.8.0-py37_1
+conda-4.8.0-py36_1
+conda-4.8.0-py27_1
+conda-4.8.0-py38_1

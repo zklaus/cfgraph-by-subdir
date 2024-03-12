@@ -1,0 +1,4 @@
+soplex-6.0.1-h00e1a30_0
+soplex-6.0.1-h00e1a30_1
+soplex-6.0.1-h8acab5f_2
+soplex-6.0.1-h3da912a_3

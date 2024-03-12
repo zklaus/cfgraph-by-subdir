@@ -1,0 +1,2 @@
+terraform-provider-datadog-2.7.0-h209b5c4_0
+terraform-provider-datadog-2.7.0-h630e55e_0

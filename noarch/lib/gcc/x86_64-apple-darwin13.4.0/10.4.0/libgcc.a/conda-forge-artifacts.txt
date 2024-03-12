@@ -1,0 +1,5 @@
+libgfortran-devel_osx-64-10.4.0-hbaa9836_24
+libgfortran-devel_osx-64-10.4.0-hbaa9836_25
+libgfortran-devel_osx-64-10.4.0-hbaa9836_26
+libgfortran-devel_osx-64-10.4.0-hbaa9836_27
+libgfortran-devel_osx-64-10.4.0-hbaa9836_28

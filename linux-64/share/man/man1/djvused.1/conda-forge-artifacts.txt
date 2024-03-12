@@ -1,0 +1,3 @@
+djvulibre-3.5.28-h3cef955_0
+djvulibre-3.5.28-h15a074b_1
+djvulibre-3.5.28-ha7cd480_2

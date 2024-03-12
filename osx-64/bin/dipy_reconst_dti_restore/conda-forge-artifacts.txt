@@ -1,0 +1,9 @@
+dipy-0.12.0-np111py27_1
+dipy-0.12.0-np111py35_1
+dipy-0.12.0-np111py36_1
+dipy-0.12.0-np112py27_1
+dipy-0.12.0-np112py35_1
+dipy-0.12.0-np112py36_1
+dipy-0.13.0-py27_1
+dipy-0.13.0-py35_1
+dipy-0.13.0-py36_1

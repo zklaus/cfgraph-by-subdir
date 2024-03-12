@@ -1,0 +1,5 @@
+mysql-connector-odbc-8.0.23-h3b9df90_0
+mysql-connector-odbc-8.0.27-h3b9df90_0
+mysql-connector-odbc-8.0.28-h690f14c_0
+mysql-connector-odbc-8.0.31-ha72a2fa_0
+mysql-connector-odbc-8.0.32-h26001cd_0

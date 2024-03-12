@@ -1,0 +1,13 @@
+icu-73.2-hf5e326d_0
+clang_bootstrap_osx-64-15.0.7-hc074a92_4
+clang_bootstrap_osx-arm64-15.0.7-hd6f6554_4
+clang_bootstrap_osx-64-16.0.6-h99438b3_2
+clang_bootstrap_osx-arm64-16.0.6-hc750b01_2
+clang_bootstrap_osx-arm64-15.0.7-hd6f6554_5
+clang_bootstrap_osx-64-16.0.6-h99438b3_5
+clang_bootstrap_osx-64-15.0.7-hc074a92_5
+clang_bootstrap_osx-arm64-16.0.6-hc750b01_5
+clang_bootstrap_osx-arm64-15.0.7-hd6f6554_6
+clang_bootstrap_osx-64-15.0.7-hc074a92_6
+clang_bootstrap_osx-64-16.0.6-h99438b3_6
+clang_bootstrap_osx-arm64-16.0.6-hc750b01_6

@@ -1,0 +1,9 @@
+rattler-build-0.1.3-hd3556d1_0
+rattler-build-0.2.0-hd3556d1_0
+rattler-build-0.3.0-hd3556d1_0
+rattler-build-0.3.1-hd3556d1_0
+rattler-build-0.4.0-h91dc0f9_0
+rattler-build-0.4.0-h91dc0f9_1
+rattler-build-0.5.0-h91dc0f9_1
+rattler-build-0.5.1-h91dc0f9_0
+rattler-build-0.5.2-h91dc0f9_0

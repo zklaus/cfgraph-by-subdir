@@ -1,0 +1,16 @@
+r-paramhelpers-1.13-r36h17f1fa6_0
+r-paramhelpers-1.13-r35h17f1fa6_0
+r-paramhelpers-1.14-r36h17f1fa6_0
+r-paramhelpers-1.14-r35h17f1fa6_0
+r-paramhelpers-1.14-r40h17f1fa6_1
+r-paramhelpers-1.14-r36h17f1fa6_1
+r-paramhelpers-1.14-r41h28b5c78_1
+r-paramhelpers-1.14-r40h28b5c78_1
+r-paramhelpers-1.14.1-r40h67d6963_0
+r-paramhelpers-1.14.1-r41h67d6963_0
+r-paramhelpers-1.14.1-r42h815d134_1
+r-paramhelpers-1.14.1-r41h815d134_1
+r-paramhelpers-1.14.1-r41h6dc245f_1
+r-paramhelpers-1.14.1-r42h6dc245f_1
+r-paramhelpers-1.14.1-r42h6dc245f_2
+r-paramhelpers-1.14.1-r43h6dc245f_2

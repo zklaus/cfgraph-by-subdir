@@ -1,0 +1,15 @@
+libsemigroups-2.0.0-h7596d76_0
+libsemigroups-2.0.1-h6f5c521_0
+libsemigroups-2.1.0-h6f5c521_0
+libsemigroups-2.2.1-heb98260_0
+libsemigroups-2.2.1-h3de2670_1
+libsemigroups-2.3.0-h3de2670_0
+libsemigroups-2.3.1-h3de2670_0
+libsemigroups-2.4.0-h3de2670_0
+libsemigroups-2.4.1-h62773f8_0
+libsemigroups-2.5.1-h62773f8_0
+libsemigroups-2.6.0-h62773f8_0
+libsemigroups-2.6.1-h62773f8_0
+libsemigroups-2.6.2-h62773f8_0
+libsemigroups-2.7.1-h62773f8_0
+libsemigroups-2.7.1-h62cd334_1

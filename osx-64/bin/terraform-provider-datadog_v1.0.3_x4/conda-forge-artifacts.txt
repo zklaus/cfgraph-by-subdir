@@ -1,0 +1,2 @@
+terraform-provider-datadog-1.0.3-0
+terraform-provider-datadog-1.0.3-h81701ea_1

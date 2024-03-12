@@ -1,0 +1,6 @@
+libgpg-error-1.39-h54f1f3f_0
+libgpg-error-1.41-h01db608_0
+libgpg-error-1.42-h01db608_0
+libgpg-error-1.44-hcfc09ae_0
+libgpg-error-1.45-h2472e2e_0
+libgpg-error-1.47-h5ce24db_0

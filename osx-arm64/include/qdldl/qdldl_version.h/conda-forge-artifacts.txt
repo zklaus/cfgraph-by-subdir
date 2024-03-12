@@ -1,0 +1,2 @@
+libqdldl-0.1.6-hb7217d7_1
+libqdldl-0.1.7-hb7217d7_0

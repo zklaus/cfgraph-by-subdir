@@ -1,0 +1,8 @@
+pypy3.6-7.3.0-h1aaadc1_5
+pypy3.6-7.3.0-h1aaadc1_6
+pypy3.6-7.3.0-he421ad0_7
+pypy3.6-7.3.0-he421ad0_8
+pypy3.6-7.3.1-he421ad0_1
+pytest-6.1.1-py36hc560c46_0
+brotli-python-1.0.9-py36hd47967e_1
+pypy3.6-7.3.2-h52a2fc7_1

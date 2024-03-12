@@ -1,0 +1,8 @@
+westpa-2020.05-py36h269c3a8_0
+westpa-2020.05-py37hcd4c3ab_0
+westpa-2020.05-py38h9544abe_0
+westpa-2020.05-py39h14843e3_0
+westpa-2020.05-py36h269c3a8_2
+westpa-2020.05-py37hcd4c3ab_2
+westpa-2020.05-py38h9544abe_2
+westpa-2020.05-py39h14843e3_2

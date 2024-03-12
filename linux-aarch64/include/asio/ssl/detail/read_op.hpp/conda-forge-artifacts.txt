@@ -1,0 +1,8 @@
+asio-1.14.1-h01db608_1
+asio-1.22.1-h4de3ea5_0
+asio-1.23.0-h4de3ea5_0
+asio-1.24.0-h4de3ea5_0
+asio-1.26.0-hd600fc2_0
+asio-1.27.0-hd600fc2_0
+asio-1.28.0-h2f0025b_0
+asio-1.28.1-h2f0025b_0

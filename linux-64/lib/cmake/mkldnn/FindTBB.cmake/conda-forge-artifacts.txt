@@ -1,0 +1,17 @@
+onednn-2.1.2-tbb_h7aa542a_0
+onednn-2.2-tbb_h7aa542a_0
+onednn-2.2.1-tbb_h7aa542a_0
+onednn-2.2.2-tbb_h7aa542a_0
+onednn-2.2.2-tbb_h1828cfc_1
+onednn-2.2.2-tbb_h749a9ee_2
+onednn-2.2.3-tbb_h749a9ee_0
+onednn-2.2.3-tbb_h749a9ee_1
+onednn-2.2.4-tbb_h749a9ee_0
+onednn-2.3-tbb_h749a9ee_0
+onednn-2.3.1-tbb_h749a9ee_0
+onednn-2.3.2-tbb_h749a9ee_0
+onednn-2.4-tbb_h749a9ee_0
+onednn-2.4.1-tbb_h749a9ee_0
+onednn-2.4.2-tbb_h749a9ee_0
+onednn-2.4.3-tbb_h749a9ee_0
+onednn-2.4.4-tbb_h749a9ee_0

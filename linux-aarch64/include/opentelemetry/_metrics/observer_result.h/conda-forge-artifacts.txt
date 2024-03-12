@@ -1,0 +1,11 @@
+cpp-opentelemetry-api-1.1.0-hd62202e_1
+cpp-opentelemetry-api-1.1.0-hd62202e_2
+cpp-opentelemetry-api-1.1.1-hd62202e_0
+cpp-opentelemetry-api-1.2.0-hd62202e_0
+cpp-opentelemetry-api-1.3.0-hdd96247_0
+cpp-opentelemetry-api-1.4.0-hdd96247_0
+cpp-opentelemetry-api-1.4.1-hdd96247_0
+cpp-opentelemetry-api-1.5.0-hdd96247_0
+cpp-opentelemetry-api-1.6.0-hdd96247_0
+cpp-opentelemetry-api-1.6.1-hdd96247_0
+cpp-opentelemetry-api-1.7.0-hdd96247_0

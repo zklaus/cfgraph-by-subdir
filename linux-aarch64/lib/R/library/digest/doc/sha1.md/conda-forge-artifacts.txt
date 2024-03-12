@@ -1,0 +1,12 @@
+r-digest-0.6.29-r41hecdc70b_0
+r-digest-0.6.29-r40hecdc70b_0
+r-digest-0.6.29-r41h526691d_1
+r-digest-0.6.29-r42h526691d_1
+r-digest-0.6.30-r41h526691d_0
+r-digest-0.6.30-r42h526691d_0
+r-digest-0.6.31-r42he0e9005_0
+r-digest-0.6.31-r41he0e9005_0
+r-digest-0.6.31-r43h93f32a7_1
+r-digest-0.6.31-r42h93f32a7_1
+r-digest-0.6.33-r43h93f32a7_0
+r-digest-0.6.33-r42h93f32a7_0

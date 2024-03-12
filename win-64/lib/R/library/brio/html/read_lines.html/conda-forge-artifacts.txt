@@ -1,0 +1,9 @@
+r-brio-1.1.0-r40hda5aaf8_0
+r-brio-1.1.0-r36hda5aaf8_0
+r-brio-1.1.0-r36h6d2157b_1
+r-brio-1.1.0-r40h6d2157b_1
+r-brio-1.1.1-r40h6d2157b_0
+r-brio-1.1.1-r36h6d2157b_0
+r-brio-1.1.2-r40h6d2157b_0
+r-brio-1.1.2-r36h6d2157b_0
+r-brio-1.1.3-r40h6d2157b_0

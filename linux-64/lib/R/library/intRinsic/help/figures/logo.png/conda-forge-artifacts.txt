@@ -1,0 +1,4 @@
+r-intrinsic-1.0.0-r42h38f115c_0
+r-intrinsic-1.0.1-r42ha503ecb_0
+r-intrinsic-1.0.1-r43ha503ecb_1
+r-intrinsic-1.0.1-r42ha503ecb_1

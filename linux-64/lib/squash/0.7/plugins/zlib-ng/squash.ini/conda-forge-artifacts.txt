@@ -1,0 +1,4 @@
+squash-0.7.0-0
+squash-0.7.0-hbcb40a0_1000
+squash-0.7.0-hc61e58b_0
+squash-0.7.0-h886fafd_1001

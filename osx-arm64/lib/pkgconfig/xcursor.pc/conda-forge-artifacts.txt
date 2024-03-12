@@ -1,0 +1,2 @@
+xorg-libxcursor-1.2.0-h3422bc3_0
+xorg-libxcursor-1.2.0-h1a8c8d9_1

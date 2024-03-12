@@ -1,0 +1,15 @@
+r-yardstick-0.0.8-r40h9951f98_0
+r-yardstick-0.0.8-r36h9951f98_0
+r-yardstick-0.0.8-r41h9951f98_0
+r-yardstick-0.0.9-r41h9951f98_0
+r-yardstick-0.0.9-r40h9951f98_0
+r-yardstick-1.0.0-r40h67d6963_0
+r-yardstick-1.0.0-r41h67d6963_0
+r-yardstick-1.1.0-r40h815d134_0
+r-yardstick-1.1.0-r41h815d134_0
+r-yardstick-1.1.0-r41h815d134_1
+r-yardstick-1.1.0-r42h815d134_1
+r-yardstick-1.2.0-r41h6dc245f_0
+r-yardstick-1.2.0-r42h6dc245f_0
+r-yardstick-1.2.0-r42h6dc245f_1
+r-yardstick-1.2.0-r43h6dc245f_1

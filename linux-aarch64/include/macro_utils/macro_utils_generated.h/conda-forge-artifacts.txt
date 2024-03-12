@@ -1,0 +1,1 @@
+azure-macro-utils-c-2022.08.09-h2f0025b_2

@@ -1,0 +1,15 @@
+fastfilters2-2.0.0.dev0-py38h7f3f72f_1
+fastfilters2-2.0.0.dev0-py311h9547e67_1
+fastfilters2-2.0.0.dev0-py39h7633fee_1
+fastfilters2-2.0.0.dev0-py310hd41b1e2_1
+fastfilters2-2.0.0.dev0-py39ha90811c_2
+fastfilters2-2.0.0.dev0-py38h7f3f72f_2
+fastfilters2-2.0.0.dev0-py311h9547e67_2
+fastfilters2-2.0.0.dev0-py310hd41b1e2_2
+fastfilters2-2.0.0.dev0-py39h7633fee_2
+fastfilters2-2.0.0.dev0-py39h7633fee_3
+fastfilters2-2.0.0.dev0-py310hd41b1e2_3
+fastfilters2-2.0.0.dev0-py38h7f3f72f_3
+fastfilters2-2.0.0.dev0-py39ha90811c_3
+fastfilters2-2.0.0.dev0-py312h8572e83_3
+fastfilters2-2.0.0.dev0-py311h9547e67_3

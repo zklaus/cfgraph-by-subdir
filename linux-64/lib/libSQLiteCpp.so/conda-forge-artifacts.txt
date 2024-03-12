@@ -1,0 +1,5 @@
+sqlitecpp-3.0.0-hc80f0dc_0
+sqlitecpp-3.1.0-hc80f0dc_0
+sqlitecpp-3.1.1-hc80f0dc_0
+sqlitecpp-3.1.1-h0251d09_0
+sqlitecpp-3.3.0-hd60324b_0

@@ -1,0 +1,6 @@
+r-marmap-1.0.5-r41h6addd8b_0
+r-marmap-1.0.5-r40h6addd8b_0
+r-marmap-1.0.6-r41h6addd8b_0
+r-marmap-1.0.6-r40h6addd8b_0
+r-marmap-1.0.6-r41h6addd8b_1
+r-marmap-1.0.7-r41h6addd8b_0

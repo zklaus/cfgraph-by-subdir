@@ -1,0 +1,4 @@
+coinmp-1.8.3-0
+coinmp-1.8.3-1
+coinmp-1.8.3-h14f21a1_1
+coinmp-1.8.3-h12c3663_1001

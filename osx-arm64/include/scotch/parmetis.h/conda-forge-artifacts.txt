@@ -1,0 +1,12 @@
+ptscotch-6.0.9-h1aec651_2
+ptscotch-6.0.9-hd02db47_2
+ptscotch-6.1.3-h1aec651_0
+ptscotch-6.1.3-hd02db47_0
+libptscotch-7.0.2-h4ec5e76_0
+libptscotch-7.0.2-ha644f10_0
+libptscotch-7.0.3-h4ec5e76_0
+libptscotch-7.0.3-ha644f10_0
+libptscotch-7.0.3-ha644f10_1
+libptscotch-7.0.3-h4ec5e76_1
+libptscotch-7.0.4-h820b06d_0
+libptscotch-7.0.4-h5340af2_0

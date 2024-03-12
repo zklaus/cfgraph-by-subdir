@@ -1,0 +1,5 @@
+svt-av1-0.8.7-he49afe7_0
+svt-av1-0.8.7-he49afe7_1
+svt-av1-0.9.0-he49afe7_0
+svt-av1-0.9.0-h96cf925_1
+svt-av1-0.9.1-h96cf925_0

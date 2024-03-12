@@ -1,0 +1,1 @@
+rb-open_uri_redirections-0.2.1-hd8ed1ab_1

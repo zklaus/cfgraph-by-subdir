@@ -1,0 +1,7 @@
+s2geometry-0.9.0-h305e63b_0
+s2geometry-0.9.0-h305e63b_1
+s2geometry-0.9.0-h305e63b_2
+s2geometry-0.9.0-hc1a0600_3
+s2geometry-0.9.0-h695e95d_3
+s2geometry-0.9.0-hc1a0600_4
+s2geometry-0.9.0-h695e95d_4

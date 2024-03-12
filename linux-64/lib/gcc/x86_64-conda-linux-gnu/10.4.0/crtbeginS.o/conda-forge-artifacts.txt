@@ -1,0 +1,8 @@
+libgcc-devel_linux-64-10.4.0-h74af60c_16
+gcc_bootstrap_linux-64-10.4.0-h450f033_10
+libgcc-devel_linux-64-10.4.0-h74af60c_17
+libgcc-devel_linux-64-10.4.0-hd38fd1e_18
+gcc_bootstrap_linux-64-10.4.0-h1f84d57_11
+libgcc-devel_linux-64-10.4.0-hd38fd1e_19
+gcc_bootstrap_linux-64-10.4.0-h1f84d57_12
+gcc_bootstrap_linux-64-10.4.0-h1f84d57_13

@@ -1,0 +1,8 @@
+petsc-3.20.0-complex_h4d6cde7_0
+petsc-3.20.0-complex_h29e6e19_0
+petsc-3.20.0-real_h0c35ddb_100
+petsc-3.20.0-real_h9ea7c1b_100
+petsc-3.20.0-complex_hecee4e4_1
+petsc-3.20.0-real_hc13a494_101
+petsc-3.20.0-complex_hdf8e09f_1
+petsc-3.20.0-real_h4e83fda_101

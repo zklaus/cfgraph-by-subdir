@@ -1,0 +1,3 @@
+pyside2-5.9.0a1-py36h4dc837a_0
+pyside2-5.9.0a1-py27h4dc837a_0
+pyside2-5.9.0a1-py37h4dc837a_0

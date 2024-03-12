@@ -1,0 +1,10 @@
+pylat-0.1.1-py39h88b8986_0
+pylat-0.1.1-py38hde5f8eb_0
+pylat-0.1.1-py37h0d863e1_0
+pylat-0.1.1-py310h1c938c7_0
+pylat-0.1.1-py39h88b8986_1
+pylat-0.1.1-py38hb38c35a_1
+pylat-0.1.1-py39h84da1d8_1
+pylat-0.1.1-py38hde5f8eb_1
+pylat-0.1.1-py37h0d863e1_1
+pylat-0.1.1-py310h1c938c7_1

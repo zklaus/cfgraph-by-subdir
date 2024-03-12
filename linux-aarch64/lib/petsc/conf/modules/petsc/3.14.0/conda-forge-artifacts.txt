@@ -1,0 +1,12 @@
+petsc-3.14.0-had72ee3_0
+petsc-3.14.0-h98b4620_0
+petsc-3.14.0-hb1c432e_0
+petsc-3.14.0-he0ab5fc_0
+petsc-3.14.0-hedbe01d_0
+petsc-3.14.0-h7615d54_0
+petsc-3.14.0-h2f01b18_0
+petsc-3.14.0-he11a5b0_0
+petsc-3.14.0-h1f2cd5b_0
+petsc-3.14.0-hbec8123_0
+petsc-3.14.0-h10a6f55_0
+petsc-3.14.0-h2d40059_0

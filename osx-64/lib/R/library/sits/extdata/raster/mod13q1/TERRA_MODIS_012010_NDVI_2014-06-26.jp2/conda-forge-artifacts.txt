@@ -1,0 +1,5 @@
+r-sits-1.4.0-r42hc47f2a7_0
+r-sits-1.4.0-r41hc47f2a7_0
+r-sits-1.4.1-r42hc47f2a7_0
+r-sits-1.4.1-r43hc47f2a7_1
+r-sits-1.4.1-r42hc47f2a7_1

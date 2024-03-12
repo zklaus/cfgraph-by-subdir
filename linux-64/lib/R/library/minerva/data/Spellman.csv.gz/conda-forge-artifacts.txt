@@ -1,0 +1,6 @@
+r-minerva-1.5.8-r36h0357c0b_0
+r-minerva-1.5.8-r35h0357c0b_0
+r-minerva-1.5.8-r40h0357c0b_1
+r-minerva-1.5.8-r36h0357c0b_1
+r-minerva-1.5.8-r40h03ef668_1
+r-minerva-1.5.8-r41h03ef668_1

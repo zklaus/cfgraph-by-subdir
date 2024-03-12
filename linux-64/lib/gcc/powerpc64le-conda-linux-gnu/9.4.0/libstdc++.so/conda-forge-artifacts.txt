@@ -1,0 +1,15 @@
+libstdcxx-devel_linux-ppc64le-9.4.0-h60c1801_11
+gcc_bootstrap_linux-ppc64le-9.4.0-h85b6259_2
+gcc_bootstrap_linux-ppc64le-9.4.0-h85b6259_3
+gcc_bootstrap_linux-ppc64le-9.4.0-h85b6259_4
+libstdcxx-devel_linux-ppc64le-9.4.0-h60c1801_12
+gcc_bootstrap_linux-ppc64le-9.4.0-h85b6259_5
+gcc_bootstrap_linux-ppc64le-9.4.0-h85b6259_6
+libstdcxx-devel_linux-ppc64le-9.4.0-h60c1801_13
+gcc_bootstrap_linux-ppc64le-9.4.0-h85b6259_7
+libstdcxx-devel_linux-ppc64le-9.4.0-h60c1801_14
+gcc_bootstrap_linux-ppc64le-9.4.0-h85b6259_8
+gcc_bootstrap_linux-ppc64le-9.4.0-h85b6259_9
+libstdcxx-devel_linux-ppc64le-9.4.0-h60c1801_15
+libstdcxx-devel_linux-ppc64le-9.4.0-h60c1801_16
+gcc_bootstrap_linux-ppc64le-9.4.0-h85b6259_10

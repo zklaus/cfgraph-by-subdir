@@ -1,0 +1,4 @@
+xeus-qt-0.1.1-ha27c2bb_0
+xeus-qt-0.1.2-ha27c2bb_0
+xeus-qt-0.1.3-h4cc78fd_0
+xeus-qt-0.1.3-h0371a62_1

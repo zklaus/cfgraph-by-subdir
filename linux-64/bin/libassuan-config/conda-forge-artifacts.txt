@@ -1,0 +1,9 @@
+libassuan-2.5.1-hfc679d8_0
+libassuan-2.5.1-hf484d3e_1000
+libassuan-2.5.2-hfc679d8_0
+libassuan-2.5.2-hf484d3e_1000
+libassuan-2.5.3-hf484d3e_0
+libassuan-2.5.3-he1b5a44_1
+libassuan-2.5.4-h58526e2_0
+libassuan-2.5.5-h9c3ff4c_0
+libassuan-2.5.6-h59595ed_0

@@ -1,0 +1,7 @@
+cartopy-0.22.0-py39h6b13a34_0
+cartopy-0.22.0-py310h1cdf563_0
+cartopy-0.22.0-py311h9e438b8_0
+cartopy-0.22.0-py312h9e53831_1
+cartopy-0.22.0-py39hf8cecc8_1
+cartopy-0.22.0-py311h6e08293_1
+cartopy-0.22.0-py310h6e3cc31_1

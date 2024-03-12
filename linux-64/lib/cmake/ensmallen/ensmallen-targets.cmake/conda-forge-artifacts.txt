@@ -1,0 +1,17 @@
+ensmallen-2.11.3-hc0d2d6d_0
+ensmallen-2.11.5-hc0d2d6d_0
+ensmallen-2.12.0-hc0d2d6d_0
+ensmallen-2.12.1-hc0d2d6d_0
+ensmallen-2.13.0-hc0d2d6d_0
+ensmallen-2.14.0-hc0d2d6d_0
+ensmallen-2.14.1-hc0d2d6d_0
+ensmallen-2.14.2-hc0d2d6d_0
+ensmallen-2.15.1-hdbde125_0
+ensmallen-2.16.1-h1c10d02_0
+ensmallen-2.16.2-h1c10d02_0
+ensmallen-2.17.0-h1c10d02_0
+ensmallen-2.18.0-h1c10d02_1
+ensmallen-2.17.0-h1c10d02_1
+ensmallen-2.19.1-h74a5366_0
+ensmallen-2.20.0-h74a5366_0
+ensmallen-2.21.0-h74a5366_0

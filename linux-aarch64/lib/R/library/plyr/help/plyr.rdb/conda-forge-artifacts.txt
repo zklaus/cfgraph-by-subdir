@@ -1,0 +1,15 @@
+r-plyr-1.8.6-r36h0357c0b_0
+r-plyr-1.8.6-r36h0357c0b_1
+r-plyr-1.8.6-r40h0357c0b_1
+r-plyr-1.8.6-r41hecdc70b_1
+r-plyr-1.8.6-r40hecdc70b_1
+r-plyr-1.8.7-r40hf13958e_0
+r-plyr-1.8.7-r41hf13958e_0
+r-plyr-1.8.7-r42h526691d_1
+r-plyr-1.8.7-r41h526691d_1
+r-plyr-1.8.8-r41h526691d_0
+r-plyr-1.8.8-r42h526691d_0
+r-plyr-1.8.8-r42h93f32a7_1
+r-plyr-1.8.8-r43h93f32a7_1
+r-plyr-1.8.9-r43h93f32a7_0
+r-plyr-1.8.9-r42h93f32a7_0

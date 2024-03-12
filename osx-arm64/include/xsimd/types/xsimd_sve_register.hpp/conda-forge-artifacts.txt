@@ -1,0 +1,7 @@
+xsimd-9.0.0-hffc8910_0
+xsimd-9.0.1-hffc8910_0
+xsimd-10.0.0-hffc8910_0
+xsimd-11.0.0-hffc8910_0
+xsimd-11.1.0-h1995070_0
+xsimd-11.2.0-h55e7f77_0
+xsimd-12.0.0-h6aa02a4_0

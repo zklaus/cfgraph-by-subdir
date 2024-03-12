@@ -1,0 +1,8 @@
+arpack-3.7.0-h783a064_1
+arpack-3.7.0-h236a147_2
+arpack-3.7.0-h783a064_2
+arpack-3.7.0-hc5e8adb_2
+arpack-3.8.0-nompi_hce8f551_100
+arpack-3.8.0-mpi_mpich_h813b30f_0
+arpack-3.8.0-mpi_mpich_h813b30f_1
+arpack-3.8.0-nompi_hce8f551_101

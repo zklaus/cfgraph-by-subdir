@@ -1,0 +1,8 @@
+r-purrr-1.0.0-r42h8f965d6_0
+r-purrr-1.0.0-r41h8f965d6_0
+r-purrr-1.0.1-r41h8f965d6_0
+r-purrr-1.0.1-r42h8f965d6_0
+r-purrr-1.0.1-r42h9da1b96_1
+r-purrr-1.0.1-r43h9da1b96_1
+r-purrr-1.0.2-r42h9da1b96_0
+r-purrr-1.0.2-r43h9da1b96_0

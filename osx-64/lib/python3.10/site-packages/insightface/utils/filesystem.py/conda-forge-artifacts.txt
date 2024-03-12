@@ -1,0 +1,1 @@
+insightface-0.7.3-py310h5e4fcda_0

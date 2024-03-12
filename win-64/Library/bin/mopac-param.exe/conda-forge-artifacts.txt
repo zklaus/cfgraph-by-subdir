@@ -1,0 +1,6 @@
+mopac-22.0.2-h3bcc891_0
+mopac-22.0.2-h3bcc891_1
+mopac-22.0.4-h3bcc891_0
+mopac-22.0.5-h3bcc891_0
+mopac-22.0.6-h3bcc891_0
+mopac-22.1.0-h3bcc891_0

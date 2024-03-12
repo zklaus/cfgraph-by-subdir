@@ -1,0 +1,3 @@
+jbig2dec-0.17-ha9979f8_0
+jbig2dec-0.17-ha9979f8_1
+jbig2dec-0.18-ha9979f8_0

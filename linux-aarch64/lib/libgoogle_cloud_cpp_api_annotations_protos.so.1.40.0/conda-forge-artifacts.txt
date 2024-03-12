@@ -1,0 +1,2 @@
+libgoogle-cloud-1.40.0-hca26a15_0
+libgoogle-cloud-1.40.0-h78414cb_0

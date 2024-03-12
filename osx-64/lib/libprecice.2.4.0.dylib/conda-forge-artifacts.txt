@@ -1,0 +1,16 @@
+precice-2.4.0-py39h2439297_0
+precice-2.4.0-py38hd2aaccd_0
+precice-2.4.0-py39hb8365cf_0
+precice-2.4.0-py37h03cc9e3_0
+precice-2.4.0-py310heb54035_0
+precice-2.4.0-py37h8a43989_0
+precice-2.4.0-py310h2b27e14_0
+precice-2.4.0-py38h8bf4ed7_0
+precice-2.4.0-py37hb327a87_1
+precice-2.4.0-py310hd16cbbd_1
+precice-2.4.0-py38h37e5eef_1
+precice-2.4.0-py39ha4c6d2f_1
+precice-2.4.0-py310hda7d10a_1
+precice-2.4.0-py37hf34edc2_1
+precice-2.4.0-py39h39c16f0_1
+precice-2.4.0-py38h05c4cab_1

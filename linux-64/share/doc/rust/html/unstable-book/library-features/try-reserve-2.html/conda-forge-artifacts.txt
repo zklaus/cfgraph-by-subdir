@@ -1,0 +1,5 @@
+rust-1.59.0-h30be4a0_0
+rust-1.60.0-h30be4a0_0
+rust-1.61.0-h30be4a0_0
+rust-1.62.0-h30be4a0_0
+rust-1.62.1-h30be4a0_0

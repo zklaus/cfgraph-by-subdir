@@ -1,0 +1,17 @@
+mysql-libs-8.0.23-h4ccdf2d_0
+mysql-libs-8.0.23-h4ccdf2d_1
+mysql-libs-8.0.23-h53f7ac3_2
+mysql-libs-8.0.24-h53f7ac3_0
+mysql-libs-8.0.25-h53f7ac3_0
+mysql-libs-8.0.25-h577abee_1
+mysql-libs-8.0.25-h577abee_2
+mysql-libs-8.0.25-h577abee_3
+mysql-libs-8.0.26-h577abee_0
+mysql-libs-8.0.27-h577abee_0
+mysql-libs-8.0.27-h577abee_1
+mysql-libs-8.0.27-h577abee_2
+mysql-libs-8.0.27-h577abee_3
+mysql-libs-8.0.28-h577abee_0
+mysql-libs-8.0.28-h39b7a3a_2
+mysql-libs-8.0.28-h39b7a3a_3
+mysql-libs-8.0.28-h39b7a3a_4

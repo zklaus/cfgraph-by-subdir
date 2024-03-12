@@ -1,0 +1,6 @@
+numactl-devel-cos6-x86_64-2.0.9-h2da7399_1100
+numactl-devel-cos6-x86_64-2.0.9-h1795305_1101
+numactl-devel-cos6-x86_64-2.0.9-hdf0574f_1102
+numactl-devel-cos6-x86_64-2.0.9-ha826a6f_1103
+numactl-devel-cos6-x86_64-2.0.9-h9d98e8f_1104
+numactl-devel-cos6-x86_64-2.0.9-h9b0a68f_1105

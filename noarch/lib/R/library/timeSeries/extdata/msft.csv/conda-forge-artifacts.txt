@@ -1,0 +1,8 @@
+r-timeseries-4021.105-r41ha770c72_0
+r-timeseries-4021.105-r42ha770c72_0
+r-timeseries-4030.106-r42ha770c72_0
+r-timeseries-4030.106-r41ha770c72_0
+r-timeseries-4030.106-r42ha770c72_1
+r-timeseries-4030.106-r43ha770c72_1
+r-timeseries-4031.107-r42ha770c72_0
+r-timeseries-4031.107-r43ha770c72_0

@@ -1,0 +1,2 @@
+terraform-provider-docker-2.7.0-h33c4730_0
+terraform-provider-docker-2.7.0-h918b63b_0

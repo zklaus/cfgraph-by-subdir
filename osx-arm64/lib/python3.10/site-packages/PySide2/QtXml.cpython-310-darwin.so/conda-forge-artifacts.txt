@@ -1,0 +1,13 @@
+pyside2-5.15.5-py310h5219f08_1
+pyside2-5.15.6-py310h1ceb87a_0
+pyside2-5.15.6-py310h1ceb87a_1
+pyside2-5.15.6-py310h1ceb87a_2
+pyside2-5.15.6-py310hbfa27b9_3
+pyside2-5.15.6-py310hbfa27b9_4
+pyside2-5.15.6-py310hbfa27b9_5
+pyside2-5.15.7-py310hbfa27b9_0
+pyside2-5.15.8-py310hbfa27b9_0
+pyside2-5.15.8-py310hbfa27b9_1
+pyside2-5.15.8-py310hbfa27b9_2
+pyside2-5.15.8-py310hc2210c7_3
+pyside2-5.15.8-py310h5005a96_3

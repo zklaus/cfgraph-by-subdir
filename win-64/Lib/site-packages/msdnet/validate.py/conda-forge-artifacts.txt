@@ -1,0 +1,9 @@
+msdnet-1.0.0-py36hfa6e2cd_0
+msdnet-1.0.0-py37hfa6e2cd_0
+msdnet-2.0.0-py36h779f372_0
+msdnet-2.0.0-py38h1e8a9f7_0
+msdnet-2.0.0-py37h4ab8f01_0
+msdnet-2.0.0-py38h294d835_1
+msdnet-2.0.0-py37hcc03f2d_1
+msdnet-2.0.0-py39hb82d6ee_1
+msdnet-2.0.0-py310he2412df_1

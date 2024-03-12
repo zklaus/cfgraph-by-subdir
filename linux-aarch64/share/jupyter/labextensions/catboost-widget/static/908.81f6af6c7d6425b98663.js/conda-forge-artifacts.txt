@@ -1,0 +1,12 @@
+catboost-1.2-py310h4c7bcd0_4
+catboost-1.2-py311hec3470c_4
+catboost-1.2-py38he3eb160_4
+catboost-1.2-py39h4420490_4
+catboost-1.2.1-py39h4420490_0
+catboost-1.2.1-py310h4c7bcd0_0
+catboost-1.2.1-py38he3eb160_0
+catboost-1.2.1-py311hec3470c_0
+catboost-1.2.2-py311hec3470c_0
+catboost-1.2.2-py310h4c7bcd0_0
+catboost-1.2.2-py39h4420490_0
+catboost-1.2.2-py38he3eb160_0

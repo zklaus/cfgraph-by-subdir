@@ -1,0 +1,16 @@
+clang_bootstrap_osx-64-11.1.0-ha99727f_0
+clang_bootstrap_osx-arm64-11.1.0-h1741c7c_0
+clang_bootstrap_osx-64-11.1.0-ha99727f_1
+clang_bootstrap_osx-arm64-11.1.0-h1741c7c_1
+clang_bootstrap_osx-arm64-11.1.0-h1741c7c_2
+clang_bootstrap_osx-64-11.1.0-ha99727f_2
+clang_bootstrap_osx-arm64-11.1.0-h1741c7c_3
+clang_bootstrap_osx-64-11.1.0-ha99727f_3
+clang_bootstrap_osx-arm64-11.1.0-h1741c7c_4
+clang_bootstrap_osx-64-11.1.0-ha99727f_4
+clang_bootstrap_osx-arm64-11.1.0-hb452f61_5
+clang_bootstrap_osx-64-11.1.0-h69a1e51_5
+clang_bootstrap_osx-arm64-11.1.0-hb452f61_6
+clang_bootstrap_osx-64-11.1.0-h69a1e51_6
+clang_bootstrap_osx-64-11.1.0-h69a1e51_7
+clang_bootstrap_osx-arm64-11.1.0-hb452f61_7

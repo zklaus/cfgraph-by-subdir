@@ -1,0 +1,6 @@
+r-rentrez-1.1.0-r3.3.2_0
+r-rentrez-1.1.0-r3.4.1_0
+r-rentrez-1.2.1-r3.3.2_0
+r-rentrez-1.2.1-r3.4.1_0
+r-rentrez-1.2.1-r351_1
+r-rentrez-1.2.1-r341_1

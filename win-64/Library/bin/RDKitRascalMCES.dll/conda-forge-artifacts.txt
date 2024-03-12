@@ -1,0 +1,10 @@
+rdkit-2023.09.1-py38h5dcb4b8_0
+rdkit-2023.09.1-py311h2e71d08_0
+rdkit-2023.09.1-py310hd67c1e7_0
+rdkit-2023.09.1-py39h4e49fef_0
+rdkit-2023.09.1-py312h6617c54_0
+rdkit-2023.09.2-py311h2e71d08_0
+rdkit-2023.09.2-py312h6617c54_0
+rdkit-2023.09.2-py310hd67c1e7_0
+rdkit-2023.09.2-py39h4e49fef_0
+rdkit-2023.09.2-py38h5dcb4b8_0

@@ -1,0 +1,3 @@
+daal-static-2019.5-281
+daal-static-2020.3-h57928b3_311
+daal-static-2020.2-h57928b3_256

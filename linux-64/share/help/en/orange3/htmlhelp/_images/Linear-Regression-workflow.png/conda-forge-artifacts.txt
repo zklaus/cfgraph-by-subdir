@@ -1,0 +1,9 @@
+orange3-3.32.0-py38h47df419_0
+orange3-3.32.0-py37hfb7772e_0
+orange3-3.32.0-py39h1832856_0
+orange3-3.33.0-py39h4661b88_0
+orange3-3.33.0-py38h8f669ce_0
+orange3-3.33.0-py310h769672d_0
+orange3-3.34.1-py38hdc8b05c_0
+orange3-3.34.1-py310h9b08913_0
+orange3-3.34.1-py39h2ad29b5_0

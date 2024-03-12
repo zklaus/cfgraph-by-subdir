@@ -1,0 +1,6 @@
+arcsi-1.4.2-py35_vc14_0
+arcsi-1.4.2-py36_vc14_0
+arcsi-2.2.24-py35_vc14_0
+arcsi-2.2.24-py35_vc14_1
+arcsi-2.2.24-py36_vc14_0
+arcsi-2.2.24-py36_vc14_1

@@ -1,0 +1,4 @@
+libgit2-1.1.0-h0beb994_0
+libgit2-1.1.0-h101cbcd_1
+libgit2-1.1.1-h101cbcd_0
+libgit2-1.1.1-h98e466b_1

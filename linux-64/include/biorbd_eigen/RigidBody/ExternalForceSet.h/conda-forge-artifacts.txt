@@ -1,0 +1,13 @@
+biorbd-1.10.0-py310h87dd057_3
+biorbd-1.10.0-py311h7dfa2cc_3
+biorbd-1.10.1-py310h87dd057_0
+biorbd-1.10.1-py311h7dfa2cc_0
+biorbd-1.10.1-py311h582a77f_0
+biorbd-1.10.1-py312hd8393d0_0
+biorbd-1.10.1-py310he54878a_0
+biorbd-1.10.2-py311h582a77f_0
+biorbd-1.10.2-py312haada60c_0
+biorbd-1.10.2-py310he54878a_0
+biorbd-1.10.2-py312haada60c_1
+biorbd-1.10.2-py311h582a77f_1
+biorbd-1.10.2-py310he54878a_1

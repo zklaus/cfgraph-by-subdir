@@ -1,0 +1,8 @@
+pyside6-6.5.3-py310hbab474d_0
+pyside6-6.5.3-py311h72b3d3f_0
+pyside6-6.5.3-py38h04b3973_0
+pyside6-6.5.3-py39h1fcad57_0
+pyside6-6.5.3-py310hbab474d_1
+pyside6-6.5.3-py311h72b3d3f_1
+pyside6-6.5.3-py38h04b3973_1
+pyside6-6.5.3-py39h1fcad57_1

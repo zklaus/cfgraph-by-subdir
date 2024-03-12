@@ -1,0 +1,2 @@
+thrift-cpp-0.10.0-vc14_0
+thrift-cpp-0.10.0-vc14_1

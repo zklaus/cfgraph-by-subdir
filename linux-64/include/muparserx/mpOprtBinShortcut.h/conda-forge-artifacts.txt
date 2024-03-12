@@ -1,0 +1,4 @@
+muparserx-4.0.11-hf52228f_0
+muparserx-4.0.12-hf52228f_0
+muparserx-4.0.12-h00ab1b0_1
+muparserx-4.0.12-h00ab1b0_2

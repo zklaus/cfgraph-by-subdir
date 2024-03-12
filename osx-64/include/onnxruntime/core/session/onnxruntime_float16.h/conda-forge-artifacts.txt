@@ -1,0 +1,6 @@
+onnxruntime-novec-cpp-1.16.0-h6533e37_0_cpu
+onnxruntime-cpp-1.16.0-h27bfe5e_0_cpu
+onnxruntime-novec-cpp-1.16.1-hd470100_0_cpu
+onnxruntime-cpp-1.16.1-ha439a23_0_cpu
+onnxruntime-novec-cpp-1.16.3-hd470100_0_cpu
+onnxruntime-cpp-1.16.3-ha439a23_0_cpu

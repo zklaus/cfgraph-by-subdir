@@ -1,0 +1,4 @@
+czmq-4.2.1-haf49cfe_4
+czmq-4.2.1-h6b69ac8_5
+czmq-4.2.1-hf46ade3_6
+czmq-4.2.1-ha317999_7

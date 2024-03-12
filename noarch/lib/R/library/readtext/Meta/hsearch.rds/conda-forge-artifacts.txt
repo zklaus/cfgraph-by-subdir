@@ -1,0 +1,13 @@
+r-readtext-0.80-r40hc72bb7e_0
+r-readtext-0.80-r36hc72bb7e_0
+r-readtext-0.80-r41hc72bb7e_0
+r-readtext-0.81-r41hc72bb7e_0
+r-readtext-0.81-r40hc72bb7e_0
+r-readtext-0.81-r42hc72bb7e_1
+r-readtext-0.81-r41hc72bb7e_1
+r-readtext-0.82-r42hc72bb7e_0
+r-readtext-0.82-r41hc72bb7e_0
+r-readtext-0.90-r42hc72bb7e_0
+r-readtext-0.90-r41hc72bb7e_0
+r-readtext-0.90-r43hc72bb7e_1
+r-readtext-0.90-r42hc72bb7e_1

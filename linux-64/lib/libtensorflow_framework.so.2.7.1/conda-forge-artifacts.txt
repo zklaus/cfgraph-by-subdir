@@ -1,0 +1,10 @@
+libtensorflow-2.7.1-cuda112h98e1010_0
+libtensorflow_cc-2.7.1-cuda112h98e1010_0
+libtensorflow-2.7.1-cuda110h83f852c_0
+libtensorflow_cc-2.7.1-cuda110h83f852c_0
+libtensorflow-2.7.1-cuda111h95e6cbe_0
+libtensorflow_cc-2.7.1-cuda111h95e6cbe_0
+libtensorflow-2.7.1-cpu_h5cd7c79_0
+libtensorflow_cc-2.7.1-cpu_h5cd7c79_0
+libtensorflow-2.7.1-cuda102h62ca224_0
+libtensorflow_cc-2.7.1-cuda102h62ca224_0

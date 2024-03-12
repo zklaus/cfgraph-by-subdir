@@ -1,0 +1,14 @@
+nlopt-2.4.2-py27_0
+nlopt-2.4.2-py27_1
+nlopt-2.4.2-py27_2
+nlopt-2.4.2-py34_0
+nlopt-2.4.2-py34_1
+nlopt-2.4.2-py35_0
+nlopt-2.4.2-py35_1
+nlopt-2.4.2-py35_2
+nlopt-2.4.2-py36_0
+nlopt-2.4.2-py36_1
+nlopt-2.4.2-py36_2
+nlopt-2.4.2-py27hf8a1672_3
+nlopt-2.4.2-py35hf8a1672_3
+nlopt-2.4.2-py36hf8a1672_3

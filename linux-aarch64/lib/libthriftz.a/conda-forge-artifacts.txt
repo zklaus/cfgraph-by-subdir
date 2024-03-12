@@ -1,0 +1,1 @@
+thrift-cpp-0.12.0-hf3afdfd_1004

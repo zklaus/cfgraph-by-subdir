@@ -1,0 +1,3 @@
+qt6-main-6.6.0-h450cf1c_0
+qt6-main-6.6.1-h3af85ea_0
+qt6-main-6.6.1-h24ea32f_2

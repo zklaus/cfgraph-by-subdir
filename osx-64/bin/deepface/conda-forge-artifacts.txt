@@ -1,0 +1,17 @@
+deepface-0.0.75-py37hf985489_1
+deepface-0.0.75-py310h2ec42d9_1
+deepface-0.0.75-py38h50d1736_1
+deepface-0.0.75-py39h6e9494a_1
+deepface-0.0.75-py37hf985489_0
+deepface-0.0.75-py39h6e9494a_0
+deepface-0.0.75-py38h50d1736_0
+deepface-0.0.78-py38h50d1736_0
+deepface-0.0.78-py310h2ec42d9_0
+deepface-0.0.78-py39h6e9494a_0
+deepface-0.0.79-py310h2ec42d9_0
+deepface-0.0.79-py39h6e9494a_0
+deepface-0.0.79-py38h50d1736_0
+deepface-0.0.79-py39h6e9494a_1
+deepface-0.0.79-py310h2ec42d9_1
+deepface-0.0.79-py38h50d1736_1
+deepface-0.0.79-py311h6eed73b_1

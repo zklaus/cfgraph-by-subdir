@@ -1,0 +1,17 @@
+pyside-1.2.4-py27_vc9_4
+pyside-1.2.4-py27_vc9_5
+pyside-1.2.4-py27_vc9_6
+pyside-1.2.4-py27_vc9_7
+pyside-1.2.4-py27_vc9_8
+pyside-1.2.4-py34_vc10_4
+pyside-1.2.4-py34_vc10_5
+pyside-1.2.4-py35_vc14_4
+pyside-1.2.4-py35_vc14_5
+pyside-1.2.4-py35_vc14_6
+pyside-1.2.4-py35_vc14_7
+pyside-1.2.4-py35_vc14_8
+pyside-1.2.4-py36_vc14_4
+pyside-1.2.4-py36_vc14_5
+pyside-1.2.4-py36_vc14_6
+pyside-1.2.4-py36_vc14_7
+pyside-1.2.4-py36_vc14_8

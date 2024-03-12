@@ -1,0 +1,11 @@
+jupyter_server_ydoc-0.1.13-pyhd8ed1ab_0
+jupyter_server_ydoc-0.2.0-pyhd8ed1ab_0
+jupyter_server_ydoc-0.3.0-pyhd8ed1ab_0
+jupyter_server_ydoc-0.4.0-pyhd8ed1ab_0
+jupyter_server_ydoc-0.4.0-pyhd8ed1ab_1
+jupyter_server_ydoc-0.5.1-pyhd8ed1ab_0
+jupyter_server_ydoc-0.6.0-pyhd8ed1ab_0
+jupyter_server_ydoc-0.6.1-pyhd8ed1ab_0
+jupyter_server_ydoc-0.6.2-pyhd8ed1ab_0
+jupyter_server_ydoc-0.7.0-pyhd8ed1ab_0
+jupyter_server_ydoc-0.8.0-pyhd8ed1ab_0

@@ -1,0 +1,4 @@
+shapelib-1.5.0-h4a8c4bd_0
+shapelib-1.5.0-hf0c8a7f_1
+shapelib-1.5.0-hf0c8a7f_2
+shapelib-1.5.0-hce257de_3

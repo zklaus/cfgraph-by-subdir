@@ -1,0 +1,9 @@
+libmagma-2.7.1-hb654a76_6
+libmagma-2.7.1-h27168cd_6
+libmagma-2.7.1-haaf0f09_6
+libmagma-2.7.2-haaf0f09_0
+libmagma-2.7.2-h27168cd_0
+libmagma-2.7.2-hb654a76_0
+libmagma-2.7.2-h27168cd_1
+libmagma-2.7.2-h5b5c57a_1
+libmagma-2.7.2-he288b6c_1

@@ -1,0 +1,13 @@
+libnetcdf-4.4.0-1
+libnetcdf-4.4.0-2
+libnetcdf-4.4.0-3
+libnetcdf-4.4.1-0
+libnetcdf-4.4.1.1-10
+libnetcdf-4.4.1.1-7
+libnetcdf-4.4.1.1-8
+libnetcdf-4.4.1.1-9
+libnetcdf-4.5.0-1
+libnetcdf-4.5.0-2
+libnetcdf-4.5.0-3
+libnetcdf-4.6.0-0
+libnetcdf-4.4.1.1-hfc65e7b_11

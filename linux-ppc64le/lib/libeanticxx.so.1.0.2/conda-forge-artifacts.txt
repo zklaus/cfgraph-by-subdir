@@ -1,0 +1,8 @@
+libeantic-1.0.3-ha5aa20a_0
+libeantic-1.0.3-h17e1ef5_1
+libeantic-1.0.3-h17e1ef5_2
+libeantic-1.0.3-h17e1ef5_3
+libeantic-1.0.3-hff437a4_4
+libeantic-1.1.0-hff437a4_0
+libeantic-1.1.0-h9746f75_1
+libeantic-1.1.0-hab5e593_2

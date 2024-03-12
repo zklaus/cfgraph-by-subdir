@@ -1,0 +1,7 @@
+dlib-cpp-19.24-h8516f9d_0
+dlib-cpp-19.24.2-h08a0898_0
+dlib-cpp-19.24.2-h08a0898_1
+dlib-cpp-19.24.2-hfab4998_2
+dlib-cpp-19.24.2-hfab4998_3
+dlib-cpp-19.24.2-hfab4998_4
+dlib-cpp-19.24.2-h2425d5f_5

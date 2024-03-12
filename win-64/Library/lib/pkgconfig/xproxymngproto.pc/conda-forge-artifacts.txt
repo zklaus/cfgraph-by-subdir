@@ -1,0 +1,4 @@
+xorg-xproxymanagementprotocol-1.0.3-0
+xorg-xproxymanagementprotocol-1.0.3-hcb389fa_1
+xorg-xproxymanagementprotocol-1.0.3-hbaa294b_1
+xorg-xproxymanagementprotocol-1.0.3-h301d43c_1001

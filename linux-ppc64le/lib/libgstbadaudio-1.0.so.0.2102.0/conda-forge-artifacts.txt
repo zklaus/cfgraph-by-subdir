@@ -1,0 +1,4 @@
+gst-plugins-bad-1.21.2-he214f5d_1
+gst-plugins-bad-1.21.2-h3409f87_1
+gst-plugins-bad-1.21.2-h4cd12ae_2
+gst-plugins-bad-1.21.2-h1b5f5ea_2

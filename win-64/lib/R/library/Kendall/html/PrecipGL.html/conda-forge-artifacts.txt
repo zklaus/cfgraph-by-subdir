@@ -1,0 +1,3 @@
+r-kendall-2.2-r40h41be202_0
+r-kendall-2.2-r36h41be202_0
+r-kendall-2.2.1-r40h41be202_0

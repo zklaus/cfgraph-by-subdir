@@ -1,0 +1,12 @@
+clangdev-7.0.0-h014eb38_0
+clangdev-7.0.0-h014eb38_1000
+clangdev-7.0.1-h014eb38_1000
+clangdev-8.0.0-h014eb38_0
+clangdev-8.0.0-h1ad3211_1
+clangdev-8.0.0-h1ad3211_2
+clangdev-8.0.0-4
+clangdev-8.0.0-5
+clangdev-8.0.0-6
+clangdev-8.0.1-0
+clangdev-8.0.1-he980bc4_1
+clangdev-8.0.1-he980bc4_2

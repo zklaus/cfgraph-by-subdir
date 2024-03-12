@@ -1,0 +1,4 @@
+couchdb-3.2.2-h57928b3_0
+couchdb-3.2.2-h57928b3_1
+couchdb-3.2.2-h57928b3_2
+couchdb-3.2.2-h57928b3_3

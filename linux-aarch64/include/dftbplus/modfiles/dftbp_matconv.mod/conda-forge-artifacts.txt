@@ -1,0 +1,6 @@
+dftbplus-20.2.1-nompi_h7c86739_102
+dftbplus-20.2.1-mpi_openmpi_h152c2b8_2
+dftbplus-20.2.1-mpi_mpich_h478e2f9_2
+dftbplus-21.1-mpi_mpich_h478e2f9_0
+dftbplus-21.1-nompi_h7c86739_100
+dftbplus-21.1-mpi_openmpi_h152c2b8_0

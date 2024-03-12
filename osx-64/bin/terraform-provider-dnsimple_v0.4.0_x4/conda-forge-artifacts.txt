@@ -1,0 +1,1 @@
+terraform-provider-dnsimple-0.4.0-ha8a90a3_0

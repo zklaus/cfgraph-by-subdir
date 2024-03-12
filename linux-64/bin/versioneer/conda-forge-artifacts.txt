@@ -1,0 +1,9 @@
+versioneer-0.16-py27_0
+versioneer-0.16-py34_0
+versioneer-0.16-py35_0
+versioneer-0.17-py27_0
+versioneer-0.17-py34_0
+versioneer-0.17-py35_0
+versioneer-0.18-py27_0
+versioneer-0.18-py35_0
+versioneer-0.18-py36_0

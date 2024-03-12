@@ -1,0 +1,17 @@
+gudhi-3.8.0-py310hcf4d462_5
+gudhi-3.8.0-py38ha572ca0_5
+gudhi-3.8.0-py39h3f693a9_5
+gudhi-3.8.0-py38h6277f87_5
+gudhi-3.8.0-py39hf90a24c_5
+gudhi-3.8.0-py311hd532089_5
+gudhi-3.8.0-py39h0acea58_6
+gudhi-3.8.0-py310h28bb733_6
+gudhi-3.8.0-py38h468fbba_6
+gudhi-3.8.0-py39h403369f_6
+gudhi-3.8.0-py311hffb9a36_6
+gudhi-3.8.0-py38h468fbba_7
+gudhi-3.8.0-py39h0acea58_7
+gudhi-3.8.0-py311hffb9a36_7
+gudhi-3.8.0-py39h403369f_7
+gudhi-3.8.0-py310h28bb733_7
+gudhi-3.8.0-py312h19c0afa_7

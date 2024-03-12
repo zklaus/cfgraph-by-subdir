@@ -1,0 +1,4 @@
+xlrd-1.2.0-py_0
+xlrd-1.2.0-pyh9f0ad1d_1
+xlrd-2.0.1-pyhd8ed1ab_3
+xlrd3-1.1.0-pyhd8ed1ab_0

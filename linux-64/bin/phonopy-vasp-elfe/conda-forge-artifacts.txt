@@ -1,0 +1,6 @@
+phonopy-1.13.2.32-py27_0
+phonopy-1.13.2.32-py35_0
+phonopy-1.13.2.32-py36_0
+phonopy-1.13.2.36-py36_0
+phonopy-1.13.2.36-py35_0
+phonopy-1.13.2.36-py27_0

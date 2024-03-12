@@ -1,0 +1,9 @@
+ligo.skymap-1.1.0-py311h2a83b67_0
+ligo.skymap-1.1.0-py310hba7f4d8_0
+ligo.skymap-1.1.0-py39he9c443a_0
+ligo.skymap-1.1.1-py310hba7f4d8_0
+ligo.skymap-1.1.1-py39he9c443a_0
+ligo.skymap-1.1.1-py311h2a83b67_0
+ligo.skymap-1.1.2-py39h42e8f01_0
+ligo.skymap-1.1.2-py310hb28178d_0
+ligo.skymap-1.1.2-py311h2a83b67_0

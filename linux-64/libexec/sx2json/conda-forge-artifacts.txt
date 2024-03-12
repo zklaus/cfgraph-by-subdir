@@ -1,0 +1,11 @@
+sphinxdft-2.7.0-h22b626b_0
+sphinxdft-2.7.0-h969a531_1
+sphinxdft-2.7.0-h22b626b_1
+sphinxdft-2.7.0-h22b626b_2
+sphinxdft-2.7.0-h969a531_2
+sphinxdft-2.7.0-hed32db3_3
+sphinxdft-2.7.0-hed32db3_4
+sphinxdft-2.7.0-h817f8e3_5
+sphinxdft-2.7.0-h6f1db15_6
+sphinxdft-2.7.0-h0d53c12_7
+sphinxdft-2.7.0-h62cddd8_8

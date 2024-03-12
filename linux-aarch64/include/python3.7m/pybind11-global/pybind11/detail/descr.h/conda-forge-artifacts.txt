@@ -1,0 +1,17 @@
+pybind11-2.6.0-py37h99015e2_0
+pybind11-2.6.0-py37hc5ebfaa_0
+pybind11-2.6.1-py37h6f9f39c_0
+pybind11-global-2.6.1-py37h7ed3beb_1
+pybind11-global-2.6.1-py37h7ed3beb_2
+pybind11-global-2.6.1-py37h7ed3beb_3
+pybind11-global-2.6.2-py37h7ed3beb_0
+pybind11-global-2.7.0-py37h7ed3beb_0
+pybind11-global-2.7.1-py37h7ed3beb_0
+pybind11-global-2.8.0-py37h7ed3beb_0
+pybind11-global-2.8.1-py37h7ed3beb_0
+pybind11-global-2.8.1-py37h7ed3beb_1
+pybind11-global-2.9.0-py37h7ed3beb_0
+pybind11-global-2.9.1-py37h7ed3beb_0
+pybind11-global-2.9.2-py37h020193f_0
+pybind11-global-2.9.2-py37ha999738_1
+pybind11-global-2.10.0-py37ha999738_0

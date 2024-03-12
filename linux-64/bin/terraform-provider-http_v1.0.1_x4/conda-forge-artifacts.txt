@@ -1,0 +1,3 @@
+terraform-provider-http-1.0.1-0
+terraform-provider-http-1.0.1-h209b5c4_1
+terraform-provider-http-1.0.1-h209b5c4_1001

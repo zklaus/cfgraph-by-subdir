@@ -1,0 +1,4 @@
+rust-1.57.0-h61edd41_0
+rust-1.58.0-h61edd41_0
+rust-1.58.1-h61edd41_0
+rust-1.59.0-h30be4a0_0

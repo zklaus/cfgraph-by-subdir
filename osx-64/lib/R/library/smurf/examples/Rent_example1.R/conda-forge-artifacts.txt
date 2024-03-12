@@ -1,0 +1,13 @@
+r-smurf-1.1.2-r40he5a6823_0
+r-smurf-1.1.2-r36he5a6823_0
+r-smurf-1.1.2-r41he5a6823_0
+r-smurf-1.1.3-r41h08d08f5_0
+r-smurf-1.1.3-r40h08d08f5_0
+r-smurf-1.1.3-r42h4f1a15b_1
+r-smurf-1.1.3-r41h4f1a15b_1
+r-smurf-1.1.4-r42h4f1a15b_0
+r-smurf-1.1.4-r41h4f1a15b_0
+r-smurf-1.1.5-r41h4f1a15b_0
+r-smurf-1.1.5-r42h4f1a15b_0
+r-smurf-1.1.5-r43hfaea39f_1
+r-smurf-1.1.5-r42hfaea39f_1

@@ -1,0 +1,13 @@
+xorg-libsm-1.2.2-0
+xorg-libsm-1.2.2-1
+xorg-libsm-1.2.2-2
+xorg-libsm-1.2.2-h470a237_3
+xorg-libsm-1.2.2-h470a237_4
+xorg-libsm-1.2.2-h470a237_5
+xorg-libsm-1.2.2-h8c8a85c_6
+xorg-libsm-1.2.2-h4937e3b_1006
+xorg-libsm-1.2.3-h8c8a85c_0
+xorg-libsm-1.2.3-h4937e3b_1000
+xorg-libsm-1.2.3-h84519dc_1000
+xorg-libsm-1.2.3-hd9c2040_1000
+xorg-libsm-1.2.4-h7391055_0

@@ -1,0 +1,2 @@
+selenium-manager-4.14.0-h975169c_1
+selenium-manager-4.15.0-h975169c_0

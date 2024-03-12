@@ -1,0 +1,6 @@
+libtiff-4.0.6-4
+libtiff-4.0.6-5
+libtiff-4.0.6-6
+libtiff-4.0.6-7
+libtiff-4.0.6-8
+libtiff-4.0.6-9

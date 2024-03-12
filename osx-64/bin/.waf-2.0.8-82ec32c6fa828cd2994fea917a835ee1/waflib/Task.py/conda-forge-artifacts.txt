@@ -1,0 +1,2 @@
+pyinstaller-3.3.1-py27ha92aebf_1
+pyinstaller-3.4-py27ha92aebf_0

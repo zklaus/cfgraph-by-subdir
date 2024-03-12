@@ -1,0 +1,15 @@
+librealsense-2.54.2-py310he52f94e_0_cuda
+librealsense-2.54.2-py310ha146354_0_cuda
+librealsense-2.54.2-py312h77d3a67_0_cuda
+librealsense-2.54.2-py312h130b5f6_0_cuda
+librealsense-2.54.2-py310h2e19afc_0_cpu
+librealsense-2.54.2-py39h75e3e06_0_cuda
+librealsense-2.54.2-py39h22bd352_0_cuda
+librealsense-2.54.2-py312h16cedf1_0_cpu
+librealsense-2.54.2-py311h29c1c52_0_cpu
+librealsense-2.54.2-py38h6592700_0_cpu
+librealsense-2.54.2-py39h19874a3_0_cpu
+librealsense-2.54.2-py311hd977762_0_cuda
+librealsense-2.54.2-py311had11c2c_0_cuda
+librealsense-2.54.2-py38h55e65b9_0_cuda
+librealsense-2.54.2-py38h7bafcc1_0_cuda

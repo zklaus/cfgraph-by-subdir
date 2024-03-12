@@ -1,0 +1,4 @@
+libcrc32c-1.1.1-he1b5a44_0
+libcrc32c-1.1.1-he1b5a44_2
+libcrc32c-1.1.1-h9c3ff4c_2
+libcrc32c-1.1.2-h9c3ff4c_0

@@ -1,0 +1,8 @@
+fish-3.1.2-hce64732_1
+fish-3.2.0-hed188e1_0
+fish-3.2.1-hed188e1_0
+fish-3.2.2-hed188e1_0
+fish-3.2.2-h1ad05cb_1
+fish-3.3.0-h1ad05cb_0
+fish-3.3.1-h1ad05cb_0
+fish-3.3.1-h6c1fd46_0

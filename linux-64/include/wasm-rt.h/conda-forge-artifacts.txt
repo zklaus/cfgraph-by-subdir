@@ -1,0 +1,6 @@
+wabt-1.0.24-h9c3ff4c_0
+wabt-1.0.27-h9c3ff4c_0
+wabt-1.0.28-h27087fc_0
+wabt-1.0.29-h27087fc_0
+wabt-1.0.30-h27087fc_0
+wabt-1.0.31-h27087fc_0

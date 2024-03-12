@@ -1,0 +1,6 @@
+persistent-4.7.0-py37h5e8e339_0
+persistent-4.7.0-py37h5e8e339_1
+persistent-4.8.0-py37h540881e_0
+persistent-4.9.0-py37h540881e_0
+persistent-4.9.0-py37h540881e_1
+persistent-4.9.1-py37h540881e_0

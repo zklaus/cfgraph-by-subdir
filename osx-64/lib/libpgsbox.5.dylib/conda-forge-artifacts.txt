@@ -1,0 +1,11 @@
+wcslib-5.15-1
+wcslib-5.16-0
+wcslib-5.16-1
+wcslib-5.17-1
+wcslib-5.18-1
+wcslib-5.18-2
+wcslib-5.20-hdc02c5d_1000
+wcslib-5.20-ha44fe06_0
+wcslib-5.20-h2e71187_1001
+wcslib-5.20-hed077c5_1002
+wcslib-5.20-h2e71187_1002

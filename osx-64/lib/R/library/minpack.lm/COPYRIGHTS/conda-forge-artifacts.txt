@@ -1,0 +1,12 @@
+r-minpack.lm-1.2_2-r41h69414cf_0
+r-minpack.lm-1.2_2-r40h69414cf_0
+r-minpack.lm-1.2_2-r40h1020e3a_0
+r-minpack.lm-1.2_2-r41h1020e3a_0
+r-minpack.lm-1.2_2-r42hc309deb_1
+r-minpack.lm-1.2_2-r41hc309deb_1
+r-minpack.lm-1.2_3-r42hc309deb_0
+r-minpack.lm-1.2_3-r41hc309deb_0
+r-minpack.lm-1.2_3-r42h06293e5_1
+r-minpack.lm-1.2_3-r43h06293e5_1
+r-minpack.lm-1.2_4-r42h06293e5_0
+r-minpack.lm-1.2_4-r43h06293e5_0

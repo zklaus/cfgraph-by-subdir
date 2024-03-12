@@ -1,0 +1,12 @@
+vispy-0.6.6-py38h6a333d3_0
+vispy-0.6.6-py39h5861bad_0
+vispy-0.7.0-py38h6a333d3_0
+vispy-0.7.0-py39h5861bad_0
+vispy-0.7.0-py39h5861bad_1
+vispy-0.7.0-py38h6a333d3_1
+vispy-0.7.1-py39h5861bad_0
+vispy-0.7.1-py38h6a333d3_0
+vispy-0.7.2-py38h6a333d3_0
+vispy-0.7.2-py39h5861bad_0
+vispy-0.7.3-py39h5861bad_0
+vispy-0.7.3-py38h6a333d3_0

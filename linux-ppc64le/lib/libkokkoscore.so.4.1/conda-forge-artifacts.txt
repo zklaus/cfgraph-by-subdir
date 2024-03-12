@@ -1,0 +1,12 @@
+kokkos-4.1.00-h154fbca_0
+kokkos-4.1.00-hc023538_0
+kokkos-4.1.00-hf6f26b9_1
+kokkos-4.1.00-h154fbca_1
+kokkos-4.1.00-hc023538_2
+kokkos-4.1.00-h2eab5a8_2
+kokkos-4.1.00-hf6f26b9_2
+kokkos-4.1.00-h154fbca_2
+kokkos-4.1.00-h154fbca_3
+kokkos-4.1.00-h2eab5a8_3
+kokkos-4.1.00-hf6f26b9_3
+kokkos-4.1.00-hc023538_3

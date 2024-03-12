@@ -1,0 +1,4 @@
+coinbonmin-1.8.7-h8a970d9_0
+coinbonmin-1.8.7-hc99cbb1_1
+coinbonmin-1.8.7-he1b5a44_2
+coinbonmin-1.8.7-h5f743cb_3

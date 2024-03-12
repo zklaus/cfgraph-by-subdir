@@ -1,0 +1,7 @@
+r-sitmo-2.0.1-r35h6115d3f_0
+r-sitmo-2.0.1-r35h796a38f_1
+r-sitmo-2.0.1-r36h796a38f_1
+r-sitmo-2.0.1-r36h796a38f_2
+r-sitmo-2.0.1-r40h796a38f_2
+r-sitmo-2.0.1-r40ha856d6a_2
+r-sitmo-2.0.2-r40ha856d6a_0

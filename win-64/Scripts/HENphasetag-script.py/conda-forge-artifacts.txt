@@ -1,0 +1,11 @@
+hendrics-4.0rc1.post2-py27_0
+hendrics-4.0rc1.post2-py35_0
+hendrics-4.0rc1.post2-py36_0
+hendrics-4.0rc1.post2-py27_1000
+hendrics-4.0rc1.post2-py36_1000
+hendrics-4.0rc1.post2-py37_1000
+hendrics-4.0rc1.post2-py38_1000
+hendrics-4.0rc1.post2-py37_1001
+hendrics-4.0rc1.post2-py36_1001
+hendrics-4.0rc1.post2-py27_1001
+hendrics-4.0rc1.post2-py38_1001

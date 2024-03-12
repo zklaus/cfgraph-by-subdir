@@ -1,0 +1,11 @@
+libadbc-driver-manager-0.2.0-h4c384f3_0
+libadbc-driver-manager-0.3.0-h4c384f3_0
+libadbc-driver-manager-0.4.0-h2a328a1_0
+libadbc-driver-manager-0.5.0-h2a328a1_0
+libadbc-driver-manager-0.5.1-h2a328a1_0
+libadbc-driver-manager-0.6.0-h2a328a1_0
+libadbc-driver-manager-0.7.0-h2a328a1_0
+libadbc-driver-manager-0.7.0-h2a328a1_1
+libadbc-driver-manager-0.7.0-h2a328a1_2
+libadbc-driver-manager-0.7.0-h2a328a1_3
+libadbc-driver-manager-0.8.0-h2a328a1_0

@@ -1,0 +1,9 @@
+libcint-4.4.6-hbb7fa3c_0
+libcint-4.4.6-hcac4741_0
+libcint-4.4.6-h6672201_0
+libcint-4.4.6-h6672201_1
+libcint-4.4.6-hcac4741_1
+libcint-4.4.6-hbb7fa3c_1
+libcint-4.4.6-h9d8b844_2
+libcint-4.4.6-hf0a781c_2
+libcint-4.4.6-h34673b5_2

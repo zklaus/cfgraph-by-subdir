@@ -1,0 +1,7 @@
+sdl2_mixer-2.6.1-h27087fc_0
+sdl2_mixer-2.6.2-h27087fc_0
+sdl2_mixer-2.6.2-hcb278e6_1
+sdl2_mixer-2.6.2-h883d190_2
+sdl2_mixer-2.6.2-h563c3bf_3
+sdl2_mixer-2.6.3-h563c3bf_0
+sdl2_mixer-2.6.3-h8830914_1

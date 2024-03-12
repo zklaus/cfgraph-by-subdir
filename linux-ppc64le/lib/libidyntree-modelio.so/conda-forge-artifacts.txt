@@ -1,0 +1,17 @@
+idyntree-5.0.0-py38ha62e7b9_0
+idyntree-5.0.0-py37hca7d154_0
+idyntree-5.0.0-py39h00b6dfc_0
+idyntree-5.0.0-py310hff0e261_0
+idyntree-5.0.1-py39hda10d74_0
+idyntree-5.0.1-py37h9be0de2_0
+idyntree-5.0.1-py310hbcfd691_0
+idyntree-5.0.1-py38h457c2b9_0
+idyntree-5.1.0-py37h9be0de2_0
+idyntree-5.1.0-py38h457c2b9_0
+idyntree-5.1.0-py310hbcfd691_0
+idyntree-5.1.0-py39hda10d74_0
+idyntree-5.2.1-py39hc8a417d_1
+idyntree-5.2.1-py38hf99fcc4_1
+idyntree-5.2.1-py310hdf89c04_1
+idyntree-5.2.1-py37h0d5a0cf_1
+idyntree-5.2.1-py310hdf89c04_2

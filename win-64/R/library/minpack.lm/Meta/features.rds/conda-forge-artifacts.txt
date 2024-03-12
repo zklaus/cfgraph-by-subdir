@@ -1,0 +1,4 @@
+r-minpack.lm-1.2_1-r3.4.1_0
+r-minpack.lm-1.2_1-r341h8933c1f_1
+r-minpack.lm-1.2_1-r341h6115d3f_2
+r-minpack.lm-1.2_1-r351h6115d3f_2

@@ -1,0 +1,11 @@
+ngspice-32-h93121df_1
+ngspice-exe-32-h93121df_2
+ngspice-lib-32-h93121df_2
+ngspice-exe-32-h93121df_3
+ngspice-lib-32-h93121df_3
+ngspice-exe-32-h93121df_4
+ngspice-lib-32-h93121df_4
+ngspice-exe-32-h93121df_5
+ngspice-lib-32-h93121df_5
+ngspice-exe-32-h93121df_6
+ngspice-lib-32-h93121df_6

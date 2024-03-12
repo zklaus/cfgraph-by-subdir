@@ -1,0 +1,13 @@
+r-officer-0.3.17-r40hecdc70b_0
+r-officer-0.3.17-r36hecdc70b_0
+r-officer-0.3.18-r36hecdc70b_0
+r-officer-0.3.18-r40hecdc70b_0
+r-officer-0.3.18-r41hecdc70b_0
+r-officer-0.3.19-r40hecdc70b_0
+r-officer-0.3.19-r41hecdc70b_0
+r-officer-0.4.0-r40hecdc70b_0
+r-officer-0.4.0-r41hecdc70b_0
+r-officer-0.4.0-r40hecdc70b_1
+r-officer-0.4.0-r41hecdc70b_1
+r-officer-0.4.1-r40hecdc70b_0
+r-officer-0.4.1-r41hecdc70b_0

@@ -1,0 +1,2 @@
+bash-5.2.15-h0d3c27a_0
+bash-5.2.15-h3ab5cde_1

@@ -1,0 +1,2 @@
+dotnet-sdk-2.1.815-ha205975_1
+dotnet-sdk-2.1.815-ha205975_2

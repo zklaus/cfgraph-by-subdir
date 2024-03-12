@@ -1,0 +1,12 @@
+libgcc-devel_linux-s390x-12.3.0-h330e4b4_3
+libgcc-devel_linux-s390x-11.4.0-h8c6e85a_3
+libgcc-devel_linux-s390x-11.4.0-ha5b4dc8_103
+libgcc-devel_linux-s390x-11.4.0-h528c660_3
+libgcc-devel_linux-s390x-11.4.0-h302c452_3
+libgcc-devel_linux-s390x-13.2.0-h52d8d74_3
+libgcc-devel_linux-s390x-12.3.0-hf3e2d4b_3
+libgcc-devel_linux-s390x-12.3.0-h2267617_103
+libgcc-devel_linux-s390x-13.2.0-h39b72a8_103
+libgcc-devel_linux-s390x-12.3.0-h3e18370_3
+libgcc-devel_linux-s390x-13.2.0-h55f790e_3
+libgcc-devel_linux-s390x-13.2.0-heed5fc8_3

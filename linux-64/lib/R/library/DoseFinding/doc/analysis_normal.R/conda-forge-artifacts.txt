@@ -1,0 +1,16 @@
+r-dosefinding-1.0_1-r40hbfbffee_0
+r-dosefinding-1.0_1-r41hbfbffee_0
+r-dosefinding-1.0_2-r41hbfbffee_0
+r-dosefinding-1.0_2-r40hbfbffee_0
+r-dosefinding-1.0_2-r41h64d53c3_1
+r-dosefinding-1.0_2-r42h64d53c3_1
+r-dosefinding-1.0_3-r41hc689b3f_0
+r-dosefinding-1.0_3-r42hc689b3f_0
+r-dosefinding-1.0_4-r42h1df0287_0
+r-dosefinding-1.0_4-r41h1df0287_0
+r-dosefinding-1.0_4-r42h1df0287_1
+r-dosefinding-1.0_4-r43h1df0287_1
+r-dosefinding-1.0_5-r43h1df0287_0
+r-dosefinding-1.0_5-r42h1df0287_0
+r-dosefinding-1.1_1-r43h1df0287_0
+r-dosefinding-1.1_1-r42h1df0287_0

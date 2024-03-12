@@ -1,0 +1,10 @@
+r-philentropy-0.6.0-r40h03ef668_0
+r-philentropy-0.6.0-r41h03ef668_0
+r-philentropy-0.6.0-r41h7525677_1
+r-philentropy-0.6.0-r42h7525677_1
+r-philentropy-0.7.0-r41h7525677_0
+r-philentropy-0.7.0-r42h7525677_0
+r-philentropy-0.7.0-r42ha503ecb_1
+r-philentropy-0.7.0-r43ha503ecb_1
+r-philentropy-0.8.0-r43ha503ecb_0
+r-philentropy-0.8.0-r42ha503ecb_0

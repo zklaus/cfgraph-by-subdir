@@ -1,0 +1,2 @@
+freeimage-3.17.0-0
+freeimage-3.18.0-he1b5a44_0

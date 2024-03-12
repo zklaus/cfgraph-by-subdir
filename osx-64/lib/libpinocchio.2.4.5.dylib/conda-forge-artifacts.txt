@@ -1,0 +1,12 @@
+pinocchio-2.4.5-py37h01d0058_0
+pinocchio-2.4.5-py38h993250c_0
+pinocchio-2.4.5-py36ha01eb30_0
+pinocchio-2.4.5-py36ha01eb30_1
+pinocchio-2.4.5-py38h993250c_1
+pinocchio-2.4.5-py37h01d0058_1
+pinocchio-2.4.5-py36ha01eb30_2
+pinocchio-2.4.5-py38h993250c_2
+pinocchio-2.4.5-py37h01d0058_2
+pinocchio-2.4.5-py37h01d0058_3
+pinocchio-2.4.5-py38h993250c_3
+pinocchio-2.4.5-py36ha01eb30_3

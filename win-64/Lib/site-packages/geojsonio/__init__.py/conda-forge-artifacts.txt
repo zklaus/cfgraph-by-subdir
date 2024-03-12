@@ -1,0 +1,7 @@
+geojsonio-0.0.2-py27_0
+geojsonio-0.0.2-py34_0
+geojsonio-0.0.2-py35_0
+geojsonio-0.0.2-py36_0
+geojsonio.py-0.0.2-py27_0
+geojsonio.py-0.0.2-py34_0
+geojsonio.py-0.0.2-py35_0

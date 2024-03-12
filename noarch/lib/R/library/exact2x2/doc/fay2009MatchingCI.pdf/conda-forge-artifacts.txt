@@ -1,0 +1,7 @@
+r-exact2x2-1.6.3-r351h6115d3f_1000
+r-exact2x2-1.6.3-r36h6115d3f_1001
+r-exact2x2-1.6.3-r35h6115d3f_1001
+r-exact2x2-1.6.3.1-r35h6115d3f_0
+r-exact2x2-1.6.3.1-r36h6115d3f_0
+r-exact2x2-1.6.3.1-r36h6115d3f_1
+r-exact2x2-1.6.3.1-r40h6115d3f_1

@@ -1,0 +1,7 @@
+libgazebo-yarp-plugins-4.8.0-h2be5e9a_0
+libgazebo-yarp-plugins-4.8.0-h69a8886_0
+libgazebo-yarp-plugins-4.8.0-h21c76a7_1
+libgazebo-yarp-plugins-4.8.0-hb11784b_2
+libgazebo-yarp-plugins-4.8.0-h46e0bcb_3
+libgazebo-yarp-plugins-4.8.0-h93872af_4
+libgazebo-yarp-plugins-4.8.0-had392f9_5

@@ -1,0 +1,5 @@
+r-ellipsis-0.3.2-r36h6d2157b_0
+r-ellipsis-0.3.2-r40h6d2157b_0
+r-ellipsis-0.3.2-r41h6d2157b_0
+r-ellipsis-0.3.2-r41h6d2157b_1
+r-ellipsis-0.3.2-r41h6d2157b_2

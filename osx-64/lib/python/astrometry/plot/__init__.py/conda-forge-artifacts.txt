@@ -1,0 +1,10 @@
+astrometry-0.90-py38h0848f27_0
+astrometry-0.90-py310hd6d18b6_0
+astrometry-0.90-py39hedc8ae1_0
+astrometry-0.90-py37he47b6c8_0
+astrometry-0.90-py37hddf30e7_0
+astrometry-0.90-py39h0777b8e_1
+astrometry-0.90-py38ha96221d_1
+astrometry-0.90-py37h0860050_1
+astrometry-0.90-py310h88e4311_1
+astrometry-0.90-py37h3c2cab7_1

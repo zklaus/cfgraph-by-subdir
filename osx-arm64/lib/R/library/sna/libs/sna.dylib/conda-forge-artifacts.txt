@@ -1,0 +1,6 @@
+r-sna-2.7-r41h5d63f41_1
+r-sna-2.7-r42h5d63f41_1
+r-sna-2.7_1-r41h5d63f41_0
+r-sna-2.7_1-r42h5d63f41_0
+r-sna-2.7_1-r43h21dc0da_1
+r-sna-2.7_1-r42h21dc0da_1

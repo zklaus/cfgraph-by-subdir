@@ -1,0 +1,13 @@
+r-desctools-0.99.47-r42h141827b_0
+r-desctools-0.99.47-r41h141827b_0
+r-desctools-0.99.48-r42h141827b_0
+r-desctools-0.99.48-r41h141827b_0
+r-desctools-0.99.49-r41hc2f3928_0
+r-desctools-0.99.49-r42hc2f3928_0
+r-desctools-0.99.49-r43hc2f3928_1
+r-desctools-0.99.49-r42hc2f3928_1
+r-desctools-0.99.50-r43hc2f3928_0
+r-desctools-0.99.50-r42hc2f3928_0
+r-desctools-0.99.51-r43h2d02592_0
+r-desctools-0.99.51-r42h2d02592_0
+r-desctools-0.99.52-r43h2d02592_0

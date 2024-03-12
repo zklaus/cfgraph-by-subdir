@@ -1,0 +1,6 @@
+pyferret-7.0.1.dev-py27_4
+pyferret-7.0.1.dev-py27_5
+pyferret-7.0.1.dev-py27_6
+pyferret-7.1.0-py27_0
+pyferret-7.1.0-py27_1
+pyferret-7.1.0-py27h2ac6f71_2

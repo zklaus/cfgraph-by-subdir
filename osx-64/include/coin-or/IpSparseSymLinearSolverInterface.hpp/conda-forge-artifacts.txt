@@ -1,0 +1,4 @@
+ipopt-3.14.11-hc90ca0f_0
+ipopt-3.14.12-hc90ca0f_0
+ipopt-3.14.12-hd05b2b3_1
+ipopt-3.14.13-h718cda7_0

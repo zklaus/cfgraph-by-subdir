@@ -1,0 +1,11 @@
+dbus-python-1.3.2-py38h2dd0343_3
+dbus-python-1.3.2-py310h3cef8e9_3
+dbus-python-1.3.2-py312h2f62424_3
+dbus-python-1.3.2-py39hd7d836f_3
+dbus-python-1.3.2-py311hcdabf6c_3
+dbus-python-1.3.2-py310h3cef8e9_4
+dbus-python-1.3.2-py312h2f62424_4
+dbus-python-1.3.2-py38h2dd0343_4
+dbus-python-1.3.2-py39hd7d836f_4
+dbus-python-1.3.2-py39h332635d_4
+dbus-python-1.3.2-py311hcdabf6c_4

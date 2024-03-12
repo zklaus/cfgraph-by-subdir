@@ -1,0 +1,5 @@
+dotnet-sdk-5.0.100-h2d74725_0
+dotnet-sdk-5.0.100-h2d74725_1
+dotnet-sdk-5.0.100-h2d74725_2
+dotnet-sdk-5.0.100-h2d74725_3
+dotnet-sdk-5.0.100-h2d74725_4

@@ -1,0 +1,6 @@
+google-cloud-cpp-1.35.0-hfa124a1_0
+google-cloud-cpp-1.35.0-h9cc8320_0
+libgoogle-cloud-1.35.0-h9cc8320_1
+libgoogle-cloud-1.35.0-hfa124a1_1
+libgoogle-cloud-1.35.0-h2b0db34_2
+libgoogle-cloud-1.35.0-hb5be8e6_2

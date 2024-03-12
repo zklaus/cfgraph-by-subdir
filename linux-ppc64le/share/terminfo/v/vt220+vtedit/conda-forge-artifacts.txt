@@ -1,0 +1,5 @@
+ncurses-6.3-h3b9df90_0
+ncurses-6.3-hab78ccb_1
+ncurses-6.4-h344580c_0
+ncurses-6.4-h8800142_1
+ncurses-6.4-h8800142_2

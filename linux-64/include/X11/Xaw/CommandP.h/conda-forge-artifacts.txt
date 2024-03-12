@@ -1,0 +1,7 @@
+xorg-libxaw-1.0.13-0
+xorg-libxaw-1.0.13-h470a237_1
+xorg-libxaw-1.0.13-h470a237_2
+xorg-libxaw-1.0.13-h14c3975_1002
+xorg-libxaw-1.0.13-h516909a_1002
+xorg-libxaw-1.0.14-h7f98852_0
+xorg-libxaw-1.0.14-h7f98852_1

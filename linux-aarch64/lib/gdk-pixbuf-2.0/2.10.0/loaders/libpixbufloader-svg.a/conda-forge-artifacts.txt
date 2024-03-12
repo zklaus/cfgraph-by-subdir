@@ -1,0 +1,3 @@
+librsvg-2.50.2-h41f6c62_2
+librsvg-2.50.2-h177d147_3
+librsvg-2.50.3-h177d147_0

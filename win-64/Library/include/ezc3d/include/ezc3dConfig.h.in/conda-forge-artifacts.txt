@@ -1,0 +1,12 @@
+ezc3d-1.2.2-py36h79cbd7a_0
+ezc3d-1.2.2-py37h79cbd7a_0
+ezc3d-1.2.2-py38h79cbd7a_0
+ezc3d-1.2.3-py36h79cbd7a_0
+ezc3d-1.2.3-py37h79cbd7a_0
+ezc3d-1.2.3-py38h79cbd7a_0
+ezc3d-1.2.4-py36h79cbd7a_0
+ezc3d-1.2.4-py37h79cbd7a_0
+ezc3d-1.2.4-py38h79cbd7a_0
+ezc3d-1.2.4-py37h535c722_1
+ezc3d-1.2.4-py38heb0776d_1
+ezc3d-1.2.4-py36h936c771_1

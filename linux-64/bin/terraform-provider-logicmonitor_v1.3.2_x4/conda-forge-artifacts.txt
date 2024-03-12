@@ -1,0 +1,1 @@
+terraform-provider-logicmonitor-1.3.2-h520bb56_0

@@ -1,0 +1,15 @@
+xeus-sql-0.0.7-h6daa668_0
+xeus-sql-0.0.8-he70363c_0
+xeus-sql-0.0.8-he70363c_1
+xeus-sql-0.0.8-hf09c4ce_2
+xeus-sql-0.1.0-hf09c4ce_0
+xeus-sql-0.1.1-hf09c4ce_0
+xeus-sql-0.1.2-hf09c4ce_0
+xeus-sql-0.1.3-hf09c4ce_0
+xeus-sql-0.1.4-hf09c4ce_0
+xeus-sql-0.1.5-h68aaa0b_0
+xeus-sql-0.1.5-h68aaa0b_1
+xeus-sql-0.2.0-hb8565cd_0
+xeus-sql-0.2.1-hb8565cd_0
+xeus-sql-0.2.1-hb8565cd_1
+xeus-sql-0.2.1-hb8565cd_2

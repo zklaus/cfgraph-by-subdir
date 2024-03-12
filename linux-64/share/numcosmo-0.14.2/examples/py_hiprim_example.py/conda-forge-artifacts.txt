@@ -1,0 +1,13 @@
+numcosmo-0.14.2-py37hd2cc57c_0
+numcosmo-0.14.2-py37hd2cc57c_1
+numcosmo-0.14.2-hd2cc57c_2
+numcosmo-0.14.2-h348359c_3
+numcosmo-0.14.2-h2a9ffdc_4
+numcosmo-0.14.2-hac131e4_5
+numcosmo-0.14.2-hdf19c3f_6
+numcosmo-0.14.2-h804110e_7
+numcosmo-0.14.2-h804110e_8
+numcosmo-0.14.2-h86654d9_9
+numcosmo-0.14.2-h1ebf945_10
+numcosmo-0.14.2-h8249952_11
+numcosmo-0.14.2-h9cd62b2_12

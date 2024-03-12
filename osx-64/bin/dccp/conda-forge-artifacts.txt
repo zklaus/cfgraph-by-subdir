@@ -1,0 +1,12 @@
+dcap-2.47.12-hadb22e3_0
+dcap-2.47.12-h40676f4_1
+dcap-2.47.12-h018274a_2
+dcap-2.47.12-h5ea53dc_2
+dcap-2.47.12-hb660d76_3
+dcap-2.47.12-he3abd7b_4
+dcap-2.47.12-h2d08458_5
+dcap-2.47.12-he3abd7b_5
+dcap-2.47.12-h2c404ec_6
+dcap-2.47.12-h3f465b1_6
+dcap-2.47.14-h3f465b1_0
+dcap-2.47.14-h583d8d1_1

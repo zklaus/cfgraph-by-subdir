@@ -1,0 +1,6 @@
+rapidfuzz-2.0.9-py39h1832856_0
+rapidfuzz-2.0.9-py37hfb7772e_0
+rapidfuzz-2.0.9-py310h769672d_0
+rapidfuzz-2.0.9-py38h47df419_0
+rapidfuzz-2.0.9-py39h9a3f584_0
+rapidfuzz-2.0.9-py38h997aa0e_0

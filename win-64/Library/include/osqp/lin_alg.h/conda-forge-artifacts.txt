@@ -1,0 +1,7 @@
+libosqp-0.6.0-h0e60522_0
+libosqp-0.6.2-h0e60522_0
+libosqp-0.6.2-h0e60522_1
+libosqp-0.6.2-h0e60522_2
+libosqp-0.6.2-h0e60522_3
+libosqp-0.6.2-h63175ca_4
+libosqp-0.6.3-h63175ca_0

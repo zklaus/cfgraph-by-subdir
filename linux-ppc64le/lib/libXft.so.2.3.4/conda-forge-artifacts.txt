@@ -1,0 +1,2 @@
+xorg-libxft-2.3.4-hc124f85_0
+xorg-libxft-2.3.4-hbbacdec_1

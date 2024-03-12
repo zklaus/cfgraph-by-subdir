@@ -1,0 +1,7 @@
+arrow-c-glib-8.0.0-hdc08c3f_0
+arrow-c-glib-8.0.0-hdc08c3f_1
+arrow-c-glib-9.0.0-hc6f87ab_0
+arrow-c-glib-9.0.0-hc6f87ab_1
+arrow-c-glib-10.0.1-h1d18e73_0
+arrow-c-glib-11.0.0-h1d18e73_0
+arrow-c-glib-11.0.0-h53e17e3_1

@@ -1,0 +1,10 @@
+bmi-fortran-1.2.1-he991be0_0
+bmi-fortran-1.2.1-he991be0_1
+bmi-fortran-2.0-he991be0_0
+bmi-fortran-1.2.1-h1990efc_2
+bmi-fortran-1.2.1-h30e8c20_2
+bmi-fortran-2.0-h1990efc_1
+bmi-fortran-2.0-h30e8c20_1
+bmi-fortran-2.0-h2a4ca65_2
+bmi-fortran-2.0-heb67821_2
+bmi-fortran-2.0.1-heb67821_0

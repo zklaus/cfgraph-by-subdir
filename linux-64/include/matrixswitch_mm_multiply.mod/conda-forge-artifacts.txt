@@ -1,0 +1,9 @@
+matrixswitch-1.0.0-mpi_openmpi_hbbb7b4b_0
+matrixswitch-1.0.0-nompi_heef902a_100
+matrixswitch-1.0.0-mpi_mpich_h6ba1590_0
+matrixswitch-1.0.0-nompi_heef902a_101
+matrixswitch-1.0.0-mpi_openmpi_hbbb7b4b_1
+matrixswitch-1.0.0-mpi_mpich_h6ba1590_1
+matrixswitch-1.0.0-mpi_openmpi_hbbb7b4b_2
+matrixswitch-1.0.0-nompi_heef902a_102
+matrixswitch-1.0.0-mpi_mpich_h6ba1590_2

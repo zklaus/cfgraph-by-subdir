@@ -1,0 +1,8 @@
+fontconfig-2.13.94-hb1b3014_0
+fontconfig-2.13.96-hb1b3014_0
+fontconfig-2.13.96-haba4ffa_1
+fontconfig-2.13.96-haba4ffa_2
+fontconfig-2.14.0-haba4ffa_0
+fontconfig-2.14.0-hac4b4ab_1
+fontconfig-2.14.1-hac4b4ab_0
+fontconfig-2.14.2-h9146662_0

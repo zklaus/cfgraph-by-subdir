@@ -1,0 +1,5 @@
+r-spdep-1.2_7-r41h6d2157b_0
+r-spdep-1.2_7-r41h6d2157b_1
+r-spdep-1.2_8-r41h6d2157b_0
+r-spdep-1.2_8-r41h6d2157b_1
+r-spdep-1.3_1-r41h6d2157b_0

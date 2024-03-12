@@ -1,0 +1,2 @@
+squashfuse-0.2.0-h40af005_0
+squashfuse-0.4.0-h40af005_0

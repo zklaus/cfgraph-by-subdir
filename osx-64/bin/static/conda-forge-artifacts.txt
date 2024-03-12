@@ -1,0 +1,9 @@
+static-1.1.1-py27_0
+static-1.1.1-py34_0
+static-1.1.1-py35_0
+static-1.1.1-py36_0
+static-1.1.1-py27_1000
+static-1.1.1-py36_1000
+static-1.1.1-py35_1000
+static-1.1.1-py37_1000
+static-1.1.1-py38_1000

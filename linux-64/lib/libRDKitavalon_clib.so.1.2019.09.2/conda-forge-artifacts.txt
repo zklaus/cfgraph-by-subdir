@@ -1,0 +1,3 @@
+rdkit-2019.09.2-py36hb31dc5d_0
+rdkit-2019.09.2-py37hb31dc5d_0
+rdkit-2019.09.2-py38hb31dc5d_0

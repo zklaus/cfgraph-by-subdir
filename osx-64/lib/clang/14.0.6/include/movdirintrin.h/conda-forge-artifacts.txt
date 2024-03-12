@@ -1,0 +1,14 @@
+clang-14-14.0.6-default_h55ffa42_0
+clang_bootstrap_osx-arm64-14.0.6-hd068541_3
+clang_bootstrap_osx-64-14.0.6-h6ddedbb_3
+clang_bootstrap_osx-64-14.0.6-h6ddedbb_4
+clang_bootstrap_osx-arm64-14.0.6-hd068541_4
+clang_bootstrap_osx-arm64-14.0.6-hd068541_5
+clang_bootstrap_osx-64-14.0.6-h6ddedbb_5
+clang_bootstrap_osx-64-14.0.6-h6ddedbb_6
+clang_bootstrap_osx-arm64-14.0.6-hd068541_6
+clang_bootstrap_osx-arm64-14.0.6-hd068541_1
+clang_bootstrap_osx-64-14.0.6-h6ddedbb_1
+clang_bootstrap_osx-64-14.0.6-h6ddedbb_2
+clang_bootstrap_osx-arm64-14.0.6-hd068541_2
+clang-14-14.0.6-default_hdb78580_1

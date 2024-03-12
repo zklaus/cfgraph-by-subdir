@@ -1,0 +1,16 @@
+r-keyring-1.1.0-r341hc070d10_0
+r-keyring-1.1.0-r351hc070d10_0
+r-keyring-1.1.0-r351h159158b_1
+r-keyring-1.1.0-r36h159158b_2
+r-keyring-1.1.0-r35h159158b_2
+r-keyring-1.1.0-r40h17f1fa6_3
+r-keyring-1.1.0-r36h17f1fa6_3
+r-keyring-1.2.0-r40h28b5c78_0
+r-keyring-1.2.0-r36h28b5c78_0
+r-keyring-1.2.0-r41h28b5c78_0
+r-keyring-1.2.0-r41h5267043_1
+r-keyring-1.2.0-r42h5267043_1
+r-keyring-1.3.1-r42h5267043_0
+r-keyring-1.3.1-r41h5267043_0
+r-keyring-1.3.1-r42hb224193_1
+r-keyring-1.3.1-r43hb224193_1

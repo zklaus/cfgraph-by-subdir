@@ -1,0 +1,16 @@
+cantera-3.0.0-py38h3150e89_0
+cantera-3.0.0-py311h5b1e8af_0
+cantera-3.0.0-py310h5962b9e_0
+cantera-3.0.0-py39hebb22ad_0
+cantera-3.0.0-py38h6d8cd5e_1
+cantera-3.0.0-py39hc85a885_1
+cantera-3.0.0-py310hf2a661a_1
+cantera-3.0.0-py311h69cc0ef_1
+cantera-3.0.0-py311h286ba9b_2
+cantera-3.0.0-py39hff76d4b_2
+cantera-3.0.0-py310h3b7b6ab_2
+cantera-3.0.0-py38h4d0b157_2
+cantera-3.0.0-py310h3b7b6ab_3
+cantera-3.0.0-py311h286ba9b_3
+cantera-3.0.0-py38h4d0b157_3
+cantera-3.0.0-py39hff76d4b_3

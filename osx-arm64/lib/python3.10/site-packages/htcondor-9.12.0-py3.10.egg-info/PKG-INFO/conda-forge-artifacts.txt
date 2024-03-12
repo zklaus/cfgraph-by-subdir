@@ -1,0 +1,4 @@
+python-htcondor-9.12.0-py310h594b1d1_0
+python-htcondor-9.12.0-py310h3a6940a_1
+python-htcondor-9.12.0-py310h3a6940a_2
+python-htcondor-9.12.0-py310h697646f_3

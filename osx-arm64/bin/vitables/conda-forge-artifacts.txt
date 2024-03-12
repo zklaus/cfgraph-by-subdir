@@ -1,0 +1,13 @@
+vitables-3.0.2-py311hf8d0fd2_3
+vitables-3.0.2-py39h44beae6_3
+vitables-3.0.2-py310h03da038_3
+vitables-3.0.2-py38h13ccadc_3
+vitables-3.0.3-py310h03da038_0
+vitables-3.0.3-py311hf8d0fd2_0
+vitables-3.0.3-py38h13ccadc_0
+vitables-3.0.3-py39h44beae6_0
+vitables-3.0.3-py310h03da038_1
+vitables-3.0.3-py312h1e4651b_1
+vitables-3.0.3-py311hf8d0fd2_1
+vitables-3.0.3-py39h44beae6_1
+vitables-3.0.3-py38h13ccadc_1

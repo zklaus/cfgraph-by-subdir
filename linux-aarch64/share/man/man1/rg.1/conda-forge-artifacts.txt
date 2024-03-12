@@ -1,0 +1,4 @@
+ripgrep-13.0.0-hc770f70_2
+ripgrep-13.0.0-h1d8f897_3
+ripgrep-14.0.3-h1d8f897_0
+ripgrep-14.0.3-h1d8f897_1

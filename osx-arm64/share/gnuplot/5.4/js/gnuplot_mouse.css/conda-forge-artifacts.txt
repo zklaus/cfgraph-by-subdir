@@ -1,0 +1,5 @@
+gnuplot-5.4.3-hfcb1152_3
+gnuplot-5.4.4-hfcb1152_0
+gnuplot-5.4.5-hc3c1816_0
+gnuplot-5.4.5-hc3c1816_1
+gnuplot-5.4.8-hc3c1816_0

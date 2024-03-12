@@ -1,0 +1,4 @@
+libignition-math6-6.10.0-h01db608_0
+libignition-math6-6.10.0-py39he8a5f20_1
+libignition-math6-6.10.0-py38hf2a7c0d_1
+libignition-math6-6.10.0-py37hbeb1f9a_1

@@ -1,0 +1,16 @@
+libgcc-devel_linux-64-8.4.0-h3b9816e_14
+gcc_bootstrap_linux-64-8.4.0-h3b9816e_23
+gcc_bootstrap_linux-64-8.4.0-h3b9816e_25
+gcc_bootstrap_linux-64-8.4.0-h3b9816e_26
+gcc_bootstrap_linux-64-8.4.0-h3b9816e_27
+libgcc-devel_linux-64-8.4.0-h3b9816e_15
+libgcc-devel_linux-64-8.4.0-h3b9816e_16
+gcc_bootstrap_linux-64-8.4.0-h3b9816e_28
+libgcc-devel_linux-64-8.4.0-h3b9816e_17
+gcc_bootstrap_linux-64-8.4.0-ha9ab11c_29
+libgcc-devel_linux-64-8.4.0-h5d8c923_18
+gcc_bootstrap_linux-64-8.4.0-h5d8c923_30
+libgcc-devel_linux-64-8.4.0-h5d8c923_19
+gcc_bootstrap_linux-64-8.4.0-h5d8c923_31
+gcc_bootstrap_linux-64-8.4.0-hd9c9137_32
+gcc_bootstrap_linux-64-8.4.0-hd9c9137_33

@@ -1,0 +1,10 @@
+r-rspectra-0.12_0-r3.3.2_0
+r-rspectra-0.12_0-r3.4.1_0
+r-rspectra-0.12_0-r341hfc679d8_1
+r-rspectra-0.12_0-r341hfc679d8_2
+r-rspectra-0.12_0-r351hfc679d8_2
+r-rspectra-0.12_0-r351h0a44026_1002
+r-rspectra-0.14_0-r351hf99fc2c_0
+r-rspectra-0.15_0-r35hf99fc2c_0
+r-rspectra-0.15_0-r35hf99fc2c_1
+r-rspectra-0.16_0-r35hc5da6b9_0

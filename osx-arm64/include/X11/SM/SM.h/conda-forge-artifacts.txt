@@ -1,0 +1,2 @@
+xorg-libsm-1.2.3-h27ca646_1000
+xorg-libsm-1.2.4-hb547adb_0

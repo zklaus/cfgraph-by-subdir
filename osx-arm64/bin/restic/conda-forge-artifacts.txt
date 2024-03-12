@@ -1,0 +1,11 @@
+restic-0.12.1-h75b854d_0
+restic-0.12.1-h75b854d_1
+restic-0.12.1-h75b854d_2
+restic-0.13.0-h75b854d_0
+restic-0.13.1-h75b854d_0
+restic-0.13.1-h75b854d_1
+restic-0.13.1-h75b854d_2
+restic-0.14.0-h75b854d_0
+restic-0.15.0-h75b854d_0
+restic-0.15.2-h75b854d_0
+restic-0.16.0-h75b854d_0

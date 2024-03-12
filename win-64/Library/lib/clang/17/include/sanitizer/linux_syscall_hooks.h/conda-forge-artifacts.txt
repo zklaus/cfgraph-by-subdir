@@ -1,0 +1,13 @@
+dpcpp_impl_win-64-2023.2.0-h3338d26_49496
+dpcpp_impl_win-64-2023.2.0-h3055adc_49497
+dpcpp_impl_win-64-2023.2.0-h3055adc_49498
+dpcpp_impl_win-64-2023.2.0-h3055adc_49499
+dpcpp_impl_win-64-2023.2.0-h3055adc_49500
+dpcpp_impl_win-64-2023.2.0-h3055adc_49501
+compiler-rt-17.0.2-h91493d7_1
+compiler-rt-17.0.3-h91493d7_0
+compiler-rt-17.0.4-h91493d7_0
+compiler-rt-17.0.5-h91493d7_0
+dpcpp_impl_win-64-2024.0.0-h3055adc_49840
+compiler-rt-17.0.6-h91493d7_0
+compiler-rt-17.0.6-h91493d7_1

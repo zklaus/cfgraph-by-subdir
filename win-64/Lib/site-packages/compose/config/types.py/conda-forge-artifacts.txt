@@ -1,0 +1,9 @@
+docker-compose-1.29.2-py39hcbf5309_2
+docker-compose-1.29.2-py310h5588dad_2
+docker-compose-1.29.2-py311h1ea47a8_2
+docker-compose-1.29.2-py38haa244fe_2
+docker-compose-1.29.2-py312h2e8e312_3
+docker-compose-1.29.2-py310h5588dad_3
+docker-compose-1.29.2-py311h1ea47a8_3
+docker-compose-1.29.2-py39hcbf5309_3
+docker-compose-1.29.2-py38haa244fe_3

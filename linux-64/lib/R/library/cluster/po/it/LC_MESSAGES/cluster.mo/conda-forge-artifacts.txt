@@ -1,0 +1,17 @@
+r-cluster-2.1.1-r40h859d828_0
+r-cluster-2.1.1-r36h859d828_0
+r-cluster-2.1.2-r40h859d828_0
+r-cluster-2.1.2-r36h859d828_0
+r-cluster-2.1.2-r41h859d828_0
+r-cluster-2.1.3-r41h8da6f51_0
+r-cluster-2.1.3-r40h8da6f51_0
+r-cluster-2.1.3-r42h8da6f51_1
+r-cluster-2.1.3-r41h8da6f51_1
+r-cluster-2.1.4-r42h8da6f51_0
+r-cluster-2.1.4-r41h8da6f51_0
+r-cluster-2.1.4-r43h61816a4_1
+r-cluster-2.1.4-r42h61816a4_1
+r-cluster-2.1.5-r42h61816a4_0
+r-cluster-2.1.5-r43h61816a4_0
+r-cluster-2.1.6-r42h61816a4_0
+r-cluster-2.1.6-r43h61816a4_0

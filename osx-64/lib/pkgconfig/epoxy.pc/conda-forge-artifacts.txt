@@ -1,0 +1,14 @@
+epoxy-1.5.4-h0b31af3_0
+epoxy-1.5.4-h0b31af3_1
+epoxy-1.5.4-haf1e3a3_2
+epoxy-1.5.4-haf1e3a3_3
+epoxy-1.5.4-hbcb3906_4
+epoxy-1.5.5-h35c211d_0
+epoxy-1.5.5-h0d85af4_0
+epoxy-1.5.5-h0d85af4_1
+epoxy-1.5.6-h0d85af4_0
+epoxy-1.5.7-h0d85af4_0
+epoxy-1.5.8-h0d85af4_0
+epoxy-1.5.9-h0d85af4_0
+epoxy-1.5.10-h5eb16cf_0
+epoxy-1.5.10-h5eb16cf_1

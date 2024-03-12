@@ -1,0 +1,10 @@
+msmbuilder-3.7.0-np111py35_0
+msmbuilder-3.7.0-np111py36_0
+msmbuilder-3.8.0-np111py35_0
+msmbuilder-3.8.0-np111py36_0
+testmsm-3.8.3-py37h3182a2c_0
+testmsm-3.8.3-py38hcc40339_0
+testmsm-3.8.3-py39h2e25243_0
+testmsm-3.8.5-py38hcc40339_0
+testmsm-3.8.5-py37h3182a2c_0
+testmsm-3.8.5-py39h2e25243_0

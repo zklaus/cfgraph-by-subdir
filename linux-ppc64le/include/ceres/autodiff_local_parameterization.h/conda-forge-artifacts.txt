@@ -1,0 +1,14 @@
+ceres-solver-1.14.0-h66c0d9c_11
+ceres-solver-2.0.0-he29c6bf_0
+ceres-solver-2.0.0-hd1c62bd_1
+ceres-solver-2.0.0-h6cd36d5_2
+ceres-solver-1.14.0-hc916380_11
+ceres-solver-1.14.0-h6cd36d5_12
+ceres-solver-2.0.0-hd585123_3
+ceres-solver-2.0.0-hd585123_4
+ceres-solver-1.14.0-h6cd36d5_13
+ceres-solver-1.14.0-hd585123_14
+ceres-solver-2.1.0-hcbd0021_0
+ceres-solver-2.1.0-hb0026c9_1
+ceres-solver-1.14.0-hb0026c9_15
+ceres-solver-2.1.0-h2ed2208_2

@@ -1,0 +1,4 @@
+clsparse-0.10.2.0-vc14_0
+clsparse-0.10.2.0-h037026a_1
+clsparse-0.10.2.0-h803c963_2
+clsparse-0.10.2.0-hecaa37c_3

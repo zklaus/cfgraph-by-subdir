@@ -1,0 +1,4 @@
+soapysdr-module-rtlsdr-0.3.0-h4306ade_1
+soapysdr-module-rtlsdr-0.3.3-h695f781_0
+soapysdr-module-rtlsdr-0.3.3-h695f781_1
+soapysdr-module-rtlsdr-0.3.3-h70b5976_2

@@ -1,0 +1,4 @@
+cairo-devel-cos7-x86_64-1.15.12-hdf0574f_1102
+cairo-devel-cos7-x86_64-1.15.12-ha826a6f_1103
+cairo-devel-cos7-x86_64-1.15.12-h9d98e8f_1104
+cairo-devel-cos7-x86_64-1.15.12-h9b0a68f_1105

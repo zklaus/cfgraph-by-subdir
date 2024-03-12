@@ -1,0 +1,2 @@
+rb-necromancer-0.6.0-hc42de5b_0
+rb-necromancer-0.6.0-0

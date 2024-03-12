@@ -1,0 +1,15 @@
+r-sdcmicro-5.7.1-r40h7525677_0
+r-sdcmicro-5.7.1-r41h7525677_0
+r-sdcmicro-5.7.2-r41h7525677_0
+r-sdcmicro-5.7.2-r40h7525677_0
+r-sdcmicro-5.7.3-r41h7525677_0
+r-sdcmicro-5.7.3-r42h7525677_1
+r-sdcmicro-5.7.3-r41h7525677_1
+r-sdcmicro-5.7.4-r41h7525677_0
+r-sdcmicro-5.7.4-r42h7525677_0
+r-sdcmicro-5.7.5-r42h38f115c_0
+r-sdcmicro-5.7.5-r41h38f115c_0
+r-sdcmicro-5.7.5-r43ha503ecb_1
+r-sdcmicro-5.7.5-r42ha503ecb_1
+r-sdcmicro-5.7.6-r42ha503ecb_0
+r-sdcmicro-5.7.6-r43ha503ecb_0

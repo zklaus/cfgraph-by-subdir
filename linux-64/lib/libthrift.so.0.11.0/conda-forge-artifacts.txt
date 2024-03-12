@@ -1,0 +1,5 @@
+thrift-cpp-0.11.0-1
+thrift-cpp-0.11.0-2
+thrift-cpp-0.11.0-hafb3f75_3
+thrift-cpp-0.11.0-he11dc3d_3
+thrift-cpp-0.11.0-h23e226f_1003

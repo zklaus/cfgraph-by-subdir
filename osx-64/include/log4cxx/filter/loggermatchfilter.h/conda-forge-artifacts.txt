@@ -1,0 +1,6 @@
+log4cxx-0.11.0-hab7d99f_0
+log4cxx-0.11.0-hab7d99f_1
+log4cxx-0.11.0-h1598841_2
+log4cxx-0.11.0-h20ea53c_3
+log4cxx-1.1.0-h6356e3d_0
+log4cxx-1.1.0-h57ae16c_1

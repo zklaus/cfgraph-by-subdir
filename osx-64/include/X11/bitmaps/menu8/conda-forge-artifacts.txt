@@ -1,0 +1,5 @@
+xorg-xbitmaps-1.1.1-0
+xorg-xbitmaps-1.1.2-0
+xorg-xbitmaps-1.1.2-h470a237_1
+xorg-xbitmaps-1.1.2-h1de35cc_1001
+xorg-xbitmaps-1.1.2-h10d778d_1001

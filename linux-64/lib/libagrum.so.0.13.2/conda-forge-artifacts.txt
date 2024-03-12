@@ -1,0 +1,17 @@
+pyagrum-0.13.2-py27_0
+pyagrum-0.13.2-py35_0
+pyagrum-0.13.2-py36_0
+pyagrum-0.13.2-py36hf8a1672_1
+pyagrum-0.13.2-py27hf8a1672_1
+pyagrum-0.13.2-py36hf8a1672_2
+pyagrum-0.13.2-py27hf8a1672_2
+pyagrum-0.13.2-py27hf8a1672_3
+pyagrum-0.13.2-py36hf8a1672_3
+pyagrum-0.13.2-py27hf8a1672_4
+pyagrum-0.13.2-py36hf8a1672_4
+pyagrum-0.13.2-py36hf8a1672_5
+pyagrum-0.13.2-py27hf8a1672_5
+pyagrum-0.13.2-py27hf8a1672_6
+pyagrum-0.13.2-py36hf8a1672_6
+pyagrum-0.13.2-py36hf8a1672_7
+pyagrum-0.13.2-py27hf8a1672_7

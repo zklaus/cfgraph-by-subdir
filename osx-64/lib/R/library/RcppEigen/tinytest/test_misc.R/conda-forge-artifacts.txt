@@ -1,0 +1,10 @@
+r-rcppeigen-0.3.3.9.2-r40hde7ee74_0
+r-rcppeigen-0.3.3.9.2-r41hde7ee74_0
+r-rcppeigen-0.3.3.9.2-r41h4f1a15b_1
+r-rcppeigen-0.3.3.9.2-r42h4f1a15b_1
+r-rcppeigen-0.3.3.9.3-r42h4f1a15b_0
+r-rcppeigen-0.3.3.9.3-r41h4f1a15b_0
+r-rcppeigen-0.3.3.9.3-r42hfaea39f_1
+r-rcppeigen-0.3.3.9.3-r43hfaea39f_1
+r-rcppeigen-0.3.3.9.4-r42h9ef54d1_0
+r-rcppeigen-0.3.3.9.4-r43h9ef54d1_0

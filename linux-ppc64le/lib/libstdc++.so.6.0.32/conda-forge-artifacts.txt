@@ -1,0 +1,16 @@
+libstdcxx-ng-13.2.0-h0849fd4_0
+gcc_bootstrap_linux-ppc64le-12.3.0-h6da35b0_2
+gcc_bootstrap_linux-ppc64le-11.4.0-h496ea33_2
+gcc_bootstrap_linux-64-11.4.0-h036019a_2
+gcc_bootstrap_linux-s390x-11.4.0-ha1cdf4c_2
+gcc_bootstrap_linux-s390x-13.2.0-hd7cd118_2
+gcc_bootstrap_linux-64-12.3.0-heea60f7_2
+gcc_bootstrap_linux-s390x-12.3.0-h3c8eb08_2
+gcc_bootstrap_linux-64-13.2.0-h1e1b9ef_2
+gcc_bootstrap_linux-aarch64-12.3.0-h3128e4a_2
+gcc_bootstrap_linux-aarch64-13.2.0-h14999c2_2
+gcc_bootstrap_linux-ppc64le-13.2.0-had863c1_2
+gcc_bootstrap_linux-aarch64-11.4.0-hb79003e_2
+libstdcxx-ng-13.2.0-h0849fd4_1
+libstdcxx-ng-13.2.0-h0849fd4_2
+libstdcxx-ng-13.2.0-h0849fd4_3

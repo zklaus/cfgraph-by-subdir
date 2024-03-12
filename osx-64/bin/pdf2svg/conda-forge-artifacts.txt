@@ -1,0 +1,15 @@
+pdf2svg-0.2.3-h0131eba_0
+pdf2svg-0.2.3-h662dfe5_1
+pdf2svg-0.2.3-h7f678c8_2
+pdf2svg-0.2.3-h5eeca50_3
+pdf2svg-0.2.3-h74f6aec_4
+pdf2svg-0.2.3-h45850da_5
+pdf2svg-0.2.3-h5b7ba23_6
+pdf2svg-0.2.3-h7c1e829_7
+pdf2svg-0.2.3-h1d7bd44_8
+pdf2svg-0.2.3-hd2f3491_9
+pdf2svg-0.2.3-hef626b0_10
+pdf2svg-0.2.3-ha1cd8eb_11
+pdf2svg-0.2.3-h3ada485_12
+pdf2svg-0.2.3-h1011eb8_13
+pdf2svg-0.2.3-h785aa83_14

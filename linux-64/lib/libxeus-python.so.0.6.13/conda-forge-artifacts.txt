@@ -1,0 +1,6 @@
+xeus-python-0.6.13-py37h99015e2_0
+xeus-python-0.6.13-py36hdb11119_0
+xeus-python-0.6.13-py38hbf85e49_0
+xeus-python-0.6.13-py38hbf85e49_1
+xeus-python-0.6.13-py37h99015e2_1
+xeus-python-0.6.13-py36hdb11119_1

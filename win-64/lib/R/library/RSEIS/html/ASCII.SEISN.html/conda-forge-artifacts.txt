@@ -1,0 +1,12 @@
+r-rseis-3.8_3-r351h6115d3f_1000
+r-rseis-3.8_3-r35hda5aaf8_1001
+r-rseis-3.8_3-r36hda5aaf8_1001
+r-rseis-3.9_0-r35hda5aaf8_0
+r-rseis-3.9_0-r36hda5aaf8_0
+r-rseis-3.9_0-r36hda5aaf8_1
+r-rseis-3.9_0-r40hda5aaf8_1
+r-rseis-3.9_3-r40hda5aaf8_0
+r-rseis-3.9_3-r36hda5aaf8_0
+r-rseis-3.9_3-r40h6d2157b_0
+r-rseis-4.0_3-r40h6d2157b_0
+r-rseis-4.1_1-r40h6d2157b_0

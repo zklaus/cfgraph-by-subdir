@@ -1,0 +1,9 @@
+xpdan-0.4.0-py_0
+xpdan-0.4.1-py_0
+xpdan-0.5.1-py_0
+xpdan-0.5.2-py_0
+xpdan-0.6.0-py_0
+xpdan-0.6.1-py_0
+xpdan-0.7.0-py_0
+xpdan-0.8.0-py_0
+xpdan-0.8.1-py_1

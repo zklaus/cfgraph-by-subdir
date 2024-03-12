@@ -1,0 +1,9 @@
+libcurl-7.63.0-h01ee5af_1000
+libcurl-7.64.0-h01ee5af_0
+libcurl-7.64.0-h541490c_2
+libcurl-7.64.0-hda55be3_4
+libcurl-7.64.1-hda55be3_0
+libcurl-7.65.2-hda55be3_0
+libcurl-7.65.3-hda55be3_0
+libcurl-7.64.0-hf7181ac_5
+libcurl-7.64.1-hf7181ac_1

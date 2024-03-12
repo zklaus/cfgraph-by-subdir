@@ -1,0 +1,17 @@
+libspatialindex-1.8.5-0
+libspatialindex-1.8.5-1
+libspatialindex-1.8.5-hfc679d8_1
+libspatialindex-1.8.5-hfc679d8_2
+libspatialindex-1.8.5-hfc679d8_3
+libspatialindex-1.8.5-hf484d3e_1003
+libspatialindex-1.9.0-he1b5a44_0
+libspatialindex-1.8.5-he1b5a44_4
+libspatialindex-1.9.0-he1b5a44_1
+libspatialindex-1.9.1-he1b5a44_0
+libspatialindex-1.9.2-he1b5a44_0
+libspatialindex-1.9.3-he1b5a44_0
+libspatialindex-1.9.3-he1b5a44_1
+libspatialindex-1.9.0-he1b5a44_2
+libspatialindex-1.9.3-he1b5a44_3
+libspatialindex-1.9.3-h9c3ff4c_3
+libspatialindex-1.9.3-h9c3ff4c_4

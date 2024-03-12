@@ -1,0 +1,11 @@
+gmattensor-0.6.0-h940c156_0
+gmattensor-0.7.0-h940c156_0
+gmattensor-0.7.1-h940c156_0
+gmattensor-0.7.2-h940c156_0
+gmattensor-0.7.4-hbb4e6a2_0
+gmattensor-0.7.5-h940c156_0
+gmattensor-0.7.5-h940c156_1
+gmattensor-0.8.0-hbb4e6a2_0
+gmattensor-0.9.0-h1b54a9f_0
+gmattensor-0.9.0-h1b54a9f_1
+gmattensor-0.10.0-h1b54a9f_0

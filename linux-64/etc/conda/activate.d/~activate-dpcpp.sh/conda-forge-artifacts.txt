@@ -1,0 +1,4 @@
+dpcpp_linux-64-2023.2.0-h59595ed_49498
+dpcpp_linux-64-2023.2.0-h59595ed_49499
+dpcpp_linux-64-2023.2.0-h59595ed_49500
+dpcpp_linux-64-2024.0.0-h59595ed_49819

@@ -1,0 +1,8 @@
+r-nntensor-1.1.12-r41hc72bb7e_0
+r-nntensor-1.1.12-r42hc72bb7e_0
+r-nntensor-1.1.13-r42hc72bb7e_0
+r-nntensor-1.1.13-r41hc72bb7e_0
+r-nntensor-1.1.13-r43hc72bb7e_1
+r-nntensor-1.1.13-r42hc72bb7e_1
+r-nntensor-1.2.0-r43hc72bb7e_0
+r-nntensor-1.2.0-r42hc72bb7e_0

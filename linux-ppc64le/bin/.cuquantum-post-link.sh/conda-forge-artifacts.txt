@@ -1,0 +1,10 @@
+cuquantum-22.07.0.11-hc9efd5c_0
+cuquantum-22.07.1.14-hc9efd5c_0
+cuquantum-22.07.1.14-hd8f4867_1
+cuquantum-22.07.1.14-hd8f4867_2
+cuquantum-22.11.0.13-h3bde32c_0
+cuquantum-22.11.0.13-h2a1d826_0
+cuquantum-22.11.0.13-h4b78144_0
+cuquantum-22.11.0.13-h2a1d826_1
+cuquantum-22.11.0.13-h3bde32c_1
+cuquantum-22.11.0.13-h4b78144_1

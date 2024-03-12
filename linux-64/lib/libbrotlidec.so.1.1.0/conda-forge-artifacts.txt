@@ -1,0 +1,2 @@
+libbrotlidec-1.1.0-hd590300_0
+libbrotlidec-1.1.0-hd590300_1

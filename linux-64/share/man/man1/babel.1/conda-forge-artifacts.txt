@@ -1,0 +1,13 @@
+openbabel-2.4.1-py27hc189817_0
+openbabel-2.4.1-py36hc189817_0
+openbabel-2.4.1-py37hc189817_0
+openbabel-2.4.1-py27hc189817_1
+openbabel-2.4.1-py36hc189817_1
+openbabel-2.4.1-py37hc189817_1
+openbabel-3.0.0-py27h1360c68_0
+openbabel-3.0.0-py37h1360c68_0
+openbabel-3.0.0-py36h1360c68_0
+openbabel-3.0.0-py37hdef5451_1
+openbabel-3.0.0-py27hdef5451_1
+openbabel-3.0.0-py36hdef5451_1
+openbabel-3.0.0-py38hdef5451_1

@@ -1,0 +1,12 @@
+igraph-0.7.1-hdcbf594_1007
+igraph-0.8.0-hdcbf594_0
+igraph-0.8.2-hdcbf594_0
+igraph-0.8.2-h357bba8_1
+igraph-0.8.2-h357bba8_2
+igraph-0.8.2-h357bba8_3
+igraph-0.8.3-ha129f77_0
+igraph-0.8.3-ha129f77_1
+igraph-0.8.3-hfed5cf6_1
+igraph-0.8.3-hf2bcfcc_1
+igraph-0.8.3-hb639d95_1
+igraph-0.8.3-h706a7f2_2

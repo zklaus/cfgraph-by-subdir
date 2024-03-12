@@ -1,0 +1,13 @@
+r-funr-0.3.2-r351_1000
+r-funr-0.3.2-r36_1001
+r-funr-0.3.2-r35_1001
+r-funr-0.3.2-r40_1002
+r-funr-0.3.2-r36_1002
+r-funr-0.3.2-r40ha770c72_1002
+r-funr-0.3.2-r41ha770c72_1002
+r-funr-0.3.2-r41hc72bb7e_1003
+r-funr-0.3.2-r40hc72bb7e_1003
+r-funr-0.3.2-r41hc72bb7e_1004
+r-funr-0.3.2-r42hc72bb7e_1004
+r-funr-0.3.2-r42hc72bb7e_1005
+r-funr-0.3.2-r43hc72bb7e_1005

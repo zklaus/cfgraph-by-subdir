@@ -1,0 +1,14 @@
+doxygen-1.8.16-hd1b7508_1
+doxygen-1.8.14-hd1b7508_1
+doxygen-1.8.18-hd1b7508_0
+doxygen-1.8.19-hd1b7508_0
+doxygen-1.8.20-h0e019cf_0
+doxygen-1.8.20-h985afc1_0
+doxygen-1.9.1-hda030cf_0
+doxygen-1.9.2-hda030cf_0
+doxygen-1.9.4-h04155f4_0
+doxygen-1.9.5-h04155f4_0
+doxygen-1.9.6-he8118fb_0
+doxygen-1.9.7-h7b6a552_0
+doxygen-1.9.7-h7b6a552_1
+doxygen-1.9.8-h7b6a552_0

@@ -1,0 +1,10 @@
+r-flextable-0.5.8-r36h6115d3f_0
+r-flextable-0.5.8-r35h6115d3f_0
+r-flextable-0.5.9-r35h6115d3f_0
+r-flextable-0.5.9-r36h6115d3f_0
+r-flextable-0.5.9-r40h6115d3f_1
+r-flextable-0.5.9-r36h6115d3f_1
+r-flextable-0.5.10-r40h6115d3f_0
+r-flextable-0.5.10-r36h6115d3f_0
+r-flextable-0.5.11-r40h6115d3f_0
+r-flextable-0.5.11-r36h6115d3f_0

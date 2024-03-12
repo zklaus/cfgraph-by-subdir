@@ -1,0 +1,5 @@
+pyscal-2.10.15-py37h796e4cb_0
+pyscal-2.10.15-py37h796e4cb_1
+pyscal-2.10.16-py37h48bf904_0
+pyscal-2.10.18-py37h45de68e_0
+pyscal-2.10.18-py37h45de68e_1

@@ -1,0 +1,7 @@
+cmake-3.20.1-h541d2ed_0
+cmake-3.20.2-h541d2ed_0
+cmake-3.20.2-h8897547_1
+cmake-3.20.3-h8897547_0
+cmake-3.20.4-h8897547_0
+cmake-3.20.5-h8897547_0
+cmake-no-system-3.20.2-h59595ed_0

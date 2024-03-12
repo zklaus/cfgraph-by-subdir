@@ -1,0 +1,2 @@
+pyspark-flame-0.2.6-py36h9f0ad1d_0
+pyspark-flame-0.2.6-py37hc8dfbb8_0

@@ -1,0 +1,16 @@
+libtiff-4.1.0-h70663a0_6
+libtiff-4.2.0-h70663a0_0
+libtiff-4.2.0-hcbb2f27_1
+libtiff-4.2.0-haa86c9b_2
+libtiff-4.2.0-hc6122e1_3
+libtiff-4.3.0-hc6122e1_0
+libtiff-4.3.0-hc6122e1_1
+libtiff-4.3.0-h74060c4_2
+libtiff-4.3.0-h77dc3b6_3
+libtiff-4.3.0-h2810ee2_4
+libtiff-4.4.0-h2810ee2_0
+libtiff-4.4.0-hcbbed22_1
+libtiff-4.4.0-h57e8767_2
+libtiff-4.4.0-hd6ca8d7_3
+libtiff-4.4.0-hfa0b094_4
+libtiff-4.4.0-heb92581_5

@@ -1,0 +1,5 @@
+gfortran_impl_osx-arm64-10.3.0-hd225fd4_24
+gfortran_impl_osx-arm64-10.3.0-hd225fd4_25
+gfortran_impl_osx-arm64-10.3.0-h970f3f0_26
+gfortran_impl_osx-arm64-10.3.0-h970f3f0_27
+gfortran_impl_osx-arm64-10.3.0-h6f949af_28

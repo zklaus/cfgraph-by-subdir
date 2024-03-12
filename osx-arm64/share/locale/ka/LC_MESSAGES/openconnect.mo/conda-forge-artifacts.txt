@@ -1,0 +1,2 @@
+openconnect-9.10-h74e4191_0
+openconnect-9.12-h74e4191_0

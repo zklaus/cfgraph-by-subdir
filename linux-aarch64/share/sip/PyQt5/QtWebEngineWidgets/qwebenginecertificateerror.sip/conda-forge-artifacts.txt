@@ -1,0 +1,8 @@
+pyqtwebengine-5.12.1-py39h6bb70bb_7
+pyqtwebengine-5.12.1-py37h27250a4_7
+pyqtwebengine-5.12.1-py38h149e137_7
+pyqtwebengine-5.12.1-py36h1b76c54_7
+pyqtwebengine-5.12.1-py37h27250a4_8
+pyqtwebengine-5.12.1-py38h149e137_8
+pyqtwebengine-5.12.1-py39h6bb70bb_8
+pyqtwebengine-5.12.1-py310h291d0e5_8

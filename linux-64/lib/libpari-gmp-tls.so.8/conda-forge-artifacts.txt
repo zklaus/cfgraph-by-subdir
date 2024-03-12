@@ -1,0 +1,4 @@
+pari-2.15.2-h83124e9_1_pthread
+pari-2.15.2-h83124e9_2_pthread
+pari-2.15.3-h83124e9_2_pthread
+pari-2.15.4-h4d4ae9b_2_pthread

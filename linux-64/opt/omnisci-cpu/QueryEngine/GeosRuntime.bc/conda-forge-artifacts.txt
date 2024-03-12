@@ -1,0 +1,8 @@
+omniscidb-5.4.0-h1234567_0_cpu
+omniscidb-5.4.0-h1234567_1_cpu
+omniscidb-5.4.1-h1234567_0_cpu
+omniscidb-5.4.1-h1234567_1_cpu
+omniscidb-5.5.0-h1234567_0_cpu
+omniscidb-5.5.0-h1234567_1_cpu
+omniscidb-5.5.1-h1234567_1_cpu
+omniscidb-5.5.2-h1234567_0_cpu

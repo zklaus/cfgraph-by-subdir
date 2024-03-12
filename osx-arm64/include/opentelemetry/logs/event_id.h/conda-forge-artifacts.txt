@@ -1,0 +1,10 @@
+libopentelemetry-cpp-headers-1.9.1-hce30654_0
+libopentelemetry-cpp-headers-1.9.1-hce30654_1
+libopentelemetry-cpp-headers-1.9.1-hce30654_2
+libopentelemetry-cpp-headers-1.9.1-hce30654_3
+libopentelemetry-cpp-headers-1.10.0-hce30654_0
+libopentelemetry-cpp-headers-1.11.0-hce30654_0
+libopentelemetry-cpp-headers-1.11.0-hce30654_1
+libopentelemetry-cpp-headers-1.11.0-hce30654_2
+libopentelemetry-cpp-headers-1.12.0-hce30654_0
+libopentelemetry-cpp-headers-1.12.0-hce30654_1

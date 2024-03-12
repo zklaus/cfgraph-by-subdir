@@ -1,0 +1,5 @@
+libavif-0.10.0-hb283c62_0
+libavif-0.10.0-hb283c62_1
+libavif-0.10.1-hb283c62_0
+libavif-0.10.1-hb283c62_1
+libavif-0.10.1-hb5eff12_2

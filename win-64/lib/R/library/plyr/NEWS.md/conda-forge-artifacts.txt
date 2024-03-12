@@ -1,0 +1,12 @@
+r-plyr-1.8.6-r36h796a38f_0
+r-plyr-1.8.6-r35h796a38f_0
+r-plyr-1.8.6-r36h796a38f_1
+r-plyr-1.8.6-r40h796a38f_1
+r-plyr-1.8.6-r41ha856d6a_1
+r-plyr-1.8.6-r40ha856d6a_1
+r-plyr-1.8.7-r41ha856d6a_0
+r-plyr-1.8.7-r40ha856d6a_0
+r-plyr-1.8.7-r41ha856d6a_1
+r-plyr-1.8.8-r41ha856d6a_0
+r-plyr-1.8.8-r41ha856d6a_1
+r-plyr-1.8.9-r41ha856d6a_0

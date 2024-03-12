@@ -1,0 +1,3 @@
+libnegf-1.1.2-nompi_h4b2976f_100
+libnegf-1.1.2-mpi_mpich_hda31055_0
+libnegf-1.1.2-mpi_openmpi_ha02a8ca_0

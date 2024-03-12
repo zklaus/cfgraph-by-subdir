@@ -1,0 +1,15 @@
+freetype-2.9.1-hdd964ba_1005
+freetype-2.9.1-hc85f378_1006
+freetype-2.6.1-hc85f378_0
+freetype-2.10.0-hc85f378_1
+freetype-2.10.0-he06d7ca_2
+freetype-2.10.1-he06d7ca_0
+freetype-2.10.2-he06d7ca_0
+freetype-2.10.3-he06d7ca_0
+freetype-2.10.4-he06d7ca_0
+freetype-2.10.4-h75e8696_0
+freetype-2.10.4-hdf53a3c_1
+freetype-2.10.4-hbbbf32d_2
+freetype-2.12.1-hbbbf32d_0
+freetype-2.12.1-hbbbf32d_1
+freetype-2.12.1-hf0a5ef3_2

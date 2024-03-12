@@ -1,0 +1,8 @@
+latte-integrale-1.7.5-hc2ed63e_0
+latte-integrale-1.7.5-h452d43a_1
+latte-1.2.2-h9364cfa_0
+latte-1.2.2-h9364cfa_1
+latte-1.2.2-h9364cfa_2
+latte-1.2.2-nompi_h1ad30ee_103
+latte-1.2.2-mpi_openmpi_h89e0274_3
+latte-1.2.2-mpi_mpich_hb8cc803_3

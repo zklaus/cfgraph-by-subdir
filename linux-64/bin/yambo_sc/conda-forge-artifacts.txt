@@ -1,0 +1,9 @@
+yambo-5.0.2-h6b7a505_0
+yambo-5.0.3-h6b7a505_0
+yambo-5.0.3-h6b7a505_1
+yambo-5.0.4-h6b7a505_0
+yambo-5.0.4-h6b7a505_1
+yambo-5.1.1-haeb0354_0
+yambo-5.1.1-haeb0354_1
+yambo-5.1.1-h8ce2fc8_2
+yambo-5.1.1-h8ce2fc8_3

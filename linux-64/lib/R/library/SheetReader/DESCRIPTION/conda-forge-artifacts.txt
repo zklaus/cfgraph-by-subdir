@@ -1,0 +1,6 @@
+r-sheetreader-1.0.2-r42h7525677_0
+r-sheetreader-1.0.2-r41h7525677_0
+r-sheetreader-1.1.0-r41ha503ecb_0
+r-sheetreader-1.1.0-r42ha503ecb_0
+r-sheetreader-1.1.0-r43ha503ecb_1
+r-sheetreader-1.1.0-r42ha503ecb_1

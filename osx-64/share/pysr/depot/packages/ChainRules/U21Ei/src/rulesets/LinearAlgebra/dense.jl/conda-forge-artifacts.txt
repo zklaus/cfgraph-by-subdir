@@ -1,0 +1,11 @@
+pysr-0.14.2-py38h27387e6_0
+pysr-0.14.2-py311h9bdd199_0
+pysr-0.14.2-py310ha188af9_0
+pysr-0.14.2-py38h27387e6_1
+pysr-0.14.2-py310ha188af9_1
+pysr-0.14.2-py311h9bdd199_1
+pysr-0.14.2-py39h55f2206_1
+pysr-0.14.2-py310ha188af9_2
+pysr-0.14.2-py38h27387e6_2
+pysr-0.14.2-py39h55f2206_2
+pysr-0.14.2-py311h9bdd199_2

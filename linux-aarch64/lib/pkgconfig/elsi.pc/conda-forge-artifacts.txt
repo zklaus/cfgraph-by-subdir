@@ -1,0 +1,10 @@
+elsi-2.8.2-mpi_openmpi_h152c2b8_0
+elsi-2.8.2-mpi_mpich_h478e2f9_0
+elsi-2.8.2-mpi_openmpi_h152c2b8_1
+elsi-2.8.2-mpi_mpich_h478e2f9_1
+elsi-2.8.2-mpi_openmpi_h152c2b8_2
+elsi-2.8.2-mpi_mpich_h478e2f9_2
+elsi-2.9.0-mpi_openmpi_h152c2b8_0
+elsi-2.9.0-mpi_mpich_h478e2f9_0
+elsi-2.9.1-mpi_mpich_h1fddb25_0
+elsi-2.9.1-mpi_openmpi_h059ff69_0

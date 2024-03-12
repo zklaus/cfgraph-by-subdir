@@ -1,0 +1,2 @@
+exiftool-12.30-pl5321h694c41f_1
+exiftool-12.42-pl5321h694c41f_0

@@ -1,0 +1,12 @@
+kivy-2.2.0-py39h1be07e2_0
+kivy-2.2.0-py38h0cae2e2_0
+kivy-2.2.1-py310hbc2849a_0
+kivy-2.2.1-py38hdcee181_0
+kivy-2.2.1-py39h215d148_0
+kivy-2.2.1-py38h93e5601_0
+kivy-2.2.1-py39hd2eafab_0
+kivy-2.2.1-py39h5d2479f_1
+kivy-2.2.1-py311h1c6b5a7_1
+kivy-2.2.1-py38h6cc232d_1
+kivy-2.2.1-py310h61d9912_1
+kivy-2.2.1-py39h12b5cfc_1

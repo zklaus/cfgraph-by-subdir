@@ -1,0 +1,9 @@
+r-fgarch-4021.86-r40he816bda_0
+r-fgarch-4021.86-r41he816bda_0
+r-fgarch-4021.87-r41he816bda_0
+r-fgarch-4021.87-r40he816bda_0
+r-fgarch-4021.87-r41he816bda_1
+r-fgarch-4021.88-r41he816bda_0
+r-fgarch-4022.89-r41he816bda_0
+r-fgarch-4022.89-r41he816bda_1
+r-fgarch-4031.90-r41he816bda_0

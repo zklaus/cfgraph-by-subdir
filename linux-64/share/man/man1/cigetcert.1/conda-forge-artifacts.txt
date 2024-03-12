@@ -1,0 +1,16 @@
+cigetcert-1.19-py27_0
+cigetcert-1.19-py37_0
+cigetcert-1.19-py36_0
+cigetcert-1.19-py38_0
+cigetcert-1.19-py36h9f0ad1d_1
+cigetcert-1.19-py37hc8dfbb8_1
+cigetcert-1.19-py38h32f6830_1
+cigetcert-1.19-py39hde42818_1
+cigetcert-1.19-py39hf3d152e_2
+cigetcert-1.19-py37h89c1867_2
+cigetcert-1.19-py38h578d9bd_2
+cigetcert-1.19-py310hff52083_2
+cigetcert-1.19-py310hff52083_3
+cigetcert-1.19-py311h38be061_3
+cigetcert-1.19-py38h578d9bd_3
+cigetcert-1.19-py39hf3d152e_3

@@ -1,0 +1,7 @@
+lfortran-0.11.0-haa24688_0
+lfortran-0.11.0-haa24688_1
+lfortran-0.12.0-haa24688_0
+lfortran-0.12.0-haa24688_1
+lfortran-0.13.0-h7755175_0
+lfortran-0.13.1-h7755175_0
+lfortran-0.14.0-h7755175_0

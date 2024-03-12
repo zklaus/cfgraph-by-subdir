@@ -1,0 +1,10 @@
+desres-msys-1.7.266-py27h4f17bb1_1
+desres-msys-1.7.266-py37h4f17bb1_1
+desres-msys-1.7.266-py36h4f17bb1_1
+desres-msys-1.7.299-py37h94625e5_0
+desres-msys-1.7.299-py36hcc1bba6_0
+desres-msys-1.7.310-py37h6d0141a_1
+desres-msys-1.7.310-py36h72eec15_1
+desres-msys-1.7.310-py38h6be0db6_1
+desres-msys-1.7.310-py38hcf432d8_2
+desres-msys-1.7.310-py39hbafd028_2

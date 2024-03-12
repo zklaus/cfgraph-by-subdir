@@ -1,0 +1,2 @@
+jupyterhub-terraformspawner-0.0.4-py37_0
+jupyterhub-terraformspawner-0.0.4-py36_0

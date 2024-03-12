@@ -1,0 +1,9 @@
+libparquet-14.0.1-heaab74a_0_cpu
+libparquet-14.0.1-heaab74a_1_cpu
+libparquet-14.0.1-heaab74a_2_cpu
+libparquet-14.0.1-heaab74a_3_cpu
+libparquet-14.0.1-heaab74a_4_cpu
+libparquet-14.0.1-heaab74a_5_cpu
+libparquet-14.0.1-heaab74a_6_cpu
+libparquet-14.0.1-heaab74a_7_cpu
+libparquet-14.0.1-heaab74a_8_cpu

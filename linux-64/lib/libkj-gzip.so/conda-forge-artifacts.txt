@@ -1,0 +1,13 @@
+capnproto-0.9.1-h812cca2_2
+capnproto-0.9.1-ha19adfc_3
+capnproto-0.9.1-h812cca2_3
+capnproto-0.9.1-ha19adfc_4
+capnproto-0.9.1-h812cca2_4
+capnproto-0.9.1-h780b84a_5
+capnproto-0.10.0-h6239696_0
+capnproto-0.10.1-h6239696_0
+capnproto-0.10.2-h6239696_0
+capnproto-0.10.3-h6239696_0
+capnproto-0.10.4-h3eb15da_0
+capnproto-1.0.1-hfc55251_0
+capnproto-1.0.1.1-hfc55251_0

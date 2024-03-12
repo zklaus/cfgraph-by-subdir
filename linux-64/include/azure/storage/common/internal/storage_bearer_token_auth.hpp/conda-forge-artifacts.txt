@@ -1,0 +1,6 @@
+azure-storage-common-cpp-12.5.0-ha270cfc_0
+azure-storage-common-cpp-12.5.0-h755215e_0
+azure-storage-common-cpp-12.5.0-h755215e_1
+azure-storage-common-cpp-12.5.0-ha270cfc_1
+azure-storage-common-cpp-12.5.0-hb858b4b_2
+azure-storage-common-cpp-12.5.0-he3694d2_2

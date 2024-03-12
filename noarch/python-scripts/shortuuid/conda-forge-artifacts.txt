@@ -1,0 +1,2 @@
+shortuuid-1.0.9-pyha770c72_1
+shortuuid-1.0.10-pyha770c72_0

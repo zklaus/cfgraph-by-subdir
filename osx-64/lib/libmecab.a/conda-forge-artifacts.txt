@@ -1,0 +1,7 @@
+mecab-ko-0.996-h65a07b1_0
+mecab-ko-0.996-h65a07b1_1
+mecab-ko-0.996-h65a07b1_2
+mecab-ko-0.996-h65a07b1_3
+mecab-ko-0.996-h65a07b1_4
+mecab-ko-0.996-h65a07b1_5
+mecab-0.996-h65a07b1_0

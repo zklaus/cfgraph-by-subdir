@@ -1,0 +1,9 @@
+libblas-3.9.0-12_osxarm64_accelerate
+libblas-3.9.0-13_osxarm64_accelerate
+libblas-3.9.0-14_osxarm64_accelerate
+libblas-3.9.0-15_osxarm64_accelerate
+libblas-3.9.0-16_osxarm64_accelerate
+libblas-3.9.0-17_osxarm64_accelerate
+libblas-3.9.0-18_osxarm64_accelerate
+libblas-3.9.0-19_osxarm64_accelerate
+libblas-3.9.0-20_osxarm64_accelerate

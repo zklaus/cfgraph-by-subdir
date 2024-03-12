@@ -1,0 +1,7 @@
+r-settings-0.2.7-r40h785f33e_0
+r-settings-0.2.7-r36h785f33e_0
+r-settings-0.2.7-r41h785f33e_0
+r-settings-0.2.7-r42h785f33e_1
+r-settings-0.2.7-r41h785f33e_1
+r-settings-0.2.7-r43h785f33e_2
+r-settings-0.2.7-r42h785f33e_2

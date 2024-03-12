@@ -1,0 +1,14 @@
+jaeger-1.15.1-h375a9b1_0
+jaeger-1.16.0-h375a9b1_0
+jaeger-1.17.0-h375a9b1_0
+jaeger-query-1.21.0-ha770c72_0
+jaeger-query-1.22.0-ha770c72_0
+jaeger-query-1.22.0-ha770c72_1
+jaeger-query-1.23.0-ha770c72_0
+jaeger-query-1.24.0-ha770c72_0
+jaeger-query-1.25.0-ha770c72_0
+jaeger-query-1.27.0-ha770c72_0
+jaeger-query-1.28.0-ha770c72_0
+jaeger-query-1.29.0-ha770c72_0
+jaeger-query-1.30.0-ha770c72_0
+jaeger-query-1.31.0-ha770c72_0

@@ -1,0 +1,17 @@
+gobject-introspection-1.58.2-py36h64a7abb_1000
+gobject-introspection-1.58.2-py37h64a7abb_1000
+gobject-introspection-1.58.2-py36hd1819d1_1000
+gobject-introspection-1.58.2-py37hd1819d1_1000
+gobject-introspection-1.58.2-py37hd1819d1_1001
+gobject-introspection-1.58.2-py36hd1819d1_1001
+gobject-introspection-1.58.2-py37hd1819d1_1002
+gobject-introspection-1.58.2-py36hd1819d1_1002
+gobject-introspection-1.58.2-py37h93883a9_1002
+gobject-introspection-1.58.2-py38h93883a9_1002
+gobject-introspection-1.58.2-py36h93883a9_1002
+gobject-introspection-1.58.2-py37hed9d58a_1003
+gobject-introspection-1.58.2-py36hb683a13_1003
+gobject-introspection-1.58.2-py38ha7aca13_1003
+gobject-introspection-1.58.2-py36hb683a13_1004
+gobject-introspection-1.58.2-py38ha7aca13_1004
+gobject-introspection-1.58.2-py37hed9d58a_1004

@@ -1,0 +1,5 @@
+xeus-0.21.0-h770b8ee_1
+xeus-0.21.1-h770b8ee_1
+xeus-0.21.1-h770b8ee_2
+xeus-1.0.2-hf09c4ce_0
+xeus-1.0.2-hf09c4ce_1

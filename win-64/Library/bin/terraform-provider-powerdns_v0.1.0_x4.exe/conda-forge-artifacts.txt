@@ -1,0 +1,3 @@
+terraform-provider-powerdns-0.1.0-0
+terraform-provider-powerdns-0.1.0-1
+terraform-provider-powerdns-0.1.0-1001

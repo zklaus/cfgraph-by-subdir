@@ -1,0 +1,13 @@
+pygdma-2.3.3-py311h12fde76_1
+pygdma-2.3.3-py38h734e1b4_1
+pygdma-2.3.3-py39h39690f5_1
+pygdma-2.3.3-py310ha2eaeab_1
+pygdma-2.3.3-py310ha2eaeab_2
+pygdma-2.3.3-py39h39690f5_2
+pygdma-2.3.3-py38h734e1b4_2
+pygdma-2.3.3-py311h12fde76_2
+pygdma-2.3.3-py310ha2eaeab_3
+pygdma-2.3.3-py39h39690f5_3
+pygdma-2.3.3-py311h12fde76_3
+pygdma-2.3.3-py38h734e1b4_3
+pygdma-2.3.3-py312hf71ffd2_3

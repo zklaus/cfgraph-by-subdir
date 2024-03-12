@@ -1,0 +1,14 @@
+r-promises-1.0.1-r351h6115d3f_1000
+r-promises-1.0.1-r35h796a38f_1001
+r-promises-1.0.1-r36h796a38f_1001
+r-promises-1.1.0-r35h796a38f_0
+r-promises-1.1.0-r36h796a38f_0
+r-promises-1.1.0-r36h796a38f_1
+r-promises-1.1.0-r40h796a38f_1
+r-promises-1.1.1-r36h796a38f_0
+r-promises-1.1.1-r40h796a38f_0
+r-promises-1.2.0.1-r36ha856d6a_0
+r-promises-1.2.0.1-r40ha856d6a_0
+r-promises-1.2.0.1-r41ha856d6a_0
+r-promises-1.2.0.1-r41ha856d6a_1
+r-promises-1.2.0.1-r41ha856d6a_2

@@ -1,0 +1,15 @@
+heyoka-0.20.0-h33f03d2_0
+heyoka-0.20.0-h9bbdcdc_0
+heyoka-0.20.0-h85dd169_0
+heyoka-0.20.0-h8478cee_0
+heyoka-0.20.0-haf2808b_0
+heyoka-0.20.1-haf2808b_0
+heyoka-0.20.1-h33f03d2_0
+heyoka-0.20.1-h9bbdcdc_0
+heyoka-0.20.1-h8478cee_0
+heyoka-0.20.1-h85dd169_0
+heyoka-0.20.1-h754e704_1
+heyoka-0.20.1-hb6bb330_1
+heyoka-0.20.1-h746c96c_1
+heyoka-0.20.1-hfde974b_1
+heyoka-0.20.1-hc45cb49_1

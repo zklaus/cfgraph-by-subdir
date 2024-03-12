@@ -1,0 +1,15 @@
+galsim-2.3.3-py37h542498e_1
+galsim-2.3.3-py310hc276b8b_1
+galsim-2.3.3-py38h3bbb814_1
+galsim-2.3.3-py39hd55d796_1
+galsim-2.2.6-py39hd55d796_0
+galsim-2.2.6-py38h3bbb814_0
+galsim-2.2.6-py37h542498e_0
+galsim-2.3.4-py37h542498e_0
+galsim-2.3.4-py38h3bbb814_0
+galsim-2.3.4-py39hd55d796_0
+galsim-2.3.4-py310hc276b8b_0
+galsim-2.3.5-py39hb6aa424_0
+galsim-2.3.5-py38h82ab32e_0
+galsim-2.3.5-py37he27e19c_0
+galsim-2.3.5-py310h9a1c496_0

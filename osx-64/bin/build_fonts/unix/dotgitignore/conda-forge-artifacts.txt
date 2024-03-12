@@ -1,0 +1,8 @@
+pyferret-7.6.3-py38haac90bf_3
+pyferret-7.6.3-py37h7c99453_3
+pyferret-7.6.3-py39h6a4b76a_3
+pyferret-7.6.3-py38haac90bf_4
+pyferret-7.6.3-py37h7c99453_4
+pyferret-7.6.3-py39h6a4b76a_4
+pyferret-7.6.3-py310h476ae13_4
+pyferret-7.6.5-py310h476ae13_4

@@ -1,0 +1,8 @@
+xorg-libxft-2.3.2-0
+xorg-libxft-2.3.2-h55d7831_1
+xorg-libxft-2.3.2-h7c24a56_3
+xorg-libxft-2.3.2-h11b2362_1003
+xorg-libxft-2.3.3-hc264d06_0
+xorg-libxft-2.3.4-h7482a03_0
+xorg-libxft-2.3.4-hf9f1598_1
+xorg-libxft-2.3.8-h7c25f85_0

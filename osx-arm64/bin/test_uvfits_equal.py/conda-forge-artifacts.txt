@@ -1,0 +1,6 @@
+pyuvdata-2.2.7-py310h1b49c16_0
+pyuvdata-2.2.7-py38h6f2b01f_0
+pyuvdata-2.2.7-py39hfb83b0d_0
+pyuvdata-2.2.8-py38h6f2b01f_0
+pyuvdata-2.2.8-py310h1b49c16_0
+pyuvdata-2.2.8-py39hfb83b0d_0

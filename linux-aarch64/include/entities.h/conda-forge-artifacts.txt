@@ -1,0 +1,7 @@
+libgd-2.2.5-h307a58e_1007
+libgd-2.2.5-h341251c_1008
+libgd-2.2.5-he9f40aa_1008
+libgd-2.3.0-he9f40aa_0
+libgd-2.3.0-h5967703_1
+libgd-2.3.0-h07719d9_2
+libgd-2.3.2-h07719d9_0

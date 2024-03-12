@@ -1,0 +1,7 @@
+librealsense-2.53.1-h01010d6_2_cpu
+librealsense-2.53.1-h01010d6_4_cpu
+librealsense-2.53.1-h7625fc0_4_cuda
+librealsense-2.53.1-h01010d6_5_cpu
+librealsense-2.53.1-h7625fc0_5_cuda
+librealsense-2.53.1-h7625fc0_6_cuda
+librealsense-2.53.1-ha079ee7_6_cpu

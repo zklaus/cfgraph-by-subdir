@@ -1,0 +1,4 @@
+hls4ml-0.3.0-pyh9f0ad1d_0
+hls4ml-0.4.0-pyhd8ed1ab_0
+hls4ml-0.5.0-pyhd8ed1ab_0
+hls4ml-0.6.0-pyhd8ed1ab_0

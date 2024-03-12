@@ -1,0 +1,12 @@
+python-3.7.2-hb12ca83_0
+python-3.6.10-he025d50_1009_cpython
+python-3.6.9-he025d50_0_cpython
+python-3.6.11-h9303ea8_2_cpython
+python-3.6.11-h6a66eb0_2_cpython
+python-3.6.11-h6f26aa1_2_cpython
+python-3.6.11-h39d44d4_3_cpython
+python-3.6.12-h39d44d4_0_cpython
+python-3.6.13-h39d44d4_0_cpython
+python-3.6.13-h39d44d4_1_cpython
+python-3.6.13-h39d44d4_2_cpython
+python-3.6.15-h39d44d4_0_cpython

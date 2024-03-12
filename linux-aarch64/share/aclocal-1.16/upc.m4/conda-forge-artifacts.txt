@@ -1,0 +1,7 @@
+automake-1.16.1-pl526_1003
+automake-1.16.2-pl526_0
+automake-1.16.2-pl526_1
+automake-1.16.2-pl5320h8af1aa0_3
+automake-1.16.1-pl5320h8af1aa0_1004
+automake-1.16.2-pl5321h8af1aa0_4
+automake-1.16.5-pl5321h8af1aa0_0

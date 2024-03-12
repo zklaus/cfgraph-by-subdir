@@ -1,0 +1,13 @@
+jupyterlab-0.35.0-py36_1
+jupyterlab-0.35.0-py37_1
+jupyterlab-0.35.1-py36_0
+jupyterlab-0.35.2-py36_0
+jupyterlab-0.35.2-py37_0
+jupyterlab-0.35.3-py37_0
+jupyterlab-0.35.3-py36_0
+jupyterlab-0.35.4-py36_0
+jupyterlab-0.35.4-py37_0
+jupyterlab-0.35.5-py37_0
+jupyterlab-0.35.5-py36_0
+jupyterlab-0.35.6-py37_0
+jupyterlab-0.35.6-py36_0

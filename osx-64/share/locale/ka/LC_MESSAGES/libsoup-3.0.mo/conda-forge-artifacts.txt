@@ -1,0 +1,8 @@
+libsoup-3.2.0-h9cf3a4b_0
+libsoup-3.2.1-h9cf3a4b_0
+libsoup-3.2.2-h9cf3a4b_0
+libsoup-3.4.1-hc48e74a_0
+libsoup-3.4.2-hc48e74a_0
+libsoup-3.4.2-h8ff24ff_1
+libsoup-3.4.3-h8ff24ff_0
+libsoup-3.4.4-hc1875df_0

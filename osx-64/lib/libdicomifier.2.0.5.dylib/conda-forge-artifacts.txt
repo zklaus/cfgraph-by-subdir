@@ -1,0 +1,4 @@
+dicomifier-2.0.5-py38hde0fe14_0
+dicomifier-2.0.5-py39h4be3d27_0
+dicomifier-2.0.5-py37h0dd0564_0
+dicomifier-2.0.5-py36ha5a3f67_0

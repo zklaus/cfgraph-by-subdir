@@ -1,0 +1,17 @@
+r-lattice-0.20_44-r36h96a179c_0
+r-lattice-0.20_44-r40h96a179c_0
+r-lattice-0.20_44-r41h96a179c_0
+r-lattice-0.20_45-r40h96a179c_0
+r-lattice-0.20_45-r41h96a179c_0
+r-lattice-0.20_45-r41h8e445f0_1
+r-lattice-0.20_45-r42h8e445f0_1
+r-lattice-0.21_8-r42h4fed366_0
+r-lattice-0.21_8-r41h4fed366_0
+r-lattice-0.21_8-r42h25e906a_1
+r-lattice-0.21_8-r43h25e906a_1
+r-lattice-0.21_9-r43h25e906a_0
+r-lattice-0.21_9-r42h25e906a_0
+r-lattice-0.22_4-r42h25e906a_0
+r-lattice-0.22_4-r43h25e906a_0
+r-lattice-0.22_5-r42h25e906a_0
+r-lattice-0.22_5-r43h25e906a_0

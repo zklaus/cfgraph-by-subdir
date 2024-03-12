@@ -1,0 +1,4 @@
+libtensorflow_cc-1.13.1-h93a7341_6
+libtensorflow_cc-1.13.1-hf9e2511_7
+libtensorflow_cc-1.13.1-hf9e2511_8
+libtensorflow_cc-1.13.2-hf9e2511_0

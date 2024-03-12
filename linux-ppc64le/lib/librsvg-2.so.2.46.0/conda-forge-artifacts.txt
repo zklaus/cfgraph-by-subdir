@@ -1,0 +1,7 @@
+librsvg-2.46.0-hc37e689_0
+librsvg-2.46.1-hc37e689_0
+librsvg-2.46.2-h02078de_1
+librsvg-2.46.3-h02078de_0
+librsvg-2.46.4-h02078de_0
+librsvg-2.46.4-h02078de_1
+librsvg-2.46.4-h02078de_2

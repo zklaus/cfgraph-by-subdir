@@ -1,0 +1,9 @@
+apollinaire-0.13-pyhd8ed1ab_0
+apollinaire-0.14-pyhd8ed1ab_0
+apollinaire-0.14-pyhd8ed1ab_1
+apollinaire-0.15-pyhd8ed1ab_0
+apollinaire-0.16-pyhd8ed1ab_0
+apollinaire-0.17-pyhd8ed1ab_0
+apollinaire-1.0-pyhd8ed1ab_0
+apollinaire-1.1-pyhd8ed1ab_0
+apollinaire-1.2-pyhd8ed1ab_0

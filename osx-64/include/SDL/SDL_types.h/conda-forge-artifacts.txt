@@ -1,0 +1,7 @@
+sdl-1.2.15-hb1e8313_1
+sdl-1.2.15-he49afe7_1
+sdl-1.2.52-h96cf925_1
+sdl-1.2.56-hf0c8a7f_0
+sdl-1.2.60-hf0c8a7f_0
+sdl-1.2.64-hce1cd6f_0
+sdl-1.2.68-hce1cd6f_0

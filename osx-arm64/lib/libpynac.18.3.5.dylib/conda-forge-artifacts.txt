@@ -1,0 +1,4 @@
+pynac-0.7.27-py38h2fa565d_2
+pynac-0.7.27-py39h05b1f55_2
+pynac-0.7.27-py38h2fa565d_3
+pynac-0.7.27-py39h05b1f55_3

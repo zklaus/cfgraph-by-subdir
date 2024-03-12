@@ -1,0 +1,12 @@
+libpython-2.0-py37_0
+libpython-2.0-py37hc8dfbb8_0
+libpython-2.0-py37hc8dfbb8_1
+libpython-2.0-py37h03978a9_1
+libpython-2.0-py37h4c0cbd9_1
+libpython-2.1-py37h03978a9_0
+libpython-2.1-py37h4c0cbd9_0
+libpython-2.1-py37h03978a9_1
+libpython-2.1-py37h4c0cbd9_1
+libpython-2.2-py37h4c0cbd9_0
+libpython-2.2-py37h03978a9_0
+libpython-2.2-py37h03978a9_1

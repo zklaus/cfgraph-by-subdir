@@ -1,0 +1,2 @@
+ipydatagrid-1.1.9-pyhd8ed1ab_0
+ipydatagrid-1.1.10-pyhd8ed1ab_0

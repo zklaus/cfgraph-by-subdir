@@ -1,0 +1,11 @@
+sentencepiece-0.1.96-py310hca70e4f_0
+sentencepiece-0.1.96-py39hb300cb6_0
+sentencepiece-0.1.96-py37h7ed3beb_0
+sentencepiece-0.1.96-py37hbc413c5_0
+sentencepiece-0.1.96-py38he922c84_0
+sentencepiece-0.1.96-py38hd5caf9b_1
+sentencepiece-0.1.96-py39hcdbe1fc_1
+sentencepiece-0.1.96-py310hb15e014_1
+sentencepiece-0.1.96-py39h7080ec0_1
+sentencepiece-0.1.96-py37ha999738_1
+sentencepiece-0.1.96-py38h3380a35_1

@@ -1,0 +1,5 @@
+easybuild-easyconfigs-3.5.0-py27_0
+easybuild-easyconfigs-3.5.3-py27_0
+easybuild-easyconfigs-3.6.0-py27_0
+easybuild-easyconfigs-3.6.0-py27_1000
+easybuild-easyconfigs-3.8.1-py27_0

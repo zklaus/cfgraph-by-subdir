@@ -1,0 +1,12 @@
+xraylib-4.1.0-py37hd531e76_0
+xraylib-4.1.0-py36hd1cc370_0
+xraylib-4.1.0-py38h78cbbcf_0
+xraylib-4.1.0-py39he93ae30_0
+xraylib-4.1.1-py38h78cbbcf_0
+xraylib-4.1.1-py39he93ae30_0
+xraylib-4.1.1-py37hd531e76_0
+xraylib-4.1.1-py36hd1cc370_0
+xraylib-4.1.1-py39he93ae30_1
+xraylib-4.1.1-py38h8c53c09_1
+xraylib-4.1.1-py310h73494b1_1
+xraylib-4.1.1-py37h61ba444_1

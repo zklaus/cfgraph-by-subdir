@@ -1,0 +1,5 @@
+stackvana-lsst_distrib-0.2021.7-py38h35f4083_0
+stackvana-lsst_distrib-0.2021.8-py38h35f4083_0
+stackvana-lsst_distrib-0.2021.9-py38h35f4083_0
+stackvana-lsst_distrib-0.2021.10-py38h35f4083_0
+stackvana-lsst_distrib-0.2021.11-py38h35f4083_0

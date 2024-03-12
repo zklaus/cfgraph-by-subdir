@@ -1,0 +1,13 @@
+r-extrafont-0.17-r351_1000
+r-extrafont-0.17-r35_1001
+r-extrafont-0.17-r36_1001
+r-extrafont-0.17-r40_1002
+r-extrafont-0.17-r36_1002
+r-extrafont-0.17-r41ha770c72_1002
+r-extrafont-0.17-r40ha770c72_1002
+r-extrafont-0.18-r40ha770c72_0
+r-extrafont-0.18-r41ha770c72_0
+r-extrafont-0.18-r41ha770c72_1
+r-extrafont-0.18-r42ha770c72_1
+r-extrafont-0.19-r42ha770c72_1
+r-extrafont-0.19-r43ha770c72_1

@@ -1,0 +1,1 @@
+terraform-provider-azuread-2.27.0-h520bb56_1

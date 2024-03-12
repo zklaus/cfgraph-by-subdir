@@ -1,0 +1,5 @@
+libxfixes-devel-cos7-aarch64-5.0.3-h1341992_0
+libxfixes-devel-cos7-aarch64-5.0.3-hdf0574f_102
+libxfixes-devel-cos7-aarch64-5.0.3-ha826a6f_103
+libxfixes-devel-cos7-aarch64-5.0.3-h9d98e8f_104
+libxfixes-devel-cos7-aarch64-5.0.3-h9b0a68f_105

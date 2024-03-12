@@ -1,0 +1,11 @@
+r-rtiff-1.4.6-r36h70bf3fe_0
+r-rtiff-1.4.6-r35h70bf3fe_0
+r-rtiff-1.4.6-r35h0dfc796_1
+r-rtiff-1.4.6-r36h0dfc796_1
+r-rtiff-1.4.7-r35h0dfc796_0
+r-rtiff-1.4.7-r36h0dfc796_0
+r-rtiff-1.4.7-r40h0dfc796_1
+r-rtiff-1.4.7-r36h0dfc796_1
+r-rtiff-1.4.8-r36hf0dd791_0
+r-rtiff-1.4.8-r40hf0dd791_0
+r-rtiff-1.4.8-r40h9f84e1d_0

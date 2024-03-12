@@ -1,0 +1,7 @@
+r-fbasics-3042.89-r3.3.2_0
+r-fbasics-3042.89-r3.4.1_0
+r-fbasics-3042.89-r341h470a237_1
+r-fbasics-3042.89-r351h1de35cc_1001
+r-fbasics-3042.89-r351h470a237_1
+r-fbasics-3042.89-r35h01d97ff_1002
+r-fbasics-3042.89.1-r35h0b31af3_0

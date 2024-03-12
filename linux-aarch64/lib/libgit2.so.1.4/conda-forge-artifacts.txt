@@ -1,0 +1,6 @@
+libgit2-1.4.2-ha9a0767_0
+libgit2-1.4.2-he9ce915_0
+libgit2-1.4.3-he9ce915_0
+libgit2-1.4.3-ha9a0767_0
+libgit2-1.4.4-he9ce915_0
+libgit2-1.4.4-ha9a0767_0

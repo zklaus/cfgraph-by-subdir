@@ -1,0 +1,2 @@
+xnat-0.3.27-pyhd8ed1ab_0
+xnat-0.3.28-pyhd8ed1ab_0

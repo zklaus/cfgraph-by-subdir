@@ -1,0 +1,8 @@
+r-purrr-1.0.0-r42h4fed366_0
+r-purrr-1.0.0-r41h4fed366_0
+r-purrr-1.0.1-r41h4fed366_0
+r-purrr-1.0.1-r42h4fed366_0
+r-purrr-1.0.1-r43h25e906a_1
+r-purrr-1.0.1-r42h25e906a_1
+r-purrr-1.0.2-r43h25e906a_0
+r-purrr-1.0.2-r42h25e906a_0

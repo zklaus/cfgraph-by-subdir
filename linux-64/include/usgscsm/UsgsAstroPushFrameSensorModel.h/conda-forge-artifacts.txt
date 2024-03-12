@@ -1,0 +1,5 @@
+usgscsm-1.6.0-h924138e_0
+usgscsm-1.6.0-h924138e_1
+usgscsm-1.6.0-h00ab1b0_1
+usgscsm-1.7.0-h00ab1b0_0
+usgscsm-1.7.0-h00ab1b0_1

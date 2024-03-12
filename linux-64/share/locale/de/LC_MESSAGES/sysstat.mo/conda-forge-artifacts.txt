@@ -1,0 +1,8 @@
+sysstat-12.5.3-h7f98852_0
+sysstat-12.5.4-h7f98852_0
+sysstat-12.5.5-h7f98852_0
+sysstat-12.5.6-h166bdaf_0
+sysstat-12.6.0-h166bdaf_0
+sysstat-12.7.1-h166bdaf_0
+sysstat-12.7.2-h0b41bf4_0
+sysstat-12.7.4-hd590300_0

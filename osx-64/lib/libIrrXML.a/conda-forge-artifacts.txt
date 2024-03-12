@@ -1,0 +1,3 @@
+assimp-4.1.0-h69fbfa3_0
+assimp-4.1.0-h31d8819_1
+assimp-4.1.0-h753910b_2

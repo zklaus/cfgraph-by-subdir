@@ -1,0 +1,14 @@
+emacs-26.2-h745135b_0
+emacs-26.3-h7c3e208_0
+emacs-26.3-h78eb01f_1
+emacs-26.3-he319e29_2
+emacs-26.3-he319e29_3
+emacs-26.3-h3439afb_4
+emacs-27.1-h484fd76_0
+emacs-27.1-hc38a512_1
+emacs-27.1-h6114054_2
+emacs-27.1-h92611b3_3
+emacs-27.1-h173f31c_4
+emacs-27.2-h173f31c_0
+emacs-27.2-h716f2e7_1
+emacs-27.2-hd32cc88_3

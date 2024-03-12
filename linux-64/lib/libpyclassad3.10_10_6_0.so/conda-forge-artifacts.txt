@@ -1,0 +1,2 @@
+python-htcondor-10.6.0-py310h96428ee_0
+python-htcondor-10.6.0-py310h96428ee_1

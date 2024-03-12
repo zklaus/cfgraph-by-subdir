@@ -1,0 +1,5 @@
+file-5.37-h8b12597_0
+libmagic-5.36-h516909a_2
+libmagic-5.39-hed695b0_0
+libmagic-5.39-hd8af866_0
+libmagic-5.39-hf9034f9_1

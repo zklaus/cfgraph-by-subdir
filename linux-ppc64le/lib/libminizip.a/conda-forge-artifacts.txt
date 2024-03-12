@@ -1,0 +1,3 @@
+minizip-1.2-hff1ad0c_0
+minizip-static-1.2-hff1ad0c_1
+minizip-static-1.2-hff1ad0c_2

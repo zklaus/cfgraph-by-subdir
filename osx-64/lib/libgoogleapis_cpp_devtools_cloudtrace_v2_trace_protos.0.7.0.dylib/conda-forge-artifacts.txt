@@ -1,0 +1,2 @@
+googleapis-cpp-0.7.0-ha3a5167_0
+googleapis-cpp-0.7.0-h9f40b51_1

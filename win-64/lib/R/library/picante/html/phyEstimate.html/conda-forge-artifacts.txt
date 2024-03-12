@@ -1,0 +1,10 @@
+r-picante-1.8-r35hda5aaf8_0
+r-picante-1.8-r35hda5aaf8_1
+r-picante-1.8-r36hda5aaf8_1
+r-picante-1.8.1-r36hda5aaf8_0
+r-picante-1.8.1-r35hda5aaf8_0
+r-picante-1.8.1-r40hda5aaf8_1
+r-picante-1.8.1-r36hda5aaf8_1
+r-picante-1.8.2-r36hda5aaf8_0
+r-picante-1.8.2-r40hda5aaf8_0
+r-picante-1.8.2-r40h6d2157b_0

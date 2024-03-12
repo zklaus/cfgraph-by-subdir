@@ -1,0 +1,12 @@
+heyoka-0.1.0-ha736f5e_0
+heyoka-0.1.0-ha736f5e_1
+heyoka-0.1.0-hb75e775_1
+heyoka-0.2.0-hb75e775_0
+heyoka-0.3.0-h024d38d_0
+heyoka-0.3.0-h024d38d_1
+heyoka-0.4.0-h024d38d_0
+heyoka-0.5.0-h3e9ad7b_0
+heyoka-0.6.0-h3e9ad7b_0
+heyoka-0.6.1-h3e9ad7b_0
+heyoka-0.7.0-h3e9ad7b_0
+heyoka-0.8.0-h3e9ad7b_0

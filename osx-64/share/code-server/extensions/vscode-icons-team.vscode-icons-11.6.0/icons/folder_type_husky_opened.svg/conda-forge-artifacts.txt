@@ -1,0 +1,3 @@
+vscode-icons-11.6.0-h694c41f_0
+vscode-icons-11.6.0-hf542fc5_1
+vscode-icons-11.6.0-h7b5233a_1

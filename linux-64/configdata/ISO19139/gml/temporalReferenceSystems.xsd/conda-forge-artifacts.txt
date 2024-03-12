@@ -1,0 +1,5 @@
+libbaglib-2.0.1-h47a58f4_0
+libbaglib-2.0.1-h47a58f4_1
+libbaglib-2.0.2-h3bb4432_2
+libbaglib-2.0.2-h3bb4432_0
+libbaglib-2.0.2-h3bb4432_1

@@ -1,0 +1,13 @@
+r-rsample-0.0.2-r351h6115d3f_1001
+r-rsample-0.0.3-r351h6115d3f_1000
+r-rsample-0.0.4-r351h6115d3f_1000
+r-rsample-0.0.4-r36h6115d3f_1001
+r-rsample-0.0.4-r35h6115d3f_1001
+r-rsample-0.0.5-r35h6115d3f_0
+r-rsample-0.0.5-r36h6115d3f_0
+r-rsample-0.0.5-r36h6115d3f_1
+r-rsample-0.0.5-r40h6115d3f_1
+r-rsample-0.0.7-r40h6115d3f_0
+r-rsample-0.0.7-r36h6115d3f_0
+r-rsample-0.0.8-r36h6115d3f_0
+r-rsample-0.0.8-r40h6115d3f_0

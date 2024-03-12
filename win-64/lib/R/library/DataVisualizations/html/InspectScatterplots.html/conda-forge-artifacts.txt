@@ -1,0 +1,3 @@
+r-datavisualizations-1.2.2-r40h01f9f87_0
+r-datavisualizations-1.2.2-r36h01f9f87_0
+r-datavisualizations-1.2.3-r40h01f9f87_0

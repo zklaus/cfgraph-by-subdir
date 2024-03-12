@@ -1,0 +1,7 @@
+gcc-4.8.5-8
+libgcc-4.8.4-1
+libgcc-4.8.5-1
+libgfortran-3.0.0-0
+libgfortran-3.0.0-1
+libgfortran-3.0.0-1001
+libgfortran-3.0.1-0

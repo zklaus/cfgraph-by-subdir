@@ -1,0 +1,3 @@
+soci-mysql-4.0.1-h926bf3e_0
+soci-mysql-4.0.1-h940c156_1
+soci-mysql-4.0.1-h940c156_0

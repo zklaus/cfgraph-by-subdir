@@ -1,0 +1,16 @@
+r-rcpparmadillo-0.12.2.0.0-r42hf5e6a41_0
+r-rcpparmadillo-0.12.2.0.0-r41hf5e6a41_0
+r-rcpparmadillo-0.12.4.0.0-r41he9b8800_0
+r-rcpparmadillo-0.12.4.0.0-r42he9b8800_0
+r-rcpparmadillo-0.12.4.0.0-r42he9b8800_1
+r-rcpparmadillo-0.12.4.0.0-r43he9b8800_1
+r-rcpparmadillo-0.12.4.0.0-r42he9b8800_2
+r-rcpparmadillo-0.12.4.0.0-r43he9b8800_2
+r-rcpparmadillo-0.12.4.1.0-r43he9b8800_0
+r-rcpparmadillo-0.12.4.1.0-r42he9b8800_0
+r-rcpparmadillo-0.12.6.1.0-r43he9b8800_0
+r-rcpparmadillo-0.12.6.1.0-r42he9b8800_0
+r-rcpparmadillo-0.12.6.3.0-r42he9b8800_0
+r-rcpparmadillo-0.12.6.3.0-r43he9b8800_0
+r-rcpparmadillo-0.12.6.4.0-r42he9b8800_0
+r-rcpparmadillo-0.12.6.4.0-r43he9b8800_0

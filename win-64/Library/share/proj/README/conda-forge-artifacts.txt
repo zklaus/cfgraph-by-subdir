@@ -1,0 +1,15 @@
+proj4-6.0.0-ha7a8c7b_0
+proj4-6.0.0-hc2d0af5_1
+proj4-6.1.0-hc2d0af5_0
+proj4-6.1.0-hc2d0af5_1
+proj4-6.1.0-hc2d0af5_2
+proj4-6.1.1-hc2d0af5_0
+proj4-6.1.1-hc2d0af5_1
+proj-6.1.1-ha7a8c7b_0
+proj-6.1.1-ha7a8c7b_1
+proj-6.2.0-ha7a8c7b_0
+proj-6.2.0-ha7a8c7b_1
+proj-6.2.1-ha7a8c7b_0
+proj-6.3.0-ha7a8c7b_0
+proj-6.3.1-ha7a8c7b_0
+proj-6.3.1-ha7a8c7b_1

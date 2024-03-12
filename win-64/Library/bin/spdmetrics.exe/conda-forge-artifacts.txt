@@ -1,0 +1,8 @@
+spdlib-3.3.0-py35_vc14_0
+spdlib-3.3.0-py36_vc14_0
+spdlib-3.3.0-h91a69ac_2
+spdlib-3.3.0-h533e74f_3
+spdlib-3.3.0-hc095d5a_4
+spdlib-3.3.0-haf8c82e_5
+spdlib-3.3.0-hbde6463_6
+spdlib-3.3.0-he8255cc_7

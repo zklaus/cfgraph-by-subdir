@@ -1,0 +1,10 @@
+barvinok-0.41.5-h16cae1b_0
+barvinok-0.41.5-h16cae1b_1
+barvinok-0.41.5-h16cae1b_2
+barvinok-0.41.5-h8198f7b_3
+barvinok-0.41.5-h8198f7b_4
+barvinok-0.41.6-h8198f7b_0
+barvinok-0.41.6-hf67a70b_1
+barvinok-0.41.6-hc4d3a9d_2
+barvinok-0.41.7-hc4d3a9d_0
+barvinok-0.41.7-hc199cb8_1

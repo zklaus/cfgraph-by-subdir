@@ -1,0 +1,10 @@
+hdfeos2-2.19.1-5
+hdfeos2-2.19.1-6
+hdfeos2-2.19.1-7
+hdfeos2-2.19.1-8
+hdfeos2-2.20-h7a90ae3_0
+hdfeos2-2.20-h207910d_1000
+hdfeos2-2.20-h2ea4a1d_1001
+hdfeos2-2.20-h3afa45b_1002
+hdfeos2-2.20-h7122b0a_1003
+hdfeos2-2.20-heb3f50c_1004

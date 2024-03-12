@@ -1,0 +1,14 @@
+rdkit-2020.09.1-py36he562ba4_0
+rdkit-2020.09.1-py38h5cf6483_0
+rdkit-2020.09.1-py39h0c0fbea_0
+rdkit-2020.09.1-py37h4fb03c1_0
+rdkit-2020.09.1-py38h8902b8a_0
+rdkit-2020.09.1-py37h5bc622f_0
+rdkit-2020.09.1-py39h5ac957e_0
+rdkit-2020.09.1-py36hfd3d5cd_0
+rdkit-2020.09.2-py37hfeeb155_0
+rdkit-2020.09.2-py38hb16f795_0
+rdkit-2020.09.2-py37h382bf19_0
+rdkit-2020.09.2-py39h50414c5_0
+rdkit-2020.09.2-py36hfc0108c_0
+rdkit-2020.09.2-py36hb24308b_0

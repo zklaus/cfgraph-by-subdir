@@ -1,0 +1,11 @@
+stir-4.1.0-py37hd2f621a_2
+stir-4.1.0-py39h47373e2_2
+stir-4.1.0-py36hbcc4b3e_2
+stir-4.1.0-py38h8289551_2
+stir-4.1.1-py39h47373e2_2
+stir-4.1.1-py38h8289551_2
+stir-4.1.1-py36hbcc4b3e_2
+stir-4.1.1-py37hd2f621a_2
+stir-4.1.1-py38h4a1efea_3
+stir-4.1.1-py39h47373e2_3
+stir-4.1.1-py37hb3b4854_3

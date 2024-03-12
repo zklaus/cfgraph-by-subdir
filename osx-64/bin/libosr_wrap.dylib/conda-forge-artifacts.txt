@@ -1,0 +1,2 @@
+gdal-csharp-2.0.0a1-hea1efda_0
+gdal-csharp-2.0.0-hea1efda_1

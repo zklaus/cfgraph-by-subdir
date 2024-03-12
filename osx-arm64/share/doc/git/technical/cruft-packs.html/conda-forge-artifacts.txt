@@ -1,0 +1,10 @@
+git-2.37.0-pl5321h3ff7a5b_0
+git-2.37.0-pl5321h824b0f5_0
+git-2.37.1-pl5321h3ff7a5b_0
+git-2.37.1-pl5321h824b0f5_0
+git-2.37.2-pl5321h3ff7a5b_0
+git-2.37.2-pl5321h824b0f5_0
+git-2.37.2-pl5321hd906029_1
+git-2.37.2-pl5321he503fb4_1
+git-2.37.3-pl5321haee782f_0
+git-2.37.3-pl5321h38ffee6_0

@@ -1,0 +1,7 @@
+utfcpp-3.2-ha770c72_0
+utfcpp-3.2.1-ha770c72_0
+utfcpp-3.2.2-ha770c72_0
+utfcpp-3.2.3-ha770c72_0
+utfcpp-3.2.4-ha770c72_0
+utfcpp-3.2.5-ha770c72_0
+utfcpp-4.0.1-ha770c72_0

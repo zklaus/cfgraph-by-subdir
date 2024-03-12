@@ -1,0 +1,6 @@
+gpgme-1.15.0-h58526e2_0
+gpgme-1.15.1-h9c3ff4c_0
+gpgme-1.16.0-h9c3ff4c_0
+gpgme-1.17.0-h9c3ff4c_0
+gpgme-1.17.1-h27087fc_0
+gpgme-1.18.0-h27087fc_0

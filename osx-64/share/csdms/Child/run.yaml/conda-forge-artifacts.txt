@@ -1,0 +1,12 @@
+pymt_child-0.1.1-py36h470a237_0
+pymt_child-0.1.1-py27h470a237_0
+pymt_child-0.1.2-py37h9888f84_0
+pymt_child-0.1.2-py36h9888f84_1
+pymt_child-0.1.2-py37h9888f84_1
+pymt_child-0.1.2-py38hbf1eeb5_1
+pymt_child-0.1.2-py37hbf1eeb5_1
+pymt_child-0.1.2-py36hbf1eeb5_1
+pymt_child-0.1.2-py38hd74bcbf_2
+pymt_child-0.1.2-py36h63ed162_2
+pymt_child-0.1.2-py37h236b0a6_2
+pymt_child-0.1.2-py36h049e832_2

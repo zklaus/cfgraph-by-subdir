@@ -1,0 +1,6 @@
+onednn-2.6-tbb_h41cb297_0
+onednn-2.6-omp_h6e9da63_0
+onednn-2.6.1-tbb_h8abb446_0
+onednn-2.6.1-omp_h397e059_0
+onednn-2.6.2-tbb_h52abbc6_0
+onednn-2.6.2-omp_h1e002c2_0

@@ -1,0 +1,6 @@
+spdlog-1.9.0-h4bd325d_0
+spdlog-1.9.0-h4bd325d_1
+spdlog-1.9.1-h4bd325d_0
+spdlog-1.9.2-h4bd325d_0
+spdlog-1.9.2-h4bd325d_1
+spdlog-1.10.0-h924138e_0

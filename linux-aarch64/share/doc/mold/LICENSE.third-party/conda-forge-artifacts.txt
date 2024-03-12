@@ -1,0 +1,8 @@
+mold-2.1.0-h87a9c1b_1
+mold-2.1.0-h2d6341c_2
+mold-2.2.0-h2d6341c_0
+mold-2.3.0-h2d6341c_0
+mold-2.3.1-h2d6341c_0
+mold-2.3.2-h2d6341c_0
+mold-2.3.3-h2d6341c_0
+mold-2.4.0-h2d6341c_0

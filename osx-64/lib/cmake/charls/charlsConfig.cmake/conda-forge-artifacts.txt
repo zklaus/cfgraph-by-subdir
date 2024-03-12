@@ -1,0 +1,8 @@
+charls-2.2.0-h046ec9c_0
+charls-2.3.1-he49afe7_0
+charls-2.3.2-he49afe7_0
+charls-2.3.3-he49afe7_0
+charls-2.3.4-he49afe7_0
+charls-2.4.0-hf0c8a7f_0
+charls-2.4.1-hf0c8a7f_0
+charls-2.4.2-he965462_0

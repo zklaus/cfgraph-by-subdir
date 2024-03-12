@@ -1,0 +1,17 @@
+r-clickr-0.5.27-r40hc72bb7e_0
+r-clickr-0.5.27-r36hc72bb7e_0
+r-clickr-0.6.64-r36hc72bb7e_0
+r-clickr-0.6.64-r40hc72bb7e_0
+r-clickr-0.7.35-r36hc72bb7e_0
+r-clickr-0.7.35-r40hc72bb7e_0
+r-clickr-0.7.35-r41hc72bb7e_0
+r-clickr-0.8.0-r41hc72bb7e_0
+r-clickr-0.8.0-r40hc72bb7e_0
+r-clickr-0.8.3-r40hc72bb7e_0
+r-clickr-0.8.3-r41hc72bb7e_0
+r-clickr-0.8.3-r42hc72bb7e_1
+r-clickr-0.8.3-r41hc72bb7e_1
+r-clickr-0.8.3-r43hc72bb7e_2
+r-clickr-0.8.3-r42hc72bb7e_2
+r-clickr-0.9.39-r43hc72bb7e_0
+r-clickr-0.9.39-r42hc72bb7e_0

@@ -1,0 +1,12 @@
+libsdformat-9.8.0-h7097950_0
+libsdformat-9.8.0-ha40c5f4_0
+libsdformat-9.8.0-h7097950_1
+libsdformat-9.8.0-ha40c5f4_1
+libsdformat-9.8.0-hec4de5b_2
+libsdformat-9.8.0-h562c54e_2
+libsdformat-9.8.0-h144c72b_3
+libsdformat-9.8.0-he47e917_3
+libsdformat-9.8.0-he47e917_4
+libsdformat-9.8.0-h144c72b_4
+libsdformat-9.8.0-h5cda543_5
+libsdformat-9.8.0-h9e631ee_5

@@ -1,0 +1,9 @@
+latexindent.pl-3.13.2-pl5321hd8ed1ab_0
+latexindent.pl-3.13.3-pl5321hd8ed1ab_0
+latexindent.pl-3.13.4-pl5321hd8ed1ab_0
+latexindent.pl-3.13.5-pl5321hd8ed1ab_0
+latexindent.pl-3.14-pl5321hd8ed1ab_0
+latexindent.pl-3.14-pl5321hd8ed1ab_1
+latexindent.pl-3.14-pl5321hd8ed1ab_2
+latexindent.pl-3.15-pl5321hd8ed1ab_0
+latexindent.pl-3.16-pl5321hd8ed1ab_0

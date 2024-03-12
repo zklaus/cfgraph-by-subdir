@@ -1,0 +1,8 @@
+mfem-4.4-mpi_openmpi_h9b2c6f5_0
+mfem-4.4-mpi_mpich_hb5478f2_0
+mfem-4.5-mpi_openmpi_h9b2c6f5_0
+mfem-4.5-mpi_mpich_hb5478f2_0
+mfem-4.5.2-mpi_openmpi_ha9dd923_0
+mfem-4.5.2-mpi_mpich_hb29f357_0
+mfem-4.6-mpi_openmpi_hfc41249_0
+mfem-4.6-mpi_mpich_he2e2f2b_0

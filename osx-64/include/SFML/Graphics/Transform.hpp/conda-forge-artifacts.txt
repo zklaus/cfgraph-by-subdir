@@ -1,0 +1,4 @@
+sfml-2.5.1-hc05df86_0
+sfml-2.5.1-hc05df86_1
+sfml-2.5.1-hc05df86_2
+sfml-2.5.1-hc05df86_3

@@ -1,0 +1,7 @@
+libgit2-0.28.0-hbd8068c_0
+libgit2-0.28.1-hbd8068c_0
+libgit2-0.28.1-heeda6b9_1
+libgit2-0.28.2-h241e3f0_0
+libgit2-0.28.3-h241e3f0_0
+libgit2-0.28.4-h241e3f0_0
+libgit2-0.28.4-h241e3f0_1

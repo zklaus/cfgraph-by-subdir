@@ -1,0 +1,7 @@
+globus-compute-endpoint-2.2.3-pyh707e725_0
+globus-compute-endpoint-2.2.4-pyh707e725_0
+globus-compute-endpoint-2.3.0-pyh707e725_0
+globus-compute-endpoint-2.3.1-pyh707e725_0
+globus-compute-endpoint-2.3.2-pyh707e725_0
+globus-compute-endpoint-2.7.0-pyh707e725_0
+globus-compute-endpoint-2.7.0-pyh707e725_1

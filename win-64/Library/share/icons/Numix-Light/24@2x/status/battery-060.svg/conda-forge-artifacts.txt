@@ -1,0 +1,6 @@
+numix-icon-theme-21.10.31-h57928b3_0
+numix-icon-theme-22.11.17-h57928b3_0
+numix-icon-theme-23.04.26-h57928b3_0
+numix-icon-theme-23.11.11-h57928b3_0
+numix-icon-theme-23.11.20-h57928b3_0
+numix-icon-theme-23.12.02-h57928b3_0

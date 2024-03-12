@@ -1,0 +1,10 @@
+xtensor-io-0.12.2-h6293a0b_0
+xtensor-io-0.12.3-h6293a0b_0
+xtensor-io-0.12.4-hd62202e_0
+xtensor-io-0.12.4-hd62202e_1
+xtensor-io-0.12.5-hd62202e_1
+xtensor-io-0.12.6-hd62202e_0
+xtensor-io-0.12.7-hd62202e_0
+xtensor-io-0.12.8-hd62202e_0
+xtensor-io-0.12.9-hd62202e_0
+xtensor-io-0.13.0-hd62202e_0

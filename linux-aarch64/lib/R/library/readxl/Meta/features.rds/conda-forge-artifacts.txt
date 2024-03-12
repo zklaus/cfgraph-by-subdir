@@ -1,0 +1,17 @@
+r-readxl-1.3.1-r36hde08347_3
+r-readxl-1.3.1-r40hde08347_4
+r-readxl-1.3.1-r36hde08347_4
+r-readxl-1.3.1-r41h14fd0b6_4
+r-readxl-1.3.1-r40h14fd0b6_4
+r-readxl-1.4.0-r41h7ef9e52_0
+r-readxl-1.4.0-r40h7ef9e52_0
+r-readxl-1.4.1-r40h7ef9e52_0
+r-readxl-1.4.1-r41h7ef9e52_0
+r-readxl-1.4.1-r41h75afb0f_1
+r-readxl-1.4.1-r42h75afb0f_1
+r-readxl-1.4.2-r42h1b05734_0
+r-readxl-1.4.2-r41h1b05734_0
+r-readxl-1.4.2-r43h53325e7_1
+r-readxl-1.4.2-r42h53325e7_1
+r-readxl-1.4.3-r42h53325e7_0
+r-readxl-1.4.3-r43h53325e7_0

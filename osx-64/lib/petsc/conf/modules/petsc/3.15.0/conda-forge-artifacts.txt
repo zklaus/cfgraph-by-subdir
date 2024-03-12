@@ -1,0 +1,12 @@
+petsc-3.15.0-h9481b7c_0
+petsc-3.15.0-h1d42512_0
+petsc-3.15.0-h2b95791_0
+petsc-3.15.0-h3a9b5a5_0
+petsc-3.15.0-complex_hd05e9ee_1
+petsc-3.15.0-real_h8b81fd4_101
+petsc-3.15.0-complex_h32967a8_1
+petsc-3.15.0-complex_h6e201d1_1
+petsc-3.15.0-real_h293c17e_101
+petsc-3.15.0-real_h1a0f81c_101
+petsc-3.15.0-complex_hbd1f510_1
+petsc-3.15.0-real_h4fccafd_101

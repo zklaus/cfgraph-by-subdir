@@ -1,0 +1,8 @@
+sagemath-db-conway-polynomials-0.5.0-py37hecc5488_0
+sagemath-db-conway-polynomials-0.5.0-py36hecc5488_0
+sagemath-db-conway-polynomials-0.5.0-py38hecc5488_0
+sagemath-db-conway-polynomials-0.5.0-py38hbd4565d_1
+sagemath-db-conway-polynomials-0.5.0-py36hf4fbedf_1
+sagemath-db-conway-polynomials-0.5.0-py37h36332b3_1
+sagemath-db-conway-polynomials-0.5.0-py39h89951fa_1
+sagemath-db-conway-polynomials-0.5.0-h1084571_1

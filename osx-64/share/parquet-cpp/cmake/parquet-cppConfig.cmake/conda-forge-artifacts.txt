@@ -1,0 +1,7 @@
+parquet-cpp-1.4.0-0
+parquet-cpp-1.4.0.pre-0
+parquet-cpp-1.4.0.pre-1
+parquet-cpp-1.4.0.pre-2
+parquet-cpp-1.4.0-h83d4a3d_1
+parquet-cpp-1.4.0-h83d4a3d_2
+parquet-cpp-1.5.0.pre-h83d4a3d_0

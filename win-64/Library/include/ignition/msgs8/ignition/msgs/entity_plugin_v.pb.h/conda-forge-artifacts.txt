@@ -1,0 +1,11 @@
+libignition-msgs8-8.5.0-hc835698_0
+libignition-msgs8-8.6.0-hc835698_0
+libignition-msgs8-8.6.0-hc6328b4_1
+libignition-msgs8-8.7.0-hc6328b4_0
+libignition-msgs8-8.7.0-hc6328b4_1
+libignition-msgs8-8.7.0-h8e483d1_1
+libignition-msgs8-8.7.0-h401ef6a_2
+libignition-msgs8-8.7.0-hddf29c0_2
+libignition-msgs8-8.7.0-h9f30bc0_3
+libignition-msgs8-8.7.0-h90b4331_4
+libignition-msgs8-8.7.0-hf2928cc_5

@@ -1,0 +1,8 @@
+r-jsonify-1.2.1-r36he54295a_0
+r-jsonify-1.2.1-r40he54295a_0
+r-jsonify-1.2.1-r40h6203a36_0
+r-jsonify-1.2.1-r42h1118531_1
+r-jsonify-1.2.1-r41h1118531_1
+r-jsonify-1.2.2-r42h1118531_0
+r-jsonify-1.2.2-r42hc04f041_1
+r-jsonify-1.2.2-r43hc04f041_1

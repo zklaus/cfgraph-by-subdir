@@ -1,0 +1,8 @@
+r-mapdeck-0.3.2-r35h796a38f_0
+r-mapdeck-0.3.2-r36h796a38f_0
+r-mapdeck-0.3.2-r36h796a38f_1
+r-mapdeck-0.3.2-r35h796a38f_1
+r-mapdeck-0.3.2-r36h796a38f_2
+r-mapdeck-0.3.2-r40h796a38f_2
+r-mapdeck-0.3.3-r40h796a38f_0
+r-mapdeck-0.3.3-r36h796a38f_0

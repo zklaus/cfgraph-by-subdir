@@ -1,0 +1,10 @@
+wcslib-7.7-h6195f97_0
+wcslib-7.7-h6195f97_1
+wcslib-7.11-h6195f97_0
+wcslib-7.12-h6195f97_0
+wcslib-7.12-h320f2ce_1
+wcslib-8.1-hd12c08d_0
+wcslib-8.1-hf8f6d82_1
+wcslib-8.2.1-hf8f6d82_0
+wcslib-8.2.1-h6cde4e1_1
+wcslib-8.2.2-h6cde4e1_0

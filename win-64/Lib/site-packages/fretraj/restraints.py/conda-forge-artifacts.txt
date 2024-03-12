@@ -1,0 +1,12 @@
+fretraj-0.2.4-py38hbd9d945_0
+fretraj-0.2.4-py39h2e07f2f_0
+fretraj-0.2.4-py37h8c56517_0
+fretraj-0.2.4-py36he95197e_0
+fretraj-0.2.6-py37h8c56517_0
+fretraj-0.2.6-py36he95197e_0
+fretraj-0.2.6-py39h2e07f2f_0
+fretraj-0.2.6-py38hbd9d945_0
+fretraj-0.2.10-py310hcf51aa5_0
+fretraj-0.2.10-py311h554ce73_0
+fretraj-0.2.10-py38h6819d5e_0
+fretraj-0.2.10-py39h0f24028_0

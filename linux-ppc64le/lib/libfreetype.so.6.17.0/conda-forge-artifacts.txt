@@ -1,0 +1,3 @@
+freetype-2.10.0-hd9140be_0
+freetype-2.10.0-hd9140be_1
+freetype-2.10.0-h33812df_2

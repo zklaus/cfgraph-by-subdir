@@ -1,0 +1,16 @@
+openldap-2.6.0-h795bed4_0
+openldap-2.6.0-hf6af360_0
+openldap-2.6.1-h795bed4_0
+openldap-2.6.1-hf6af360_0
+openldap-2.6.2-hf9051d8_0
+openldap-2.6.2-hfe44825_0
+openldap-2.6.3-hfe44825_0
+openldap-2.6.3-hf9051d8_0
+openldap-2.6.3-hf9051d8_1
+openldap-2.6.3-hfe44825_1
+openldap-2.6.3-h87e4085_2
+openldap-2.6.3-h6f41032_2
+openldap-2.6.4-h6f41032_0
+openldap-2.6.5-hfb6fb02_0
+openldap-2.6.5-he4c3d81_1
+openldap-2.6.6-he4c3d81_0

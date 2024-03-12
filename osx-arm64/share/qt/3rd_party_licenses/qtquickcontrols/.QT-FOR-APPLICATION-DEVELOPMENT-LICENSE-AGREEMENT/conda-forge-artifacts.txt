@@ -1,0 +1,6 @@
+qt-main-5.15.2-hfc65906_0
+qt-main-5.15.2-h76a31b5_1
+qt-main-5.15.2-h76a31b5_2
+qt-main-5.15.3-haf604a7_0
+qt-main-5.15.3-haf604a7_1
+qt-main-5.15.3-haf604a7_2

@@ -1,0 +1,11 @@
+mumps-seq-5.1.2-h6eb0c47_1002
+mumps-seq-5.1.2-h6eb0c47_1003
+mumps-seq-5.1.2-h6eb0c47_1005
+mumps-seq-5.1.2-h6eb0c47_1006
+mumps-seq-5.1.2-hcfd3117_1007
+mumps-seq-5.2.1-hcfd3117_0
+mumps-seq-5.2.1-hcfd3117_1
+mumps-seq-5.2.1-hcfd3117_2
+mumps-seq-5.2.1-hcfd3117_3
+mumps-seq-5.2.1-hcfd3117_4
+mumps-seq-5.2.1-hcfd3117_5

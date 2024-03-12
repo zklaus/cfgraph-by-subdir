@@ -1,0 +1,14 @@
+genesis2-2.3-mpi_openmpi_h20e00fb_1000
+genesis2-2.3-mpi_mpich_h3f9e1be_1000
+genesis2-2.3-mpi_mpich_hc19caf5_1000
+genesis2-2.3-mpi_openmpi_h6dd7431_1000
+genesis2-2.4-mpi_openmpi_h36312d9_0
+genesis2-2.4-mpi_mpich_h8b92f0a_0
+genesis2-2.5-mpi_openmpi_hc738338_0
+genesis2-2.5-mpi_mpich_h8b92f0a_0
+genesis2-2.5-mpi_mpich_h8b92f0a_1
+genesis2-2.5-mpi_openmpi_h36312d9_1
+genesis2-2.6-mpi_mpich_h8b92f0a_0
+genesis2-2.6-mpi_openmpi_h36312d9_0
+genesis2-2.6-mpi_openmpi_h36312d9_1
+genesis2-2.6-mpi_mpich_h8b92f0a_1

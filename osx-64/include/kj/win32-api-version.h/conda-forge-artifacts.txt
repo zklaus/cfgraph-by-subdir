@@ -1,0 +1,6 @@
+capnproto-0.10.1-h40906a8_0
+capnproto-0.10.2-h40906a8_0
+capnproto-0.10.3-hae21831_0
+capnproto-0.10.4-hae21831_0
+capnproto-1.0.1-h268317e_0
+capnproto-1.0.1.1-h440efdd_0

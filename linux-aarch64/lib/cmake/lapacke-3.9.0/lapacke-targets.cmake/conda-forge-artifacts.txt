@@ -1,0 +1,10 @@
+liblapacke-3.9.0-0_h86c2bf4_netlib
+liblapacke-3.9.0-0_h6e990d7_netlib
+liblapacke-3.9.0-1_h86c2bf4_netlib
+liblapacke-3.9.0-1_h6e990d7_netlib
+liblapacke-3.9.0-2_h86c2bf4_netlib
+liblapacke-3.9.0-2_h6e990d7_netlib
+liblapacke-3.9.0-3_h6783c1e_netlib
+liblapacke-3.9.0-3_h1715489_netlib
+liblapacke-3.9.0-4_h6783c1e_netlib
+liblapacke-3.9.0-5_h6783c1e_netlib

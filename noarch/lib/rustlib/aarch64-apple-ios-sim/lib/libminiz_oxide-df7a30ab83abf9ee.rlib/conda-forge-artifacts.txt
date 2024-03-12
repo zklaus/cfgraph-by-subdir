@@ -1,0 +1,3 @@
+rust-std-aarch64-apple-ios-sim-1.72.0-unix_0
+rust-std-aarch64-apple-ios-sim-1.72.0-unix_1
+rust-std-aarch64-apple-ios-sim-1.72.0-unix_2

@@ -1,0 +1,6 @@
+mpfr-4.0.2-he80fd80_0
+mpfr-4.0.2-he80fd80_1
+mpfr-4.1.0-h719063d_0
+mpfr-4.1.0-h719063d_1
+mpfr-4.2.0-h96f194b_0
+mpfr-4.2.1-ha2d0fc4_0

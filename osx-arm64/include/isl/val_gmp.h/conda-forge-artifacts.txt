@@ -1,0 +1,8 @@
+isl-0.22.1-hf679c18_1
+barvinok-0.41.5-h8a2ebcc_2
+barvinok-0.41.5-h8deb6ad_3
+barvinok-0.41.5-h8deb6ad_4
+barvinok-0.41.6-h8deb6ad_0
+barvinok-0.41.6-hdf8e673_1
+isl-0.25-gmp_hbc57355_1
+isl-0.26-gmp_h4814ce6_1

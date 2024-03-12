@@ -1,0 +1,2 @@
+libbipedal-locomotion-framework-0.15.0-hd062f84_4
+libbipedal-locomotion-framework-0.16.0-hd062f84_0

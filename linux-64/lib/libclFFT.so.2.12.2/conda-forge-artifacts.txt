@@ -1,0 +1,5 @@
+clfft-2.12.2-0
+clfft-2.12.2-h83d4a3d_1
+clfft-2.12.2-h6e2fe03_2
+clfft-2.12.2-h78f2749_3
+clfft-2.12.2-h59595ed_4

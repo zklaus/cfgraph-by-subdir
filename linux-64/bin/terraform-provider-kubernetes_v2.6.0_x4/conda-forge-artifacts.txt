@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-2.6.0-h520bb56_0

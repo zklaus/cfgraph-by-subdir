@@ -1,0 +1,5 @@
+libignition-physics5-5.2.0-h27087fc_0
+libignition-physics5-5.2.0-hc13f0b9_1
+libignition-physics5-5.2.0-h5e73547_2
+libignition-physics5-5.2.0-h9df2822_3
+libignition-physics5-5.2.0-h43e1b03_4

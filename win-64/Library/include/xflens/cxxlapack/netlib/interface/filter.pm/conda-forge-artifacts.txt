@@ -1,0 +1,7 @@
+xtensor-blas-0.10.0-0
+xtensor-blas-0.10.1-0
+xtensor-blas-0.11.0-0
+xtensor-blas-0.11.0-h1ad3211_2
+xtensor-blas-0.11.1-h1ad3211_0
+xtensor-blas-0.12.0-h1ad3211_0
+xtensor-blas-0.12.0-h1ad3211_1

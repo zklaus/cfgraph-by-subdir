@@ -1,0 +1,11 @@
+libpython-2.0-py39hde42818_1
+libpython-2.0-py39hcbf5309_1
+libpython-2.1-py39hcbf5309_0
+libpython-2.1-py39hcbf5309_1
+libpython-2.2-py39hcbf5309_0
+libpython-2.2-py39hcbf5309_1
+libpython-2.2-py39h0d475fb_1
+libpython-2.2-py39h0d475fb_2
+libpython-2.2-py39hcbf5309_2
+libpython-2.2-py39h0d475fb_3
+libpython-2.2-py39hcbf5309_3

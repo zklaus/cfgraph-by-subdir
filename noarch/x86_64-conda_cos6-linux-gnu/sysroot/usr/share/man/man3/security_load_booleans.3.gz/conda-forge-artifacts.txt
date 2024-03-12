@@ -1,0 +1,5 @@
+libselinux-devel-cos6-x86_64-2.0.94-h1795305_101
+libselinux-devel-cos6-x86_64-2.0.94-hdf0574f_102
+libselinux-devel-cos6-x86_64-2.0.94-ha826a6f_103
+libselinux-devel-cos6-x86_64-2.0.94-h9d98e8f_104
+libselinux-devel-cos6-x86_64-2.0.94-h9b0a68f_105

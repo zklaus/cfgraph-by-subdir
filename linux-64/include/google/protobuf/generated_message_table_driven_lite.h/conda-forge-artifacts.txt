@@ -1,0 +1,6 @@
+libprotobuf-3.19.0-h780b84a_0
+libprotobuf-3.19.1-h780b84a_0
+libprotobuf-3.19.2-h780b84a_0
+libprotobuf-3.19.3-h780b84a_0
+libprotobuf-3.19.4-h780b84a_0
+libprotobuf-3.19.6-h3eb15da_0

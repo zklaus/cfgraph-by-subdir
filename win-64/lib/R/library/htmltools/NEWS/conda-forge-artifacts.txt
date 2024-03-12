@@ -1,0 +1,8 @@
+r-htmltools-0.3.6-r35hca4a3dc_1003
+r-htmltools-0.3.6-r36hca4a3dc_1003
+r-htmltools-0.4.0-r35h796a38f_0
+r-htmltools-0.4.0-r36h796a38f_0
+r-htmltools-0.4.0-r40h796a38f_1
+r-htmltools-0.4.0-r36h796a38f_1
+r-htmltools-0.5.0-r36h796a38f_0
+r-htmltools-0.5.0-r40h796a38f_0

@@ -1,0 +1,12 @@
+r-lidr-1.5.0-r36h796a38f_2
+r-lidr-1.5.0-r35h796a38f_2
+r-lidr-2.2.1-r35h796a38f_0
+r-lidr-2.2.1-r36h796a38f_0
+r-lidr-2.2.2-r36h796a38f_0
+r-lidr-2.2.2-r35h796a38f_0
+r-lidr-2.2.3-r35h796a38f_0
+r-lidr-2.2.3-r36h796a38f_0
+r-lidr-2.2.3-r40h796a38f_1
+r-lidr-2.2.3-r36h796a38f_1
+r-lidr-2.2.5-r36h796a38f_0
+r-lidr-2.2.5-r40h796a38f_0

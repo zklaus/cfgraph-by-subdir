@@ -1,0 +1,15 @@
+r-microseq-1.3-r35h796a38f_0
+r-microseq-1.3-r36h796a38f_0
+r-microseq-2.0-r36h796a38f_0
+r-microseq-2.0-r35h796a38f_0
+r-microseq-2.0-r40h796a38f_1
+r-microseq-2.0-r36h796a38f_1
+r-microseq-2.1-r36h796a38f_0
+r-microseq-2.1-r40h796a38f_0
+r-microseq-2.1.1-r40h796a38f_0
+r-microseq-2.1.1-r36h796a38f_0
+r-microseq-2.1.2-r40h796a38f_0
+r-microseq-2.1.2-r36h796a38f_0
+r-microseq-2.1.4-r40ha856d6a_0
+r-microseq-2.1.4-r36ha856d6a_0
+r-microseq-2.1.5-r40ha856d6a_0

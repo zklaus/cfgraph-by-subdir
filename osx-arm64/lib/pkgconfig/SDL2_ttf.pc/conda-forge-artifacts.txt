@@ -1,0 +1,6 @@
+sdl2_ttf-2.0.15-h2eab03a_2
+sdl2_ttf-2.20.1-h2eab03a_0
+sdl2_ttf-2.20.1-h21f6021_1
+sdl2_ttf-2.20.2-h21f6021_0
+sdl2_ttf-2.20.2-h5374486_1
+sdl2_ttf-2.20.2-h703130d_2

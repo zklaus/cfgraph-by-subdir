@@ -1,0 +1,8 @@
+loos-4.0.1-py38hfd1d303_0
+loos-4.0.1-py310h4997d53_0
+loos-4.0.2-py310h4997d53_0
+loos-4.0.2-py39h4074901_0
+loos-4.0.2-py38hfd1d303_0
+loos-4.0.3-py39h42f60ea_0
+loos-4.0.3-py310hf246eea_0
+loos-4.0.3-py38hd9b66cb_0

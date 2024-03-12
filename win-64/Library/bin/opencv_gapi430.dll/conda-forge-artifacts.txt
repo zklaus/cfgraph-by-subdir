@@ -1,0 +1,9 @@
+libopencv-4.3.0-py37_0
+libopencv-4.3.0-py38_0
+libopencv-4.3.0-py36_0
+libopencv-4.3.0-py36_1
+libopencv-4.3.0-py38_1
+libopencv-4.3.0-py37_1
+libopencv-4.3.0-py36_2
+libopencv-4.3.0-py38_2
+libopencv-4.3.0-py37_2

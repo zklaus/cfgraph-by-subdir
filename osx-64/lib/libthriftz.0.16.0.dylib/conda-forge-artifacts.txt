@@ -1,0 +1,5 @@
+libthrift-0.16.0-ha6dc762_0
+libthrift-0.16.0-h9702cd6_0
+libthrift-0.16.0-h9702cd6_1
+libthrift-0.16.0-h16802d8_2
+libthrift-0.16.0-h08c06f4_2

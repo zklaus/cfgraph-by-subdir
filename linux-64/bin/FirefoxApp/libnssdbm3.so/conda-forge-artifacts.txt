@@ -1,0 +1,16 @@
+firefox-68.0.2-0
+firefox-68.0.2-he1b5a44_1
+firefox-69.0.3-he1b5a44_1
+firefox-69.0.3-he1b5a44_0
+firefox-70.0.1-he1b5a44_0
+firefox-68.4.1esr-he1b5a44_0
+firefox-68.4.2esr-he1b5a44_0
+firefox-72.0.2-he1b5a44_0
+firefox-68.5.0esr-he1b5a44_0
+firefox-68.6.0esr-he1b5a44_0
+firefox-68.6.1esr-he1b5a44_0
+firefox-68.7.0esr-he1b5a44_0
+firefox-68.8.0esr-he1b5a44_0
+firefox-68.9.0esr-he1b5a44_0
+firefox-68.11.0esr-he1b5a44_0
+firefox-68.12.0esr-he1b5a44_0

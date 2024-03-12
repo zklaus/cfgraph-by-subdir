@@ -1,0 +1,2 @@
+aws-session-manager-plugin-1.2.463.0-h75b854d_1
+aws-session-manager-plugin-1.2.497.0-h75b854d_0

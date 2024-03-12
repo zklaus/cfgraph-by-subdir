@@ -1,0 +1,13 @@
+antlr-4.8_1-0
+antlr-4.9_1-h694c41f_0
+antlr-4.9.2_1-h694c41f_0
+antlr-4.9.3_1-h694c41f_0
+antlr-4.8_1-h694c41f_0
+antlr-4.8_1-h694c41f_1
+antlr-4.10_1-h694c41f_0
+antlr-4.11.1-h694c41f_0
+antlr-4.9.3-h694c41f_1
+antlr-4.11.1-h694c41f_1
+antlr-4.12.0-h694c41f_0
+antlr-4.13.0-h694c41f_0
+antlr-4.13.1-h694c41f_0

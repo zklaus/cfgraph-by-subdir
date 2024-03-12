@@ -1,0 +1,16 @@
+r-spatstat.model-3.0_2-r42h815d134_0
+r-spatstat.model-3.0_2-r41h815d134_0
+r-spatstat.model-3.1_2-r42h815d134_0
+r-spatstat.model-3.1_2-r41h815d134_0
+r-spatstat.model-3.2_1-r42h815d134_0
+r-spatstat.model-3.2_1-r41h815d134_0
+r-spatstat.model-3.2_3-r42h6dc245f_0
+r-spatstat.model-3.2_3-r41h6dc245f_0
+r-spatstat.model-3.2_4-r42h6dc245f_0
+r-spatstat.model-3.2_4-r41h6dc245f_0
+r-spatstat.model-3.2_4-r42h6dc245f_1
+r-spatstat.model-3.2_4-r43h6dc245f_1
+r-spatstat.model-3.2_6-r42h6dc245f_0
+r-spatstat.model-3.2_6-r43h6dc245f_0
+r-spatstat.model-3.2_8-r42hb2c329c_0
+r-spatstat.model-3.2_8-r43hb2c329c_0

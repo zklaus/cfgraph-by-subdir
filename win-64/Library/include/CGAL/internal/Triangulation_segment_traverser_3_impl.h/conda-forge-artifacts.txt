@@ -1,0 +1,8 @@
+cgal-cpp-5.2-h3c2f9b9_0
+cgal-cpp-5.2-hd192e32_0
+cgal-cpp-5.2.1-h3c2f9b9_0
+cgal-cpp-5.2.2-h3c2f9b9_0
+cgal-cpp-5.2.2-h3c2f9b9_1
+cgal-cpp-5.2.3-h3c2f9b9_0
+cgal-cpp-5.3-h3c2f9b9_0
+cgal-cpp-5.3.1-h3c2f9b9_0

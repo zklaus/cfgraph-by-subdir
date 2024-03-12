@@ -1,0 +1,11 @@
+ampl-mp-3.1.0-0
+ampl-mp-3.1.0-h26a2512_0
+ampl-mp-3.1.0-h26a2512_1
+ampl-mp-3.1.0-h12d9a10_1001
+ampl-mp-3.1.0-ha90c164_1002
+ampl-mp-3.1.0-hfcebdee_1002
+ampl-mp-3.1.0-ha90c164_1003
+ampl-mp-3.1.0-hfcebdee_1003
+ampl-mp-3.1.0-h1423387_1004
+ampl-mp-3.1.0-h131c384_1004
+ampl-mp-3.1.0-h2beb688_1005

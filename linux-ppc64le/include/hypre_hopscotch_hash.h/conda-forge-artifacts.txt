@@ -1,0 +1,8 @@
+hypre-2.18.2-h641d4e1_1
+hypre-2.18.2-hf188397_1
+hypre-2.21.0-h9f0c85d_0
+hypre-2.21.0-h124ab47_0
+hypre-2.21.0-mpi_mpich_h124ab47_1
+hypre-2.21.0-mpi_openmpi_h9f0c85d_1
+hypre-2.21.0-mpi_openmpi_h9f0c85d_2
+hypre-2.21.0-mpi_mpich_h124ab47_2

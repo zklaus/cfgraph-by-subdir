@@ -1,0 +1,15 @@
+r-psychotools-0.6_1-r40h28b5c78_0
+r-psychotools-0.6_1-r36h28b5c78_0
+r-psychotools-0.6_1-r41h28b5c78_0
+r-psychotools-0.7_0-r41h28b5c78_0
+r-psychotools-0.7_0-r40h28b5c78_0
+r-psychotools-0.7_1-r41h67d6963_0
+r-psychotools-0.7_1-r40h67d6963_0
+r-psychotools-0.7_2-r40hef1f586_0
+r-psychotools-0.7_2-r41hef1f586_0
+r-psychotools-0.7_2-r41h815d134_1
+r-psychotools-0.7_2-r42h815d134_1
+r-psychotools-0.7_3-r41h6dc245f_0
+r-psychotools-0.7_3-r42h6dc245f_0
+r-psychotools-0.7_3-r43h6dc245f_1
+r-psychotools-0.7_3-r42h6dc245f_1

@@ -1,0 +1,1 @@
+arrow-cpp-9.0.0-py39h0526b3f_11_cpu

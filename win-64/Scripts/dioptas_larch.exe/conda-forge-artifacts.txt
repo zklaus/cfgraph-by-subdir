@@ -1,0 +1,6 @@
+xraylarch-0.9.50-py37h03978a9_0
+xraylarch-0.9.50-py39hcbf5309_0
+xraylarch-0.9.50-py38haa244fe_0
+xraylarch-0.9.50-py39hcbf5309_1
+xraylarch-0.9.50-py37h03978a9_1
+xraylarch-0.9.50-py38haa244fe_1

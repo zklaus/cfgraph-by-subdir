@@ -1,0 +1,12 @@
+mi-fieldcalc-0.1.6-py39hc6c6951_2
+mi-fieldcalc-0.1.6-py38h08d21df_2
+mi-fieldcalc-0.1.6-py37hb6fd525_2
+mi-fieldcalc-0.1.6-py39h66d321d_2
+mi-fieldcalc-0.1.6-py38had079c2_2
+mi-fieldcalc-0.1.6-py310h7c63755_2
+mi-fieldcalc-0.1.6-py38h2c0f9b2_3
+mi-fieldcalc-0.1.6-py39h27246c4_3
+mi-fieldcalc-0.1.6-py310h7c63755_3
+mi-fieldcalc-0.1.6-py311h0dffbcb_3
+mi-fieldcalc-0.1.6-py39h1f700b9_3
+mi-fieldcalc-0.1.6-py38h0596fd7_3

@@ -1,0 +1,5 @@
+mgis-2.2-py310hd7f71e6_0
+mgis-2.2-py311h11b3ecb_0
+mgis-2.2-py39h32d7290_0
+mgis-2.2-py312h4884da7_0
+mgis-2.2-py38h3aab87e_0

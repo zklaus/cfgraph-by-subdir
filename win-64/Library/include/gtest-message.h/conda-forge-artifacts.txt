@@ -1,0 +1,4 @@
+gtest-1.7.0-0
+gtest-1.7.0-vc10_1
+gtest-1.7.0-vc14_1
+gtest-1.7.0-vc9_1

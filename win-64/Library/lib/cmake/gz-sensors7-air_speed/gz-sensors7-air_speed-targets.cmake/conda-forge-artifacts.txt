@@ -1,0 +1,17 @@
+libgz-sensors7-7.1.0-hd320b1d_0
+libgz-sensors7-7.1.0-hd02b47e_0
+libgz-sensors7-7.1.0-hd02b47e_1
+libgz-sensors7-7.1.0-hd320b1d_1
+libgz-sensors7-7.1.0-he481e4d_1
+libgz-sensors7-7.1.0-h889fad7_1
+libgz-sensors7-7.1.0-h2987d40_1
+libgz-sensors7-7.1.0-h343178a_1
+libgz-sensors7-7.2.0-h343178a_0
+libgz-sensors7-7.2.0-h2987d40_0
+libgz-sensors7-7.2.0-h2987d40_1
+libgz-sensors7-7.2.0-h9cde883_1
+libgz-sensors7-7.2.0-h6d00087_2
+libgz-sensors7-7.2.0-h6d00087_3
+libgz-sensors7-7.3.0-h6d00087_0
+libgz-sensors7-7.3.0-h8b1bbba_1
+libgz-sensors7-7.3.0-hd4c9904_2

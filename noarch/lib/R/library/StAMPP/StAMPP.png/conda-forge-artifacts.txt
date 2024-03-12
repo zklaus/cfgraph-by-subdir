@@ -1,0 +1,9 @@
+r-stampp-1.6.2-r36hc72bb7e_0
+r-stampp-1.6.2-r40hc72bb7e_0
+r-stampp-1.6.2-r41hc72bb7e_0
+r-stampp-1.6.3-r40hc72bb7e_0
+r-stampp-1.6.3-r41hc72bb7e_0
+r-stampp-1.6.3-r41hc72bb7e_1
+r-stampp-1.6.3-r42hc72bb7e_1
+r-stampp-1.6.3-r43hc72bb7e_2
+r-stampp-1.6.3-r42hc72bb7e_2

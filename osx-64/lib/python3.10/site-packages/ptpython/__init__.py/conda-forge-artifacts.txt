@@ -1,0 +1,2 @@
+ptpython-3.0.20-py310h2ec42d9_1
+ptpython-3.0.20-py310h2ec42d9_2

@@ -1,0 +1,12 @@
+r-haplo.stats-1.7.7-r3.3.2_0
+r-haplo.stats-1.7.7-r3.4.1_0
+r-haplo.stats-1.7.9-r3.3.2_0
+r-haplo.stats-1.7.9-r3.4.1_0
+r-haplo.stats-1.7.9-r341h470a237_1
+r-haplo.stats-1.7.9-r341h470a237_2
+r-haplo.stats-1.7.9-r351h470a237_2
+r-haplo.stats-1.7.9-r351h1de35cc_1002
+r-haplo.stats-1.7.9-r35h01d97ff_1003
+r-haplo.stats-1.7.9-r36h01d97ff_1003
+r-haplo.stats-1.7.9-r36h0b31af3_1004
+r-haplo.stats-1.7.9-r40h0b31af3_1004

@@ -1,0 +1,4 @@
+xeus-python-0.6.12-py37ha1b3eb9_1
+xeus-python-0.6.12-py38ha1b3eb9_1
+xeus-python-0.6.12-py36ha1b3eb9_1
+xeus-python-0.6.12-py27ha1b3eb9_1

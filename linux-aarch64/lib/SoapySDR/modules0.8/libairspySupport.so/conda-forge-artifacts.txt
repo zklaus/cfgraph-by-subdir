@@ -1,0 +1,1 @@
+soapysdr-module-airspy-0.2.0-he88f3d8_0

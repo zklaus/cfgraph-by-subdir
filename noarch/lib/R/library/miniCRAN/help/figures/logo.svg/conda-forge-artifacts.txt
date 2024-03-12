@@ -1,0 +1,10 @@
+r-minicran-0.2.14-r40h6115d3f_0
+r-minicran-0.2.14-r36h6115d3f_0
+r-minicran-0.2.14-r40hc72bb7e_0
+r-minicran-0.2.14-r41hc72bb7e_0
+r-minicran-0.2.16-r40hc72bb7e_0
+r-minicran-0.2.16-r41hc72bb7e_0
+r-minicran-0.2.16-r42hc72bb7e_1
+r-minicran-0.2.16-r41hc72bb7e_1
+r-minicran-0.2.16-r43hc72bb7e_2
+r-minicran-0.2.16-r42hc72bb7e_2

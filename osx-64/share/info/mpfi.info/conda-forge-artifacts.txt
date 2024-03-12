@@ -1,0 +1,10 @@
+mpfi-1.5.1-0
+mpfi-1.5.1-1
+mpfi-1.5.3-0
+mpfi-1.5.3-hb705a9b_1
+mpfi-1.5.4-hb705a9b_1
+mpfi-1.5.4-h3aece09_1001
+mpfi-1.5.10-hb705a9b_0
+mpfi-1.6.1-h1744cca_0
+mpfi-1.5.4-h4160ff4_1001
+mpfi-1.5.4-h52b28e3_1001

@@ -1,0 +1,4 @@
+casacore-2.3.0-py27_0
+casacore-2.3.0-py27_1
+casacore-2.3.0-py27_2
+casacore-2.3.1a1-py27_1

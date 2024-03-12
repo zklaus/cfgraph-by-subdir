@@ -1,0 +1,4 @@
+wxpython-4.2.1-py38hb9b80a8_0
+wxpython-4.2.1-py310h6c5a8eb_0
+wxpython-4.2.1-py311h5c9e8ae_0
+wxpython-4.2.1-py39he9b0109_0

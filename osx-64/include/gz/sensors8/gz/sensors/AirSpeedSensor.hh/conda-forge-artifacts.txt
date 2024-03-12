@@ -1,0 +1,3 @@
+libgz-sensors8-8.0.0-h5cfacbf_0
+libgz-sensors8-8.0.0-ha59acc3_1
+libgz-sensors8-8.0.0-hd4f9dcf_2

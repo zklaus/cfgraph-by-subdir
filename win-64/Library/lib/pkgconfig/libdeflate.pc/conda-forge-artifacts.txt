@@ -1,0 +1,4 @@
+libdeflate-1.16-hcfcfb64_0
+libdeflate-1.17-hcfcfb64_0
+libdeflate-1.18-hcfcfb64_0
+libdeflate-1.19-hcfcfb64_0

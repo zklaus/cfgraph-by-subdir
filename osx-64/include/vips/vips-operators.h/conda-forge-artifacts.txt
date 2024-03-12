@@ -1,0 +1,16 @@
+libvips-8.8.1-h49a317c_0
+libvips-8.8.1-h92602bc_1
+libvips-8.8.1-h92602bc_3
+libvips-8.8.3-h92602bc_0
+libvips-8.8.3-h92602bc_3
+libvips-8.8.3-h68cb3ab_1
+libvips-8.10.0-h0eed958_0
+libvips-8.10.2-h65da699_0
+libvips-8.10.4-h65da699_0
+libvips-8.10.4-h58ac444_1
+libvips-8.10.5-h58ac444_0
+libvips-8.10.5-h67f1ba8_1
+libvips-8.10.5-h43abe97_2
+libvips-8.10.6-h43abe97_0
+libvips-8.10.6-hcaca8af_1
+libvips-8.10.6-h2c3d857_2

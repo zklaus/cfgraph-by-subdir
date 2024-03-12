@@ -1,0 +1,16 @@
+muspinsim-2.1.0-py310h9eb30cd_1
+muspinsim-2.1.0-py39h50b3379_1
+muspinsim-2.1.0-py38hd90f873_1
+muspinsim-2.1.0-py311h82fb1ea_1
+muspinsim-2.2.0-py38hd90f873_0
+muspinsim-2.2.0-py39h50b3379_0
+muspinsim-2.2.0-py310h9eb30cd_0
+muspinsim-2.2.0-py311h82fb1ea_0
+muspinsim-2.2.1-py38hd90f873_0
+muspinsim-2.2.1-py311h82fb1ea_0
+muspinsim-2.2.1-py39h50b3379_0
+muspinsim-2.2.1-py310h9eb30cd_0
+muspinsim-2.3.0-py310h9eb30cd_0
+muspinsim-2.3.0-py38h1025479_0
+muspinsim-2.3.0-py311h82fb1ea_0
+muspinsim-2.3.0-py39ha4a4b76_0

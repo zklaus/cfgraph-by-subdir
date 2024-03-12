@@ -1,0 +1,15 @@
+warpx-23.10-py38hccc9767_0
+pyamrex-23.10-py38h53bb729_4
+pyamrex-23.10-py38h53bb729_5
+pyamrex-23.10-mpi_mpich_py38h6fa8d4d_6
+pyamrex-23.10-mpi_openmpi_py38h1d3d3cb_6
+pyamrex-23.10-nompi_py38haa08e9d_106
+pyamrex-23.10-mpi_openmpi_py38h1d3d3cb_7
+pyamrex-23.10-nompi_py38haa08e9d_107
+pyamrex-23.10-mpi_mpich_py38h6fa8d4d_7
+pyamrex-23.10-nompi_py38habaed74_108
+pyamrex-23.10-mpi_openmpi_py38h449bc01_8
+pyamrex-23.10-mpi_mpich_py38h97eef39_8
+pyamrex-23.11-mpi_openmpi_py38h449bc01_0
+pyamrex-23.11-mpi_mpich_py38h97eef39_0
+pyamrex-23.11-nompi_py38habaed74_100

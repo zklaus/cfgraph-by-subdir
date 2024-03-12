@@ -1,0 +1,14 @@
+libthrift-0.15.0-hab56fdc_0
+libthrift-0.15.0-h1c56d0c_1
+libthrift-0.15.0-hab56fdc_1
+libthrift-0.16.0-ha6dc762_0
+libthrift-0.16.0-h9702cd6_0
+libthrift-0.16.0-h9702cd6_1
+libthrift-0.16.0-h16802d8_2
+libthrift-0.16.0-h08c06f4_2
+libthrift-0.18.0-h16802d8_0
+libthrift-0.18.1-h16802d8_0
+libthrift-0.18.1-h88b220a_1
+libthrift-0.18.1-h88b220a_2
+libthrift-0.19.0-h88b220a_0
+libthrift-0.19.0-h064b379_1

@@ -1,0 +1,2 @@
+quetz-frontend-0.1.1-hc9558a2_0
+quetz-frontend-0.1.2-hc9558a2_0

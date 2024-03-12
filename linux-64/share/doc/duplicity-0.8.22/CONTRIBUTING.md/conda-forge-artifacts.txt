@@ -1,0 +1,8 @@
+duplicity-0.8.22-py38h0a891b7_0
+duplicity-0.8.22-py39hb9d737c_0
+duplicity-0.8.22-py37h540881e_0
+duplicity-0.8.22-py38h0a891b7_1
+duplicity-0.8.22-py39hb9d737c_1
+duplicity-0.8.22-py37h540881e_1
+duplicity-0.8.22-py38h50598f1_1
+duplicity-0.8.22-py39h4d8b378_1

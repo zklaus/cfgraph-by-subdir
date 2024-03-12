@@ -1,0 +1,9 @@
+spectrafit-0.14.0-py38h50d1736_0
+spectrafit-0.14.0-py39h6e9494a_0
+spectrafit-0.14.0-py310h2ec42d9_0
+spectrafit-0.15.0-py310h2ec42d9_0
+spectrafit-0.15.0-py39h6e9494a_0
+spectrafit-0.15.0-py38h50d1736_0
+spectrafit-0.15.0-py38h50d1736_1
+spectrafit-0.15.0-py39h6e9494a_1
+spectrafit-0.15.0-py310h2ec42d9_1

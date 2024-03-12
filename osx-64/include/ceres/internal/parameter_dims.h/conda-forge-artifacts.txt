@@ -1,0 +1,10 @@
+ceres-solver-2.0.0-h1eee535_0
+ceres-solver-2.0.0-hc38de9a_1
+ceres-solver-2.0.0-h2b9a910_2
+ceres-solver-2.0.0-h1e62fb1_3
+ceres-solver-2.0.0-h1e62fb1_4
+ceres-solver-2.1.0-h6320520_0
+ceres-solver-2.1.0-h636452b_1
+ceres-solver-2.1.0-h16f8bff_2
+ceres-solver-2.2.0-h5cbf65c_0
+ceres-solver-2.2.0-h5cbf65c_1

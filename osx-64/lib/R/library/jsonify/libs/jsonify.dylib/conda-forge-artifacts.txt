@@ -1,0 +1,15 @@
+r-jsonify-1.1.1-r36hc5da6b9_0
+r-jsonify-1.1.1-r36hc5da6b9_1
+r-jsonify-1.1.1-r40hc5da6b9_1
+r-jsonify-1.2.0-r40hc5da6b9_0
+r-jsonify-1.2.0-r36hc5da6b9_0
+r-jsonify-1.2.1-r36hc5da6b9_0
+r-jsonify-1.2.1-r40hc5da6b9_0
+r-jsonify-1.2.1-r41h9951f98_0
+r-jsonify-1.2.1-r40h9951f98_0
+r-jsonify-1.2.1-r42h49197e3_1
+r-jsonify-1.2.1-r41h49197e3_1
+r-jsonify-1.2.2-r42h49197e3_0
+r-jsonify-1.2.2-r41h49197e3_0
+r-jsonify-1.2.2-r43hac7d2d5_1
+r-jsonify-1.2.2-r42hac7d2d5_1

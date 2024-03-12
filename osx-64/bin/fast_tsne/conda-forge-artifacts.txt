@@ -1,0 +1,3 @@
+fit-sne-1.1.0-hd895feb_0
+fit-sne-1.2.0-hd895feb_0
+fit-sne-1.2.1-hd895feb_0

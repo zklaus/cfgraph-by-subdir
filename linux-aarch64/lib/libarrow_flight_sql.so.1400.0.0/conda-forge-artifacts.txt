@@ -1,0 +1,2 @@
+libarrow-flight-sql-14.0.0-hb5131e1_0_cpu
+libarrow-flight-sql-14.0.0-h2ba6ac6_0_cuda

@@ -1,0 +1,13 @@
+hmat-oss-1.1.2-blas_openblas_200
+hmat-oss-1.1.2-blas_openblas_201
+hmat-oss-1.1.2-blas_openblas_202
+hmat-oss-1.2.0-blas_openblas_200
+hmat-oss-1.2.0-blas_openblas_201
+hmat-oss-1.7.0-h77658b2_0
+hmat-oss-1.7.1-h77658b2_0
+hmat-oss-1.7.1-h1540047_1
+hmat-oss-1.8.0-hc047db5_0
+hmat-oss-1.8.1-h913501d_0
+hmat-oss-1.8.1-h825ab3a_1
+hmat-oss-1.8.1-h825ab3a_2
+hmat-oss-1.9.0-h825ab3a_0

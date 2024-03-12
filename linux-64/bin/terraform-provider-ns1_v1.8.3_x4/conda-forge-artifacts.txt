@@ -1,0 +1,1 @@
+terraform-provider-ns1-1.8.3-h630e55e_0

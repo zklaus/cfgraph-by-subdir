@@ -1,0 +1,10 @@
+summa-2.0.0-h0f1b500_3
+summa-3.0.0-h0f1b500_10
+summa-3.0.1-h0f1b500_2
+summa-3.0.1-h0f1b500_5
+summa-3.0.1-h0f1b500_6
+summa-3.0.2-h0f1b500_0
+summa-3.0.2-h878c6ad_1
+summa-3.0.3-h3ab7eaf_0
+summa-3.0.3-h3ab7eaf_1
+summa-3.1.0-h1acb7df_0

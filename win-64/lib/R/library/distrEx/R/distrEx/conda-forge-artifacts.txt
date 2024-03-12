@@ -1,0 +1,12 @@
+r-distrex-2.7.0-r351h6115d3f_0
+r-distrex-2.7.0-r351h6115d3f_1000
+r-distrex-2.8.0-r351h6115d3f_0
+r-distrex-2.8.0-r35hda5aaf8_1
+r-distrex-2.8.0-r36hda5aaf8_1
+r-distrex-2.8.0-r36hda5aaf8_2
+r-distrex-2.8.0-r40hda5aaf8_2
+r-distrex-2.8.0-r41h6d2157b_3
+r-distrex-2.8.0-r40h6d2157b_3
+r-distrex-2.8.0-r41h6d2157b_4
+r-distrex-2.9.0-r41h6d2157b_0
+r-distrex-2.9.0-r41h6d2157b_1

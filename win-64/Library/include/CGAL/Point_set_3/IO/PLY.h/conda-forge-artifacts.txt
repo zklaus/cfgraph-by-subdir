@@ -1,0 +1,10 @@
+cgal-cpp-5.3-h3c2f9b9_0
+cgal-cpp-5.3.1-h3c2f9b9_0
+cgal-cpp-5.4-h3c2f9b9_0
+cgal-cpp-5.4.1-h3c2f9b9_0
+cgal-cpp-5.5-h3c2f9b9_0
+cgal-cpp-5.5-had41446_1
+cgal-cpp-5.5.1-had41446_0
+cgal-cpp-5.5.2-had41446_0
+cgal-cpp-5.6-h2ea893f_0
+cgal-cpp-5.6-h1344ace_1

@@ -1,0 +1,4 @@
+stackvana-afw-0.2022.15-py38he0531af_1
+stackvana-core-impl-0.2022.16-py38h038c8f4_0
+stackvana-core-impl-0.2022.17-py38h038c8f4_0
+stackvana-core-impl-0.2022.19-py38h038c8f4_0

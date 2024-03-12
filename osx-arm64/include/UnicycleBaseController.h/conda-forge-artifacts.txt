@@ -1,0 +1,6 @@
+libunicycle-footstep-planner-0.5.0-hb7217d7_1
+libunicycle-footstep-planner-0.5.3-hb7217d7_0
+libunicycle-footstep-planner-0.6.0-hb7217d7_0
+libunicycle-footstep-planner-0.6.0-h13dd4ca_1
+libunicycle-footstep-planner-0.6.0-h965bd2d_2
+libunicycle-footstep-planner-0.7.0-h965bd2d_0

@@ -1,0 +1,17 @@
+magma-2.6.2-h1484045_0
+magma-2.6.2-h3502a61_0
+magma-2.6.2-h0d60f7e_0
+magma-2.6.2-h5fa9d3e_0
+libmagma_sparse-2.7.1-h5fa9d3e_0
+libmagma_sparse-2.7.1-h5fa9d3e_1
+libmagma_sparse-2.7.1-h5fa9d3e_2
+libmagma_sparse-2.7.1-h5fa9d3e_3
+libmagma_sparse-2.7.1-h5fa9d3e_4
+libmagma_sparse-2.7.1-h733115a_5
+libmagma_sparse-2.7.1-h5fa9d3e_5
+libmagma_sparse-2.7.1-h5fa9d3e_6
+libmagma_sparse-2.7.1-h733115a_6
+libmagma_sparse-2.7.2-h733115a_0
+libmagma_sparse-2.7.2-h5fa9d3e_0
+libmagma_sparse-2.7.2-h5fa9d3e_1
+libmagma_sparse-2.7.2-h733115a_1

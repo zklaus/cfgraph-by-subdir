@@ -1,0 +1,14 @@
+mssql-scripter-1.0.0a23-py39h5ca664c_1
+mssql-scripter-1.0.0a23-py310he40af0a_1
+mssql-scripter-1.0.0a23-py38h3058942_1
+mssql-scripter-1.0.0a23-py39h5ca664c_2
+mssql-scripter-1.0.0a23-py310he40af0a_2
+mssql-scripter-1.0.0a23-py38h3058942_2
+mssql-scripter-1.0.0a23-py310he40af0a_3
+mssql-scripter-1.0.0a23-py38h3058942_3
+mssql-scripter-1.0.0a23-py311h7efd2f8_3
+mssql-scripter-1.0.0a23-py39h5ca664c_3
+mssql-scripter-1.0.0a23-py36hc2716fe_4
+mssql-scripter-1.0.0a23-py37hc2716fe_4
+mssql-scripter-1.0.0a23-py37h8dbf179_5
+mssql-scripter-1.0.0a23-py36hc3a8d7d_5

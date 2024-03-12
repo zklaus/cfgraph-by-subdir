@@ -1,0 +1,6 @@
+cgal-4.12-py35_vc14_0
+cgal-4.12-py36_vc14_0
+cgal-4.12-py35hcbb891a_1
+cgal-4.12-py36hcbb891a_1
+cgal-4.12-py37hee5eb07_1001
+cgal-4.12-py36hee5eb07_1001

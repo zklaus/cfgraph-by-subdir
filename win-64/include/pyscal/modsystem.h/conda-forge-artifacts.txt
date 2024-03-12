@@ -1,0 +1,6 @@
+pyscal-3.0.0.dev.0-py38h7adb9f9_0
+pyscal-3.0.0.dev.0-py310h220cb41_0
+pyscal-3.0.0.dev.0-py39hea4d8d1_0
+pyscal-3.0.0.dev.0-py311h12feb9d_0
+pyscal-3.0.0.dev.0-py39hbd792c9_0
+pyscal-3.0.0.dev.0-py38h137dd97_0

@@ -1,0 +1,12 @@
+spdlog-1.9.0-hd62202e_0
+spdlog-1.9.0-hd62202e_1
+spdlog-1.9.1-hd62202e_0
+spdlog-1.9.2-hd62202e_0
+spdlog-1.9.2-hd62202e_1
+spdlog-1.10.0-hdd96247_0
+spdlog-1.10.0-hb8f3011_1
+spdlog-1.11.0-hb8f3011_0
+spdlog-1.11.0-hf0e50c9_1
+spdlog-1.12.0-h274a6aa_0
+spdlog-1.12.0-h6b8df57_1
+spdlog-1.12.0-h6b8df57_2

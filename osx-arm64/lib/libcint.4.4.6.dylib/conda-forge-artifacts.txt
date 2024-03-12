@@ -1,0 +1,2 @@
+libcint-4.4.6-h2cf9940_2
+libcint-4.4.6-h69bf725_2

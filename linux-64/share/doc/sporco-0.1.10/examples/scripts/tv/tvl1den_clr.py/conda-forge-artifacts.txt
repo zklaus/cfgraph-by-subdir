@@ -1,0 +1,8 @@
+sporco-0.1.10-py27_0
+sporco-0.1.10-py36_0
+sporco-0.1.10-py37_1000
+sporco-0.1.10-py36_1000
+sporco-0.1.10-py27_1000
+sporco-0.1.10-py37_1001
+sporco-0.1.10-py36_1001
+sporco-0.1.10-py27_1001

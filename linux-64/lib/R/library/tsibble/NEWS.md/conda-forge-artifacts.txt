@@ -1,0 +1,8 @@
+r-tsibble-0.6.2-r351h9d2a408_0
+r-tsibble-0.7.0-r351h29659fb_0
+r-tsibble-0.8.0-r351h0357c0b_0
+r-tsibble-0.8.2-r35h0357c0b_0
+r-tsibble-0.8.0-r35h0357c0b_0
+r-tsibble-0.8.2-r35h0357c0b_1
+r-tsibble-0.8.2-r36h0357c0b_2
+r-tsibble-0.8.2-r35h0357c0b_2

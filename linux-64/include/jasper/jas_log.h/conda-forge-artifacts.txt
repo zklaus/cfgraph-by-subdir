@@ -1,0 +1,5 @@
+jasper-3.0.6-h0ff4b12_0
+jasper-4.0.0-h0ff4b12_0
+jasper-4.0.0-h32699f2_1
+jasper-4.0.0-he6dfbbe_2
+jasper-4.1.0-he6dfbbe_0

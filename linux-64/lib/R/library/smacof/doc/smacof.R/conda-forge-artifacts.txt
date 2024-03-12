@@ -1,0 +1,10 @@
+r-smacof-2.1_2-r41hcfec24a_0
+r-smacof-2.1_2-r40hcfec24a_0
+r-smacof-2.1_3-r41hcfec24a_0
+r-smacof-2.1_3-r40hcfec24a_0
+r-smacof-2.1_5-r40h06615bd_0
+r-smacof-2.1_5-r41h06615bd_0
+r-smacof-2.1_5-r41h06615bd_1
+r-smacof-2.1_5-r42h06615bd_1
+r-smacof-2.1_5-r43h57805ef_2
+r-smacof-2.1_5-r42h57805ef_2

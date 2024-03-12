@@ -1,0 +1,2 @@
+rust-1.67.1-hefb9f0a_0
+rust-1.67.1-hefb9f0a_1

@@ -1,0 +1,8 @@
+libjpeg-turbo-cos6-x86_64-1.2.1-hdf0574f_1102
+libjpeg-turbo-cos7-x86_64-1.2.90-hdf0574f_1102
+libjpeg-turbo-cos7-x86_64-1.2.90-ha826a6f_1103
+libjpeg-turbo-cos6-x86_64-1.2.1-ha826a6f_1103
+libjpeg-turbo-cos7-x86_64-1.2.90-h9d98e8f_1104
+libjpeg-turbo-cos6-x86_64-1.2.1-h9d98e8f_1104
+libjpeg-turbo-cos6-x86_64-1.2.1-h9b0a68f_1105
+libjpeg-turbo-cos7-x86_64-1.2.90-h9b0a68f_1105

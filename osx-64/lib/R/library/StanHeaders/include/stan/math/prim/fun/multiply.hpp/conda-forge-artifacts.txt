@@ -1,0 +1,9 @@
+r-stanheaders-2.26.25-r41ha1020dc_0
+r-stanheaders-2.26.25-r42ha1020dc_0
+r-stanheaders-2.26.26-r42ha1020dc_0
+r-stanheaders-2.26.26-r41ha1020dc_0
+r-stanheaders-2.26.27-r42ha1020dc_0
+r-stanheaders-2.26.27-r42ha1020dc_1
+r-stanheaders-2.26.27-r43ha1020dc_1
+r-stanheaders-2.26.28-r43ha1020dc_0
+r-stanheaders-2.26.28-r42ha1020dc_0

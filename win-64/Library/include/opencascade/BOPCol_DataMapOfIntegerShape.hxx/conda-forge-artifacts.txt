@@ -1,0 +1,6 @@
+occt-7.0.0-occt7.0.0_vc14_1
+occt-7.0.0-occt7.0.0_vc14_2
+occt-7.1.0-occt7.1.0_vc14_1
+occt-7.2.0-occt7.2.0_vc14_0
+occt-7.2.0-vc14_2
+occt-7.2.0-vc14_3

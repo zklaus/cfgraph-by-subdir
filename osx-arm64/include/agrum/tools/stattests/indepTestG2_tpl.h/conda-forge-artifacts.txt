@@ -1,0 +1,9 @@
+pyagrum-0.22.3-py39h7f752ed_1
+pyagrum-0.22.3-py310hdead3df_1
+pyagrum-0.22.3-py38h3777fb4_1
+pyagrum-0.22.4-py310hdead3df_0
+pyagrum-0.22.4-py38h3777fb4_0
+pyagrum-0.22.4-py39h7f752ed_0
+pyagrum-0.22.5-py39h7f752ed_0
+pyagrum-0.22.5-py38h3777fb4_0
+pyagrum-0.22.5-py310hdead3df_0

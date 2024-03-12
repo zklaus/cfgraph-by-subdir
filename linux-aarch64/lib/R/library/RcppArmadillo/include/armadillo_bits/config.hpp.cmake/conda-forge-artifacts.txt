@@ -1,0 +1,17 @@
+r-rcpparmadillo-0.9.860.2.0-r36h51c796c_0
+r-rcpparmadillo-0.9.870.2.0-r36h51c796c_0
+r-rcpparmadillo-0.9.870.2.0-r40h51c796c_1
+r-rcpparmadillo-0.9.870.2.0-r36h51c796c_1
+r-rcpparmadillo-0.9.880.1.0-r36h51c796c_0
+r-rcpparmadillo-0.9.880.1.0-r40h51c796c_0
+r-rcpparmadillo-0.9.900.1.0-r36h51c796c_0
+r-rcpparmadillo-0.9.900.1.0-r40h51c796c_0
+r-rcpparmadillo-0.9.900.2.0-r36h51c796c_0
+r-rcpparmadillo-0.9.900.2.0-r40h51c796c_0
+r-rcpparmadillo-0.9.900.3.0-r36h993b2ab_0
+r-rcpparmadillo-0.9.900.3.0-r40h993b2ab_0
+r-rcpparmadillo-0.10.4.0.0-r36h9983e65_0
+r-rcpparmadillo-0.10.4.0.0-r40h9983e65_0
+r-rcpparmadillo-0.10.4.0.0-r41h9983e65_0
+r-rcpparmadillo-0.11.4.4.0-r42h5094944_0
+r-rcpparmadillo-0.11.4.4.0-r41h5094944_0

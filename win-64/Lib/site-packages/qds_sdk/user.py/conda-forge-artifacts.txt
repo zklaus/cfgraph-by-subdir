@@ -1,0 +1,12 @@
+qds-sdk-1.9.4-py27_0
+qds-sdk-1.9.4-py27_1
+qds-sdk-1.9.4-py34_0
+qds-sdk-1.9.4-py35_0
+qds-sdk-1.9.4-py35_1
+qds-sdk-1.9.4-py36_1
+qds-sdk-1.9.7-py27_0
+qds-sdk-1.9.7-py35_0
+qds-sdk-1.9.7-py36_0
+qds-sdk-1.9.8-py27_0
+qds-sdk-1.9.8-py35_0
+qds-sdk-1.9.8-py36_0

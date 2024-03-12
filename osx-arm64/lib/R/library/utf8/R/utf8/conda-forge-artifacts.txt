@@ -1,0 +1,12 @@
+r-utf8-1.2.1-r40h6f62c66_0
+r-utf8-1.2.1-r41h6f62c66_0
+r-utf8-1.2.2-r40h6f62c66_0
+r-utf8-1.2.2-r41h6f62c66_0
+r-utf8-1.2.2-r41h5d63f41_1
+r-utf8-1.2.2-r42h5d63f41_1
+r-utf8-1.2.3-r41h5d63f41_0
+r-utf8-1.2.3-r42h5d63f41_0
+r-utf8-1.2.3-r43h21dc0da_1
+r-utf8-1.2.3-r42h21dc0da_1
+r-utf8-1.2.4-r43hd2d937b_0
+r-utf8-1.2.4-r42hd2d937b_0

@@ -1,0 +1,14 @@
+spdlog-1.7.0-h1bb5118_1
+spdlog-1.7.0-h1bb5118_2
+spdlog-1.8.0-h1bb5118_0
+spdlog-1.8.1-h1bb5118_0
+spdlog-1.8.2-h2acdbc0_1
+spdlog-1.8.3-h2acdbc0_0
+spdlog-1.8.5-h2acdbc0_0
+spdlog-1.9.0-h2acdbc0_0
+spdlog-1.9.0-h2acdbc0_1
+spdlog-1.9.1-h2acdbc0_0
+spdlog-1.9.2-h2acdbc0_0
+spdlog-1.8.5-h2acdbc0_1
+spdlog-1.9.2-h2acdbc0_1
+spdlog-1.10.0-h06f31f1_0

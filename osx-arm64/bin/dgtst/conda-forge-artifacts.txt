@@ -1,0 +1,12 @@
+ptscotch-6.0.9-h1aec651_2
+ptscotch-6.0.9-hd02db47_2
+ptscotch-6.1.3-h1aec651_0
+ptscotch-6.1.3-hd02db47_0
+ptscotch-7.0.2-hc1c4572_0
+ptscotch-7.0.2-heaa5b5c_0
+ptscotch-7.0.3-hc1c4572_0
+ptscotch-7.0.3-heaa5b5c_0
+ptscotch-7.0.3-heaa5b5c_1
+ptscotch-7.0.3-hc1c4572_1
+ptscotch-7.0.4-hc1c4572_0
+ptscotch-7.0.4-heaa5b5c_0

@@ -1,0 +1,9 @@
+pixsfm-1.0.0-py310h874a052_0
+pixsfm-1.0.0-py39hd3a309d_0
+pixsfm-1.0.0-py38h1f639e8_0
+pixsfm-1.0.0-py38h6537e54_1
+pixsfm-1.0.0-py39hbfce1ce_1
+pixsfm-1.0.0-py310he35215d_1
+pixsfm-1.0.0-py38h8e374c4_2
+pixsfm-1.0.0-py310h0baf9f2_2
+pixsfm-1.0.0-py39h8b746a3_2

@@ -1,0 +1,8 @@
+libadjoint-2016.1.0-py27_0
+libadjoint-2016.1.0-py27_1
+libadjoint-2016.2.0-py27_0
+libadjoint-2016.2.0-py35_0
+libadjoint-2016.2.0-py36_0
+libadjoint-2017.1.0-py27_0
+libadjoint-2017.1.0-py35_0
+libadjoint-2017.1.0-py36_0

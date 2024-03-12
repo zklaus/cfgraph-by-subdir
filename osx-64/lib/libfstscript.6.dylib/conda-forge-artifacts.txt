@@ -1,0 +1,2 @@
+openfst-1.6.1-0
+openfst-1.6.1-hfc679d8_0

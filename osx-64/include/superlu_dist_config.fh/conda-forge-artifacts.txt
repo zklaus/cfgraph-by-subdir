@@ -1,0 +1,6 @@
+superlu_dist-7.1.1-hcde7739_0
+superlu_dist-7.1.1-h4bb6bf2_0
+superlu_dist-7.1.1-hcde7739_1
+superlu_dist-7.1.1-h4bb6bf2_1
+superlu_dist-7.2.0-hcde7739_0
+superlu_dist-7.2.0-h4bb6bf2_0

@@ -1,0 +1,9 @@
+libjpeg-turbo-2.1.0-h0d85af4_0
+libjpeg-turbo-2.1.1-h0d85af4_0
+libjpeg-turbo-2.1.3-hac89ed1_0
+libjpeg-turbo-2.1.4-hb7f2c08_0
+libjpeg-turbo-2.1.4-hb7f2c08_1
+libjpeg-turbo-2.1.5.1-hb7f2c08_0
+libjpeg-turbo-3.0.0-h0dc2134_0
+libjpeg-turbo-3.0.0-h0dc2134_1
+libjpeg-turbo-2.1.5.1-h0dc2134_1

@@ -1,0 +1,6 @@
+arrow-cpp-0.17.0-py37h9e3b35e_2_cuda
+arrow-cpp-0.17.0-py38h25a4a40_2_cuda
+arrow-cpp-0.17.0-py36h0b8190f_2_cuda
+arrow-cpp-0.17.0-py37hb61253b_2_cuda
+arrow-cpp-0.17.0-py38hc92d6da_2_cuda
+arrow-cpp-0.17.0-py36h32c2cc6_2_cuda

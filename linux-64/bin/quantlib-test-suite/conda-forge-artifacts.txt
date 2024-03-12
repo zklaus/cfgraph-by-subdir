@@ -1,0 +1,9 @@
+quantlib-1.26-hd329d56_0
+quantlib-1.26-hd329d56_1
+quantlib-1.26-hd329d56_2
+quantlib-1.26-hd329d56_3
+quantlib-1.26-hd329d56_4
+quantlib-1.26-hd329d56_5
+quantlib-1.31.1-had84ea8_0
+quantlib-1.31.1-h0af5e60_1
+quantlib-1.32-h0af5e60_0

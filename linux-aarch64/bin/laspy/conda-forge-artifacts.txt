@@ -1,0 +1,10 @@
+laspy-2.5.0-py310h512ace4_0
+laspy-2.5.0-py311h54d0897_0
+laspy-2.5.0-py39h6f9c8ea_0
+laspy-2.5.1-py310h512ace4_0
+laspy-2.5.1-py39h6f9c8ea_0
+laspy-2.5.1-py311h54d0897_0
+laspy-2.5.1-py310h210eb8b_1
+laspy-2.5.1-py311h54d0897_1
+laspy-2.5.1-py39h0c4e5f3_1
+laspy-2.5.1-py312he4dfa05_1

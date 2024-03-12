@@ -1,0 +1,6 @@
+r-spatstat.utils-1.12_0-r341h301d43c_0
+r-spatstat.utils-1.12_0-r351h301d43c_0
+r-spatstat.utils-1.13_0-r351h301d43c_0
+r-spatstat.utils-1.13_0-r341h301d43c_0
+r-spatstat.utils-1.13_0-r341h301d43c_1000
+r-spatstat.utils-1.13_0-r351h301d43c_1000

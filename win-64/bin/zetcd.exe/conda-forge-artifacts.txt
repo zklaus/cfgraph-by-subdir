@@ -1,0 +1,3 @@
+zetcd-v0.0.5-h375a9b1_0
+zetcd-0.0.5-h375a9b1_1
+zetcd-0.0.5-h375a9b1_2

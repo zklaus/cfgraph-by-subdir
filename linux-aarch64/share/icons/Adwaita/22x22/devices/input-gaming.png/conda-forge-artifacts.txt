@@ -1,0 +1,9 @@
+adwaita-icon-theme-3.38.0-h5728ca3_0
+adwaita-icon-theme-3.38.0-h5728ca3_1
+adwaita-icon-theme-3.38.0-h2d234d2_1
+adwaita-icon-theme-40.0-h2d234d2_0
+adwaita-icon-theme-40.1-h2d234d2_0
+adwaita-icon-theme-40.1.1-h2d234d2_0
+adwaita-icon-theme-40.1.1-h8af1aa0_1
+adwaita-icon-theme-41.0-h8af1aa0_0
+adwaita-icon-theme-41.0-h8af1aa0_1

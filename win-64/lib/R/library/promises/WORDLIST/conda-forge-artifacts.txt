@@ -1,0 +1,6 @@
+r-promises-1.2.0.1-r36ha856d6a_0
+r-promises-1.2.0.1-r40ha856d6a_0
+r-promises-1.2.0.1-r41ha856d6a_0
+r-promises-1.2.0.1-r41ha856d6a_1
+r-promises-1.2.0.1-r41ha856d6a_2
+r-promises-1.2.1-r41ha856d6a_0

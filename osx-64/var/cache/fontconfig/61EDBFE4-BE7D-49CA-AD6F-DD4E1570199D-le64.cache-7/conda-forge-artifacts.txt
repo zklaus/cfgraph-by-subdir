@@ -1,0 +1,5 @@
+pyagrum-0.20.1-py37hb23ed4d_0
+pyagrum-0.20.1-py39h4d6be9b_0
+pyagrum-0.20.1-py36h4772d2b_0
+pyagrum-0.20.1-py38h1f261ad_0
+stackvana-afw-0.2021.16-py38h7684ba8_0

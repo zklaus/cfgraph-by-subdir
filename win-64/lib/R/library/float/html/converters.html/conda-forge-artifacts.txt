@@ -1,0 +1,11 @@
+r-float-0.2_3-r36h17ddedb_0
+r-float-0.2_3-r36hc833f60_1
+r-float-0.2_4-r36hc833f60_0
+r-float-0.2_4-r36hc833f60_1
+r-float-0.2_4-r40hc833f60_1
+r-float-0.2_4-r40h7e9fd4c_2
+r-float-0.2_4-r36h7e9fd4c_2
+r-float-0.2_4-r40hb106f1f_2
+r-float-0.2_6-r40hb106f1f_0
+r-float-0.2_6.1-r40hb106f1f_0
+r-float-0.3_0-r40hb106f1f_0

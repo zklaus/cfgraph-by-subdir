@@ -1,0 +1,10 @@
+onednn-2.4-tbb_h813e8d7_0
+onednn-2.4-omp_h947a47a_0
+onednn-2.4.1-omp_h947a47a_0
+onednn-2.4.1-tbb_h813e8d7_0
+onednn-2.4.2-omp_h947a47a_0
+onednn-2.4.2-tbb_h813e8d7_0
+onednn-2.4.3-tbb_h813e8d7_0
+onednn-2.4.3-omp_h947a47a_0
+onednn-2.4.4-tbb_h813e8d7_0
+onednn-2.4.4-omp_h947a47a_0

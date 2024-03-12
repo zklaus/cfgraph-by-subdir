@@ -1,0 +1,11 @@
+r-stringfish-0.14.1-r36h796a38f_0
+r-stringfish-0.14.1-r40h796a38f_0
+r-stringfish-0.14.2-r40h796a38f_0
+r-stringfish-0.14.2-r36h796a38f_0
+r-stringfish-0.15.1-r36ha856d6a_0
+r-stringfish-0.15.1-r40ha856d6a_0
+r-stringfish-0.15.2-r40ha856d6a_0
+r-stringfish-0.15.3-r40ha856d6a_0
+r-stringfish-0.15.4-r40ha856d6a_0
+r-stringfish-0.15.5-r40ha856d6a_0
+r-stringfish-0.15.7-r40ha856d6a_0

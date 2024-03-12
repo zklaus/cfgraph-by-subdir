@@ -1,0 +1,2 @@
+libhiredis-1.0.0-hbec66e7_0
+libhiredis-1.0.2-hbec66e7_0

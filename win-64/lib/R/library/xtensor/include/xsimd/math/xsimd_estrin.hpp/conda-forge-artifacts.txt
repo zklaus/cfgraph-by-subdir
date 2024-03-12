@@ -1,0 +1,5 @@
+r-xtensor-0.13.1-r36hdfb92a8_0
+r-xtensor-0.13.1-r40hdfb92a8_0
+r-xtensor-0.13.2-r40hdfb92a8_0
+r-xtensor-0.13.2-r36hdfb92a8_0
+r-xtensor-0.13.2-r41hdfb92a8_0

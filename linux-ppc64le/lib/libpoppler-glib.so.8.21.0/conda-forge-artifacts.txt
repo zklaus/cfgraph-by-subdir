@@ -1,0 +1,8 @@
+poppler-21.08.0-h1401f57_0
+poppler-21.08.0-h1401f57_1
+poppler-21.09.0-h1401f57_1
+poppler-21.09.0-h1401f57_2
+poppler-21.09.0-h3df3d46_2
+poppler-21.09.0-h3df3d46_3
+poppler-21.10.0-h3df3d46_0
+poppler-21.11.0-h3df3d46_0

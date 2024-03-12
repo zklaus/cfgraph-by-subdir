@@ -1,0 +1,10 @@
+ipychart-0.1.3-pyh9f0ad1d_0
+ipychart-0.1.4-pyh9f0ad1d_0
+ipychart-0.2.0-pyh9f0ad1d_0
+ipychart-0.2.1-pyh9f0ad1d_0
+ipychart-0.2.2-pyhd3deb0d_0
+ipychart-0.3.1-pyh6c4a22f_0
+ipychart-0.3.2-pyh6c4a22f_0
+ipychart-0.3.3-pyh6c4a22f_0
+ipychart-0.4.0-pyh6c4a22f_0
+ipychart-0.4.1-pyh1a96a4e_0

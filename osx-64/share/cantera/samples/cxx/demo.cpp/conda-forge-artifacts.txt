@@ -1,0 +1,17 @@
+libcantera-devel-2.5.0b1-he53362d_0
+libcantera-devel-2.5.0b1-hd3cac92_0
+libcantera-devel-2.5.0b1-h295feee_0
+libcantera-devel-2.5.0b1-h1c70fc0_1
+libcantera-devel-2.5.0b1-hd3cac92_1
+libcantera-devel-2.5.0b1-h4e27293_1
+libcantera-devel-2.5.0b1-h295feee_1
+libcantera-devel-2.5.0b1-h7e1ad66_1
+libcantera-devel-2.5.0b1-he53362d_1
+libcantera-devel-2.5.0b1-hfcb6786_2
+libcantera-devel-2.5.0b1-he53362d_2
+libcantera-devel-2.5.0b1-h5fc6a40_2
+libcantera-devel-2.5.0b1-h295feee_2
+libcantera-devel-2.5.0b1-hd3cac92_2
+libcantera-devel-2.5.0b1-h7e1ad66_2
+libcantera-devel-2.5.0b1-h4e27293_2
+libcantera-devel-2.5.0b1-h1c70fc0_2

@@ -1,0 +1,5 @@
+clingo-5.4.0-py36he025d50_0
+clingo-5.4.0-py37he025d50_0
+clingo-5.4.0-py37he025d50_1
+clingo-5.4.0-py38he025d50_1
+clingo-5.4.0-py36he025d50_1

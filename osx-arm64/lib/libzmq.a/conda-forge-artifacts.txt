@@ -1,0 +1,6 @@
+zeromq-static-4.3.3-h9f76cd9_2
+zeromq-static-4.3.3-h9f76cd9_3
+zeromq-static-4.3.2-h9f76cd9_5
+zeromq-static-4.3.4-h9f76cd9_0
+zeromq-static-4.3.4-hbdafb3b_1
+zeromq-static-4.3.5-h965bd2d_0

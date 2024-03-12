@@ -1,0 +1,1 @@
+libadbc-driver-manager-0.8.0-h2a328a1_0

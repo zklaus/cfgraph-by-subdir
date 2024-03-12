@@ -1,0 +1,2 @@
+terraform-provider-opc-1.2.0-1
+terraform-provider-opc-1.2.0-1001

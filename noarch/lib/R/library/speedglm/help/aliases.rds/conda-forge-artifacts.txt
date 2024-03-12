@@ -1,0 +1,17 @@
+r-speedglm-0.3_2-r351_1001
+r-speedglm-0.3_2-r35_1002
+r-speedglm-0.3_2-r36_1002
+r-speedglm-0.3_2-r36_1003
+r-speedglm-0.3_2-r40_1003
+r-speedglm-0.3_3-r40ha770c72_0
+r-speedglm-0.3_3-r36ha770c72_0
+r-speedglm-0.3_3-r41hc72bb7e_0
+r-speedglm-0.3_3-r40hc72bb7e_0
+r-speedglm-0.3_4-r41hc72bb7e_0
+r-speedglm-0.3_4-r40hc72bb7e_0
+r-speedglm-0.3_4-r41hc72bb7e_1
+r-speedglm-0.3_4-r42hc72bb7e_1
+r-speedglm-0.3_5-r41hc72bb7e_0
+r-speedglm-0.3_5-r42hc72bb7e_0
+r-speedglm-0.3_5-r42hc72bb7e_1
+r-speedglm-0.3_5-r43hc72bb7e_1

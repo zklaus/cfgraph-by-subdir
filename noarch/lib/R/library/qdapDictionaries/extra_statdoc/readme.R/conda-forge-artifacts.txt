@@ -1,0 +1,8 @@
+r-qdapdictionaries-1.0.7-r40h6115d3f_0
+r-qdapdictionaries-1.0.7-r36h6115d3f_0
+r-qdapdictionaries-1.0.7-r40hc72bb7e_0
+r-qdapdictionaries-1.0.7-r41hc72bb7e_0
+r-qdapdictionaries-1.0.7-r41hc72bb7e_1
+r-qdapdictionaries-1.0.7-r42hc72bb7e_1
+r-qdapdictionaries-1.0.7-r43hc72bb7e_2
+r-qdapdictionaries-1.0.7-r42hc72bb7e_2

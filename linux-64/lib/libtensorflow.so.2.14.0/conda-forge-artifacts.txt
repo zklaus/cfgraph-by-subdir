@@ -1,0 +1,2 @@
+libtensorflow-2.14.0-cpu_h2e87cff_0
+libtensorflow-2.14.0-cuda118h5586705_0

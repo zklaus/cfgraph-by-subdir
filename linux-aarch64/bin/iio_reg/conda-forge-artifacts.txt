@@ -1,0 +1,8 @@
+libiio-c-0.21-h34f4286_5
+libiio-c-0.21-h34f4286_6
+libiio-c-0.22-hbcde9ff_0
+libiio-c-0.23-hbcde9ff_0
+libiio-c-0.24-hd8ba974_0
+libiio-c-0.24-hf23a713_1
+libiio-c-0.25-hf23a713_0
+libiio-c-0.25-he58e806_1

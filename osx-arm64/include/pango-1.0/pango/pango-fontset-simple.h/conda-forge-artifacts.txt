@@ -1,0 +1,17 @@
+pango-1.50.4-h1d2e715_0
+pango-1.50.5-h1d2e715_0
+pango-1.50.5-h1d2e715_1
+pango-1.50.5-h9fd36ab_2
+pango-1.50.6-h9fd36ab_0
+pango-1.50.7-h9fd36ab_0
+pango-1.50.8-h9e48c26_0
+pango-1.50.8-h685ca55_1
+pango-1.50.9-hc1f5a69_0
+pango-1.50.10-h0172e78_0
+pango-1.50.11-h8dd4791_0
+pango-1.50.12-h8dd4791_0
+pango-1.50.12-h6c112b8_1
+pango-1.50.13-h6c112b8_0
+pango-1.50.14-h6c112b8_0
+pango-1.50.14-h9f7e0c6_1
+pango-1.50.14-hcf40dda_2

@@ -1,0 +1,9 @@
+gmt-5.4.4-blas_openblas_200
+gmt-5.4.4-blas_openblash0670df6_201
+gmt-5.4.4-blas_openblash4f95a35_1201
+gmt-6.0.0-h5e3c8ef_0
+gmt-6.0.0-h8bd9318_1
+gmt-6.0.0-h9832f5b_2
+gmt-6.0.0-h72e7e6e_3
+gmt-6.0.0-h72e7e6e_4
+gmt-6.0.0-h72e7e6e_5

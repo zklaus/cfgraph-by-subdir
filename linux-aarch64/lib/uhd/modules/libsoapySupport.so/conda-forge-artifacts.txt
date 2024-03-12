@@ -1,0 +1,11 @@
+soapysdr-module-uhd-0.4.1-h3f41669_3
+soapysdr-module-uhd-0.4.1-h2937f40_2
+soapysdr-module-uhd-0.4.1-hff41fed_3
+soapysdr-module-uhd-0.4.1-h03e0a23_4
+soapysdr-module-uhd-0.4.1-h38d061d_5
+soapysdr-module-uhd-0.4.1-hfa36221_3
+soapysdr-module-uhd-0.4.1-hc4409c0_6
+soapysdr-module-uhd-0.4.1-h112d67c_7
+soapysdr-module-uhd-0.4.1-ha8ebd15_8
+soapysdr-module-uhd-0.4.1-h99ea244_9
+soapysdr-module-uhd-0.4.1-h76252b4_10

@@ -1,0 +1,12 @@
+stir-4.0.0a0-py37h9f2e298_1
+stir-4.0.0a0-py36h0eed020_1
+stir-4.0.0a0-py38ha80c63c_1
+stir-4.0.0a0-py38ha80c63c_2
+stir-4.0.0a0-py36h0eed020_2
+stir-4.0.0a0-py37h9f2e298_2
+stir-4.0.0a0-py38ha80c63c_3
+stir-4.0.0a0-py37h9f2e298_3
+stir-4.0.0a0-py36h0eed020_3
+stir-4.0.0a0-py38h350ab21_4
+stir-4.0.0a0-py37hdc180e4_4
+stir-4.0.0a0-py36h51b3709_4

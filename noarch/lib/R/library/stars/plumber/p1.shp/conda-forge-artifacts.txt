@@ -1,0 +1,10 @@
+r-stars-0.3_1-r36h6115d3f_0
+r-stars-0.3_1-r35h6115d3f_0
+r-stars-0.3_1-r36h6115d3f_1
+r-stars-0.3_1-r35h6115d3f_1
+r-stars-0.4_0-r36h6115d3f_0
+r-stars-0.4_0-r35h6115d3f_0
+r-stars-0.4_1-r35h6115d3f_0
+r-stars-0.4_1-r36h6115d3f_0
+r-stars-0.4_1-r40h6115d3f_1
+r-stars-0.4_1-r36h6115d3f_1

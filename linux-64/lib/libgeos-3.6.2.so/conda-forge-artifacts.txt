@@ -1,0 +1,5 @@
+geos-3.6.2-0
+geos-3.6.2-1
+geos-3.6.2-hfc679d8_2
+geos-3.6.2-hfc679d8_3
+geos-3.6.2-hfc679d8_4

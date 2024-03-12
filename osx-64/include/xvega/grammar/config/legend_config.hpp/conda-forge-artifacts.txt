@@ -1,0 +1,9 @@
+xvega-0.0.3-h879752b_0
+xvega-0.0.4-h879752b_0
+xvega-0.0.4-h879752b_1
+xvega-0.0.5-h879752b_0
+xvega-0.0.5-h9a9d8cb_0
+xvega-0.0.6-h9a9d8cb_0
+xvega-0.0.7-h926bf3e_0
+xvega-0.0.10-h926bf3e_0
+xvega-0.0.10-hb8565cd_1

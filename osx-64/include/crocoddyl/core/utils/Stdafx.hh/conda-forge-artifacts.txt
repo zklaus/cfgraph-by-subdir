@@ -1,0 +1,4 @@
+crocoddyl-1.7.0-py39h1e32b98_0
+crocoddyl-1.7.0-py36heb4ae3e_0
+crocoddyl-1.7.0-py37hb7e7899_0
+crocoddyl-1.7.0-py38h40e05ec_0

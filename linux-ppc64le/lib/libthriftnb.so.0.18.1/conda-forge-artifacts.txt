@@ -1,0 +1,3 @@
+libthrift-0.18.1-h82f1162_0
+libthrift-0.18.1-h81b47c4_1
+libthrift-0.18.1-h81b47c4_2

@@ -1,0 +1,3 @@
+eqcorrscan-0.4.4-py310hf88e21e_3
+eqcorrscan-0.4.4-py38h5ebe134_3
+eqcorrscan-0.4.4-py39h9c84646_3

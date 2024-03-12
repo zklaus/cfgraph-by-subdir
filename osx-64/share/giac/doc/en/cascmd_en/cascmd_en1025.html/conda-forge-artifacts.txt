@@ -1,0 +1,11 @@
+giac-1.5.0.87-h1fb2cd6_0
+giac-1.5.0.87-h1fb2cd6_1
+giac-1.5.0.87-hfb44dbc_2
+giac-1.5.0.87-h5514456_2
+giac-1.6.0.47-h5514456_0
+giac-1.6.0.47-hbc4df6c_1
+giac-1.6.0.47-h3e19eb6_2
+giac-1.6.0.47-h6fe0c01_3
+giac-1.6.0.47-hd7a58db_4
+giac-1.6.0.47-hd7a58db_5
+giac-1.6.0.47-h6520c23_6

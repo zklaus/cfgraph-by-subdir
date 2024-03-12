@@ -1,0 +1,16 @@
+ghc-8.2.2-h35faff5_0
+ghc-8.2.2-h05e3a7b_1000
+ghc-8.2.2-h6b0b704_1001
+ghc-8.2.2-h24b71ae_1
+ghc-bootstrap-8.2.2-h35faff5_0
+ghc-bootstrap-8.2.2-h05e3a7b_1000
+ghc-bootstrap-8.2.2-h05e3a7b_1001
+ghc-bootstrap-8.2.2-h05e3a7b_1002
+ghc-bootstrap-8.2.2-h05e3a7b_1003
+ghc-8.2.2-h05e3a7b_0
+ghc-8.2.2-h1f61753_1002
+ghc-8.2.2-h7b4aead_1003
+ghc-8.10.4-h4a049f1_0
+ghc-8.10.4-h4a049f1_1
+ghc-8.10.4-h4a049f1_2
+ghc-8.10.7-h4a049f1_0

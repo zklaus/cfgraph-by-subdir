@@ -1,0 +1,4 @@
+qgis-3.22.15-py39ha23f2e7_0
+qgis-3.22.15-py311he43dfe0_0
+qgis-3.22.15-py310hfa5b721_0
+qgis-3.22.15-py38h04cd972_0

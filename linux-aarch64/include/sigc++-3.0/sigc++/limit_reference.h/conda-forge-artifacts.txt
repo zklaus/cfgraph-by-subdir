@@ -1,0 +1,5 @@
+sigcpp-3.0-3.0.3-h54f1f3f_0
+sigcpp-3.0-3.0.3-h01db608_0
+sigcpp-3.0-3.2.0-h4de3ea5_0
+sigcpp-3.0-3.4.0-hd600fc2_0
+sigcpp-3.0-3.6.0-h2f0025b_0

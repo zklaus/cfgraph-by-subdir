@@ -1,0 +1,9 @@
+pythonfmu-0.3.0-py37he1b5a44_0
+pythonfmu-0.3.0-py36he1b5a44_0
+pythonfmu-0.3.0-py38he1b5a44_0
+pythonfmu-0.4.0-py37he1b5a44_0
+pythonfmu-0.4.0-py38he1b5a44_0
+pythonfmu-0.4.0-py36he1b5a44_0
+pythonfmu-0.5.0-py36he1b5a44_0
+pythonfmu-0.5.0-py38he1b5a44_0
+pythonfmu-0.5.0-py37he1b5a44_0

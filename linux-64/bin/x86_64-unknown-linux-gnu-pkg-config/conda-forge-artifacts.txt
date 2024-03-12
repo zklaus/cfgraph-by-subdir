@@ -1,0 +1,10 @@
+pkg-config-0.28-0
+pkg-config-0.28-1
+pkg-config-0.29.1-0
+pkg-config-0.29.1-1
+pkg-config-0.29.1-2
+pkg-config-0.29.2-0
+pkg-config-0.29.2-1
+pkg-config-0.29.2-hf5063d0_2
+pkg-config-0.29.2-h470a237_3
+pkg-config-0.29.2-h470a237_4

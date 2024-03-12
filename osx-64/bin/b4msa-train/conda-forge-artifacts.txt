@@ -1,0 +1,16 @@
+b4msa-2.2.2-py37hf985489_0
+b4msa-2.2.2-py38h50d1736_0
+b4msa-2.2.2-py39h6e9494a_0
+b4msa-2.2.2-py39h6e9494a_1
+b4msa-2.2.2-py38h50d1736_1
+b4msa-2.2.2-py310h2ec42d9_1
+b4msa-2.2.2-py37hf985489_1
+b4msa-2.2.2-py38h50d1736_2
+b4msa-2.2.2-py311h6eed73b_2
+b4msa-2.2.2-py39h6e9494a_2
+b4msa-2.2.2-py310h2ec42d9_2
+b4msa-2.2.2-py310h2ec42d9_3
+b4msa-2.2.2-py312hb401068_3
+b4msa-2.2.2-py39h6e9494a_3
+b4msa-2.2.2-py311h6eed73b_3
+b4msa-2.2.2-py38h50d1736_3

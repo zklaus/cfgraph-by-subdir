@@ -1,0 +1,11 @@
+gettext-0.19.8.1-0
+gettext-0.19.8.1-h5e8e0c9_1
+gettext-0.19.8.1-h9745a5d_1001
+gettext-0.19.8.1-hc5be6a0_1002
+gettext-0.19.8.1-hf34092f_1003
+gettext-0.19.8.1-hf34092f_1004
+gettext-0.19.8.1-h0b5b191_1005
+gettext-0.19.8.1-h73d1719_1006
+gettext-0.19.8.1-h73d1719_1007
+gettext-0.19.8.1-h73d1719_1008
+gettext-0.19.8.1-h27087fc_1009

@@ -1,0 +1,4 @@
+nsis-3.06.1-he513fc3_0
+nsis-3.08-he0ac6c6_0
+nsis-3.08-h5c3d311_1
+nsis-3.08-h5c3d311_2

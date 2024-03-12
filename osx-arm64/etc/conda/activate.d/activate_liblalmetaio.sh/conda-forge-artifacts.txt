@@ -1,0 +1,6 @@
+liblalmetaio-2.0.3-h3422bc3_0
+liblalmetaio-2.0.3-h3422bc3_1
+liblalmetaio-2.1.0-h3422bc3_0
+liblalmetaio-2.1.1-h3422bc3_0
+liblalmetaio-2.1.2-h1c322ee_0
+liblalmetaio-2.1.2-he4db4b2_1

@@ -1,0 +1,7 @@
+r-ncvreg-3.12.0-r36h800e0f2_0
+r-ncvreg-3.12.0-r40h800e0f2_0
+r-ncvreg-3.13.0-r40h28b5c78_0
+r-ncvreg-3.13.0-r36h28b5c78_0
+r-ncvreg-3.13.0-r41h28b5c78_0
+r-ncvreg-3.13.0-r42h815d134_1
+r-ncvreg-3.13.0-r41h815d134_1

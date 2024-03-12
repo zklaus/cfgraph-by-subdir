@@ -1,0 +1,6 @@
+libomm-1.0.0-nompi_h7c86739_101
+libomm-1.0.0-mpi_mpich_h478e2f9_1
+libomm-1.0.0-mpi_openmpi_h152c2b8_1
+libomm-1.0.0-mpi_openmpi_h152c2b8_2
+libomm-1.0.0-nompi_h7c86739_102
+libomm-1.0.0-mpi_mpich_h478e2f9_2

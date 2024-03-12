@@ -1,0 +1,6 @@
+des-pizza-cutter-0.2.4-py36h5fab9bb_0
+des-pizza-cutter-0.2.4-py38h578d9bd_0
+des-pizza-cutter-0.2.4-py37h89c1867_0
+des-pizza-cutter-0.2.5-py38h578d9bd_0
+des-pizza-cutter-0.2.5-py37h89c1867_0
+des-pizza-cutter-0.2.5-py36h5fab9bb_0

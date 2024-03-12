@@ -1,0 +1,4 @@
+numix-icon-theme-23.04.26-h694c41f_0
+numix-icon-theme-23.11.11-h694c41f_0
+numix-icon-theme-23.11.20-h694c41f_0
+numix-icon-theme-23.12.02-h694c41f_0

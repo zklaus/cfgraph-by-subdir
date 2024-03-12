@@ -1,0 +1,1 @@
+rust-std-powerpc64le-unknown-linux-gnu-1.47.0-he14181a_0

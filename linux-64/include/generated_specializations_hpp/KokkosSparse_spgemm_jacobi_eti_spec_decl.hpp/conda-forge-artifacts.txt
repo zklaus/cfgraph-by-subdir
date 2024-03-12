@@ -1,0 +1,8 @@
+esys-escript-5.10-py39h0683f80_1
+esys-escript-5.10-py37hfd73ca5_1
+esys-escript-5.10-py38hd9dc7d7_1
+kokkos-kernels-3.7.01-hf52228f_0
+kokkos-kernels-3.7.01-hf52228f_1
+kokkos-kernels-3.7.01-h00ab1b0_2
+kokkos-kernels-4.0.01-h00ab1b0_0
+kokkos-kernels-3.7.01-h00ab1b0_3

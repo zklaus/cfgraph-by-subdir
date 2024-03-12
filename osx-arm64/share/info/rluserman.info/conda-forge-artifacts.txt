@@ -1,0 +1,6 @@
+readline-8.0-hc8eb9b7_2
+readline-8.1-hfbdcbf2_0
+readline-8.1-hedafd6a_0
+readline-8.1.2-h46ed386_0
+readline-8.1.2-h92ec313_1
+readline-8.2-h92ec313_1

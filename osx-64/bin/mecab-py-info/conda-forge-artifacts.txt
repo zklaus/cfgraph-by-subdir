@@ -1,0 +1,17 @@
+mecab-python3-1.0.3-py36hb100763_1
+mecab-python3-1.0.3-py39h219cf5c_1
+mecab-python3-1.0.3-py38h91a8764_1
+mecab-python3-1.0.3-py37h9af6487_1
+mecab-python3-1.0.7-py38h940360d_0
+mecab-python3-1.0.7-py310h9e9d8ca_0
+mecab-python3-1.0.7-py39h840bb9f_0
+mecab-python3-1.0.7-py39h840bb9f_1
+mecab-python3-1.0.7-py310h9e9d8ca_1
+mecab-python3-1.0.7-py311hdf8f085_1
+mecab-python3-1.0.7-py38h940360d_1
+mecab-python3-1.0.7-py312heafc425_1
+mecab-python3-1.0.8-py311hdf8f085_0
+mecab-python3-1.0.8-py38h940360d_0
+mecab-python3-1.0.8-py39h840bb9f_0
+mecab-python3-1.0.8-py312heafc425_0
+mecab-python3-1.0.8-py310h9e9d8ca_0

@@ -1,0 +1,2 @@
+rdkit-2019.03.3-py37hbdb07b7_0
+rdkit-2019.03.3-py36hbdb07b7_0

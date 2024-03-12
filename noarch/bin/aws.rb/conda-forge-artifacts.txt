@@ -1,0 +1,2 @@
+rb-aws-sdk-core-2.11.348-hd4c1694_0
+rb-aws-sdk-core-2.11.348-hc42de5b_0

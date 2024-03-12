@@ -1,0 +1,12 @@
+scalapack-2.0.2-h96e8c8a_1006
+scalapack-2.0.2-h520b77c_1006
+scalapack-2.0.2-h8c6c056_1006
+scalapack-2.0.2-he997f61_1006
+scalapack-2.0.2-h6993d72_1007
+scalapack-2.0.2-h4fb7227_1007
+scalapack-2.0.2-h6993d72_1008
+scalapack-2.0.2-h4fb7227_1008
+scalapack-2.0.2-h85f7579_1009
+scalapack-2.0.2-hb7119d5_1009
+scalapack-2.0.2-h529eae9_1009
+scalapack-2.0.2-h3774d7d_1009

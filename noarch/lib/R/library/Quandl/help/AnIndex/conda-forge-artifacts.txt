@@ -1,0 +1,17 @@
+r-quandl-2.9.1-r351h6115d3f_0
+r-quandl-2.9.1-r351h6115d3f_1000
+r-quandl-2.10.0-r35h6115d3f_0
+r-quandl-2.10.0-r35h6115d3f_1
+r-quandl-2.10.0-r36h6115d3f_1
+r-quandl-2.10.0-r35h6115d3f_2
+r-quandl-2.10.0-r36h6115d3f_2
+r-quandl-2.10.0-r40h6115d3f_3
+r-quandl-2.10.0-r36h6115d3f_3
+r-quandl-2.10.0-r41hc72bb7e_3
+r-quandl-2.10.0-r40hc72bb7e_3
+r-quandl-2.11.0-r41hc72bb7e_0
+r-quandl-2.11.0-r40hc72bb7e_0
+r-quandl-2.11.0-r42hc72bb7e_1
+r-quandl-2.11.0-r41hc72bb7e_1
+r-quandl-2.11.0-r42hc72bb7e_2
+r-quandl-2.11.0-r43hc72bb7e_2

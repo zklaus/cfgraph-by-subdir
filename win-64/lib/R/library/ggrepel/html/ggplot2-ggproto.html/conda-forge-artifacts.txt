@@ -1,0 +1,10 @@
+r-ggrepel-0.8.0-r351h6115d3f_1002
+r-ggrepel-0.8.1-r351h6115d3f_0
+r-ggrepel-0.8.1-r36h796a38f_1
+r-ggrepel-0.8.1-r35h796a38f_1
+r-ggrepel-0.8.2-r36h796a38f_0
+r-ggrepel-0.8.2-r35h796a38f_0
+r-ggrepel-0.8.2-r40h796a38f_1
+r-ggrepel-0.8.2-r36h796a38f_1
+r-ggrepel-0.9.0-r36ha856d6a_0
+r-ggrepel-0.9.0-r40ha856d6a_0

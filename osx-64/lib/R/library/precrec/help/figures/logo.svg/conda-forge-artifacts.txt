@@ -1,0 +1,8 @@
+r-precrec-0.14.1-r41h49197e3_0
+r-precrec-0.14.1-r42h49197e3_0
+r-precrec-0.14.2-r41h49197e3_0
+r-precrec-0.14.2-r42h49197e3_0
+r-precrec-0.14.2-r42hac7d2d5_1
+r-precrec-0.14.2-r43hac7d2d5_1
+r-precrec-0.14.4-r42h64b2c41_0
+r-precrec-0.14.4-r43h64b2c41_0

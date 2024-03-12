@@ -1,0 +1,16 @@
+dftd4-2.4.0-hc1f6be1_0
+dftd4-2.5.0-hc1f6be1_0
+dftd4-2.5.0-heb1e3ac_1
+dftd4-2.5.0-h38daebe_1
+dftd4-3.0.0-hb5d6ffb_0
+dftd4-3.0.0-hb5d6ffb_1
+dftd4-3.1.0-hb5d6ffb_0
+dftd4-3.2.0-hb5d6ffb_0
+dftd4-3.3.0-h67747af_0
+dftd4-3.3.0-h67747af_1
+dftd4-3.3.0-h67747af_2
+dftd4-3.3.0-h67747af_3
+dftd4-3.4.0-h2453b5f_0
+dftd4-3.4.0-h5bf119a_1
+dftd4-3.5.0-h5bf119a_0
+dftd4-3.6.0-h6d98783_0

@@ -1,0 +1,8 @@
+libsistr-4.0.2.dev4-h3f72095_0
+libsistr-4.0.2.dev4-h3f72095_1
+libsistr-4.0.2-h3f72095_0
+libsistr-4.0.2-h3f72095_2
+libsistr-4.0.2-h3f72095_3
+libsistr-4.0.2-h3f72095_4
+libsistr-4.0.2-h3f72095_5
+libsistr-4.0.2-h3f72095_6

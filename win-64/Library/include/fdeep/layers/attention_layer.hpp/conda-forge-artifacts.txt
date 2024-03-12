@@ -1,0 +1,7 @@
+frugally-deep-0.15.21-h63175ca_0
+frugally-deep-0.15.22-h63175ca_0
+frugally-deep-0.15.23-h63175ca_0
+frugally-deep-0.15.24-h63175ca_0
+frugally-deep-0.15.25-h63175ca_0
+frugally-deep-0.15.26-h63175ca_0
+frugally-deep-0.15.27-h63175ca_0

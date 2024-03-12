@@ -1,0 +1,17 @@
+r-statsexpressions-0.5.1-r40h142f84f_0
+r-statsexpressions-0.5.1-r36h142f84f_0
+r-statsexpressions-0.6.0-r36hc72bb7e_0
+r-statsexpressions-0.6.0-r40hc72bb7e_0
+r-statsexpressions-0.6.1-r36hc72bb7e_0
+r-statsexpressions-0.6.1-r40hc72bb7e_0
+r-statsexpressions-0.6.2-r36hc72bb7e_0
+r-statsexpressions-0.6.2-r40hc72bb7e_0
+r-statsexpressions-0.7.0-r36hc72bb7e_0
+r-statsexpressions-0.7.0-r40hc72bb7e_0
+r-statsexpressions-0.7.1-r36hc72bb7e_0
+r-statsexpressions-0.7.1-r40hc72bb7e_0
+r-statsexpressions-1.0.0-r36hc72bb7e_0
+r-statsexpressions-1.0.0-r40hc72bb7e_0
+r-statsexpressions-1.0.1-r36hc72bb7e_0
+r-statsexpressions-1.0.1-r40hc72bb7e_0
+r-statsexpressions-1.0.1-r41hc72bb7e_0

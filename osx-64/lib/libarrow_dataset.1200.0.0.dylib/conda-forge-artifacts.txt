@@ -1,0 +1,12 @@
+libarrow-12.0.0-h2698f8f_0_cpu
+libarrow-12.0.0-hc8386e2_1_cpu
+libarrow-12.0.0-h71098f9_2_cpu
+libarrow-12.0.0-h8fc5235_3_cpu
+libarrow-12.0.0-h8fc5235_4_cpu
+libarrow-12.0.0-h8fc5235_5_cpu
+libarrow-12.0.0-h7bc8ed6_6_cpu
+libarrow-12.0.0-h7bc8ed6_7_cpu
+libarrow-12.0.0-h3aa1ecd_8_cpu
+libarrow-12.0.0-hc7cb4ed_8_cpu
+libarrow-12.0.0-hd5f21ce_9_cpu
+libarrow-12.0.0-hb051df6_9_cpu

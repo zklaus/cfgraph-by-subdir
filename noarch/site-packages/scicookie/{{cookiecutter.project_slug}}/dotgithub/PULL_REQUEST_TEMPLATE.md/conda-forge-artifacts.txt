@@ -1,0 +1,2 @@
+scicookie-0.6.1-pyh707e725_0
+scicookie-0.6.2-pyh707e725_0

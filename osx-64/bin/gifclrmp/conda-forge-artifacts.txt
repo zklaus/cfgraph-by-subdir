@@ -1,0 +1,14 @@
+giflib-5.1.2-0
+giflib-5.1.2-1
+giflib-5.1.4-0
+giflib-5.1.4-h470a237_0
+giflib-5.1.4-h470a237_1
+giflib-5.1.4-h1de35cc_1001
+giflib-5.1.7-h01d97ff_0
+giflib-5.1.7-h01d97ff_1
+giflib-5.2.1-h0b31af3_0
+giflib-5.2.1-h0b31af3_1
+libwebp-1.1.0-hd3bf737_1
+giflib-5.2.1-h0b31af3_2
+giflib-5.2.1-hbcb3906_2
+giflib-5.2.1-hb7f2c08_3

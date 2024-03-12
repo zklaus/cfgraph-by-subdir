@@ -1,0 +1,8 @@
+r-marginaleffects-0.14.0-r42h93f32a7_0
+r-marginaleffects-0.14.0-r43h93f32a7_0
+r-marginaleffects-0.15.0-r42h93f32a7_0
+r-marginaleffects-0.15.0-r43h93f32a7_0
+r-marginaleffects-0.15.1-r43h93f32a7_0
+r-marginaleffects-0.15.1-r42h93f32a7_0
+r-marginaleffects-0.16.0-r43h93f32a7_0
+r-marginaleffects-0.16.0-r42h93f32a7_0

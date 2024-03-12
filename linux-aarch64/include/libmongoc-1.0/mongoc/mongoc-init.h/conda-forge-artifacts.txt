@@ -1,0 +1,6 @@
+libmongoc-1.22.0-h0863bf3_0
+libmongoc-1.22.0-h99c7dba_0
+libmongoc-1.22.1-h0863bf3_0
+libmongoc-1.22.1-h99c7dba_0
+libmongoc-1.23.2-h113a07b_0
+libmongoc-1.23.2-h2b80699_0

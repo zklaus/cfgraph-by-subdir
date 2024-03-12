@@ -1,0 +1,6 @@
+r-partitions-1.10_1-r36h4efb63e_0
+r-partitions-1.10_1-r40h4efb63e_0
+r-partitions-1.10_2-r36h4efb63e_0
+r-partitions-1.10_2-r40h4efb63e_0
+r-partitions-1.10_2-r41h9951f98_0
+r-partitions-1.10_2-r40h9951f98_0

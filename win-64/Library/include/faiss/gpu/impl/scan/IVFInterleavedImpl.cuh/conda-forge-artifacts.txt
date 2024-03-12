@@ -1,0 +1,17 @@
+libfaiss-1.7.1-cuda112h0f75059_0_cuda
+libfaiss-1.7.1-cuda111hbde4fbc_0_cuda
+libfaiss-1.7.1-cuda102h4b21b0d_0_cuda
+libfaiss-1.7.1-cuda110hfdcb733_0_cuda
+libfaiss-1.7.1-cuda112h0f75059_1_cuda
+libfaiss-1.7.1-cuda111hbde4fbc_1_cuda
+libfaiss-1.7.1-cuda102h4b21b0d_1_cuda
+libfaiss-1.7.1-cuda110hfdcb733_1_cuda
+libfaiss-1.7.2-cuda102h4b21b0d_0_cuda
+libfaiss-1.7.2-cuda112h0f75059_0_cuda
+libfaiss-1.7.2-cuda112h33bf9e0_1_cuda
+libfaiss-1.7.2-cuda102h4c6e0b6_1_cuda
+libfaiss-1.7.2-cuda112h33bf9e0_2_cuda
+libfaiss-1.7.2-cuda102h4c6e0b6_3_cuda
+libfaiss-1.7.2-cuda112h33bf9e0_3_cuda
+libfaiss-1.7.3-cuda112h33bf9e0_0_cuda
+libfaiss-1.7.4-cuda112h33bf9e0_0_cuda

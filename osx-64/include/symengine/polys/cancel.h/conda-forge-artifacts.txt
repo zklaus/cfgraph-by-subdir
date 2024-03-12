@@ -1,0 +1,11 @@
+symengine-0.6.0-h06f2a49_0
+symengine-0.6.0-h46328d4_1
+symengine-0.7.0-h8fb5156_0
+symengine-0.7.0-h8fb5156_1
+symengine-0.8.0-h3b6de08_0
+symengine-0.8.1-h3b6de08_0
+symengine-0.8.1-he032496_1
+symengine-0.9.0-he032496_0
+symengine-0.9.0-h754f8cb_1
+symengine-0.10.1-hd6c17c2_0
+symengine-0.11.1-h9f63a94_0

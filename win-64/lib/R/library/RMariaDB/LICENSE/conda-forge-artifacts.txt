@@ -1,0 +1,11 @@
+r-rmariadb-1.1.2-r41ha856d6a_0
+r-rmariadb-1.1.2-r40ha856d6a_0
+r-rmariadb-1.2.0-r41ha856d6a_0
+r-rmariadb-1.2.0-r40ha856d6a_0
+r-rmariadb-1.2.1-r40ha856d6a_0
+r-rmariadb-1.2.1-r41ha856d6a_0
+r-rmariadb-1.2.2-r41ha856d6a_0
+r-rmariadb-1.2.2-r40ha856d6a_0
+r-rmariadb-1.2.2-r41ha856d6a_1
+r-rmariadb-1.2.2-r41ha856d6a_2
+r-rmariadb-1.2.2-r41ha856d6a_3

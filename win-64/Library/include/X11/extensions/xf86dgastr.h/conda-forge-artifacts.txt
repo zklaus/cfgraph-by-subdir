@@ -1,0 +1,11 @@
+xorg-xf86dgaproto-2.1-0
+xorg-xf86dgaproto-2.1-hbaa294b_1
+xorg-xf86dgaproto-2.1-hcb389fa_1
+xorg-xf86dgaproto-2.1-h301d43c_1001
+xorg-xorgproto-2021.4-hcd874cb_0
+xorg-xorgproto-2021.5-hcd874cb_0
+xorg-xorgproto-2022.1-hcd874cb_0
+xorg-xorgproto-2022.2-hcd874cb_0
+xorg-xorgproto-2022.2-hcd874cb_1
+xorg-xorgproto-2023.1-hcd874cb_0
+xorg-xorgproto-2023.2-hcd874cb_0

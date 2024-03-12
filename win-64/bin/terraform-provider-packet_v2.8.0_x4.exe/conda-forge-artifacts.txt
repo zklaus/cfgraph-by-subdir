@@ -1,0 +1,2 @@
+terraform-provider-packet-2.8.0-h33c4730_0
+terraform-provider-packet-2.8.0-h918b63b_0

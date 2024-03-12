@@ -1,0 +1,13 @@
+xtensor-fftw-0.1.2-0
+xtensor-fftw-0.2.1-0
+xtensor-fftw-0.2.2-1
+xtensor-fftw-0.2.3-0
+xtensor-fftw-0.2.4-0
+xtensor-fftw-0.2.4-hfc679d8_1
+xtensor-fftw-0.2.5-hfc679d8_0
+xtensor-fftw-0.2.5-h0a44026_1000
+xtensor-fftw-0.2.5-hfc679d8_1
+xtensor-fftw-0.2.5-h0a44026_1001
+xtensor-fftw-0.2.6-ha1b3eb9_0
+xtensor-fftw-0.2.6-h6516342_1
+xtensor-fftw-0.2.6-h9a9d8cb_1

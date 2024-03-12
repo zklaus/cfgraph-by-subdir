@@ -1,0 +1,10 @@
+libedit-3.1-0
+libedit-3.1.20170329-0
+libedit-3.1.20170329-haf1bffa_0
+libedit-3.1.20170329-haf1bffa_1
+libedit-3.1.20170329-hcfe32e1_1001
+libedit-3.1.20191231-hed1e85f_0
+libedit-3.1.20191231-hed1e85f_1
+libcurl-7.71.1-he6690cf_2
+libedit-3.1.20191231-hed1e85f_2
+libedit-3.1.20191231-h0678c8f_2

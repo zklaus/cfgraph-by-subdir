@@ -1,0 +1,4 @@
+pycbc-2.2.2-py38h02b2b47_0
+pycbc-2.2.2-py39h9e48061_0
+pycbc-2.2.2-py310h9fcddc5_0
+pycbc-2.2.2-py311h114ad20_0

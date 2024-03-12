@@ -1,0 +1,5 @@
+gstreamer-1.8.0-0
+gstreamer-1.8.0-1
+gstreamer-1.8.0-2
+gstreamer-1.12.4-h61a6719_0
+gstreamer-1.12.5-h61a6719_0

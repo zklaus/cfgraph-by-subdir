@@ -1,0 +1,8 @@
+libastra-2.0.0-cuda11.2hb8489e9_1
+libastra-2.0.0-cuda11.0he9222c6_1
+libastra-2.0.0-cuda10.2h35619c4_1
+libastra-2.0.0-cuda11.1h1ba20c1_1
+libastra-2.1.0-cuda10.2h35619c4_0
+libastra-2.1.0-cuda11.0he9222c6_0
+libastra-2.1.0-cuda11.2hb8489e9_0
+libastra-2.1.0-cuda11.1h1ba20c1_0

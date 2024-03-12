@@ -1,0 +1,10 @@
+swig-4.0.2-h9f76cd9_1
+swig-4.0.2-hc25a523_2
+swig-4.1.0-hb7217d7_0
+swig-4.1.0-hb7217d7_2
+swig-4.1.0-hc10c7ab_3
+swig-4.1.0-h799ce0a_4
+swig-4.1.1-h799ce0a_0
+swig-4.1.1-h89a714e_1
+swig-4.1.1-h52b2c5e_1
+swig-4.1.1-hea266f9_2

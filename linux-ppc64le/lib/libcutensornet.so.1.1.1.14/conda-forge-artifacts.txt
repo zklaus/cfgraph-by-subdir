@@ -1,0 +1,3 @@
+cuquantum-22.07.1.14-hc9efd5c_0
+cutensornet-1.1.1-hc9efd5c_0
+cutensornet-1.1.1-hc9efd5c_1

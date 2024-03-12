@@ -1,0 +1,16 @@
+r-digest-0.6.26-r36h096a1c2_0
+r-digest-0.6.26-r40h096a1c2_0
+r-digest-0.6.27-r36h096a1c2_0
+r-digest-0.6.27-r40h096a1c2_0
+r-digest-0.6.27-r40ha856d6a_0
+r-digest-0.6.27-r36ha856d6a_0
+r-digest-0.6.27-r41ha856d6a_0
+r-digest-0.6.28-r41ha856d6a_0
+r-digest-0.6.28-r40ha856d6a_0
+r-digest-0.6.29-r40ha856d6a_0
+r-digest-0.6.29-r41ha856d6a_0
+r-digest-0.6.29-r41ha856d6a_1
+r-digest-0.6.30-r41ha856d6a_0
+r-digest-0.6.31-r41ha856d6a_0
+r-digest-0.6.31-r41ha856d6a_1
+r-digest-0.6.33-r41ha856d6a_0

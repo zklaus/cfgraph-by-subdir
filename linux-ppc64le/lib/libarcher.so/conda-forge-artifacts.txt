@@ -1,0 +1,10 @@
+llvm-openmp-10.0.0-h1bb5118_0
+llvm-openmp-10.0.1-h1bb5118_0
+llvm-openmp-11.0.0-h6630369_1
+llvm-openmp-11.0.1-h2acdbc0_0
+llvm-openmp-11.1.0-h2acdbc0_0
+libcf-1.0.3-py36h63704df_111
+libcf-1.0.3-py39h411ed7c_111
+libcf-1.0.3-py38h6f443b5_111
+libcf-1.0.3-py37h996f138_111
+libcf-1.0.3-py37h3416dfb_111

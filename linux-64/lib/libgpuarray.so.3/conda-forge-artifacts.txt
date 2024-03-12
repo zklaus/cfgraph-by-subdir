@@ -1,0 +1,11 @@
+libgpuarray-0.7.0-0
+libgpuarray-0.7.1-0
+libgpuarray-0.7.2-0
+libgpuarray-0.7.3-0
+libgpuarray-0.7.4-0
+libgpuarray-0.7.5-0
+libgpuarray-0.7.6-0
+libgpuarray-0.7.6-h470a237_2
+libgpuarray-0.7.6-h470a237_3
+libgpuarray-0.7.6-h14c3975_1003
+libgpuarray-0.7.6-h7f98852_1003

@@ -1,0 +1,5 @@
+xorg-xf86vidmodeproto-2.3.1-0
+xorg-xf86vidmodeproto-2.3.1-h470a237_1
+xorg-xf86vidmodeproto-2.3.1-h1de35cc_1001
+xorg-xf86vidmodeproto-2.3.1-h0b31af3_1002
+xorg-xf86vidmodeproto-2.3.1-h0d85af4_1002

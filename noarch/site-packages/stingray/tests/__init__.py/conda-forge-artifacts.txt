@@ -1,0 +1,6 @@
+stingray-0.3-pyha21a80b_1
+stingray-1.0-pyha21a80b_0
+stingray-1.1-pyha21a80b_0
+stingray-1.1.1-pyha21a80b_0
+stingray-1.1.2-pyha21a80b_0
+stingray-1.1.2.4-pyhc1e730c_0

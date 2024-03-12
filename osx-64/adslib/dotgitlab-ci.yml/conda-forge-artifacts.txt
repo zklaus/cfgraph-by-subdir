@@ -1,0 +1,11 @@
+pyads-3.3.9-py39h8ee36c8_1
+pyads-3.3.9-py310h88cfcbd_1
+pyads-3.3.9-py311h5fe6e05_1
+pyads-3.3.9-py38h15a1a5b_1
+pyads-3.3.9-py39h801e03e_1
+pyads-3.3.9-py310h88cfcbd_2
+pyads-3.3.9-py311h5fe6e05_2
+pyads-3.3.9-py39h801e03e_2
+pyads-3.3.9-py39h8ee36c8_2
+pyads-3.3.9-py312h49ebfd2_2
+pyads-3.3.9-py38h15a1a5b_2

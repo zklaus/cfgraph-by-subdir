@@ -1,0 +1,8 @@
+caiman-1.9.16-py310h9e9d8ca_0
+caiman-1.9.16-py311hdf8f085_0
+caiman-1.9.16-py38h940360d_0
+caiman-1.9.16-py39h840bb9f_0
+caiman-1.9.16-py311ha1af104_0
+caiman-1.9.16-py38h39b941c_0
+caiman-1.9.16-py310h14d2ef9_0
+caiman-1.9.16-py39h73e1029_0

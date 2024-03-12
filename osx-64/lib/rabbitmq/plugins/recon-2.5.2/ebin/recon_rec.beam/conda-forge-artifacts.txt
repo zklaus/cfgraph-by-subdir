@@ -1,0 +1,14 @@
+rabbitmq-server-3.9.14-h694c41f_0
+rabbitmq-server-3.9.15-h694c41f_0
+rabbitmq-server-3.10.2-h694c41f_0
+rabbitmq-server-3.10.4-h694c41f_0
+rabbitmq-server-3.10.5-h694c41f_0
+rabbitmq-server-3.10.6-h694c41f_0
+rabbitmq-server-3.10.7-h694c41f_0
+rabbitmq-server-3.10.8-h694c41f_0
+rabbitmq-server-3.11.0-h694c41f_0
+rabbitmq-server-3.11.1-h694c41f_0
+rabbitmq-server-3.11.2-h694c41f_0
+rabbitmq-server-3.11.3-h694c41f_0
+rabbitmq-server-3.11.4-h694c41f_0
+rabbitmq-server-3.11.5-h694c41f_0

@@ -1,0 +1,6 @@
+pywin32-303-py311ha68e1ae_1
+pywin32-304-py311h12c1d0e_1
+pywin32-304-py311h12c1d0e_2
+pywin32-306-py311h12c1d0e_0
+pywin32-306-py311h12c1d0e_1
+pywin32-306-py311h12c1d0e_2

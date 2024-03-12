@@ -1,0 +1,8 @@
+proj-data-1.0-0
+proj-data-1.0-1
+proj-data-1.2-hd8ed1ab_0
+proj-data-1.3-hd8ed1ab_0
+proj-data-1.5-hd8ed1ab_0
+proj-data-1.6-hd8ed1ab_0
+proj-data-1.8-hd8ed1ab_0
+proj-data-1.9-hd8ed1ab_0

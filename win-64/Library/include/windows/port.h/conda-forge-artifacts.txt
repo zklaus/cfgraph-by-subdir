@@ -1,0 +1,7 @@
+sparsehash-2.0.3-vc10_0
+sparsehash-2.0.3-vc14_0
+sparsehash-2.0.3-vc9_0
+sparsehash-2.0.3-h6538335_1000
+sparsehash-2.0.3-hc56fc5f_1000
+sparsehash-2.0.4-h0e60522_0
+sparsehash-2.0.4-h63175ca_1

@@ -1,0 +1,4 @@
+coincbc-2.10.4-h186aa8c_0
+coin-or-clp-1.17.4-h005a654_0
+coin-or-clp-1.17.4-hc022024_0
+coin-or-clp-1.17.4-hc022024_1

@@ -1,0 +1,8 @@
+r-slider-0.3.0-r42h8f965d6_0
+r-slider-0.3.0-r41h8f965d6_0
+r-slider-0.3.0-r43h9da1b96_1
+r-slider-0.3.0-r42h9da1b96_1
+r-slider-0.3.0-r42hd301276_1
+r-slider-0.3.0-r43hd301276_1
+r-slider-0.3.1-r42hd301276_0
+r-slider-0.3.1-r43hd301276_0

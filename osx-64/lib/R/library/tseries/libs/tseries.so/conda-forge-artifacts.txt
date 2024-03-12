@@ -1,0 +1,12 @@
+r-tseries-0.10_40-r3.3.2_0
+r-tseries-0.10_40-r3.4.1_0
+r-tseries-0.10_40-r341ha44fe06_1
+r-tseries-0.10_40-r351ha44fe06_1
+r-tseries-0.10_40-r351hdc02c5d_1001
+r-tseries-0.10_46-r351hdc02c5d_1000
+r-tseries-0.10_46-r351ha44fe06_0
+r-tseries-0.10_47-r35haf69682_0
+r-tseries-0.10_47-r35haf69682_1
+r-tseries-0.10_47-r35h85e41a7_2
+r-tseries-0.10_47-r35haf69682_2
+r-tseries-0.10_47-r35h3830744_3

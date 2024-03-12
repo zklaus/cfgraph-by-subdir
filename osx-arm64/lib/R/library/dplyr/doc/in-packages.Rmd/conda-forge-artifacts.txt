@@ -1,0 +1,10 @@
+r-dplyr-1.1.1-r41h9a38a31_0
+r-dplyr-1.1.1-r42h9a38a31_0
+r-dplyr-1.1.2-r41he62749d_0
+r-dplyr-1.1.2-r42he62749d_0
+r-dplyr-1.1.2-r42he62749d_1
+r-dplyr-1.1.2-r43he62749d_1
+r-dplyr-1.1.3-r42he62749d_0
+r-dplyr-1.1.3-r43he62749d_0
+r-dplyr-1.1.4-r43he96f11e_0
+r-dplyr-1.1.4-r42he96f11e_0

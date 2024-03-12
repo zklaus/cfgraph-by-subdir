@@ -1,0 +1,1 @@
+google-cloud-cpp-1.15.0-hcdce923_0

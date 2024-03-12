@@ -1,0 +1,11 @@
+dioptas-0.4.1-py35hb66c992_0
+dioptas-0.4.1-py36hb66c992_0
+dioptas-0.4.1-py37hb66c992_1000
+dioptas-0.4.1-py36hb66c992_1000
+dioptas-0.4.1-py36he65f816_1001
+dioptas-0.4.1-py37he65f816_1001
+dioptas-0.4.1-py36h028be33_1002
+dioptas-0.4.1-py37h028be33_1002
+dioptas-0.5.7-py310h8d17308_0
+dioptas-0.5.7-py39ha55989b_0
+dioptas-0.5.7-py311ha68e1ae_0

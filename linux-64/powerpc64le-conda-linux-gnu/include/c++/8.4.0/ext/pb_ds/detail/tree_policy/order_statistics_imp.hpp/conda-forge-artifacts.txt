@@ -1,0 +1,8 @@
+libstdcxx-devel_linux-ppc64le-8.4.0-h20c6264_14
+libstdcxx-devel_linux-ppc64le-8.4.0-h20c6264_15
+libstdcxx-devel_linux-ppc64le-8.4.0-h20c6264_16
+libstdcxx-devel_linux-ppc64le-8.4.0-h20c6264_17
+libstdcxx-devel_linux-ppc64le-8.4.0-h4e898c6_18
+libstdcxx-devel_linux-ppc64le-8.4.0-h4e898c6_19
+gcc_bootstrap_linux-ppc64le-8.4.0-he1cd95b_32
+gcc_bootstrap_linux-ppc64le-8.4.0-he1cd95b_33

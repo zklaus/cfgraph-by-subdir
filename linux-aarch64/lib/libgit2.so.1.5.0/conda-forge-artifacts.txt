@@ -1,0 +1,5 @@
+libgit2-1.5.0-ha9a0767_0
+libgit2-1.5.0-he9ce915_0
+libgit2-1.5.0-h04440ee_1
+libgit2-1.5.0-h12bee51_1
+libgit2-1.6.0-h8cfa638_0

@@ -1,0 +1,7 @@
+intel-opencl-clang-9.0.0-hc9558a2_0
+intel-opencl-clang-11.0.0-h4bd325d_0
+intel-opencl-clang-11.0.0-h4bd325d_1
+intel-opencl-clang-10.0.0-h4bd325d_0
+intel-opencl-clang-10.0.0-h4bd325d_1
+intel-opencl-clang-11.0.0-h4bd325d_2
+intel-opencl-clang-10.0.0-h4bd325d_2

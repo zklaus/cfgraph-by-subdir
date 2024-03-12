@@ -1,0 +1,11 @@
+qt5-advanced-docking-system-4.0.1-h694c41f_0
+qt5-advanced-docking-system-4.0.1-h7d706ec_1
+qt5-advanced-docking-system-4.0.2-h7d706ec_0
+qt5-advanced-docking-system-4.0.3-h7d706ec_0
+qt5-advanced-docking-system-4.0.3-hf6f55f4_0
+qt5-advanced-docking-system-4.0.3-hf6f55f4_1
+qt5-advanced-docking-system-4.0.4-hf6f55f4_1
+qt5-advanced-docking-system-4.1.0-hf6f55f4_0
+qt5-advanced-docking-system-4.1.1-hf6f55f4_0
+qt5-advanced-docking-system-4.2.0-hf6f55f4_0
+qt5-advanced-docking-system-4.2.1-hf6f55f4_0

@@ -1,0 +1,13 @@
+openjdk-8.0.282-h27ca646_0
+openjdk-11.0.9.1-hf7e6567_0
+openjdk-11.0.9.1-h069f3c1_1
+openjdk-8.0.302-h3422bc3_0
+openjdk-8.0.312-h3422bc3_0
+openjdk-11.0.9.1-he8acd94_2
+openjdk-11.0.9.1-he8acd94_3
+openjdk-11.0.15-he8acd94_0
+openjdk-8.0.332-he4db4b2_0
+openjdk-17.0.3-he8acd94_0
+openjdk-11.0.15-he8acd94_1
+openjdk-17.0.3-h8128057_1
+openjdk-8.0.382-hb547adb_0

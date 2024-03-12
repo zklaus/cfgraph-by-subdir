@@ -1,0 +1,1 @@
+soapysdr-module-rtlsdr-0.3.0-ha1b3eb9_0

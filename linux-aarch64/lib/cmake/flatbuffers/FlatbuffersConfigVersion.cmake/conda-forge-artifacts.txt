@@ -1,0 +1,5 @@
+flatbuffers-1.11.0-he1b5a44_0
+flatbuffers-1.12.0-h7fd3ca4_0
+flatbuffers-1.12.1-h01db608_0
+flatbuffers-2.0.0-h01db608_0
+flatbuffers-2.0.6-h4de3ea5_0

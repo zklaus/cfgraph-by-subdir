@@ -1,0 +1,2 @@
+libheif-1.15.2-gpl_h293b651_105
+libheif-1.15.2-lgpl_hc747655_5

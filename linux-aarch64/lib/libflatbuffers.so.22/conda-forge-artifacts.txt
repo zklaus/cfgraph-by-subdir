@@ -1,0 +1,6 @@
+flatbuffers-22.9.24-hd600fc2_0
+flatbuffers-22.9.29-hd600fc2_0
+flatbuffers-22.10.25-hd600fc2_0
+flatbuffers-22.12.06-hd600fc2_0
+flatbuffers-22.12.06-hd600fc2_1
+flatbuffers-22.12.06-hd600fc2_2

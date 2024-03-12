@@ -1,0 +1,9 @@
+r-minqa-1.2.4-r41h24b8024_1006
+r-minqa-1.2.4-r40h24b8024_1006
+r-minqa-1.2.4-r41h141827b_1007
+r-minqa-1.2.4-r42h141827b_1007
+r-minqa-1.2.5-r42h141827b_0
+r-minqa-1.2.5-r42hc2f3928_1
+r-minqa-1.2.5-r43hc2f3928_1
+r-minqa-1.2.6-r43hc2f3928_0
+r-minqa-1.2.6-r42hc2f3928_0

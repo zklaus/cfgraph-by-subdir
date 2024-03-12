@@ -1,0 +1,11 @@
+libbrial-1.2.5-h54fda31_1
+libbrial-1.2.7-h54fda31_0
+libbrial-1.2.7-h376fa32_1
+libbrial-1.2.7-h83f8d52_2
+libbrial-1.2.7-h6999639_2
+libbrial-1.2.7-h7017fde_2
+libbrial-1.2.7-h973f25d_2
+libbrial-1.2.10-h0aa07eb_0
+libbrial-1.2.11-h5320ee1_0
+libbrial-1.2.12-hbc0ab5a_0
+libbrial-1.2.12-h284c7cb_1

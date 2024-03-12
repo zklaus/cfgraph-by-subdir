@@ -1,0 +1,4 @@
+xproperty-0.10.4-h2acdbc0_0
+xproperty-0.11.0-h2acdbc0_0
+xproperty-0.11.0-h2acdbc0_1
+xproperty-0.11.0-he01d56d_2

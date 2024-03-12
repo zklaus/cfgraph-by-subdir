@@ -1,0 +1,2 @@
+pyscal-2.10.18-py39hd9c4c94_2
+pyscal-2.10.18-py39hc2250db_3

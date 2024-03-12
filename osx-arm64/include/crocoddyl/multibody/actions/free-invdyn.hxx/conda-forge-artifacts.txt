@@ -1,0 +1,8 @@
+crocoddyl-2.0.0-py39hfa2db80_0
+crocoddyl-2.0.0-py310hec731f3_0
+crocoddyl-2.0.0-py311h97ccee6_0
+crocoddyl-2.0.0-py38hb4be19a_0
+crocoddyl-2.0.0-py311h7fc7af5_1
+crocoddyl-2.0.0-py39h92feea6_1
+crocoddyl-2.0.0-py310hadf0eae_1
+crocoddyl-2.0.0-py38h85f6d59_1

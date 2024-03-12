@@ -1,0 +1,4 @@
+cni-plugins-0.9.0-ha8f183a_0
+cni-plugins-0.9.1-ha8f183a_0
+cni-plugins-1.0.1-ha8f183a_0
+cni-plugins-1.3.0-ha8f183a_0

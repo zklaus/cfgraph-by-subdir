@@ -1,0 +1,9 @@
+r-sna-2.4-r351h6115d3f_1001
+r-sna-2.4-r35hda5aaf8_1002
+r-sna-2.4-r36hda5aaf8_1002
+r-sna-2.5-r36hda5aaf8_0
+r-sna-2.5-r35hda5aaf8_0
+r-sna-2.5-r40hda5aaf8_1
+r-sna-2.5-r36hda5aaf8_1
+r-sna-2.6-r40h6d2157b_0
+r-sna-2.7-r40h6d2157b_0

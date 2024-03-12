@@ -1,0 +1,13 @@
+r-nor1mix-1.2_3-r351_2001
+r-nor1mix-1.3_0-r35_0
+r-nor1mix-1.3_0-r36_1
+r-nor1mix-1.3_0-r35_1
+r-nor1mix-1.3_0-r36_2
+r-nor1mix-1.3_0-r40_2
+r-nor1mix-1.3_0-r40hc72bb7e_2
+r-nor1mix-1.3_0-r41hc72bb7e_2
+r-nor1mix-1.3_0-r42hc72bb7e_3
+r-nor1mix-1.3_0-r41hc72bb7e_3
+r-nor1mix-1.3_0-r43hc72bb7e_4
+r-nor1mix-1.3_0-r42hc72bb7e_4
+r-nor1mix-1.3_2-r42hc72bb7e_0

@@ -1,0 +1,10 @@
+r-dggridr-2.0.4-r40h7525677_0
+r-dggridr-2.0.4-r41h7525677_0
+r-dggridr-2.0.4-r42h7525677_1
+r-dggridr-2.0.4-r41h7525677_1
+r-dggridr-3.0.0-r41hcb278e6_0
+r-dggridr-3.0.0-r42hcb278e6_0
+r-dggridr-3.0.0-r41h38f115c_1
+r-dggridr-3.0.0-r42h38f115c_1
+r-dggridr-3.0.0-r42ha503ecb_2
+r-dggridr-3.0.0-r43ha503ecb_2

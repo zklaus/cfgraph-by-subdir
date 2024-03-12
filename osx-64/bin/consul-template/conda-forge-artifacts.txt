@@ -1,0 +1,10 @@
+consul-template-0.18.2-0
+consul-template-0.18.3-0
+consul-template-0.18.5-0
+consul-template-0.19.0-0
+consul-template-0.19.4-0
+consul-template-0.19.5-0
+consul-template-0.19.5-h81701ea_1000
+consul-template-0.20.0-h375a9b1_0
+consul-template-0.21.0-h375a9b1_0
+consul-template-0.24.1-h375a9b1_0

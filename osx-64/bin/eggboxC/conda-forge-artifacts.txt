@@ -1,0 +1,11 @@
+multinest-3.10-1
+multinest-3.10-2
+multinest-3.10-h1f444ea_3
+multinest-3.10-h7a5a08d_4
+multinest-3.10-h6355c69_5
+multinest-3.10-h7a5a08d_5
+multinest-3.10-h4f60020_6
+multinest-3.10-hc45b641_6
+multinest-3.10-hc069c26_7
+multinest-3.10-h0b0bc6e_8
+multinest-3.10-h5eb48b7_8

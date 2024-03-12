@@ -1,0 +1,6 @@
+soapysdr-module-lms7-20.10.0-h01fb3c3_1
+soapysdr-module-lms7-20.10.0-hcbf95fb_2
+soapysdr-module-lms7-22.09.0-hcbf95fb_0
+soapysdr-module-lms7-22.09.1-hcbf95fb_0
+soapysdr-module-lms7-23.10.0-hf2e4411_0
+soapysdr-module-lms7-23.11.0-hf2e4411_0

@@ -1,0 +1,11 @@
+r-infer-0.3.1-r351h6115d3f_1000
+r-infer-0.4.0-r351h6115d3f_1000
+r-infer-0.4.0.1-r351h6115d3f_0
+r-infer-0.4.0.1-r36h6115d3f_1
+r-infer-0.4.0.1-r35h6115d3f_1
+r-infer-0.5.0-r35h6115d3f_0
+r-infer-0.5.0-r36h6115d3f_0
+r-infer-0.5.1-r36h6115d3f_0
+r-infer-0.5.1-r35h6115d3f_0
+r-infer-0.5.1-r40h6115d3f_1
+r-infer-0.5.1-r36h6115d3f_1

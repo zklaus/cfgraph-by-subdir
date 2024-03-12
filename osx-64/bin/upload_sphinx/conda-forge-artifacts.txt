@@ -1,0 +1,2 @@
+sphinx-pypi-upload-0.2.1-py27_0
+sphinx-pypi-upload-0.2.1-py27_1000

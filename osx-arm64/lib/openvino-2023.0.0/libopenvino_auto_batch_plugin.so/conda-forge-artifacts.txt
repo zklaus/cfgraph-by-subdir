@@ -1,0 +1,2 @@
+libopenvino-auto-batch-plugin-2023.0.0-h13dd4ca_0
+libopenvino-auto-batch-plugin-2023.0.0-h13dd4ca_1

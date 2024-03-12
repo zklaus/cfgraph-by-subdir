@@ -1,0 +1,9 @@
+cgsi-gsoap-1.3.11-he1b5a44_0
+cgsi-gsoap-1.3.11-hc0f3447_1
+cgsi-gsoap-1.3.11-h876a3cc_2
+cgsi-gsoap-1.3.11-h7c3e21f_3
+cgsi-gsoap-1.3.11-haf59e25_4
+cgsi-gsoap-1.3.11-h19db4d4_5
+cgsi-gsoap-1.3.11-h0e6ed7c_6
+cgsi-gsoap-1.3.11-h0e6ed7c_7
+cgsi-gsoap-1.3.11-h8bf5a6f_7

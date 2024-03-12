@@ -1,0 +1,5 @@
+katago-1.11.0-cpu_hfce7730_0
+katago-1.11.0-cpu_h78784b8_1
+katago-1.11.0-cpu_hfce7730_1
+katago-1.11.0-cpu_h4be398b_2
+katago-1.13.2-cpu_h4be398b_0

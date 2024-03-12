@@ -1,0 +1,15 @@
+scitokens-cpp-0.6.2-h716ea93_1
+scitokens-cpp-0.6.3-h716ea93_0
+scitokens-cpp-0.6.3-h716ea93_1
+scitokens-cpp-0.6.3-h0f2bcd6_2
+scitokens-cpp-0.6.3-h716ea93_2
+scitokens-cpp-0.7.0-hed199aa_0
+scitokens-cpp-0.7.0-h1a7c9d9_0
+scitokens-cpp-0.7.1-hed199aa_0
+scitokens-cpp-0.7.1-h1a7c9d9_0
+scitokens-cpp-0.7.2-h5e47928_0
+scitokens-cpp-0.7.2-h6657367_0
+scitokens-cpp-0.7.3-hf8a031d_0
+scitokens-cpp-1.0.0-hf8a031d_0
+scitokens-cpp-1.0.1-hf8a031d_0
+scitokens-cpp-1.0.2-hf8a031d_0

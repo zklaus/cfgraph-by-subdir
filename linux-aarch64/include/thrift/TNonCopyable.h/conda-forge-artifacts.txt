@@ -1,0 +1,15 @@
+libthrift-0.15.0-hb5cdc64_0
+libthrift-0.15.0-hb5cdc64_1
+libthrift-0.15.0-h00f4ebf_1
+libthrift-0.16.0-h0bc7dfc_0
+libthrift-0.16.0-h0cb72c4_0
+libthrift-0.16.0-h0bc7dfc_1
+libthrift-0.16.0-h0cb72c4_1
+libthrift-0.16.0-h81a1a33_2
+libthrift-0.16.0-h6e53a4e_2
+libthrift-0.18.0-h940dc8e_0
+libthrift-0.18.1-h940dc8e_0
+libthrift-0.18.1-h0035360_1
+libthrift-0.18.1-h0035360_2
+libthrift-0.19.0-h0035360_0
+libthrift-0.19.0-h043aeee_1

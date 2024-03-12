@@ -1,0 +1,6 @@
+smesh-9.6.0-hd75f199_1
+smesh-9.6.0-h45be948_2
+smesh-9.6.0.1-h7a081ec_0
+smesh-9.6.0.2-h7a081ec_0
+smesh-9.7.0.1-h7a081ec_0
+smesh-9.7.0.1-he851e0b_1

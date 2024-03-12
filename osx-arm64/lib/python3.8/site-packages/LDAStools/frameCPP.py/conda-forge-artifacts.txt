@@ -1,0 +1,10 @@
+python-ldas-tools-framecpp-2.6.12-py38h3777fb4_0
+python-ldas-tools-framecpp-2.6.12-py38h3777fb4_1
+python-ldas-tools-framecpp-2.6.12-py38h6724fcd_2
+python-ldas-tools-framecpp-2.6.13-py38h6724fcd_0
+python-ldas-tools-framecpp-2.6.13-py38h6724fcd_1
+python-ldas-tools-framecpp-2.6.14-py38h6724fcd_0
+python-ldas-tools-framecpp-2.6.14-py38h61dac83_1
+python-ldas-tools-framecpp-2.6.14-py38h61dac83_2
+python-ldas-tools-framecpp-3.0.0-py38hb054daf_0
+python-ldas-tools-framecpp-3.0.0-py38hbc7e259_1

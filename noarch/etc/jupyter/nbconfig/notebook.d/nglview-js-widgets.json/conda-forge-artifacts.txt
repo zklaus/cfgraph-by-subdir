@@ -1,0 +1,14 @@
+nglview-2.7.7-pyh5ca1d4c_1
+nglview-2.7.8-pyh59e0f4d_0
+nglview-3.0.0-pyh59e0f4d_0
+nglview-3.0.1-pyh59e0f4d_0
+nglview-3.0.3-pyh8a188c0_0
+nglview-3.0.4-pyhba93850_0
+nglview-3.0.4-pyhe68d6a8_0
+nglview-3.0.4-pyh2970c15_0
+nglview-3.0.5-pyhba93850_0
+nglview-3.0.5-pyhe68d6a8_0
+nglview-3.0.6-pyhe68d6a8_0
+nglview-3.0.6-pyhba93850_0
+nglview-3.0.8-pyha14e2af_0
+nglview-3.0.8-pyh1da8cd4_0

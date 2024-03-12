@@ -1,0 +1,12 @@
+libprotobuf-3.19.0-h7755175_0
+libprotobuf-static-3.19.0-h7755175_0
+libprotobuf-3.19.1-h7755175_0
+libprotobuf-static-3.19.1-h7755175_0
+libprotobuf-3.19.2-h7755175_0
+libprotobuf-static-3.19.2-h7755175_0
+libprotobuf-3.19.3-h7755175_0
+libprotobuf-static-3.19.3-h7755175_0
+libprotobuf-3.19.4-h7755175_0
+libprotobuf-static-3.19.4-h7755175_0
+libprotobuf-3.19.6-h12be248_0
+libprotobuf-static-3.19.6-h12be248_0

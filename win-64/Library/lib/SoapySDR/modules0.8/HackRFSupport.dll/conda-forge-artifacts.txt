@@ -1,0 +1,1 @@
+soapysdr-module-hackrf-0.3.4-h23704b7_0

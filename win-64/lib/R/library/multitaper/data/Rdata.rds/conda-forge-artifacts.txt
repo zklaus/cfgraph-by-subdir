@@ -1,0 +1,10 @@
+r-multitaper-1.0_15-r40h87ffe87_0
+r-multitaper-1.0_15-r36h87ffe87_0
+r-multitaper-1.0_15-r36h87ffe87_1
+r-multitaper-1.0_15-r40h87ffe87_1
+r-multitaper-1.0_15-r40he816bda_1
+r-multitaper-1.0_15-r41he816bda_1
+r-multitaper-1.0_15-r41he816bda_2
+r-multitaper-1.0_15-r41he816bda_3
+r-multitaper-1.0_16-r41he816bda_0
+r-multitaper-1.0_17-r41he816bda_0

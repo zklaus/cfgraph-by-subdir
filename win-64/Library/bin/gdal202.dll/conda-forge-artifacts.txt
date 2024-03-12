@@ -1,0 +1,16 @@
+libgdal-2.2.3-vc14_3
+libgdal-2.2.3-vc9_3
+libgdal-2.2.4-vc14_3
+libgdal-2.2.4-vc14_4
+libgdal-2.2.4-vc14_5
+libgdal-2.2.4-vc9_3
+libgdal-2.2.4-vc9_4
+libgdal-2.2.4-vc9_5
+libgdal-2.2.4-h5df42a0_6
+libgdal-2.2.4-hccecf25_6
+libgdal-2.2.4-hf00ed0c_6
+libgdal-2.2.4-h2cfce8d_8
+libgdal-2.2.4-h47ac16f_8
+libgdal-2.2.4-h9f8b273_9
+libgdal-2.2.4-hd8c9eef_10
+libgdal-2.2.4-h39adc6a_11

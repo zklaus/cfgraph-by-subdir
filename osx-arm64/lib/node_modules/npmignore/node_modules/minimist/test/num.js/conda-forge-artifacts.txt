@@ -1,0 +1,4 @@
+npmignore-0.3.0-ha12bae2_3
+npmignore-0.3.0-hb67532b_3
+npmignore-0.3.1-hb67532b_0
+npmignore-0.3.1-ha12bae2_0

@@ -1,0 +1,8 @@
+gfortran_impl_linux-ppc64le-8.4.0-h230727a_14
+gfortran_impl_linux-ppc64le-8.4.0-h230727a_15
+gfortran_impl_linux-ppc64le-8.4.0-h230727a_16
+gfortran_impl_linux-ppc64le-8.4.0-h371934f_17
+gfortran_impl_linux-ppc64le-8.4.0-he649881_18
+gfortran_impl_linux-ppc64le-8.4.0-he649881_19
+gcc_bootstrap_linux-ppc64le-8.4.0-he1cd95b_32
+gcc_bootstrap_linux-ppc64le-8.4.0-he1cd95b_33

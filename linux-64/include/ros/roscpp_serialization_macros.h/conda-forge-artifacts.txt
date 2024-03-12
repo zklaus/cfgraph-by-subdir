@@ -1,0 +1,1 @@
+ros-roscpp-serialization-0.6.12-he1b5a44_0

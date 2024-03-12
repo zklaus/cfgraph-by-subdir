@@ -1,0 +1,16 @@
+mdfreader-4.1-py39hc89836e_0
+mdfreader-4.1-py37h032687b_0
+mdfreader-4.1-py38hbe852b5_0
+mdfreader-4.1-py37h032687b_1
+mdfreader-4.1-py39hc89836e_1
+mdfreader-4.1-py310h81f86ea_1
+mdfreader-4.1-py38hbe852b5_1
+mdfreader-4.1-py310h936d966_2
+mdfreader-4.1-py39h7cc1f47_2
+mdfreader-4.1-py311hd5badaa_2
+mdfreader-4.1-py38hbd87e4b_2
+mdfreader-4.1-py310hf0b6da5_3
+mdfreader-4.1-py312h5d6a8aa_3
+mdfreader-4.1-py39hd01001f_3
+mdfreader-4.1-py311h4a70a88_3
+mdfreader-4.1-py38h49861b3_3

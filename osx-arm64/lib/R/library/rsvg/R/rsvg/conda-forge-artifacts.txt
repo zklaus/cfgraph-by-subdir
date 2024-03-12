@@ -1,0 +1,8 @@
+r-rsvg-2.4.0-r41h632c1f4_1
+r-rsvg-2.4.0-r42h632c1f4_1
+r-rsvg-2.4.0-r42h632c1f4_2
+r-rsvg-2.4.0-r43h632c1f4_2
+r-rsvg-2.5.0-r42h632c1f4_0
+r-rsvg-2.5.0-r43h632c1f4_0
+r-rsvg-2.6.0-r43h7c37d6a_0
+r-rsvg-2.6.0-r42h7c37d6a_0

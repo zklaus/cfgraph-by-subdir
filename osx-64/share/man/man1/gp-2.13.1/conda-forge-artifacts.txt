@@ -1,0 +1,9 @@
+pari-2.13.2-h797e938_0
+pari-2.13.2-hc641ea6_1_single
+pari-2.13.2-h491590d_1_pthread
+pari-2.13.2-hb521ff5_1_pthread
+pari-2.13.2-hc971eb4_1_single
+pari-2.13.3-h491590d_1_pthread
+pari-2.13.3-hc971eb4_1_single
+pari-2.13.3-hc641ea6_1_single
+pari-2.13.3-hb521ff5_1_pthread

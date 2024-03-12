@@ -1,0 +1,8 @@
+xorg-libxaw-1.0.13-vc14_0
+xorg-libxaw-1.0.13-vc9_0
+xorg-libxaw-1.0.13-hcb389fa_1
+xorg-libxaw-1.0.13-hbaa294b_1
+xorg-libxaw-1.0.13-h301d43c_2
+xorg-libxaw-1.0.13-h301d43c_1002
+xorg-libxaw-1.0.14-hcd874cb_0
+xorg-libxaw-1.0.14-hcd874cb_1

@@ -1,0 +1,5 @@
+capnproto-0.6.1-0
+capnproto-0.6.1-hfc679d8_1
+capnproto-0.6.1-h0ceac7d_2
+capnproto-0.9.1-h45c0eea_0
+capnproto-0.9.1-h45c0eea_1

@@ -1,0 +1,7 @@
+conda-forge-pinning-2020.05.14.17.14.20-0
+conda-forge-pinning-2020.05.18.07.14.19-0
+conda-forge-pinning-2020.05.18.07.24.43-0
+conda-forge-pinning-2020.05.18.11.53.22-0
+conda-forge-pinning-2020.05.18.14.31.44-0
+conda-forge-pinning-2020.05.19.09.34.36-0
+conda-forge-pinning-2020.05.19.13.30.35-0

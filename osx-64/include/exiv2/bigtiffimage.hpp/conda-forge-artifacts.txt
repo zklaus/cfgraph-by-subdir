@@ -1,0 +1,8 @@
+exiv2-0.27.1-ha4feea6_0
+exiv2-v0.27.2-h0350d74_0
+exiv2-v0.27.3-h0350d74_0
+exiv2-v0.27.3-h0350d74_1
+exiv2-v0.27.3-h08432f9_2
+exiv2-v0.27.3-h640f967_2
+exiv2-v0.27.3-hecb95e5_3
+exiv2-0.27.3-hecb95e5_3

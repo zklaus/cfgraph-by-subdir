@@ -1,0 +1,9 @@
+arrow-cpp-0.17.0-py38hee00afd_0
+arrow-cpp-0.17.0-py37h0d146fe_0
+arrow-cpp-0.17.0-py36h227e9d9_0
+arrow-cpp-0.17.0-py37h0d146fe_2_cpu
+arrow-cpp-0.17.0-py38hee00afd_2_cpu
+arrow-cpp-0.17.0-py36h227e9d9_2_cpu
+arrow-cpp-0.17.0-py38h3a0ca0b_2_cpu
+arrow-cpp-0.17.0-py37ha54d5be_2_cpu
+arrow-cpp-0.17.0-py36hc36ec72_2_cpu

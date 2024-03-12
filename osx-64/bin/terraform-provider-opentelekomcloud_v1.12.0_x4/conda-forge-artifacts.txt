@@ -1,0 +1,1 @@
+terraform-provider-opentelekomcloud-1.12.0-h3eaf7b7_0

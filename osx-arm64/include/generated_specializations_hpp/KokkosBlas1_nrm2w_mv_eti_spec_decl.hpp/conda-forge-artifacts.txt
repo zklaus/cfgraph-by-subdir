@@ -1,0 +1,4 @@
+kokkos-kernels-3.7.01-hf2e4e73_1
+kokkos-kernels-3.7.01-hc820d28_2
+kokkos-kernels-4.0.01-hc820d28_0
+kokkos-kernels-3.7.01-hc820d28_3

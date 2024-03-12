@@ -1,0 +1,16 @@
+r-runjags-2.2.0_2-r40h9951f98_0
+r-runjags-2.2.0_2-r41h9951f98_0
+r-runjags-2.2.0_3-r40h9951f98_0
+r-runjags-2.2.0_3-r41h9951f98_0
+r-runjags-2.2.1_5-r41hc4bb905_0
+r-runjags-2.2.1_5-r40hc4bb905_0
+r-runjags-2.2.1_7-r41hc4bb905_0
+r-runjags-2.2.1_7-r40hc4bb905_0
+r-runjags-2.2.1_7-r41h49197e3_1
+r-runjags-2.2.1_7-r42h49197e3_1
+r-runjags-2.2.1_7-r42hac7d2d5_2
+r-runjags-2.2.1_7-r43hac7d2d5_2
+r-runjags-2.2.2_1-r43hac7d2d5_0
+r-runjags-2.2.2_1-r42hac7d2d5_0
+r-runjags-2.2.2_1.1-r42hac7d2d5_0
+r-runjags-2.2.2_1.1-r43hac7d2d5_0

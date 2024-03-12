@@ -1,0 +1,5 @@
+libvdwxc-0.4.0-mpi_openmpi_ha7744de_0
+libvdwxc-0.4.0-nompi_he9f0bb6_0
+libvdwxc-0.4.0-mpi_mpich_hbf7a678_0
+libvdwxc-0.4.0-nompi_hdb005f4_1
+libvdwxc-0.4.0-mpi_openmpi_h9519b6e_1

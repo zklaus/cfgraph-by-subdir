@@ -1,0 +1,17 @@
+libflatsurf-3.9.3-ha12ed4b_0
+libflatsurf-3.9.3-h1049a8a_1
+libflatsurf-3.10.1-hd65b0cd_0
+libflatsurf-3.10.1-hf606cf0_1
+libflatsurf-3.11.0-h704f62b_0
+libflatsurf-3.11.0-h704f62b_1
+libflatsurf-3.11.1-h704f62b_0
+libflatsurf-3.11.1-h651eb22_1
+libflatsurf-3.11.2-h651eb22_0
+libflatsurf-3.11.3-hd7327c1_1
+libflatsurf-3.12.0-hd7327c1_0
+libflatsurf-3.12.0-h6ce21c9_1
+libflatsurf-3.12.0-h2c4caf1_2
+libflatsurf-3.13.0-h2c4caf1_0
+libflatsurf-3.13.1-h2c4caf1_0
+libflatsurf-3.13.2-h2c4caf1_0
+libflatsurf-3.13.3-h2c4caf1_0

@@ -1,0 +1,12 @@
+matplotlib-base-2.2.4-py37hfcf040d_2
+matplotlib-base-2.2.4-py38hfcf040d_2
+matplotlib-base-2.2.4-py36hfcf040d_2
+matplotlib-base-3.1.2-py38hfcf040d_1
+matplotlib-base-3.1.2-py37hfcf040d_1
+matplotlib-base-3.1.2-py36hfcf040d_1
+matplotlib-base-3.1.3-py37hfcf040d_0
+matplotlib-base-3.1.3-py36hfcf040d_0
+matplotlib-base-3.1.3-py38hfcf040d_0
+matplotlib-base-3.2.0-py38hfcf040d_0
+matplotlib-base-3.2.0-py37hfcf040d_0
+matplotlib-base-3.2.0-py36hfcf040d_0

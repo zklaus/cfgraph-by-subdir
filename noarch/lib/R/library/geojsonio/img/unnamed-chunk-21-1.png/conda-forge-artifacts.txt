@@ -1,0 +1,4 @@
+r-geojsonio-0.7.0-r36h6115d3f_1
+r-geojsonio-0.7.0-r35h6115d3f_1
+r-geojsonio-0.8.0-r35h6115d3f_0
+r-geojsonio-0.8.0-r36h6115d3f_0

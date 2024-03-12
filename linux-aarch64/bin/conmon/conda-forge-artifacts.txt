@@ -1,0 +1,8 @@
+conmon-2.1.0-h6d0dd4b_0
+conmon-2.1.1-h99a9275_0
+conmon-2.1.2-h99a9275_0
+conmon-2.1.4-h99a9275_0
+conmon-2.1.5-h99a9275_0
+conmon-2.1.6-h953582f_0
+conmon-2.1.7-h953582f_0
+conmon-2.1.8-hc2c5f28_0

@@ -1,0 +1,7 @@
+librsvg-2.46.0-h68f2853_0
+librsvg-2.46.1-h68f2853_0
+librsvg-2.46.2-h68f2853_0
+librsvg-2.46.3-h33a7fed_0
+librsvg-2.46.4-h33a7fed_0
+librsvg-2.46.4-h33a7fed_1
+librsvg-2.46.4-h33a7fed_2

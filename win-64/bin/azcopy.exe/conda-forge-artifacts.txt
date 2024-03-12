@@ -1,0 +1,5 @@
+azcopy-10.6.1-h8ffe710_0
+azcopy-10.7.0-h57928b3_0
+azcopy-10.8.0-h57928b3_0
+azcopy-10.9.0-h57928b3_0
+azcopy-10.11.0-h57928b3_0

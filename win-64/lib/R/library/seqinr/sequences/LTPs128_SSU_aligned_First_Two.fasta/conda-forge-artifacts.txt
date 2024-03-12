@@ -1,0 +1,17 @@
+r-seqinr-3.6_1-r36hda5aaf8_0
+r-seqinr-3.6_1-r35hda5aaf8_0
+r-seqinr-3.6_1-r36hda5aaf8_1
+r-seqinr-3.6_1-r40hda5aaf8_1
+r-seqinr-4.2_4-r40h02096d4_0
+r-seqinr-4.2_4-r36h02096d4_0
+r-seqinr-4.2_5-r36h6d2157b_0
+r-seqinr-4.2_5-r40h6d2157b_0
+r-seqinr-4.2_5-r41h6d2157b_0
+r-seqinr-4.2_8-r40h6d2157b_0
+r-seqinr-4.2_8-r41h6d2157b_0
+r-seqinr-4.2_16-r41h6d2157b_0
+r-seqinr-4.2_16-r40h6d2157b_0
+r-seqinr-4.2_16-r41h6d2157b_1
+r-seqinr-4.2_23-r41h6d2157b_0
+r-seqinr-4.2_30-r41h6d2157b_0
+r-seqinr-4.2_30-r41h6d2157b_1

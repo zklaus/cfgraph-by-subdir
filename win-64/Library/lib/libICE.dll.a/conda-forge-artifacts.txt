@@ -1,0 +1,9 @@
+xorg-libice-1.0.9-vc14_2
+xorg-libice-1.0.9-vc9_2
+xorg-libice-1.0.9-hbaa294b_3
+xorg-libice-1.0.9-hcb389fa_3
+xorg-libice-1.0.9-h301d43c_4
+xorg-libice-1.0.9-h301d43c_1004
+xorg-libice-1.0.10-h301d43c_0
+xorg-libice-1.0.10-hcd874cb_0
+xorg-libice-1.1.1-hcd874cb_0

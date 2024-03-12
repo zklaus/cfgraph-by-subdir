@@ -1,0 +1,3 @@
+tesseract-5.2.0-h7bf7e52_0
+tesseract-5.2.0-h2ac6c52_1
+tesseract-5.2.0-hbc07a9d_2

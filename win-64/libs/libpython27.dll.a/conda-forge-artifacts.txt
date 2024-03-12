@@ -1,0 +1,4 @@
+mingwpy-0.1.0-py27_0
+mingwpy-0.1.0-py27_1
+mingwpy-0.1.0-py27_2
+libpython-2.0-py27_0

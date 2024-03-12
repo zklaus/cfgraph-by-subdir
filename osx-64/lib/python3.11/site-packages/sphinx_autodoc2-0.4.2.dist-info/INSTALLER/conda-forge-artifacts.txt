@@ -1,0 +1,1 @@
+sphinx-autodoc2-0.4.2-py311h694c41f_0

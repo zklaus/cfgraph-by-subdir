@@ -1,0 +1,8 @@
+cyrsoxs-1.1.5.1-py38hbaa3551_0
+cyrsoxs-1.1.5.1-py38h097e145_0
+cyrsoxs-1.1.5.1-py38h7e02564_0
+cyrsoxs-1.1.5.1-py38h03587da_0
+cyrsoxs-1.1.5.1-py38ha195a9e_1
+cyrsoxs-1.1.5.1-py38h8562078_1
+cyrsoxs-1.1.5.1-py38h882608c_1
+cyrsoxs-1.1.5.1-py38h56e4fde_1

@@ -1,0 +1,13 @@
+magma-2.6.2-h1484045_0
+magma-2.6.2-h3502a61_0
+magma-2.6.2-h0d60f7e_0
+magma-2.6.2-h5fa9d3e_0
+magma-2.7.1-h57928b3_2
+magma-2.7.1-h57928b3_3
+magma-2.7.1-h57928b3_4
+magma-2.7.1-h57928b3_5
+magma-2.7.1-h57928b3_6
+magma-2.7.2-h9c278a7_0
+magma-2.7.2-h4a06d07_0
+magma-2.7.2-h4a06d07_1
+magma-2.7.2-h9c278a7_1

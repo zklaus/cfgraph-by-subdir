@@ -1,0 +1,4 @@
+pinocchio-2.6.16-py39h4142c6b_0
+pinocchio-2.6.16-py311hbc21c85_0
+pinocchio-2.6.16-py38h5e1641b_0
+pinocchio-2.6.16-py310h6fde5c2_0

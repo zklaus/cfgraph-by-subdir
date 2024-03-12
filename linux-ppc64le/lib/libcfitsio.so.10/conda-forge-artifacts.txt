@@ -1,0 +1,3 @@
+cfitsio-4.2.0-hb2f3dc4_0
+cfitsio-4.3.0-hde815af_0
+cfitsio-4.3.1-hde815af_0

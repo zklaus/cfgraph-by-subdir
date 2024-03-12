@@ -1,0 +1,15 @@
+r-geometries-0.1.0-r36h96a33e8_1
+r-geometries-0.1.0-r40h96a33e8_1
+r-geometries-0.2.0-r40h6203a36_0
+r-geometries-0.2.0-r36h6203a36_0
+r-geometries-0.2.0-r41h6203a36_0
+r-geometries-0.2.0-r41ha35a809_1
+r-geometries-0.2.0-r42ha35a809_1
+r-geometries-0.2.1-r41he86bb61_0
+r-geometries-0.2.1-r42he86bb61_0
+r-geometries-0.2.2-r41he86bb61_0
+r-geometries-0.2.2-r42he86bb61_0
+r-geometries-0.2.2-r42hd301276_1
+r-geometries-0.2.2-r43hd301276_1
+r-geometries-0.2.3-r42hd301276_0
+r-geometries-0.2.3-r43hd301276_0

@@ -1,0 +1,17 @@
+pygalmesh-0.10.4-py39h25f9754_0
+pygalmesh-0.10.4-py37h204c629_0
+pygalmesh-0.10.4-py38he4e4498_0
+pygalmesh-0.10.5-py37h204c629_0
+pygalmesh-0.10.5-py38he4e4498_0
+pygalmesh-0.10.5-py39h25f9754_0
+pygalmesh-0.10.6-py37h204c629_0
+pygalmesh-0.10.6-py38he4e4498_0
+pygalmesh-0.10.6-py39h25f9754_0
+pygalmesh-0.10.7-py310h8f48928_0
+pygalmesh-0.10.7-py37heab75bc_0
+pygalmesh-0.10.7-py38h9412172_0
+pygalmesh-0.10.7-py39h1bcce5c_0
+pygalmesh-0.10.7-py311h06c2dca_1
+pygalmesh-0.10.7-py310h8f48928_1
+pygalmesh-0.10.7-py39h1bcce5c_1
+pygalmesh-0.10.7-py38h9412172_1

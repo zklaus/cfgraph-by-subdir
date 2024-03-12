@@ -1,0 +1,2 @@
+xorg-libxp-1.0.3-0
+xorg-libxp-1.0.3-hd590300_1002

@@ -1,0 +1,6 @@
+poppler-0.82.0-h16886b5_0
+poppler-0.82.0-hac18326_1
+poppler-0.83.0-hac18326_0
+poppler-0.84.0-hac18326_0
+poppler-0.87.0-hac18326_0
+poppler-0.87.0-h3232a60_1

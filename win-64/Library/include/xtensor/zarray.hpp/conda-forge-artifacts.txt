@@ -1,0 +1,5 @@
+xtensor-0.21.6-h7ef1ec2_0
+xtensor-0.21.7-h7ef1ec2_0
+xtensor-0.21.8-h7ef1ec2_0
+xtensor-0.21.9-h5362a0b_0
+xtensor-0.21.9-h5362a0b_1

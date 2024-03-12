@@ -1,0 +1,12 @@
+bison-3.0.4-0
+bison-3.0.4-1
+bison-3.0.5-0
+bison-3.0.5-hfc679d8_1
+bison-3.0.5-hf484d3e_1001
+bison-3.1-hfc679d8_0
+bison-3.1-hf484d3e_1000
+bison-3.4-he1b5a44_0
+bison-3.4-he1b5a44_1
+bison-3.4-h58526e2_1
+bison-3.8-h9c3ff4c_0
+bison-3.8.2-h59595ed_0

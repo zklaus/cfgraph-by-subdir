@@ -1,0 +1,8 @@
+pybamm-23.4.1-py39hc1b9086_0
+pybamm-23.4.1-py38hf8b3453_0
+pybamm-23.5-py39hc1b9086_0
+pybamm-23.5-py38hf8b3453_0
+pybamm-23.5-py39hc1b9086_1
+pybamm-23.5-py38hf8b3453_1
+pybamm-23.5-py310hd032262_1
+pybamm-23.5-py311h957a2fd_1

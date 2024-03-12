@@ -1,0 +1,4 @@
+msgpack-cxx-6.0.0-hc2a4d42_0
+msgpack-cxx-6.0.0-hc2a4d42_1
+msgpack-cxx-6.1.0-hc2a4d42_0
+msgpack-cxx-6.1.0-h6475f74_1

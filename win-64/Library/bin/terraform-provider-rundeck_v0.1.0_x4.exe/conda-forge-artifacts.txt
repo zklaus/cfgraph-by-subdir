@@ -1,0 +1,3 @@
+terraform-provider-rundeck-0.1.0-0
+terraform-provider-rundeck-0.1.0-1
+terraform-provider-rundeck-0.1.0-1001

@@ -1,0 +1,9 @@
+r-assotester-0.1_10-r36h01d97ff_1002
+r-assotester-0.1_10-r36h0b31af3_1003
+r-assotester-0.1_10-r40h0b31af3_1003
+r-assotester-0.1_10-r41h28b5c78_1003
+r-assotester-0.1_10-r40h28b5c78_1003
+r-assotester-0.1_10-r42h815d134_1004
+r-assotester-0.1_10-r41h815d134_1004
+r-assotester-0.1_10-r43h6dc245f_1005
+r-assotester-0.1_10-r42h6dc245f_1005

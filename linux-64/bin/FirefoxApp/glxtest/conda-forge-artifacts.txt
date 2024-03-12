@@ -1,0 +1,17 @@
+firefox-114.0-h59595ed_0
+firefox-115.0-hd3aeb46_0
+firefox-116.0-hd3aeb46_0
+firefox-115.0.3esr-hd3aeb46_0
+firefox-117.0-hd3aeb46_0
+firefox-115.2.0esr-hd3aeb46_0
+firefox-117.0.1-hd3aeb46_0
+firefox-115.2.1esr-hd3aeb46_0
+firefox-118.0-hd3aeb46_0
+firefox-115.3.0esr-hd3aeb46_0
+firefox-118.0.1-hd3aeb46_0
+firefox-115.3.1esr-hd3aeb46_0
+firefox-118.0.2-h59595ed_0
+firefox-119.0-h59595ed_0
+firefox-115.4.0esr-h59595ed_0
+firefox-120.0-hd3aeb46_0
+firefox-115.5.0esr-hd3aeb46_0

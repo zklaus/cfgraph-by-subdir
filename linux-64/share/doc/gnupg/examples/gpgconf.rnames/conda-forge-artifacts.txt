@@ -1,0 +1,2 @@
+gnupg-2.4.2-h1cac74d_0
+gnupg-2.4.2-h1cac74d_1

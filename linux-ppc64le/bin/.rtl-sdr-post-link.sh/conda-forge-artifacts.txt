@@ -1,0 +1,2 @@
+rtl-sdr-2.0.0-ha17a0cc_0
+rtl-sdr-2.0.1-ha17a0cc_0

@@ -1,0 +1,12 @@
+ndd-1.10.5-py36hfa2da21_0
+ndd-1.10.5-py37hafb62c2_0
+ndd-1.10.5-py38he6e5f34_0
+ndd-1.10.5-py38he6e5f34_1
+ndd-1.10.5-py36hfa2da21_1
+ndd-1.10.5-py39h0b8ad2e_1
+ndd-1.10.5-py37hafb62c2_1
+ndd-1.10.6-py38h54f1807_0
+ndd-1.10.6-py36h297e980_0
+ndd-1.10.6-py39hc69c53d_0
+ndd-1.10.6-py37hde3c7bf_0
+ndd-1.10.6-py37hbe99984_0

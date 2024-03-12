@@ -1,0 +1,4 @@
+swig-4.1.1-h799ce0a_0
+swig-4.1.1-h89a714e_1
+swig-4.1.1-h52b2c5e_1
+swig-4.1.1-hea266f9_2

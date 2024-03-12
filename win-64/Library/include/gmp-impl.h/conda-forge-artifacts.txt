@@ -1,0 +1,11 @@
+mpir-2.7.2-vc10_1
+mpir-2.7.2-vc10_3
+mpir-2.7.2-vc14_1
+mpir-2.7.2-vc14_3
+mpir-2.7.3.dev0-vc10_0
+mpir-2.7.3.dev0-vc10_1
+mpir-2.7.3.dev0-vc14_0
+mpir-2.7.3.dev0-vc14_1
+mpir-3.0.0-vc14_0
+mpir-3.0.0-he025d50_1
+mpir-3.0.0-he025d50_1002

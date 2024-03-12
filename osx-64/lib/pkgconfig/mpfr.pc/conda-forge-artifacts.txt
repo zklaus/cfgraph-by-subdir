@@ -1,0 +1,11 @@
+mpfr-4.0.1-0
+mpfr-4.0.1-h16a7912_0
+mpfr-4.0.1-h0a95893_1000
+mpfr-4.0.2-h0a95893_0
+mpfr-4.0.2-h44b798e_0
+mpfr-4.0.2-h65ac59c_1
+mpfr-4.0.2-h72d8aaf_1
+mpfr-4.1.0-h0f52abe_0
+mpfr-4.1.0-h0f52abe_1
+mpfr-4.2.0-h4f9bd69_0
+mpfr-4.2.1-h0c69b56_0

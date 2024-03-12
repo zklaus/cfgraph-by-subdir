@@ -1,0 +1,11 @@
+gmatelastic-0.2.2-hc021e02_0
+gmatelastic-0.2.2-hc021e02_1
+gmatelastic-0.3.0-h3e96240_0
+gmatelastic-0.3.0-h3e96240_1
+gmatelastic-0.4.0-hffc8910_1
+gmatelastic-0.4.0-hffc8910_2
+gmatelastic-0.5.0-hffc8910_0
+gmatelastic-0.5.1-hffc8910_0
+gmatelastic-0.5.2-hffc8910_0
+gmatelastic-0.5.2-hffc8910_1
+gmatelastic-0.5.3-hffc8910_0

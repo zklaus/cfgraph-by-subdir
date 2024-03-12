@@ -1,0 +1,5 @@
+assimp-5.0.1-h753910b_0
+assimp-5.0.1-h753910b_1
+assimp-5.0.1-h783e5d7_2
+assimp-5.0.1-h4ca5eb8_3
+assimp-5.0.1-h47b1a2d_3

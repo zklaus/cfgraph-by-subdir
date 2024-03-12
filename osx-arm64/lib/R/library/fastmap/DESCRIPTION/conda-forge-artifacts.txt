@@ -1,0 +1,8 @@
+r-fastmap-1.1.0-r40h8ea1354_0
+r-fastmap-1.1.0-r41h8ea1354_0
+r-fastmap-1.1.0-r41h9a38a31_1
+r-fastmap-1.1.0-r42h9a38a31_1
+r-fastmap-1.1.1-r41h9a38a31_0
+r-fastmap-1.1.1-r42h9a38a31_0
+r-fastmap-1.1.1-r43he62749d_1
+r-fastmap-1.1.1-r42he62749d_1

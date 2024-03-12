@@ -1,0 +1,8 @@
+gdal-csharp-1.0.0-hf7502b7_3
+gdal-csharp-1.0.0-he300205_4
+gdal-csharp-1.0.1-he300205_0
+gdal-csharp-1.0.2-he300205_0
+gdal-csharp-1.0.2-haeb07ba_1
+gdal-csharp-1.0.3-haeb07ba_0
+gdal-csharp-1.1.0-haeb07ba_0
+gdal-csharp-1.1.1-hb43a1c2_0

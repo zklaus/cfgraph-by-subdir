@@ -1,0 +1,12 @@
+onnxruntime-novec-cpp-1.15.1-h683081f_2_cuda
+onnxruntime-cpp-1.15.1-h7c901d2_2_cuda
+onnxruntime-novec-cpp-1.15.1-h683081f_3_cuda
+onnxruntime-cpp-1.15.1-h7c901d2_3_cuda
+onnxruntime-cpp-1.16.0-hf01a6ed_0_cuda
+onnxruntime-novec-cpp-1.16.0-hdfa100c_0_cuda
+onnxruntime-cpp-1.16.1-hf01a6ed_0_cuda
+onnxruntime-novec-cpp-1.16.1-hdfa100c_0_cuda
+onnxruntime-novec-cpp-1.16.3-h683081f_0_cuda
+onnxruntime-cpp-1.16.3-h7c901d2_0_cuda
+onnxruntime-cpp-1.16.3-h7c901d2_1_cuda
+onnxruntime-novec-cpp-1.16.3-h683081f_1_cuda

@@ -1,0 +1,5 @@
+visdom-0.1.8.4-0
+visdom-0.1.8.5-0
+visdom-0.1.8.8-0
+visdom-0.1.8.9-0
+visdom-0.2.4-pyhd8ed1ab_0

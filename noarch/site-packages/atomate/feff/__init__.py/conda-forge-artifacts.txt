@@ -1,0 +1,13 @@
+atomate-0.9.2-py_0
+atomate-0.9.3-py_0
+atomate-0.9.4-py_0
+atomate-0.9.4-py_1
+atomate-0.9.5-py_0
+atomate-0.9.6-pyhd8ed1ab_0
+atomate-0.9.8-pyhd8ed1ab_0
+atomate-0.9.9-pyhd8ed1ab_0
+atomate-1.0.1-pyhd8ed1ab_0
+atomate-1.0.2-pyhd8ed1ab_0
+atomate-1.0.3-pyhd8ed1ab_0
+atomate-1.1.0-pyhd8ed1ab_0
+atomate-1.1.0-pyhd8ed1ab_1

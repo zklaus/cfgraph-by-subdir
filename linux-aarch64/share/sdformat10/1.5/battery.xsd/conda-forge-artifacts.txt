@@ -1,0 +1,12 @@
+libsdformat10-10.2.0-h33db1ac_0
+libsdformat10-10.2.0-hcb29ead_0
+libsdformat10-10.3.0-h33db1ac_0
+libsdformat10-10.3.0-hcb29ead_0
+libsdformat10-10.3.0-hcb29ead_1
+libsdformat10-10.3.0-h33db1ac_1
+libsdformat10-10.3.0-ha16756d_2
+libsdformat10-10.3.0-h43a9513_2
+libsdformat10-10.5.0-ha16756d_0
+libsdformat10-10.5.0-h43a9513_0
+libsdformat10-10.5.0-hd9f8351_1
+libsdformat10-10.5.0-hae067aa_1

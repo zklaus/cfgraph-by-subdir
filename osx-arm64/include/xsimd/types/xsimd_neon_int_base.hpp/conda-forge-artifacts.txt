@@ -1,0 +1,4 @@
+xsimd-7.4.10-hc021e02_0
+xsimd-7.5.0-hc021e02_0
+xsimd-7.5.0-hc021e02_1
+xsimd-7.6.0-hc021e02_0

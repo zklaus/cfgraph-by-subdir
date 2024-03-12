@@ -1,0 +1,2 @@
+r-rcppspdlog-0.0.7-r40ha856d6a_0
+r-rcppspdlog-0.0.8-r40ha856d6a_0

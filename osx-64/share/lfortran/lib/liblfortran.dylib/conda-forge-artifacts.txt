@@ -1,0 +1,6 @@
+lfortran-0.1.15-py37h01d97ff_0
+lfortran-0.1.15-py37h01d97ff_1
+lfortran-0.1.15-py36h01d97ff_1
+lfortran-0.1.15-py37h0b31af3_1
+lfortran-0.1.15-py38h0b31af3_1
+lfortran-0.1.15-py36h0b31af3_1

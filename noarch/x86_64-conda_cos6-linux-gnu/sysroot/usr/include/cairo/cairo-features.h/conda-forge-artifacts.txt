@@ -1,0 +1,4 @@
+cairo-devel-cos6-x86_64-1.8.8-hdf0574f_102
+cairo-devel-cos6-x86_64-1.8.8-ha826a6f_103
+cairo-devel-cos6-x86_64-1.8.8-h9d98e8f_104
+cairo-devel-cos6-x86_64-1.8.8-h9b0a68f_105

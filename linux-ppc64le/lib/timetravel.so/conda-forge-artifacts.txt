@@ -1,0 +1,9 @@
+postgresql-11.2-h61314c7_0
+postgresql-10.5-h0decf5c_2
+postgresql-11.2-h0decf5c_1
+postgresql-11.3-h0decf5c_0
+postgresql-11.4-h56613f6_2
+postgresql-11.4-h56613f6_3
+postgresql-11.5-h56613f6_0
+postgresql-11.5-h56613f6_1
+postgresql-11.5-h56613f6_2

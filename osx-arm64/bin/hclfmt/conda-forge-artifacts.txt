@@ -1,0 +1,6 @@
+hclfmt-2.16.2-hce30654_1
+hclfmt-2.17.0-hce30654_0
+hclfmt-2.18.0-hce30654_0
+hclfmt-2.18.1-hce30654_0
+hclfmt-2.19.0-hce30654_0
+hclfmt-2.19.1-hce30654_0

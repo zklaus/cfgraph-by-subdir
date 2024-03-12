@@ -1,0 +1,13 @@
+green-2.11.0-py36_0
+green-2.11.0-py36_1
+green-2.12.1-py36_0
+green-2.12.1-py36_1000
+green-2.13.0-py36_0
+green-2.13.1-py36_0
+green-2.13.1-py36h9f0ad1d_1
+green-2.13.1-py36hc560c46_1
+green-2.13.1-py36h9f0ad1d_2
+green-2.13.1-py36hc560c46_2
+green-3.2.4-py36h79c6626_0
+green-3.2.4-py36h5dafb3c_0
+green-3.3.0-py36h79c6626_0

@@ -1,0 +1,10 @@
+qt6-main-6.4.1-he867631_0
+qt6-main-6.4.1-he867631_1
+qt6-main-6.4.1-h16d731b_1
+qt6-main-6.4.1-h4d9e5ed_2
+qt6-main-6.4.1-hbc52f31_2
+qt6-datavis3d-6.4.1-h0ea7e44_0
+qt6-datavis3d-6.4.1-hef61a30_1
+qt6-datavis3d-6.4.1-h63175ca_2
+qt6-datavis3d-6.4.1-h63175ca_3
+qt6-datavis3d-6.4.1-h63175ca_4

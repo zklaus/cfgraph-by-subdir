@@ -1,0 +1,16 @@
+pagmo-2.17.0-h74d4312_3
+pagmo-2.17.0-h74d4312_4
+pagmo-2.18.0-h74d4312_0
+pagmo-2.18.0-h8d30aba_1
+pagmo-2.18.0-h8d30aba_2
+pagmo-2.18.0-h8d30aba_3
+pagmo-2.18.0-hc4d6f2b_4
+pagmo-2.18.0-h3a2e74c_5
+pagmo-2.18.0-hfb691b7_6
+pagmo-2.18.0-hfb691b7_7
+pagmo-2.19.0-he20ef3d_0
+pagmo-2.19.0-h752f718_1
+pagmo-2.19.0-h7da5abf_2
+pagmo-2.19.0-h8f19dac_3
+pagmo-2.19.0-h8f19dac_4
+pagmo-2.19.0-h7cb79ce_5

@@ -1,0 +1,4 @@
+stern-1.21.0-ha8f183a_0
+stern-1.25.0-ha8f183a_0
+stern-1.26.0-ha8f183a_0
+stern-1.27.0-ha8f183a_0

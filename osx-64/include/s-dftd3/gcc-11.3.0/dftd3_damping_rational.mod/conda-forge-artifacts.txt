@@ -1,0 +1,3 @@
+simple-dftd3-0.7.0-h32c7c3c_0
+simple-dftd3-0.7.0-h32c7c3c_1
+simple-dftd3-0.7.0-h32c7c3c_2

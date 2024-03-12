@@ -1,0 +1,2 @@
+opensm-devel-cos6-x86_64-3.3.17-h9b0a68f_1105
+opensm-devel-cos7-x86_64-3.3.21-h9b0a68f_1105

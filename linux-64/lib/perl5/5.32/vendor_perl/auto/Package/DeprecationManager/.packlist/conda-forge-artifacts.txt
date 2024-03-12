@@ -1,0 +1,2 @@
+perl-package-deprecationmanager-0.17-pl5321ha770c72_0
+perl-package-deprecationmanager-0.18-pl5321ha770c72_0

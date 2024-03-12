@@ -1,0 +1,3 @@
+jupytext-1.13.8-pyheef035f_0
+jupytext-1.13.8-pyhd0ecf6b_0
+jupytext-1.13.8-pyh4b9bcc7_0

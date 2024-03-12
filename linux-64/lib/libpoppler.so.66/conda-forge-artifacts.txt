@@ -1,0 +1,4 @@
+poppler-0.52.0-1
+poppler-0.52.0-2
+poppler-0.52.0-3
+poppler-0.52.0-4

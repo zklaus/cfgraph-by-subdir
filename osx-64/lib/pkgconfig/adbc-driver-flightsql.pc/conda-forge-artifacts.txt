@@ -1,0 +1,11 @@
+libadbc-driver-flightsql-0.2.0-h4258d4c_0
+libadbc-driver-flightsql-0.3.0-h4258d4c_0
+libadbc-driver-flightsql-0.4.0-hcae10d5_0
+libadbc-driver-flightsql-0.5.0-hcae10d5_0
+libadbc-driver-flightsql-0.5.1-hcae10d5_0
+libadbc-driver-flightsql-0.6.0-hcae10d5_0
+libadbc-driver-flightsql-0.7.0-hcae10d5_0
+libadbc-driver-flightsql-0.7.0-hcae10d5_1
+libadbc-driver-flightsql-0.7.0-hcae10d5_2
+libadbc-driver-flightsql-0.7.0-hcae10d5_3
+libadbc-driver-flightsql-0.8.0-h67eca20_0

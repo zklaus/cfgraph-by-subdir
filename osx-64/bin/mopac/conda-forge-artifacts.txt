@@ -1,0 +1,6 @@
+mopac-22.0.2-h877ed2f_0
+mopac-22.0.2-h877ed2f_1
+mopac-22.0.4-h877ed2f_0
+mopac-22.0.5-h5bf119a_0
+mopac-22.0.6-h5bf119a_0
+mopac-22.1.0-h6d98783_0

@@ -1,0 +1,15 @@
+fpm-0.1.4-h1990efc_0
+fpm-0.1.4-h1990efc_1
+fpm-0.1.4-h1990efc_2
+fpm-0.2.0-h1990efc_0
+fpm-0.3.0-h1990efc_0
+fpm-0.4.0-h4479d4b_0
+fpm-0.5.0-h92ddd45_0
+fpm-0.5.0-h92ddd45_1
+fpm-0.5.0-h92ddd45_2
+fpm-0.6.0-hc3ea6d6_0
+fpm-0.6.0-hc3ea6d6_1
+fpm-0.7.0-hc3ea6d6_0
+fpm-0.8.0-h74f4db8_0
+fpm-0.8.1-h74f4db8_0
+fpm-0.9.0-hd8f1df9_0

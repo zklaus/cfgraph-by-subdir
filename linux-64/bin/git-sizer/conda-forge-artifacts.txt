@@ -1,0 +1,3 @@
+git-sizer-1.3.0-h375a9b1_0
+git-sizer-1.4.0-ha8f183a_0
+git-sizer-1.5.0-ha8f183a_0

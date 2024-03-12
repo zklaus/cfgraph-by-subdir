@@ -1,0 +1,4 @@
+git-delta-0.15.1-hd434476_1
+git-delta-0.16.0-h2b5a0f1_0
+git-delta-0.16.4-h2b5a0f1_0
+git-delta-0.16.5-h2b5a0f1_0

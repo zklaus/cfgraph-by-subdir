@@ -1,0 +1,4 @@
+intel-vaapi-driver-2.2.0-h470a237_0
+intel-vaapi-driver-2.3.0-h470a237_0
+intel-vaapi-driver-2.3.0-h14c3975_1000
+intel-vaapi-driver-2.4.1-h516909a_0

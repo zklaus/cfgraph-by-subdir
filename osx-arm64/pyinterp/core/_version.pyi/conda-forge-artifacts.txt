@@ -1,0 +1,3 @@
+pyinterp-0.15.2-openblas_py38hbb7aef0_100
+pyinterp-0.15.2-openblas_py310hbd1d27a_100
+pyinterp-0.15.2-openblas_py39hbb55941_100

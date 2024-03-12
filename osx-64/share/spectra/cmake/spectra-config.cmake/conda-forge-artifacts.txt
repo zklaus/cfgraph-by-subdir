@@ -1,0 +1,2 @@
+spectralib-1.0.0-h940c156_0
+spectralib-1.0.1-hbb4e6a2_0

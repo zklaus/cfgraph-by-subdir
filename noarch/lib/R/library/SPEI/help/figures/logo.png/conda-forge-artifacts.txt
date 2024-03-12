@@ -1,0 +1,6 @@
+r-spei-1.8.0-r41hc72bb7e_0
+r-spei-1.8.0-r42hc72bb7e_0
+r-spei-1.8.1-r42hc72bb7e_0
+r-spei-1.8.1-r41hc72bb7e_0
+r-spei-1.8.1-r42hc72bb7e_1
+r-spei-1.8.1-r43hc72bb7e_1

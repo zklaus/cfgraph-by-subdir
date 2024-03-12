@@ -1,0 +1,8 @@
+bsddb3-6.2.7-py36hae792fc_2
+bsddb3-6.2.8-py36h9bb2673_0
+bsddb3-6.2.9-py36h9bb2673_0
+bsddb3-6.2.9-py36h903dffd_0
+bsddb3-6.2.9-py37hb9769d6_1
+bsddb3-6.2.9-py36h903dffd_1
+bsddb3-6.2.9-py37hd696dad_1
+bsddb3-6.2.9-py37hd696dad_2

@@ -1,0 +1,4 @@
+ghostscript-9.22-0
+ghostscript-9.22-hfc679d8_1
+ghostscript-9.22-h0a44026_1001
+ghostscript-9.22-h6de7cb9_1

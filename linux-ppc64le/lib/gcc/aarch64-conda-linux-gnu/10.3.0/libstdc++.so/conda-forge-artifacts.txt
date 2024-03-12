@@ -1,0 +1,15 @@
+libstdcxx-devel_linux-aarch64-10.3.0-h0cdb2d6_11
+gcc_bootstrap_linux-aarch64-10.3.0-h0557515_2
+gcc_bootstrap_linux-aarch64-10.3.0-h0557515_3
+gcc_bootstrap_linux-aarch64-10.3.0-h0557515_4
+libstdcxx-devel_linux-aarch64-10.3.0-h0cdb2d6_12
+gcc_bootstrap_linux-aarch64-10.3.0-h0557515_5
+gcc_bootstrap_linux-aarch64-10.3.0-h0557515_6
+libstdcxx-devel_linux-aarch64-10.3.0-h0cdb2d6_13
+gcc_bootstrap_linux-aarch64-10.3.0-h0557515_7
+libstdcxx-devel_linux-aarch64-10.3.0-h0cdb2d6_14
+gcc_bootstrap_linux-aarch64-10.3.0-h0557515_8
+gcc_bootstrap_linux-aarch64-10.3.0-h0557515_9
+libstdcxx-devel_linux-aarch64-10.3.0-h0cdb2d6_15
+libstdcxx-devel_linux-aarch64-10.3.0-h0cdb2d6_16
+gcc_bootstrap_linux-aarch64-10.3.0-h0557515_10

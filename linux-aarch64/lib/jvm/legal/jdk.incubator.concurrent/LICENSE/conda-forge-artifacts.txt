@@ -1,0 +1,6 @@
+openjdk-20.0.0-h0dd39bf_0
+openjdk-20.0.0-hfebe856_1
+openjdk-20.0.0-h565c3cc_2
+openjdk-20.0.2-h565c3cc_0
+openjdk-20.0.2-h565c3cc_1
+openjdk-20.0.2-hf79f348_2

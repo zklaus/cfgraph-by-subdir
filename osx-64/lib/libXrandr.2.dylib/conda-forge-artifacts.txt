@@ -1,0 +1,8 @@
+xorg-libxrandr-1.5.1-0
+xorg-libxrandr-1.5.1-h470a237_1
+xorg-libxrandr-1.5.1-h470a237_2
+xorg-libxrandr-1.5.1-h1de35cc_1002
+xorg-libxrandr-1.5.2-h01d97ff_0
+xorg-libxrandr-1.5.2-h01d97ff_1
+xorg-libxrandr-1.5.2-h0b31af3_1
+xorg-libxrandr-1.5.2-h0d85af4_1

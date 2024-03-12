@@ -1,0 +1,10 @@
+r-fixest-0.11.0-r42hf53d927_0
+r-fixest-0.11.0-r41hf53d927_0
+r-fixest-0.11.1-r42hf53d927_0
+r-fixest-0.11.1-r41hf53d927_0
+r-fixest-0.11.1-r43hc6f2815_1
+r-fixest-0.11.1-r42hc6f2815_1
+r-fixest-0.11.1-r43hc6f2815_2
+r-fixest-0.11.1-r42hc6f2815_2
+r-fixest-0.11.2-r42hace84cc_0
+r-fixest-0.11.2-r43hace84cc_0

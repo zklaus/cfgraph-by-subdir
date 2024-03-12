@@ -1,0 +1,2 @@
+tesseract-5.0.0-h2694a26_1
+tesseract-5.0.1-h2694a26_0

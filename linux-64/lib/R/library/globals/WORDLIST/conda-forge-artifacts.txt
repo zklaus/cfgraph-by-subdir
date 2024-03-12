@@ -1,0 +1,4 @@
+r-globals-0.12.0-r341_0
+r-globals-0.12.1-r341_0
+r-globals-0.12.2-r341h6115d3f_0
+r-globals-0.12.2-r351h6115d3f_0

@@ -1,0 +1,13 @@
+r-hardyweinberg-1.6.7-r36h796a38f_0
+r-hardyweinberg-1.6.7-r40h796a38f_0
+r-hardyweinberg-1.6.8-r36h796a38f_0
+r-hardyweinberg-1.6.8-r40h796a38f_0
+r-hardyweinberg-1.6.9-r36ha856d6a_0
+r-hardyweinberg-1.6.9-r40ha856d6a_0
+r-hardyweinberg-1.7.1-r36ha856d6a_0
+r-hardyweinberg-1.7.1-r40ha856d6a_0
+r-hardyweinberg-1.7.2-r36ha856d6a_0
+r-hardyweinberg-1.7.2-r40ha856d6a_0
+r-hardyweinberg-1.7.3-r40ha856d6a_0
+r-hardyweinberg-1.7.4-r40ha856d6a_0
+r-hardyweinberg-1.7.5-r40ha856d6a_0

@@ -1,0 +1,3 @@
+frictionqpotspringblock-0.22.6-h1c7c39f_0
+frictionqpotspringblock-0.22.7-h1c7c39f_0
+frictionqpotspringblock-0.22.7-h1c7c39f_1

@@ -1,0 +1,4 @@
+terraform-provider-powerdns-0.1.0-0
+terraform-provider-powerdns-0.1.0-h81701ea_1
+terraform-provider-powerdns-0.1.0-h81701ea_1001
+terraform-provider-powerdns-0.1.0-h209b5c4_1002

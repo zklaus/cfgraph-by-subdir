@@ -1,0 +1,2 @@
+adwaita-qt-1.4.2-hcb278e6_0
+adwaita-qt-1.4.2-hbde21bd_1

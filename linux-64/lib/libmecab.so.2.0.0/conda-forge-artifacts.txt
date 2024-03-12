@@ -1,0 +1,7 @@
+mecab-ko-0.996-h4bd325d_0
+mecab-ko-0.996-h4bd325d_1
+mecab-ko-0.996-h4bd325d_2
+mecab-ko-0.996-h4bd325d_3
+mecab-ko-0.996-h4bd325d_4
+mecab-ko-0.996-h4bd325d_5
+mecab-0.996-h4bd325d_0

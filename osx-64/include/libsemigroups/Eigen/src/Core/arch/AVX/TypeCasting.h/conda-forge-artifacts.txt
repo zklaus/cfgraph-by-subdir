@@ -1,0 +1,1 @@
+libsemigroups-1.3.0-h7e82209_2

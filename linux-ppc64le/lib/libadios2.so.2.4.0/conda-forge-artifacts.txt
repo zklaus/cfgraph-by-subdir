@@ -1,0 +1,6 @@
+adios2-2.4.0-nompi_py37h4d9ecfa_106
+adios2-2.4.0-nompi_py36h4d9ecfa_106
+adios2-2.4.0-mpi_openmpi_py36hbac77f2_6
+adios2-2.4.0-mpi_mpich_py36h49765da_6
+adios2-2.4.0-mpi_mpich_py37h49765da_6
+adios2-2.4.0-mpi_openmpi_py37hbac77f2_6

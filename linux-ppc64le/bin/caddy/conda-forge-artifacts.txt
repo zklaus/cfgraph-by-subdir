@@ -1,0 +1,5 @@
+caddy-2.6.4-ha3edaa6_1
+caddy-2.7.3-ha3edaa6_0
+caddy-2.7.4-ha3edaa6_0
+caddy-2.7.4-ha3edaa6_1
+caddy-2.7.5-ha3edaa6_0

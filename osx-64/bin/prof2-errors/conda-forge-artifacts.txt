@@ -1,0 +1,6 @@
+professor-2.3.4-py38h98b9b1b_0
+professor-2.3.4-py39h92daf61_0
+professor-2.4.0-py39h92daf61_0
+professor-2.4.0-py38h98b9b1b_0
+professor-2.4.0-py38h15a1a5b_1
+professor-2.4.0-py39h8ee36c8_1

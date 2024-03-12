@@ -1,0 +1,17 @@
+bear-3.0.18-h6fac836_1
+bear-3.0.18-h1d4b60a_1
+bear-3.0.18-h1d4b60a_2
+bear-3.0.18-h71b9eb1_2
+bear-3.0.18-h322c092_3
+bear-3.0.18-h491ca3d_3
+bear-3.0.19-h9a21d7e_0
+bear-3.0.19-ha4f3871_0
+bear-3.0.19-hdeb49d4_1
+bear-3.0.19-h8feb876_1
+bear-3.0.19-h7e1d19e_2
+bear-3.0.19-h83713d8_2
+bear-3.0.19-h54aabca_3
+bear-3.0.20-h79e272f_0
+bear-3.0.20-hb0c77de_1
+bear-3.0.21-hb0c77de_0
+bear-3.1.0-hb0c77de_0

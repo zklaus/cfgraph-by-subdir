@@ -1,0 +1,6 @@
+libsemigroups-2.6.1-ha76583b_0
+libsemigroups-2.6.2-ha76583b_0
+libsemigroups-2.7.0-ha76583b_0
+libsemigroups-2.7.1-ha76583b_0
+libsemigroups-2.7.1-h1e288f4_1
+libsemigroups-2.7.2-h1e288f4_0

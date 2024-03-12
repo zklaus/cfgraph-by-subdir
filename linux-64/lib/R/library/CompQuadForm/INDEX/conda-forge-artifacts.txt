@@ -1,0 +1,15 @@
+r-compquadform-1.4.3-r3.3.2_0
+r-compquadform-1.4.3-r3.4.1_0
+r-compquadform-1.4.3-r341hfc679d8_1
+r-compquadform-1.4.3-r351hfc679d8_1
+r-compquadform-1.4.3-r351hf484d3e_1001
+r-compquadform-1.4.3-r36he1b5a44_1002
+r-compquadform-1.4.3-r35he1b5a44_1002
+r-compquadform-1.4.3-r36he1b5a44_1003
+r-compquadform-1.4.3-r40he1b5a44_1003
+r-compquadform-1.4.3-r40h9c3ff4c_1003
+r-compquadform-1.4.3-r41h9c3ff4c_1003
+r-compquadform-1.4.3-r42h7525677_1004
+r-compquadform-1.4.3-r41h7525677_1004
+r-compquadform-1.4.3-r42ha503ecb_1005
+r-compquadform-1.4.3-r43ha503ecb_1005

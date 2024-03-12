@@ -1,0 +1,14 @@
+r-spatstat.explore-3.0_5-r42h5d63f41_0
+r-spatstat.explore-3.0_5-r41h5d63f41_0
+r-spatstat.explore-3.0_6-r42h5d63f41_0
+r-spatstat.explore-3.0_6-r41h5d63f41_0
+r-spatstat.explore-3.1_0-r41h5d63f41_0
+r-spatstat.explore-3.1_0-r42h5d63f41_0
+r-spatstat.explore-3.2_1-r41h21dc0da_0
+r-spatstat.explore-3.2_1-r42h21dc0da_0
+r-spatstat.explore-3.2_1-r42h21dc0da_1
+r-spatstat.explore-3.2_1-r43h21dc0da_1
+r-spatstat.explore-3.2_3-r43h21dc0da_0
+r-spatstat.explore-3.2_3-r42h21dc0da_0
+r-spatstat.explore-3.2_5-r43hd2d937b_0
+r-spatstat.explore-3.2_5-r42hd2d937b_0

@@ -1,0 +1,6 @@
+thrust-1.9.10-0
+thrust-1.10.0-0
+thrust-1.10.0-1
+thrust-1.11.0-ha770c72_0
+thrust-1.11.0-ha770c72_1
+thrust-1.16.0-ha770c72_0

@@ -1,0 +1,10 @@
+r-thinkr-0.15-r36h6115d3f_0
+r-thinkr-0.15-r40h6115d3f_0
+r-thinkr-0.15-r40hc72bb7e_0
+r-thinkr-0.15-r41hc72bb7e_0
+r-thinkr-0.16-r41hc72bb7e_0
+r-thinkr-0.16-r40hc72bb7e_0
+r-thinkr-0.16-r41hc72bb7e_1
+r-thinkr-0.16-r42hc72bb7e_1
+r-thinkr-0.16-r43hc72bb7e_2
+r-thinkr-0.16-r42hc72bb7e_2

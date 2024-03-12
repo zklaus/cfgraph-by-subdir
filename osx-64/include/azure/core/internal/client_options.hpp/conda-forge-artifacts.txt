@@ -1,0 +1,7 @@
+azure-core-cpp-1.10.0-h8a01778_0
+azure-core-cpp-1.10.2-h8a01778_0
+azure-core-cpp-1.10.2-hf673a67_0
+azure-core-cpp-1.10.2-h8385e63_0
+azure-core-cpp-1.10.3-hdda1a1b_0
+azure-core-cpp-1.10.3-hbd6d475_0
+azure-core-cpp-1.10.3-h926c267_0

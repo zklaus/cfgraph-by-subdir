@@ -1,0 +1,2 @@
+libopenvino-auto-plugin-2022.3.1-h13dd4ca_0
+libopenvino-auto-plugin-2022.3.1-h13dd4ca_1

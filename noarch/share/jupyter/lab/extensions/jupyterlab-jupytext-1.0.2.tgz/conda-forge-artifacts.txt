@@ -1,0 +1,4 @@
+jupytext-1.2.1-0
+jupytext-master-0
+jupytext-1.2.3-0
+jupytext-1.2.4-0

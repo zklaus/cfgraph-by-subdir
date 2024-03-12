@@ -1,0 +1,2 @@
+libgoogle-cloud-1.39.1-hf4e2766_0
+libgoogle-cloud-1.39.1-h729899e_0

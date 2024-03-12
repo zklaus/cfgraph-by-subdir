@@ -1,0 +1,12 @@
+datamash-1.2-0
+datamash-1.3-0
+datamash-1.3-h470a237_1
+datamash-1.3-h470a237_1001
+datamash-1.3-h14c3975_2001
+datamash-1.4-h470a237_0
+datamash-1.4-h14c3975_1000
+datamash-1.5-h516909a_0
+datamash-1.6-h516909a_0
+datamash-1.7-h516909a_0
+datamash-1.8-h166bdaf_0
+datamash-1.8-hd590300_0

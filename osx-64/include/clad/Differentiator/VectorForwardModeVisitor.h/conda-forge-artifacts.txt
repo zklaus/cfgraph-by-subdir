@@ -1,0 +1,8 @@
+clad-1.2-clang11_h2f433fe_0
+clad-1.2-clang10_h93afa21_0
+clad-1.2-clang9_hd30a60a_0
+clad-1.2-clang8_hcb76d2d_0
+clad-1.2-clang13_he94e25f_0
+clad-1.2-clang12_h9ee3211_0
+clad-1.2-clang14_hd63460e_0
+clad-1.2-clang7_h5d331ba_0

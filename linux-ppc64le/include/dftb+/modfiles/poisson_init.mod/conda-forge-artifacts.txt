@@ -1,0 +1,10 @@
+dftbplus-20.1-h0e4af7d_0
+dftbplus-20.1-nompi_he930d8e_101
+dftbplus-20.1-mpi_mpich_h25756cb_1
+dftbplus-20.1-mpi_openmpi_h4714a45_1
+dftbplus-20.1-mpi_mpich_h25756cb_2
+dftbplus-20.1-mpi_openmpi_h4714a45_2
+dftbplus-20.1-nompi_he930d8e_102
+dftbplus-20.1-mpi_mpich_hf659fdc_2
+dftbplus-20.1-nompi_hcbaebe9_102
+dftbplus-20.1-mpi_openmpi_hc7fdd6d_2

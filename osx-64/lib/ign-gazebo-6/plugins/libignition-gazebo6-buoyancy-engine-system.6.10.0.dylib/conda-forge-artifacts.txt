@@ -1,0 +1,4 @@
+libignition-gazebo6-6.10.0-hf7f5342_5
+libignition-gazebo6-6.10.0-hf7f5342_6
+libignition-gazebo6-6.10.0-hf7f5342_7
+libignition-gazebo6-6.10.0-ha43a658_8

@@ -1,0 +1,10 @@
+r-bas-1.5.5-r41hd2e18ed_0
+r-bas-1.5.5-r40hd2e18ed_0
+r-bas-1.6.0-r40hd2e18ed_0
+r-bas-1.6.0-r41hd2e18ed_0
+r-bas-1.6.2-r40hd2e18ed_0
+r-bas-1.6.2-r41hd2e18ed_0
+r-bas-1.6.2-r41hb9981e2_1
+r-bas-1.6.4-r41hb9981e2_0
+r-bas-1.6.4-r41hb9981e2_1
+r-bas-1.6.6-r41hb9981e2_0

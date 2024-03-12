@@ -1,0 +1,14 @@
+readdy-2.0.9-py38h645721f_0
+readdy-2.0.9-py39h3cec29f_0
+readdy-2.0.9-py37h3f3b634_0
+readdy-2.0.9-py37h3f8df0d_1
+readdy-2.0.9-py38h35b03f1_1
+readdy-2.0.9-py39he0b64ab_1
+readdy-2.0.11-py37h3f8df0d_0
+readdy-2.0.11-py39he0b64ab_0
+readdy-2.0.11-py310hfcd7171_0
+readdy-2.0.11-py38h35b03f1_0
+readdy-2.0.11-py310h1eb03a2_1
+readdy-2.0.11-py37h6be68fe_1
+readdy-2.0.11-py38h2aaa93b_1
+readdy-2.0.11-py39h199b6f5_1

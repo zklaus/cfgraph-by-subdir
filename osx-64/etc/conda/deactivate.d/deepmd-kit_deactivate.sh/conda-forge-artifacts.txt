@@ -1,0 +1,6 @@
+deepmd-kit-2.2.7-cpu_py311h04288bc_3
+deepmd-kit-2.2.7-cpu_py311h04d85da_3
+deepmd-kit-2.2.7-cpu_py310ha925a49_3
+deepmd-kit-2.2.7-cpu_py310hd4a0a06_3
+deepmd-kit-2.2.7-cpu_py39h8ae3785_3
+deepmd-kit-2.2.7-cpu_py39h1ebbf54_3

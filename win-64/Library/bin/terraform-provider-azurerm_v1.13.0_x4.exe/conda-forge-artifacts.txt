@@ -1,0 +1,2 @@
+terraform-provider-azurerm-1.13.0-0
+terraform-provider-azurerm-1.13.0-1000

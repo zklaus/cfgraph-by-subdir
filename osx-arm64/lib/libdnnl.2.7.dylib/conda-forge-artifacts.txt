@@ -1,0 +1,5 @@
+onednn-2.7-omp_h1e002c2_0
+onednn-2.7-tbb_h52abbc6_0
+onednn-2.7.1-tbb_h52abbc6_0
+onednn-2.7.2-omp_h1e002c2_0
+onednn-2.7.2-tbb_h52abbc6_0

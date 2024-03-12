@@ -1,0 +1,14 @@
+r-osqp-0.6.0.3-r41ha856d6a_0
+r-osqp-0.6.0.3-r40ha856d6a_0
+r-osqp-0.6.0.4-r40ha856d6a_0
+r-osqp-0.6.0.4-r41ha856d6a_0
+r-osqp-0.6.0.5-r41ha856d6a_0
+r-osqp-0.6.0.5-r40ha856d6a_0
+r-osqp-0.6.0.6-r41ha856d6a_0
+r-osqp-0.6.0.6-r41ha856d6a_1
+r-osqp-0.6.0.7-r41ha856d6a_0
+r-osqp-0.6.0.8-r41ha856d6a_0
+r-osqp-0.6.0.8-r41ha856d6a_1
+r-osqp-0.6.3-r41ha856d6a_0
+r-osqp-0.6.3.1-r41ha856d6a_0
+r-osqp-0.6.3.2-r41ha856d6a_0

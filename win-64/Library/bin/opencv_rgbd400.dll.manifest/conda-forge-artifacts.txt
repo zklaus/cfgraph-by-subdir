@@ -1,0 +1,2 @@
+opencv-4.0.0-py36hb76ac4c_200
+opencv-4.0.0-py37hb76ac4c_200

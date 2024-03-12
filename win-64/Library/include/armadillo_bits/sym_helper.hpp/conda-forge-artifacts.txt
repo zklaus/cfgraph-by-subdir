@@ -1,0 +1,13 @@
+armadillo-12.0.0-he055816_0
+armadillo-12.0.1-he055816_0
+armadillo-12.2.0-he055816_0
+armadillo-12.4.0-he055816_0
+armadillo-12.4.1-he055816_0
+armadillo-12.6.0-he055816_0
+armadillo-12.6.1-he055816_0
+armadillo-12.6.2-he055816_0
+armadillo-12.6.3-he055816_0
+armadillo-12.6.4-he055816_0
+armadillo-12.6.4-he055816_1
+armadillo-12.6.5-he055816_0
+armadillo-12.6.6-he055816_0

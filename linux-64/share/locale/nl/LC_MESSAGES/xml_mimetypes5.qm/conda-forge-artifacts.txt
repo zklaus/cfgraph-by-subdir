@@ -1,0 +1,2 @@
+kcoreaddons-5.71.0-h73816c6_0
+kcoreaddons-5.72.0-h73816c6_0

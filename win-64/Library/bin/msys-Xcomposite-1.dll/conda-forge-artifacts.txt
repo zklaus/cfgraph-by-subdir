@@ -1,0 +1,4 @@
+xorg-libxcomposite-0.4.5-h301d43c_0
+xorg-libxcomposite-0.4.5-hcd874cb_0
+xorg-libxcomposite-0.4.5-hcd874cb_1
+xorg-libxcomposite-0.4.6-hcd874cb_1

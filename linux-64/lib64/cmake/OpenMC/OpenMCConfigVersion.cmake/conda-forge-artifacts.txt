@@ -1,0 +1,8 @@
+openmc-0.12.1-py39h409cc32_0
+openmc-0.12.1-py37hb0e9ad2_0
+openmc-0.12.1-py38h507a4fd_0
+openmc-0.12.1-py36h5febb71_0
+openmc-0.12.2-py36h5febb71_0
+openmc-0.12.2-py38h507a4fd_0
+openmc-0.12.2-py37hb0e9ad2_0
+openmc-0.12.2-py39h409cc32_0

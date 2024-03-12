@@ -1,0 +1,7 @@
+xvega-0.0.1-h7ef1ec2_0
+xvega-0.0.2-h7ef1ec2_0
+xvega-0.0.3-h7ef1ec2_0
+xvega-0.0.4-h7ef1ec2_0
+xvega-0.0.4-h7ef1ec2_1
+xvega-0.0.5-h7ef1ec2_0
+xvega-0.0.5-h5362a0b_0

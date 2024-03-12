@@ -1,0 +1,15 @@
+libtensorflow_cc-2.8.0-cpu_h5cd7c79_0
+libtensorflow_cc-2.8.0-cuda111h95e6cbe_0
+libtensorflow_cc-2.8.0-cuda112h98e1010_0
+libtensorflow_cc-2.8.0-cuda102h62ca224_0
+libtensorflow_cc-2.8.0-cuda110h83f852c_0
+libtensorflow_cc-2.8.1-cuda112h918e9ab_0
+libtensorflow_cc-2.8.1-cuda110h739ce5e_0
+libtensorflow_cc-2.8.1-cuda102he5e4e4b_0
+libtensorflow_cc-2.8.1-cpu_haf14b92_0
+libtensorflow_cc-2.8.1-cuda111hd17d044_0
+libtensorflow_cc-2.9.1-cuda102he204bbd_0
+libtensorflow_cc-2.9.1-cuda110ha3f6c36_0
+libtensorflow_cc-2.9.1-cuda111h7ff4470_0
+libtensorflow_cc-2.9.1-cpu_h0c3d7b9_0
+libtensorflow_cc-2.9.1-cuda112h02da4e0_0

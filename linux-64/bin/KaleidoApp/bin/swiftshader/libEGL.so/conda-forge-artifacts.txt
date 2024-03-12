@@ -1,0 +1,4 @@
+kaleido-core-0.1.0a5-h3644ca4_1
+kaleido-core-0.1.0-h3644ca4_0
+kaleido-core-0.2.0-h3644ca4_0
+kaleido-core-0.2.1-h3644ca4_0

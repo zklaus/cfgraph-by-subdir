@@ -1,0 +1,9 @@
+mctc-lib-0.2.4-h2565ddd_0
+simple-dftd3-0.5.0-hc15285d_0
+mctc-lib-0.2.4-h2565ddd_1
+mctc-lib-0.2.4-h2565ddd_2
+mctc-lib-0.2.5-h8acd004_0
+mctc-lib-0.3.0-h8acd004_0
+mctc-lib-0.3.0-h4ad7360_0
+mctc-lib-0.3.1-h8dc6bf7_0
+mctc-lib-0.3.1-h5f0aba5_0

@@ -1,0 +1,16 @@
+vega-3.5.0-py39h2804cbe_0
+vega-3.5.0-py38h10201cd_0
+vega-3.5.0-py39h2804cbe_1
+vega-3.5.0-py310hbe9552e_1
+vega-3.5.0-py38h10201cd_1
+vega-3.6.0-py38h10201cd_0
+vega-3.6.0-py39h2804cbe_0
+vega-3.6.0-py310hbe9552e_0
+vega-3.6.0-py39h2804cbe_1
+vega-3.6.0-py310hbe9552e_1
+vega-3.6.0-py38h10201cd_1
+vega-3.6.0-py311h267d04e_1
+vega-4.0.0-py38h10201cd_0
+vega-4.0.0-py310hbe9552e_0
+vega-4.0.0-py311h267d04e_0
+vega-4.0.0-py39h2804cbe_0

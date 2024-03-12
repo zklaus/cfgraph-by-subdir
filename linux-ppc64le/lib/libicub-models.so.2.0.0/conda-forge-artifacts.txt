@@ -1,0 +1,6 @@
+icub-models-2.0.0-py39h89b8a7f_0
+icub-models-2.0.0-py38h9e38afe_0
+icub-models-2.0.0-py310h7eda2be_0
+icub-models-2.0.0-py38h98fc165_0
+icub-models-2.0.0-py39h5f19577_0
+icub-models-2.0.0-py311ha880dfd_0

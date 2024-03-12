@@ -1,0 +1,16 @@
+r-lmoments-1.2_3-r3.4.1_0
+r-lmoments-1.2_3-r341_1
+r-lmoments-1.2_3-r351_1
+r-lmoments-1.3_1-r35h0357c0b_0
+r-lmoments-1.3_1-r35h0357c0b_1
+r-lmoments-1.3_1-r36h0357c0b_1
+r-lmoments-1.3_1-r36h0357c0b_2
+r-lmoments-1.3_1-r40h0357c0b_2
+r-lmoments-1.3_1-r36hc8faad4_3
+r-lmoments-1.3_1-r40hc8faad4_3
+r-lmoments-1.3_1-r40h6dc32e9_3
+r-lmoments-1.3_1-r41h6dc32e9_3
+r-lmoments-1.3_1-r41h37cf8d7_4
+r-lmoments-1.3_1-r42h37cf8d7_4
+r-lmoments-1.3_1-r43h7ce84a7_5
+r-lmoments-1.3_1-r42h7ce84a7_5

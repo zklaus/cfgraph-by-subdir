@@ -1,0 +1,9 @@
+xorg-makedepend-1.0.5-vc14_0
+xorg-makedepend-1.0.5-vc9_0
+xorg-makedepend-1.0.5-hf9e9495_1
+xorg-makedepend-1.0.5-hb886990_1
+xorg-makedepend-1.0.5-hca4a3dc_1001
+xorg-makedepend-1.0.6-hca4a3dc_0
+xorg-makedepend-1.0.6-hca4a3dc_1
+xorg-makedepend-1.0.6-hfa435f1_2
+xorg-makedepend-1.0.8-hfa435f1_0

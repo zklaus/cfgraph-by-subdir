@@ -1,0 +1,6 @@
+libsdformat12-12.6.0-hcfbbd17_0
+libsdformat12-12.6.0-h512be60_0
+libsdformat12-12.6.0-hcfbbd17_1
+libsdformat12-12.6.0-h512be60_1
+libsdformat12-12.6.0-h89e1e99_2
+libsdformat12-12.6.0-h802f733_2

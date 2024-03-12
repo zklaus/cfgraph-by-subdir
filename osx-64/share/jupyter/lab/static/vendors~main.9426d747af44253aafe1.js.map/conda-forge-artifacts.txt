@@ -1,0 +1,4 @@
+jupyterlab-0.34.12-py36_0
+jupyterlab-0.34.12-py35_0
+jupyterlab-0.34.12-py36_1000
+jupyterlab-0.34.12-py37_1000

@@ -1,0 +1,4 @@
+pineappl-0.5.4-py39h4ef89ea_0
+pineappl-0.5.4-py38h0287bc9_0
+pineappl-0.5.4-py37h56ae28c_0
+pineappl-0.5.4-py37hbd0741f_0

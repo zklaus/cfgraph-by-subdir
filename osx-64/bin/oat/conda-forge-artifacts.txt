@@ -1,0 +1,12 @@
+oxdna-analysis-tools-2.0.3-py38hbd87e4b_0
+oxdna-analysis-tools-2.0.3-py310h936d966_0
+oxdna-analysis-tools-2.0.3-py39h7cc1f47_0
+oxdna-analysis-tools-2.0.3-py311hd5badaa_1
+oxdna-analysis-tools-2.0.3-py310h936d966_1
+oxdna-analysis-tools-2.0.3-py39h7cc1f47_1
+oxdna-analysis-tools-2.0.3-py38hbd87e4b_1
+oxdna-analysis-tools-2.0.3-py39h5b4affa_2
+oxdna-analysis-tools-2.0.3-py38h7092abf_2
+oxdna-analysis-tools-2.0.3-py311hc9a392d_2
+oxdna-analysis-tools-2.0.3-py312h3f2338b_2
+oxdna-analysis-tools-2.0.3-py310h91862f5_2

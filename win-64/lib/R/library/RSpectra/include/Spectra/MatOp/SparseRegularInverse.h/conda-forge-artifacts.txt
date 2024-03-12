@@ -1,0 +1,8 @@
+r-rspectra-0.16_0-r40h399f8d5_4
+r-rspectra-0.16_0-r41h399f8d5_4
+r-rspectra-0.16_1-r40h399f8d5_0
+r-rspectra-0.16_1-r41h399f8d5_0
+r-rspectra-0.16_1-r41h78deb2a_0
+r-rspectra-0.16_1-r40h78deb2a_0
+r-rspectra-0.16_1-r41h78deb2a_1
+r-rspectra-0.16_1-r41h78deb2a_2

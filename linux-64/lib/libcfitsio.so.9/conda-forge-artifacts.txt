@@ -1,0 +1,2 @@
+cfitsio-4.0.0-h9a35b8e_0
+cfitsio-4.1.0-hd9d235c_0

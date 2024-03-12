@@ -1,0 +1,17 @@
+go-ipfs-0.8.0-ha8b4493_0
+go-ipfs-0.9.1-ha8b4493_0
+go-ipfs-0.10.0-ha8b4493_0
+go-ipfs-0.11.0-ha8b4493_0
+go-ipfs-0.12.1-ha8b4493_0
+go-ipfs-0.12.2-ha8b4493_0
+kubo-0.15.0-h07f9b4e_0
+kubo-0.16.0-h07f9b4e_0
+kubo-0.16.0-h07f9b4e_1
+kubo-0.17.0-h07f9b4e_0
+kubo-0.17.0-h07f9b4e_1
+kubo-0.18.0-h07f9b4e_0
+kubo-0.18.1-h07f9b4e_0
+kubo-0.20.0-h0e70267_0
+kubo-0.21.0-h0e70267_0
+kubo-0.22.0-h0e70267_0
+kubo-0.24.0-hdb35bce_0

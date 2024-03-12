@@ -1,0 +1,5 @@
+yaqd-thorlabs-2020.7.0-py_0
+yaqd-thorlabs-2020.11.0-pyhd8ed1ab_0
+yaqd-thorlabs-2020.11.1-pyhd8ed1ab_0
+yaqd-thorlabs-2020.12.0-pyhd8ed1ab_0
+yaqd-thorlabs-2021.2.0-pyhd8ed1ab_0

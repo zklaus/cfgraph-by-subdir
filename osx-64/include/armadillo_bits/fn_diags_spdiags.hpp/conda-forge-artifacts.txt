@@ -1,0 +1,8 @@
+armadillo-12.6.0-hdc495e4_0
+armadillo-12.6.1-hdc495e4_0
+armadillo-12.6.2-hdc495e4_0
+armadillo-12.6.3-hdc495e4_0
+armadillo-12.6.4-hdc495e4_0
+armadillo-12.6.4-h9d28e02_1
+armadillo-12.6.5-h070e6e0_0
+armadillo-12.6.6-h070e6e0_0

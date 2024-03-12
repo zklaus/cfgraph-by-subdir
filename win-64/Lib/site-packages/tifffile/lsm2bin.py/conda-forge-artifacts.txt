@@ -1,0 +1,16 @@
+tifffile-2019.7.26-py36hc8d92b1_0
+tifffile-2019.7.26-py38hc8d92b1_0
+tifffile-2019.7.26-py37hc8d92b1_0
+tifffile-2019.7.26-py27h83e69c8_0
+tifffile-2019.7.26-py36hc8d92b1_1
+tifffile-2019.7.26-py38hc8d92b1_1
+tifffile-2019.7.26-py37hc8d92b1_1
+tifffile-2019.7.26-py27h83e69c8_1
+tifffile-2019.7.26-py36_2
+tifffile-2019.7.26-py37_2
+tifffile-2019.7.26-py38_2
+tifffile-2019.7.26-py27_2
+tifffile-2019.7.26.2-py36_0
+tifffile-2019.7.26.2-py27_0
+tifffile-2019.7.26.2-py37_0
+tifffile-2019.7.26.2-py38_0

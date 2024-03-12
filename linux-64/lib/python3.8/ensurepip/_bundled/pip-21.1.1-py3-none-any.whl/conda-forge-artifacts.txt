@@ -1,0 +1,10 @@
+python-3.8.10-hffdb5ce_0_cpython
+python-3.8.10-h49503c6_1_cpython
+python-3.8.10-hb7a2778_2_cpython
+python-3.8.12-hb7a2778_0_cpython
+python-3.8.12-hf930737_1_cpython
+python-3.8.12-hb7a2778_1_cpython
+python-3.8.12-hf930737_2_cpython
+python-3.8.12-hb7a2778_2_cpython
+python-3.8.12-ha38a3c6_3_cpython
+python-3.8.12-h0744224_3_cpython

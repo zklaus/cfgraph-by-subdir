@@ -1,0 +1,8 @@
+geant4-10.7.0-py36he37ad61_0
+geant4-10.7.0-py37h5c030ce_0
+geant4-10.7.0-py39h976dcda_0
+geant4-10.7.0-py38h5163e29_0
+geant4-10.7.0-py38h1865043_1
+geant4-10.7.0-py37h8f5bc4a_1
+geant4-10.7.0-py36h6fe3864_1
+geant4-10.7.0-py39hbdedfc8_1

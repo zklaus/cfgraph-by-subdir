@@ -1,0 +1,2 @@
+aws-c-common-0.7.0-h8ffe710_0
+aws-c-common-0.7.1-h8ffe710_0

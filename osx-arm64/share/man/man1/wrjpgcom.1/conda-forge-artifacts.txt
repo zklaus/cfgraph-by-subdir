@@ -1,0 +1,16 @@
+jpeg-9d-h27ca646_0
+libjpeg-turbo-2.0.5-h27ca646_0
+libjpeg-turbo-2.1.0-h3422bc3_0
+libjpeg-turbo-2.1.1-h3422bc3_0
+jpeg-9e-h3422bc3_0
+jpeg-9e-h1c322ee_1
+jpeg-8d-h1c322ee_1
+jpeg-9e-he4db4b2_2
+libjpeg-turbo-2.1.3-he4db4b2_0
+libjpeg-turbo-2.1.4-h1a8c8d9_0
+jpeg-9e-h1a8c8d9_3
+libjpeg-turbo-2.1.4-h1a8c8d9_1
+libjpeg-turbo-2.1.5.1-h1a8c8d9_0
+libjpeg-turbo-3.0.0-hb547adb_0
+libjpeg-turbo-3.0.0-hb547adb_1
+libjpeg-turbo-2.1.5.1-hb547adb_1

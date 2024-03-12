@@ -1,0 +1,14 @@
+wxwidgets-3.2.2-hc513c60_0
+wxwidgets-3.2.2.1-hc513c60_0
+wxwidgets-3.2.2.1-h20cb418_1
+wxwidgets-3.2.2.1-h20cb418_2
+wxwidgets-3.2.2.1-h20cb418_3
+wxpython-4.2.1-py310h00ffb61_0
+wxpython-4.2.1-py38hd3f51b4_0
+wxpython-4.2.1-py311h12c1d0e_0
+wxpython-4.2.1-py39h99910a6_0
+wxwidgets-3.2.2.1-h4c91a18_4
+wxwidgets-3.2.2.1-h63ad7f6_5
+wxwidgets-3.2.3-h63ad7f6_0
+wxwidgets-3.2.4-h63ad7f6_0
+wxwidgets-3.2.4-hc148960_1

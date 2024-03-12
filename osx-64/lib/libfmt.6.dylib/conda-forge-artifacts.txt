@@ -1,0 +1,8 @@
+fmt-6.0.0-ha1b3eb9_1
+fmt-6.0.0-ha1b3eb9_2
+fmt-6.1.0-ha1b3eb9_0
+fmt-6.1.1-ha1b3eb9_0
+fmt-6.1.2-ha1b3eb9_0
+fmt-6.2.0-ha1b3eb9_0
+fmt-6.2.0-ha1b3eb9_1
+fmt-6.2.1-ha1b3eb9_0

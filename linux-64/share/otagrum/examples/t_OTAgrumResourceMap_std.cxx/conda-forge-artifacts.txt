@@ -1,0 +1,16 @@
+otagrum-0.2-py27h66a8c37_3
+otagrum-0.2-py36h66a8c37_3
+otagrum-0.2-py37h66a8c37_3
+otagrum-0.2-py27h52dc43a_4
+otagrum-0.2-py36h52dc43a_4
+otagrum-0.2-py37h52dc43a_4
+otagrum-0.2-py38h52dc43a_4
+otagrum-0.2-py38h52dc43a_5
+otagrum-0.2-py37h52dc43a_5
+otagrum-0.2-py36h52dc43a_5
+otagrum-0.2-py27h52dc43a_5
+otagrum-0.2-py38h950e882_6
+otagrum-0.2-py37h3340039_6
+otagrum-0.2-py36h831f99a_6
+otagrum-0.2-py38h950e882_7
+otagrum-0.2-py37h3340039_7

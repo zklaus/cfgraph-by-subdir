@@ -1,0 +1,8 @@
+syncthing-1.17.0-h990441c_0
+syncthing-1.18.0-h990441c_0
+syncthing-1.18.1-h990441c_0
+syncthing-1.18.2-h990441c_0
+syncthing-1.18.3-h990441c_0
+syncthing-1.18.4-h990441c_0
+syncthing-1.18.5-h990441c_0
+syncthing-1.18.6-h990441c_0

@@ -1,0 +1,3 @@
+r-openmx-2.20.0-r40h96779af_0
+r-openmx-2.20.3-r40h96779af_0
+r-openmx-2.20.6-r40h96779af_0

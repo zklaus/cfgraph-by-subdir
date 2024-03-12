@@ -1,0 +1,8 @@
+root_base-6.22.8-py39h41abfb4_2
+root_base-6.22.8-py38hc5c7cb7_2
+root_base-6.22.8-py37hdcb3d1a_2
+root_base-6.22.8-py36h6457ba8_2
+root_base-6.22.8-py39ha9ab4c2_3
+root_base-6.22.8-py36h4d4d135_3
+root_base-6.22.8-py37hf4f6071_3
+root_base-6.22.8-py38h66547de_3

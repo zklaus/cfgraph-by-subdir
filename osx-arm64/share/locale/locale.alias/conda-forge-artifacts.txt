@@ -1,0 +1,9 @@
+gettext-0.19.8.1-h9c227da_1003
+gettext-0.19.8.1-h9c227da_1004
+gettext-0.19.8.1-hea66d9f_1005
+gettext-0.19.8.1-h049c9fb_1006
+gettext-0.19.8.1-h049c9fb_1007
+gettext-0.19.8.1-h049c9fb_1008
+gettext-0.19.8.1-h0186832_1009
+gettext-0.21.1-h0186832_0
+gnupg1-1.4.23-he8486bc_0

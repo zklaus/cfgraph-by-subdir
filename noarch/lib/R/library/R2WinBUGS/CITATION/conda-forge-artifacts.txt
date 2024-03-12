@@ -1,0 +1,11 @@
+r-r2winbugs-2.1_21-r35h6115d3f_0
+r-r2winbugs-2.1_21-r36h6115d3f_1
+r-r2winbugs-2.1_21-r35h6115d3f_1
+r-r2winbugs-2.1_21-r36h6115d3f_2
+r-r2winbugs-2.1_21-r40h6115d3f_2
+r-r2winbugs-2.1_21-r40hc72bb7e_2
+r-r2winbugs-2.1_21-r41hc72bb7e_2
+r-r2winbugs-2.1_21-r42hc72bb7e_3
+r-r2winbugs-2.1_21-r41hc72bb7e_3
+r-r2winbugs-2.1_21-r42hc72bb7e_4
+r-r2winbugs-2.1_21-r43hc72bb7e_4

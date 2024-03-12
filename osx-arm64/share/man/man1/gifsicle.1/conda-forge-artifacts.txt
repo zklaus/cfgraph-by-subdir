@@ -1,0 +1,2 @@
+gifsicle-1.93-h3422bc3_0
+gifsicle-1.94-hb547adb_0

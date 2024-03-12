@@ -1,0 +1,13 @@
+spdlog-1.8.1-h25a4f0d_1
+spdlog-1.8.2-h8d8a503_0
+spdlog-1.8.2-h926bf3e_1
+spdlog-1.8.3-h940c156_0
+spdlog-1.8.5-h940c156_0
+spdlog-1.9.0-h940c156_0
+spdlog-1.9.0-h940c156_1
+spdlog-1.9.1-h940c156_0
+spdlog-1.9.2-h940c156_0
+spdlog-1.8.5-h940c156_1
+spdlog-1.9.2-h940c156_1
+spdlog-1.10.0-hbb4e6a2_0
+spdlog-1.10.0-ha64ae7f_1

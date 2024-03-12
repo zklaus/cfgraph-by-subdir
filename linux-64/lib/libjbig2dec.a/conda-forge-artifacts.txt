@@ -1,0 +1,3 @@
+jbig2dec-0.17-he06d7ca_0
+jbig2dec-0.17-he06d7ca_1
+jbig2dec-0.18-he06d7ca_0

@@ -1,0 +1,5 @@
+qpoases-3.2.1-h0e60522_0
+qpoases-3.2.1-py310h2c5aedd_1
+qpoases-3.2.1-py39ha5ad07a_1
+qpoases-3.2.1-py39ha5ad07a_2
+qpoases-3.2.1-py310h2c5aedd_2

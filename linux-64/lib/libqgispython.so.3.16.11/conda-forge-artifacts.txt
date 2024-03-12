@@ -1,0 +1,7 @@
+qgis-3.16.11-py39h26cda0e_1
+qgis-3.16.11-py38h311eb69_1
+qgis-3.16.11-py37h0f66b02_1
+qgis-3.16.11-py36h5f2810b_0
+qgis-3.16.11-py37h0f66b02_0
+qgis-3.16.11-py39h26cda0e_0
+qgis-3.16.11-py38h311eb69_0

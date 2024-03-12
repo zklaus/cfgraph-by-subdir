@@ -1,0 +1,6 @@
+openjdk-8.0.265-h516909a_0
+openjdk-8.0.282-h7f98852_0
+openjdk-8.0.302-h7f98852_0
+openjdk-8.0.312-h7f98852_0
+openjdk-8.0.332-h166bdaf_0
+openjdk-8.0.382-hd590300_0

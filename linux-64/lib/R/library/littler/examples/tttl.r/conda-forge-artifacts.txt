@@ -1,0 +1,6 @@
+r-littler-0.3.18-r41h133d619_0
+r-littler-0.3.18-r42h133d619_0
+r-littler-0.3.18-r42h57805ef_1
+r-littler-0.3.18-r43h57805ef_1
+r-littler-0.3.18-r42h57805ef_2
+r-littler-0.3.18-r43h57805ef_2

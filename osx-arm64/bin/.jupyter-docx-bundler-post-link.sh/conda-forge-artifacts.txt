@@ -1,0 +1,15 @@
+jupyter-docx-bundler-0.3.4-py39h2804cbe_2
+jupyter-docx-bundler-0.3.4-py310hbe9552e_2
+jupyter-docx-bundler-0.3.4-py38h10201cd_2
+jupyter-docx-bundler-0.3.4-py39h2804cbe_3
+jupyter-docx-bundler-0.3.4-py311h267d04e_3
+jupyter-docx-bundler-0.3.4-py310hbe9552e_3
+jupyter-docx-bundler-0.3.4-py38h10201cd_3
+jupyter-docx-bundler-0.3.5-py310hbe9552e_0
+jupyter-docx-bundler-0.3.5-py38h10201cd_0
+jupyter-docx-bundler-0.3.5-py39h2804cbe_0
+jupyter-docx-bundler-0.3.5-py311h267d04e_0
+jupyter-docx-bundler-0.3.5-py310hbe9552e_1
+jupyter-docx-bundler-0.3.5-py38h10201cd_1
+jupyter-docx-bundler-0.3.5-py39h2804cbe_1
+jupyter-docx-bundler-0.3.5-py311h267d04e_1

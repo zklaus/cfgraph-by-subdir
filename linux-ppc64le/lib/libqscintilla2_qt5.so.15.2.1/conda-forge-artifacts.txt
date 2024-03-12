@@ -1,0 +1,5 @@
+qscintilla2-2.14.1-py38h2152dc0_0
+qscintilla2-2.14.1-py39heb1ee18_0
+qscintilla2-2.14.1-py310h82284cd_0
+qscintilla2-2.14.1-py311h5ca9e85_0
+qscintilla2-2.14.1-py312hbee0316_0

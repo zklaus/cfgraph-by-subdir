@@ -1,0 +1,13 @@
+vscode-jupyter-2020.12.1-py38ha3d67f4_1
+vscode-jupyter-2020.12.1-py37hdb62607_1
+vscode-jupyter-2020.12.1-py36h58fc0a5_1
+vscode-jupyter-2020.12.1-py39hbaeb31c_2
+vscode-jupyter-2020.12.1-py38ha3d67f4_2
+vscode-jupyter-2020.12.1-py37hdb62607_2
+vscode-jupyter-2020.12.1-py36h58fc0a5_2
+vscode-jupyter-2020.12.1-py39hbaeb31c_3
+vscode-jupyter-2020.12.1-py36he2407af_3
+vscode-jupyter-2020.12.1-py37hdb62607_3
+vscode-jupyter-2020.12.1-py38ha3d67f4_3
+vscode-jupyter-2020.12.1-py36h58fc0a5_3
+vscode-jupyter-2020.12.1-py37h93c1027_3

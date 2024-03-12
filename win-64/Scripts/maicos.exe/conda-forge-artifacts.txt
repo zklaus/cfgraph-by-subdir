@@ -1,0 +1,9 @@
+maicos-0.5.1-py39h2e25243_0
+maicos-0.5.1-py39h2ba5b7c_1
+maicos-0.5.1-py310h1c4a608_1
+maicos-0.6.1-py39h2ba5b7c_0
+maicos-0.6.1-py310h1c4a608_0
+maicos-0.7.2-py39hd354de2_0
+maicos-0.7.2-py310h18d8fe4_0
+maicos-0.7.2-py311hf63dbb6_0
+maicos-0.7.2-py38h5465b62_0

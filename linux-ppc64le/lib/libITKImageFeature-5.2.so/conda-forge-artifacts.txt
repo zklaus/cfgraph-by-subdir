@@ -1,0 +1,10 @@
+libitk-5.2.0-h5cd553a_1
+libitk-5.2.0-h5cd553a_2
+libitk-5.2.0-h1f96e0b_3
+libitk-5.2.0-h1f96e0b_4
+libitk-5.2.1-h1f96e0b_0
+libitk-5.2.1-h1763d3e_1
+libitk-5.2.1-h1763d3e_2
+libitk-5.2.1-h1763d3e_3
+libitk-5.2.1-h1763d3e_4
+libitk-5.2.1-hdcc3714_4

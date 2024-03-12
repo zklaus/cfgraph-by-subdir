@@ -1,0 +1,12 @@
+quantlib-1.26-hdd820d3_0
+quantlib-1.26-hdd820d3_1
+quantlib-1.26-hdd820d3_2
+quantlib-1.26-hdd820d3_3
+quantlib-1.26-hdd820d3_4
+quantlib-1.26-hdd820d3_5
+quantlib-1.27-hdd820d3_0
+quantlib-1.27-h12eeba0_1
+quantlib-1.28-h12eeba0_0
+quantlib-1.29-h12eeba0_0
+quantlib-1.29-h12eeba0_1
+quantlib-1.29-h12eeba0_2

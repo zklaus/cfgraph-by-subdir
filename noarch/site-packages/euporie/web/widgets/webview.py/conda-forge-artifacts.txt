@@ -1,0 +1,11 @@
+euporie-2.4.1-pyhd8ed1ab_0
+euporie-2.4.2-pyhd8ed1ab_0
+euporie-2.4.3-pyhd8ed1ab_0
+euporie-2.5.0-pyhd8ed1ab_0
+euporie-2.5.1-pyhd8ed1ab_0
+euporie-2.5.2-pyhd8ed1ab_0
+euporie-2.5.2-pyhd8ed1ab_1
+euporie-2.5.3-pyhd8ed1ab_0
+euporie-2.6.0-pyhd8ed1ab_0
+euporie-2.6.1-pyhd8ed1ab_0
+euporie-2.6.2-pyhd8ed1ab_0

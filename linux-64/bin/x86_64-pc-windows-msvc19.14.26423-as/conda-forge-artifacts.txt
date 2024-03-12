@@ -1,0 +1,11 @@
+clang_win-64-9.0.1-h8126b6f_4
+clang_win-64-9.0.1-hfa79ae8_5
+clang_win-64-9.0.1-hfa79ae8_6
+clang_win-64-10.0.0-h1c1e07a_0
+clang_win-64-11.0.0-h1c1e07a_0
+clang_win-64-11.0.0-hcb44a81_2
+clang_win-64-12.0.1-hcb44a81_2
+clang_win-64-13.0.1-hcb44a81_2
+clang_win-64-14.0.3-hcb44a81_0
+clang_win-64-15.0.5-hcb44a81_0
+clang_win-64-15.0.7-hcb44a81_0

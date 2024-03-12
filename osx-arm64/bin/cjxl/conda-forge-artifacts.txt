@@ -1,0 +1,7 @@
+libjxl-tools-0.7.0-hce6651a_1
+libjxl-tools-0.8.0-hce6651a_0
+libjxl-tools-0.8.1-hce6651a_0
+libjxl-tools-0.8.1-hf8148e8_1
+libjxl-tools-0.8.2-ha0d4c7a_0
+libjxl-tools-0.8.2-hcb3e430_1
+libjxl-tools-0.8.2-h91227f3_2

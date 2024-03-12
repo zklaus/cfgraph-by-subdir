@@ -1,0 +1,15 @@
+imagemagick-7.0.8_7-pl526h734ff71_1
+imagemagick-7.0.8_8-pl526h734ff71_1
+imagemagick-7.0.8_10-pl526h84ccc33_0
+imagemagick-7.0.8_10-pl526hc610aec_1
+imagemagick-7.0.8_10-pl526hc610aec_2
+imagemagick-7.0.8_11-pl526hc610aec_0
+imagemagick-7.0.8_11-pl526hc610aec_1
+imagemagick-7.0.8_13-pl526h6ffe361_0
+imagemagick-7.0.8_14-pl526h6ffe361_0
+imagemagick-7.0.8_15-pl526h6ffe361_0
+imagemagick-7.0.8_16-pl526h6ffe361_0
+imagemagick-7.0.8_19-pl526h6ffe361_0
+imagemagick-7.0.8_20-pl526h6ffe361_0
+imagemagick-7.0.8_22-pl526h6ffe361_0
+imagemagick-7.0.8_23-pl526h6ffe361_0

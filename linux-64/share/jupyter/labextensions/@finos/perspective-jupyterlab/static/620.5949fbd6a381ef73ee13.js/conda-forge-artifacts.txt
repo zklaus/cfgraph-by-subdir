@@ -1,0 +1,16 @@
+perspective-2.5.0-py311h259f450_0
+perspective-2.5.0-py310ha69b8f2_0
+perspective-2.5.0-py38h40a1b25_0
+perspective-2.5.0-py311h2ec0128_0
+perspective-2.5.0-py39h62b959b_0
+perspective-2.5.0-py39he2c64b5_0
+perspective-2.5.0-py310h745027a_0
+perspective-2.5.0-py38hcb22da3_0
+perspective-2.5.0-py39he2c64b5_1
+perspective-2.5.0-py311h259f450_1
+perspective-2.5.0-py310h9b6209e_1
+perspective-2.5.0-py39ha863eee_1
+perspective-2.5.0-py311h9dbe6f4_1
+perspective-2.5.0-py38hecaec41_1
+perspective-2.5.0-py310h745027a_1
+perspective-2.5.0-py38h40a1b25_1

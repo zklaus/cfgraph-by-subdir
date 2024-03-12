@@ -1,0 +1,11 @@
+r-reshape2-1.4.2-r3.3.2_0
+r-reshape2-1.4.2-r3.4.1_0
+r-reshape2-1.4.3-r3.3.2_0
+r-reshape2-1.4.3-r3.4.1_0
+r-reshape2-1.4.3-r341hfc679d8_1
+r-reshape2-1.4.3-r341h9d2a408_2
+r-reshape2-1.4.3-r351h9d2a408_2
+r-reshape2-1.4.3-r351h466af19_1002
+r-reshape2-1.4.3-r351h466af19_1003
+r-reshape2-1.4.3-r35hf99fc2c_1004
+r-reshape2-1.4.4-r35hc5da6b9_0

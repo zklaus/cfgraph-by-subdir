@@ -1,0 +1,17 @@
+cpp-opentelemetry-sdk-1.9.0-h6e86768_1
+libopentelemetry-cpp-1.9.0-h3a04492_2
+libopentelemetry-cpp-1.9.0-h3a04492_3
+libopentelemetry-cpp-1.9.1-h3a04492_0
+libopentelemetry-cpp-1.9.1-h3a04492_1
+libopentelemetry-cpp-1.9.1-h7ee5030_1
+libopentelemetry-cpp-1.9.1-h268cab6_2
+libopentelemetry-cpp-1.9.1-hedca983_2
+libopentelemetry-cpp-1.9.1-h268cab6_3
+libopentelemetry-cpp-1.9.1-h9f3eacc_3
+libopentelemetry-cpp-1.10.0-h268cab6_0
+libopentelemetry-cpp-1.10.0-h9f3eacc_0
+libopentelemetry-cpp-1.11.0-h9f3eacc_0
+libopentelemetry-cpp-1.11.0-he8711a7_1
+libopentelemetry-cpp-1.11.0-h38a3a46_2
+libopentelemetry-cpp-1.12.0-h38a3a46_0
+libopentelemetry-cpp-1.12.0-hb0e315f_1

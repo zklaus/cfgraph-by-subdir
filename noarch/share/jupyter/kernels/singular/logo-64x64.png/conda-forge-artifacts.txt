@@ -1,0 +1,1 @@
+jupyter-kernel-singular-0.9.9-py_0

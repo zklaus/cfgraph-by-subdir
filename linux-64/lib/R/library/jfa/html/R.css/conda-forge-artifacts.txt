@@ -1,0 +1,8 @@
+r-jfa-0.6.5-r42h38f115c_0
+r-jfa-0.6.5-r41h38f115c_0
+r-jfa-0.6.6-r42h38f115c_0
+r-jfa-0.6.6-r41h38f115c_0
+r-jfa-0.6.6-r42ha503ecb_1
+r-jfa-0.6.6-r43ha503ecb_1
+r-jfa-0.6.7-r42ha503ecb_0
+r-jfa-0.6.7-r43ha503ecb_0

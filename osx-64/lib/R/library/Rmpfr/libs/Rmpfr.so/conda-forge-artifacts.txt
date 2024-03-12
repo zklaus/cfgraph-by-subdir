@@ -1,0 +1,10 @@
+r-rmpfr-0.6_1-r3.3.2_0
+r-rmpfr-0.6_1-r3.3.2_1
+r-rmpfr-0.6_1-r3.4.1_0
+r-rmpfr-0.6_1-r3.4.1_1
+r-rmpfr-0.7_1-r341h510e98b_0
+r-rmpfr-0.7_1-r351h510e98b_0
+r-rmpfr-0.7_1-r351h4b6300f_1000
+r-rmpfr-0.7_2-r35he7e6275_0
+r-rmpfr-0.7_2-r35he7e6275_1
+r-rmpfr-0.8_1-r35h115e33d_0

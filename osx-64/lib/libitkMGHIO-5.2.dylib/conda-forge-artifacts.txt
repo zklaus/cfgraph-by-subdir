@@ -1,0 +1,9 @@
+libitk-5.2.0-hd00416c_4
+libitk-5.2.1-hd00416c_0
+libitk-5.2.1-hd9e2956_1
+libitk-5.2.1-hd9e2956_2
+libitk-5.2.1-hd9e2956_3
+libitk-5.2.1-hd9e2956_4
+libitk-5.2.1-h45a1ef1_4
+libitk-5.2.1-hc003921_5
+libitk-5.2.1-h10ab89a_6

@@ -1,0 +1,13 @@
+oxigraph-server-0.3.2-h308cbc3_2
+oxigraph-server-0.3.13-h308cbc3_0
+oxigraph-server-0.3.13-hfa435f1_1
+oxigraph-server-0.3.14-hfa435f1_0
+oxigraph-server-0.3.15-hfa435f1_0
+oxigraph-server-0.3.16-hfa435f1_0
+oxigraph-server-0.3.17-hfa435f1_0
+oxigraph-server-0.3.18-hfa435f1_0
+oxigraph-server-0.3.19-hfa435f1_0
+oxigraph-server-0.3.19-hfa435f1_1
+oxigraph-server-0.3.20-hfa435f1_0
+oxigraph-server-0.3.21-hfa435f1_0
+oxigraph-server-0.3.22-hfa435f1_0

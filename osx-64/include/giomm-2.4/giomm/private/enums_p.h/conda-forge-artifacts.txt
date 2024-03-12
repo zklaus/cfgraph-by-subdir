@@ -1,0 +1,11 @@
+glibmm-2.48.1-0
+glibmm-2.48.1-1
+glibmm-2.48.1-2
+glibmm-2.48.1-3
+glibmm-2.52.1-h1c1529f_0
+glibmm-2.52.1-h729ec66_0
+glibmm-2.52.1-hf7529bb_1000
+glibmm-2.58.1-h63343fb_0
+glibmm-2.58.1-ha1bc006_1
+glibmm-2.58.1-h364ef7c_1
+glibmm-2.4-2.66.3-h8931421_0

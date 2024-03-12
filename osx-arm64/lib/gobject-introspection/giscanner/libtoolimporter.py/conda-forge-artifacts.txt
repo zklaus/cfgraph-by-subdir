@@ -1,0 +1,6 @@
+gobject-introspection-1.66.1-py38h37c851f_2
+gobject-introspection-1.66.1-py39h79e566e_2
+gobject-introspection-1.66.1-py38h37c851f_3
+gobject-introspection-1.66.1-py39h79e566e_3
+gobject-introspection-1.66.1-py39hf5d7f61_4
+gobject-introspection-1.66.1-py38h6f2d171_4

@@ -1,0 +1,8 @@
+hpp-template-corba-4.12.0-py38h12bbefe_0
+hpp-template-corba-4.12.0-py37h737db71_0
+hpp-template-corba-4.12.0-py39hf018cea_0
+hpp-template-corba-4.12.0-py310h2fea185_0
+hpp-template-corba-4.13.0-py39h7c694c3_0
+hpp-template-corba-4.13.0-py37h229a17a_0
+hpp-template-corba-4.13.0-py310habb735a_0
+hpp-template-corba-4.13.0-py38hf58141a_0

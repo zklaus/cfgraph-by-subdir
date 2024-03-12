@@ -1,0 +1,6 @@
+python-3.10.6-hc14f532_0_cpython
+python-3.10.6-ha7b0be1_0_cpython
+python-3.10.7-he7542f4_0_cpython
+python-3.10.7-h4150a38_0_cpython
+python-3.10.8-he7542f4_0_cpython
+python-3.10.8-h4150a38_0_cpython

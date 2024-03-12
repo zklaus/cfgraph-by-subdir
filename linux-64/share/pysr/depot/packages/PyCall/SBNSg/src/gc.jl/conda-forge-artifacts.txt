@@ -1,0 +1,4 @@
+pysr-0.14.2-py310hfdc917e_2
+pysr-0.14.2-py311h781c19f_2
+pysr-0.14.2-py38h0df68fb_2
+pysr-0.14.2-py39h22c7aae_2

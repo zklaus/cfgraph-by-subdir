@@ -1,0 +1,6 @@
+pyinstaller-3.3.1-py35_vc14_0
+pyinstaller-3.3.1-py36_vc14_0
+pyinstaller-3.3-py35_vc14_0
+pyinstaller-3.3-py35_vc14_1
+pyinstaller-3.3-py36_vc14_0
+pyinstaller-3.3-py36_vc14_1

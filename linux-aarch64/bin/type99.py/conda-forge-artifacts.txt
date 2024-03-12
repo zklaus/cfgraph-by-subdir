@@ -1,0 +1,11 @@
+pyspf-2.0.14-py38h2063c64_2
+pyspf-2.0.14-py39ha65689a_2
+pyspf-2.0.14-py311hfecb2dc_2
+pyspf-2.0.14-py39hdc1b86f_2
+pyspf-2.0.14-py310hbbe02a8_2
+pyspf-2.0.14-py38he37f277_2
+pyspf-2.0.14-py311hec3470c_3
+pyspf-2.0.14-py39h387a52e_3
+pyspf-2.0.14-py38he3eb160_3
+pyspf-2.0.14-py39h4420490_3
+pyspf-2.0.14-py310h4c7bcd0_3

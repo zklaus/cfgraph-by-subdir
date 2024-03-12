@@ -1,0 +1,2 @@
+terraform-provider-keycloak-3.0.0-h73c3971_0
+terraform-provider-keycloak-3.0.0-h73c3971_1

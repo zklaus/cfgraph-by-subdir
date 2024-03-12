@@ -1,0 +1,8 @@
+libxc-c-6.1.0-cpu_h3ab040d_2
+libxc-c-6.1.0-cpu_h3ab040d_3
+libxc-c-6.2.0-cpu_h427b8d4_0
+libxc-c-6.2.0-cpu_h427b8d4_1
+libxc-c-6.2.1-cpu_h427b8d4_0
+libxc-c-6.2.2-cpu_h427b8d4_0
+libxc-c-6.2.2-cpu_h427b8d4_1
+libxc-c-6.2.2-cpu_hbc0346d_2

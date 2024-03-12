@@ -1,0 +1,5 @@
+libopencv-4.5.2-py36h031a1b0_0
+libopencv-4.5.2-py38hebb165d_1
+libopencv-4.5.2-py36ha7f3288_1
+libopencv-4.5.2-py39h2c905bf_1
+libopencv-4.5.2-py37h588c950_1

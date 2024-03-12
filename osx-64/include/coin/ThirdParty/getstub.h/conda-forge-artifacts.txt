@@ -1,0 +1,8 @@
+ipopt-3.13.0-hbb27dc6_0
+ipopt-3.13.0-hbb27dc6_1
+ipopt-3.13.1-hbb27dc6_0
+ipopt-3.13.2-he217970_0
+ipopt-3.13.2-h654a6ca_1
+ipopt-3.13.2-ha42d66a_1
+ipopt-3.13.3-h654a6ca_0
+ipopt-3.13.3-ha42d66a_0

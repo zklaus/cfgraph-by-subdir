@@ -1,0 +1,2 @@
+git-sizer-1.4.0-hdeebcfe_0
+git-sizer-1.5.0-hdeebcfe_0

@@ -1,0 +1,2 @@
+rb-jekyll-seo-tag-2.6.1-hc42de5b_0
+rb-jekyll-seo-tag-2.6.1-hc42de5b_1

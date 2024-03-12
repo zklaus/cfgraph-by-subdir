@@ -1,0 +1,3 @@
+libignition-msgs6-6.0.0-ha44d269_0
+libignition-msgs6-6.0.0-h42c8be5_1
+libignition-msgs6-6.0.0-h42c8be5_2

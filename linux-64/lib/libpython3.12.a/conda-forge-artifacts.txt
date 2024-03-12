@@ -1,0 +1,2 @@
+libpython-static-3.12.0rc3-h59595ed_1_cpython
+libpython-static-3.12.0-h59595ed_0_cpython

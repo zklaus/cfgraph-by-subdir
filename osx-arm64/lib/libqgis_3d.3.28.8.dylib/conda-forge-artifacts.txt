@@ -1,0 +1,11 @@
+qgis-3.28.8-py38h1f0371f_0
+qgis-3.28.8-py39h3e5651f_0
+qgis-3.28.8-py311h85700f4_0
+qgis-3.28.8-py310h46711fc_0
+qgis-3.28.8-py311h8028d42_1
+qgis-3.28.8-py38ha172768_1
+qgis-3.28.8-py310hc41d808_1
+qgis-3.28.8-py39hc6b6dde_1
+qgis-3.28.8-py310h0608f69_2
+qgis-3.28.8-py39h230a4fa_2
+qgis-3.28.8-py311h9aee9a1_2

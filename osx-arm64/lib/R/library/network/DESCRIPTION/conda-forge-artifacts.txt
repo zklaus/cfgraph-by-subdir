@@ -1,0 +1,6 @@
+r-network-1.18.0-r42h5d63f41_1
+r-network-1.18.0-r41h5d63f41_1
+r-network-1.18.1-r41h5d63f41_0
+r-network-1.18.1-r42h5d63f41_0
+r-network-1.18.1-r42h21dc0da_1
+r-network-1.18.1-r43h21dc0da_1

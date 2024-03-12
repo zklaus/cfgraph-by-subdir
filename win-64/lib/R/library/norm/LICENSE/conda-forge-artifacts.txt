@@ -1,0 +1,12 @@
+r-norm-1.0_9.5-r351h17ddedb_0
+r-norm-1.0_9.5-r351h17ddedb_1000
+r-norm-1.0_9.5-r35h17ddedb_1001
+r-norm-1.0_9.5-r36h17ddedb_1001
+r-norm-1.0_9.5-r35h17ddedb_1002
+r-norm-1.0_9.5-r36h17ddedb_1002
+r-norm-1.0_9.5-r40h17ddedb_1003
+r-norm-1.0_9.5-r36h17ddedb_1003
+r-norm-1.0_9.5-r36h87ffe87_1004
+r-norm-1.0_9.5-r40h87ffe87_1004
+r-norm-1.0_9.5-r40he816bda_1004
+r-norm-1.0_9.5-r41he816bda_1004

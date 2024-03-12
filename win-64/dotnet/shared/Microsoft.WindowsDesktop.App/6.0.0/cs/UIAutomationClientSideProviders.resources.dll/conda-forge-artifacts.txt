@@ -1,0 +1,2 @@
+dotnet-desktop-6.0.0-h57928b3_0
+dotnet-desktop-6.0.0-h57928b3_1

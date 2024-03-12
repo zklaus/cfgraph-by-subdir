@@ -1,0 +1,3 @@
+qtspell-0.9.0-hed507bd_0
+qtspell-1.0.1-h4bd325d_0
+qtspell-1.0.1-h51b374b_1

@@ -1,0 +1,10 @@
+r-scam-1.2_12-r41hcfec24a_0
+r-scam-1.2_12-r40hcfec24a_0
+r-scam-1.2_13-r41h06615bd_0
+r-scam-1.2_13-r40h06615bd_0
+r-scam-1.2_13-r41h06615bd_1
+r-scam-1.2_13-r42h06615bd_1
+r-scam-1.2_14-r41h133d619_0
+r-scam-1.2_14-r42h133d619_0
+r-scam-1.2_14-r42h57805ef_1
+r-scam-1.2_14-r43h57805ef_1

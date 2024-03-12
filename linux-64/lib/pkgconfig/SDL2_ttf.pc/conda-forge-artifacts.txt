@@ -1,0 +1,9 @@
+sdl2_ttf-2.0.14-0
+sdl2_ttf-2.0.15-h7d98c4e_0
+sdl2_ttf-2.0.15-h2eed4a9_2
+sdl2_ttf-2.0.18-h2eed4a9_0
+sdl2_ttf-2.20.1-h2eed4a9_0
+sdl2_ttf-2.20.1-h44fa107_1
+sdl2_ttf-2.20.2-h44fa107_0
+sdl2_ttf-2.20.2-h2123e47_1
+sdl2_ttf-2.20.2-ha14f88b_2

@@ -1,0 +1,8 @@
+pyspf-2.0.14-py311h267d04e_2
+pyspf-2.0.14-py310hbe9552e_2
+pyspf-2.0.14-py38h10201cd_2
+pyspf-2.0.14-py39h2804cbe_2
+pyspf-2.0.14-py38h10201cd_3
+pyspf-2.0.14-py311h267d04e_3
+pyspf-2.0.14-py310hbe9552e_3
+pyspf-2.0.14-py39h2804cbe_3

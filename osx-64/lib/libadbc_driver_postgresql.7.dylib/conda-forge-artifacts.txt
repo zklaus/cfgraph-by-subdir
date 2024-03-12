@@ -1,0 +1,4 @@
+libadbc-driver-postgresql-0.7.0-h74e75e5_0
+libadbc-driver-postgresql-0.7.0-hf491209_1
+libadbc-driver-postgresql-0.7.0-hf491209_2
+libadbc-driver-postgresql-0.7.0-hf491209_3

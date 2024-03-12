@@ -1,0 +1,5 @@
+libbaglib-2.0.1-h0a3fa20_0
+libbaglib-2.0.1-h0a3fa20_1
+libbaglib-2.0.2-ha75093c_2
+libbaglib-2.0.2-ha75093c_0
+libbaglib-2.0.2-ha75093c_1

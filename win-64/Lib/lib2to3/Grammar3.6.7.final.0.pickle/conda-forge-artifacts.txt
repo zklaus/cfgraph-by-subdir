@@ -1,0 +1,6 @@
+python-3.6.7-he025d50_1002
+python-3.6.7-he025d50_1003
+python-3.6.7-he025d50_1004
+python-3.6.7-he025d50_1005
+python-3.6.7-he025d50_1006
+python-3.6.7-he025d50_1008_cpython

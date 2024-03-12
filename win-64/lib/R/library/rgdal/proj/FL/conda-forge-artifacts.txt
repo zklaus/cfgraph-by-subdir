@@ -1,0 +1,13 @@
+r-rgdal-1.4_4-r35_1
+r-rgdal-1.4_4-r35_2
+r-rgdal-1.4_4-r36_2
+r-rgdal-1.4_4-r35_4
+r-rgdal-1.4_4-r36_4
+r-rgdal-1.4_6-r36_0
+r-rgdal-1.4_6-r35_0
+r-rgdal-1.4_7-r35_0
+r-rgdal-1.4_7-r36_0
+r-rgdal-1.4_8-r35_0
+r-rgdal-1.4_8-r36_0
+r-rgdal-1.4_8-r36_1
+r-rgdal-1.4_8-r40_1

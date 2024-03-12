@@ -1,0 +1,6 @@
+tinyxml2-8.0.0-h54f1f3f_1
+tinyxml2-8.0.0-h01db608_1
+tinyxml2-8.1.0-h01db608_0
+tinyxml2-9.0.0-h01db608_0
+tinyxml2-9.0.0-h01db608_1
+tinyxml2-9.0.0-h01db608_2

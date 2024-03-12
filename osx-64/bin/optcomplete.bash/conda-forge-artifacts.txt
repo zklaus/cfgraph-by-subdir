@@ -1,0 +1,17 @@
+easybuild-framework-3.1.0-py27_0
+easybuild-framework-3.5.0-py27_1
+easybuild-framework-3.5.3-py27_0
+vsc-base-2.5.7-py27_0
+vsc-base-2.5.8-py27_0
+vsc-base-2.8.2-py27_0
+easybuild-framework-3.6.0-py27_0
+vsc-base-2.8.3-py27_0
+easybuild-framework-3.6.2-py27_0
+easybuild-framework-3.7.0-py27_0
+vsc-base-2.8.3-py27_1000
+easybuild-framework-3.7.0-py27_1000
+easybuild-framework-3.8.1-py27_0
+vsc-base-2.8.4-py27_0
+easybuild-framework-3.9.0-py27_0
+easybuild-framework-3.9.2-py27_0
+easybuild-framework-3.9.3-py27_0

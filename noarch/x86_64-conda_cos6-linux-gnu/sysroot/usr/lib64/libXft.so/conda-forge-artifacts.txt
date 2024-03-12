@@ -1,0 +1,1 @@
+libxft-devel-cos6-x86_64-2.3.2-h9b0a68f_105

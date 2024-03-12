@@ -1,0 +1,1 @@
+terraform-provider-docker-1.0.0-h3eaf7b7_1000

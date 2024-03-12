@@ -1,0 +1,12 @@
+r-traits-0.4.2-r35h6115d3f_0
+r-traits-0.4.2-r36h6115d3f_0
+r-traits-0.4.2-r40h6115d3f_1
+r-traits-0.4.2-r36h6115d3f_1
+r-traits-0.5.0-r40h6115d3f_0
+r-traits-0.5.0-r36h6115d3f_0
+r-traits-0.5.0-r40hc72bb7e_0
+r-traits-0.5.0-r41hc72bb7e_0
+r-traits-0.5.0-r42hc72bb7e_1
+r-traits-0.5.0-r41hc72bb7e_1
+r-traits-0.5.0-r43hc72bb7e_2
+r-traits-0.5.0-r42hc72bb7e_2

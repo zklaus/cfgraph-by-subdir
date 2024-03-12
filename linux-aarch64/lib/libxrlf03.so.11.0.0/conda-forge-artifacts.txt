@@ -1,0 +1,4 @@
+xraylib-4.0.0-py39hd1b10d7_6
+xraylib-4.0.0-py36h7aa458d_6
+xraylib-4.0.0-py38h5119b0f_6
+xraylib-4.0.0-py37hde974e9_6

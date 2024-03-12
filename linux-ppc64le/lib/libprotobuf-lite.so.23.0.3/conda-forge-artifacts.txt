@@ -1,0 +1,3 @@
+libprotobuf-3.12.3-hb61f777_0
+libprotobuf-3.12.3-hb61f777_1
+libprotobuf-3.12.3-hb61f777_2

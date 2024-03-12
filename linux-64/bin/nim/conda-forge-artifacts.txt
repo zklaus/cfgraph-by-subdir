@@ -1,0 +1,10 @@
+nim-1.0.2-hc9558a2_0
+nim-1.0.2-hc9558a2_3
+nim-1.2.4-he1b5a44_0
+nim-1.2.4-he1b5a44_1
+nim-1.4.0-h58526e2_0
+nim-1.4.2-h9c3ff4c_0
+nim-1.4.4-h9c3ff4c_0
+nim-1.4.6-h9c3ff4c_0
+nim-1.4.8-h9c3ff4c_0
+nim-2.0.0-h59595ed_0

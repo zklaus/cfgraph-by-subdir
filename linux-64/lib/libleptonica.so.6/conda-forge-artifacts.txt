@@ -1,0 +1,6 @@
+leptonica-1.83.1-h65e01fd_0
+leptonica-1.83.1-h73bee87_1
+leptonica-1.83.1-h73bee87_2
+leptonica-1.83.1-h73bee87_3
+leptonica-1.83.1-h282fb17_4
+leptonica-1.83.1-h38339ff_5

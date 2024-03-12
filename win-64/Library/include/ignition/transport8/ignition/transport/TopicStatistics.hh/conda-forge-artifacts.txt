@@ -1,0 +1,13 @@
+libignition-transport8-8.3.0-h252ff3b_0
+libignition-transport8-8.3.0-h252ff3b_1
+libignition-transport8-8.4.0-h0a2d66f_0
+libignition-transport8-8.4.0-h252ff3b_1
+libignition-transport8-8.4.0-h0a2d66f_1
+libignition-transport8-8.4.0-h067ad7c_2
+libignition-transport8-8.4.0-h8fe4ac1_2
+libignition-transport8-8.4.0-hb43e8a1_3
+libignition-transport8-8.4.0-h8fe4ac1_3
+libignition-transport8-8.4.0-hf35bf0b_4
+libignition-transport8-8.4.0-he5ada26_5
+libignition-transport8-8.4.0-h4ff85d8_6
+libignition-transport8-8.4.0-hbed1618_7

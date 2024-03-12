@@ -1,0 +1,12 @@
+pythia8-8.304-py39he80948d_0
+pythia8-8.304-py38h709712a_0
+pythia8-8.304-py37hcd2ae1e_0
+pythia8-8.304-py36hc4f0c31_0
+pythia8-8.305-py39he80948d_0
+pythia8-8.305-py37hcd2ae1e_0
+pythia8-8.305-py36hc4f0c31_0
+pythia8-8.305-py38h709712a_0
+pythia8-8.8-py37hcd2ae1e_0
+pythia8-8.8-py39he80948d_0
+pythia8-8.8-py310h122e73d_0
+pythia8-8.8-py38h709712a_0

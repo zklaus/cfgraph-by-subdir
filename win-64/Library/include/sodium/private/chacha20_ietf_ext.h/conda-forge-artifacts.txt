@@ -1,0 +1,4 @@
+libsodium-1.0.17-h3cc03e0_0
+libsodium-1.0.17-h2fa13f4_0
+libsodium-1.0.18-h62dcd97_1
+libsodium-1.0.18-h8d14728_1

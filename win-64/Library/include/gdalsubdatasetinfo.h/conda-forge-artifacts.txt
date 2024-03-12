@@ -1,0 +1,10 @@
+libgdal-3.8.0-hdd54a17_0
+libgdal-3.8.0-h803bde4_1
+libgdal-3.8.0-h803bde4_2
+libgdal-3.8.0-h41773de_3
+libgdal-3.8.0-h41773de_4
+libgdal-3.8.0-h41773de_5
+libgdal-3.8.0-h7aac5c8_6
+libgdal-3.8.0-h0791e23_7
+libgdal-3.8.1-h0791e23_0
+libgdal-3.8.1-hbbc1416_1

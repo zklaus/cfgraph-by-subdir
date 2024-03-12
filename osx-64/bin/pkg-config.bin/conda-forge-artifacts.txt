@@ -1,0 +1,10 @@
+pkg-config-0.29.2-hf837533_3
+pkg-config-0.29.2-h112b980_1003
+pkg-config-0.29.2-hf837533_4
+pkg-config-0.29.2-h112b980_1004
+pkg-config-0.29.2-h112b980_1005
+pkg-config-0.29.2-hdc84dc8_1006
+pkg-config-0.29.2-hb849cc2_1007
+pkg-config-0.29.2-hb849cc2_1008
+pkg-config-0.29.2-h31203cd_1008
+pkg-config-0.29.2-ha3d46e9_1008

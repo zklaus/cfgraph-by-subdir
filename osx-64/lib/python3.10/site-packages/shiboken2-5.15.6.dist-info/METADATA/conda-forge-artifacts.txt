@@ -1,0 +1,6 @@
+pyside2-5.15.6-py310hca0eb6f_0
+pyside2-5.15.6-py310hca0eb6f_1
+pyside2-5.15.6-py310hca0eb6f_2
+pyside2-5.15.6-py310h6826347_3
+pyside2-5.15.6-py310h6826347_4
+pyside2-5.15.6-py310h6826347_5

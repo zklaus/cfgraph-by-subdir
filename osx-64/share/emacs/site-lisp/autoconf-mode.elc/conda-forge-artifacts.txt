@@ -1,0 +1,13 @@
+autoconf-2.69-0
+autoconf-2.69-1
+autoconf-2.69-2
+autoconf-2.69-pl5.20.3.1_3
+autoconf-2.69-pl5.20.3.1_4
+autoconf-2.69-pl5.20.3.1_5
+autoconf-2.69-pl5.22.0.1_5
+autoconf-2.69-pl5.22.2.1_5
+autoconf-2.69-pl526h470a237_6
+autoconf-2.69-pl526_7
+autoconf-2.69-pl526_8
+autoconf-2.69-pl526h470a237_9
+autoconf-2.69-pl526h1de35cc_9

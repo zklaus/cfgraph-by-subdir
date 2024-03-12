@@ -1,0 +1,12 @@
+libcurl-7.68.0-hda55be3_0
+libcurl-7.68.0-hf7181ac_1
+libcurl-7.69.1-hf7181ac_0
+libcurl-7.71.0-hcdd3856_0
+libcurl-7.71.1-hcdd3856_0
+libcurl-7.71.1-hcdd3856_1
+libcurl-7.71.1-hcdd3856_2
+libcurl-7.71.1-hcdd3856_3
+libcurl-7.71.1-hcdd3856_4
+libcurl-7.71.1-hcdd3856_5
+libcurl-7.71.1-hcdd3856_6
+libcurl-7.71.1-hcdd3856_8

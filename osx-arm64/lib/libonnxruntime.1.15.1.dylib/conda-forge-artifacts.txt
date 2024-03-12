@@ -1,0 +1,8 @@
+onnxruntime-cpp-1.15.1-hd757141_0
+onnxruntime-novec-cpp-1.15.1-hdb738f2_0
+onnxruntime-novec-cpp-1.15.1-hdb738f2_1
+onnxruntime-cpp-1.15.1-hd757141_1
+onnxruntime-novec-cpp-1.15.1-h1a7d604_2_cpu
+onnxruntime-cpp-1.15.1-ha3de15d_2_cpu
+onnxruntime-novec-cpp-1.15.1-h1a7d604_3_cpu
+onnxruntime-cpp-1.15.1-ha3de15d_3_cpu

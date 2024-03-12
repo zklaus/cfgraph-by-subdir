@@ -1,0 +1,3 @@
+bqplot-0.12.30-pyhd8ed1ab_0
+bqplot-0.12.31-pyhd8ed1ab_0
+bqplot-0.12.32-pyhd8ed1ab_0

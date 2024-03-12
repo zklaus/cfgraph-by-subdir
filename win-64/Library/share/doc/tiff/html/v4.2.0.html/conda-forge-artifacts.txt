@@ -1,0 +1,6 @@
+libtiff-4.4.0-hc4061b1_0
+libtiff-4.4.0-h2ed3b44_1
+libtiff-4.4.0-ha17eb64_2
+libtiff-4.4.0-h92677e6_3
+libtiff-4.4.0-h8e97e67_4
+libtiff-4.4.0-hc4f729c_5

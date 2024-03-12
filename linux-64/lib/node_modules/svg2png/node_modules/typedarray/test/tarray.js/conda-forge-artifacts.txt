@@ -1,0 +1,6 @@
+svg2png-4.1.1-0
+svg2png-4.1.1-ha770c72_1
+svg2png-4.1.1-ha770c72_2
+svg2png-4.1.1-ha770c72_3
+svg2png-4.1.1-he2f69ee_4
+svg2png-4.1.1-h92b4e83_4

@@ -1,0 +1,5 @@
+freecad-0.18b0-py36h0c05c59_0
+freecad-0.18b0-py36h0c05c59_1
+freecad-0.18b0-py36h0c05c59_2
+freecad-0.18b0-py36ha567227_3
+freecad-0.18b0-py36ha567227_4

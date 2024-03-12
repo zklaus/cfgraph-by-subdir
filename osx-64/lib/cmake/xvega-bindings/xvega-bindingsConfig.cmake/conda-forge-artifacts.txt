@@ -1,0 +1,10 @@
+xvega-bindings-0.0.1-h926bf3e_0
+xvega-bindings-0.0.2-h926bf3e_0
+xvega-bindings-0.0.3-h926bf3e_0
+xvega-bindings-0.0.4-h926bf3e_0
+xvega-bindings-0.0.5-h926bf3e_0
+xvega-bindings-0.0.6-h926bf3e_0
+xvega-bindings-0.0.7-h926bf3e_0
+xvega-bindings-0.0.9-h926bf3e_0
+xvega-bindings-0.0.10-h926bf3e_0
+xvega-bindings-0.0.10-hb8565cd_1

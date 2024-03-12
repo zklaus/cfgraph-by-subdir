@@ -1,0 +1,14 @@
+dipy-0.16.0-py36h917ab60_0
+dipy-0.16.0-py27h8dae414_0
+dipy-0.16.0-py37h917ab60_0
+dipy-1.0.0-py37heacc8b8_0
+dipy-1.0.0-py36heacc8b8_0
+dipy-1.0.0-py37h3b54f70_0
+dipy-1.0.0-py36h3b54f70_0
+dipy-1.0.0-py38h3b54f70_0
+dipy-1.1.0-py36h3b54f70_0
+dipy-1.1.0-py38h3b54f70_0
+dipy-1.1.0-py37h3b54f70_0
+dipy-1.1.0-py36h3b54f70_1
+dipy-1.1.0-py37h3b54f70_1
+dipy-1.1.0-py38h3b54f70_1

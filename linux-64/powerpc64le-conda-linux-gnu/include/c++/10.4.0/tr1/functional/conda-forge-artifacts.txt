@@ -1,0 +1,8 @@
+libstdcxx-devel_linux-ppc64le-10.4.0-h19799af_16
+gcc_bootstrap_linux-ppc64le-10.4.0-h3a14b9f_10
+libstdcxx-devel_linux-ppc64le-10.4.0-h19799af_17
+libstdcxx-devel_linux-ppc64le-10.4.0-hb9b6b0d_18
+gcc_bootstrap_linux-ppc64le-10.4.0-h71ec8fb_11
+libstdcxx-devel_linux-ppc64le-10.4.0-hb9b6b0d_19
+gcc_bootstrap_linux-ppc64le-10.4.0-h71ec8fb_12
+gcc_bootstrap_linux-ppc64le-10.4.0-h71ec8fb_13

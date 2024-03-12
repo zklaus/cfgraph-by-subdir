@@ -1,0 +1,5 @@
+sdl2_gfx-1.0.1-vc10_0
+sdl2_gfx-1.0.1-vc14_0
+sdl2_gfx-1.0.1-vc9_0
+sdl2_gfx-1.0.4-hc56fc5f_0
+sdl2_gfx-1.0.4-h6538335_0

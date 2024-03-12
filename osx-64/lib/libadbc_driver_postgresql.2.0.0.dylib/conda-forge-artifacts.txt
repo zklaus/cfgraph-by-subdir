@@ -1,0 +1,1 @@
+libadbc-driver-postgresql-0.2.0-h0a20fd9_0

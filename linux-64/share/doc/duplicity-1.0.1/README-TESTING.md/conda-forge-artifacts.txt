@@ -1,0 +1,5 @@
+duplicity-1.0.1-py39hb9d737c_0
+duplicity-1.0.1-py38h0a891b7_0
+duplicity-1.0.1-py37h540881e_0
+duplicity-1.0.1-py38h50598f1_0
+duplicity-1.0.1-py39h4d8b378_0

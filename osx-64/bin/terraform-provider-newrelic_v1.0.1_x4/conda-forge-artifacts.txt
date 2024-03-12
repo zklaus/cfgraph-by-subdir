@@ -1,0 +1,4 @@
+terraform-provider-newrelic-1.0.1-0
+terraform-provider-newrelic-1.0.1-h81701ea_1
+terraform-provider-newrelic-1.0.1-h81701ea_1001
+terraform-provider-newrelic-1.0.1-h3eaf7b7_1002

@@ -1,0 +1,8 @@
+xorg-libx11-1.7.0-hcd874cb_0
+xorg-libx11-1.7.1-hcd874cb_0
+xorg-libx11-1.7.2-hcd874cb_0
+xorg-libx11-1.8.4-hcd874cb_0
+xorg-libx11-1.8.4-hefa74cf_1
+xorg-libx11-1.8.5-hefa74cf_0
+xorg-libx11-1.8.6-hefa74cf_0
+xorg-libx11-1.8.7-hefa74cf_0

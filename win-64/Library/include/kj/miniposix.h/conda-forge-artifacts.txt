@@ -1,0 +1,5 @@
+capnproto-0.5.3-vc14_0
+capnproto-0.6.1-0
+capnproto-0.6.1-vc14_0
+capnproto-0.6.1-he025d50_1
+capnproto-0.6.1-he025d50_2

@@ -1,0 +1,12 @@
+r-rcppgsl-0.3.10-r40ha969f47_0
+r-rcppgsl-0.3.10-r41ha969f47_0
+r-rcppgsl-0.3.11-r41h5d5def4_0
+r-rcppgsl-0.3.11-r40h5d5def4_0
+r-rcppgsl-0.3.11-r41h85de5e1_1
+r-rcppgsl-0.3.11-r42h85de5e1_1
+r-rcppgsl-0.3.12-r42h85de5e1_0
+r-rcppgsl-0.3.12-r41h85de5e1_0
+r-rcppgsl-0.3.13-r41h85de5e1_0
+r-rcppgsl-0.3.13-r42h85de5e1_0
+r-rcppgsl-0.3.13-r43hd8c38ad_1
+r-rcppgsl-0.3.13-r42hd8c38ad_1

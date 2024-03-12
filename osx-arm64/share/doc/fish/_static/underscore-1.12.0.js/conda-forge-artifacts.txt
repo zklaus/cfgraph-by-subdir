@@ -1,0 +1,3 @@
+fish-3.3.0-hc4271fb_0
+fish-3.3.1-hc4271fb_0
+fish-3.3.1-h0569eea_0

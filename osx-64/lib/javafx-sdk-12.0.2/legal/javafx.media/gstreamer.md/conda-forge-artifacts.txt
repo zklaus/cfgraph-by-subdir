@@ -1,0 +1,3 @@
+javafx-sdk-12.0.2-h6dcaf97_0
+javafx-sdk-12.0.2-h6dcaf97_1
+javafx-sdk-12.0.2-h6dcaf97_2

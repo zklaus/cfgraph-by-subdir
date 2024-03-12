@@ -1,0 +1,7 @@
+hexer-1.4.0-0
+hexer-1.4.0-1
+hexer-1.4.0-h6f33618_2
+hexer-1.4.0-h9a297fb_3
+hexer-1.4.0-h60e910c_4
+hexer-1.4.0-h9aab408_5
+hexer-1.4.0-h6432bf3_6

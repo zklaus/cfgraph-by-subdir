@@ -1,0 +1,8 @@
+green-2.13.1-py39hde42818_2
+green-3.2.4-py39h6e9494a_0
+green-3.3.0-py39h6e9494a_0
+green-3.4.0-py39h6e9494a_2
+green-3.4.1-py39h6e9494a_0
+green-3.4.1-py39h6e9494a_1
+green-3.4.1-py39h6e9494a_2
+green-3.4.3-py39h6e9494a_0

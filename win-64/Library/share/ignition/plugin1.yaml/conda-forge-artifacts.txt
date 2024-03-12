@@ -1,0 +1,4 @@
+libignition-plugin1-1.2.0-h0e60522_0
+libignition-plugin1-1.2.0-h0e60522_1
+libignition-plugin1-1.2.1-h0e60522_0
+libignition-plugin1-1.3.0-h0e60522_0

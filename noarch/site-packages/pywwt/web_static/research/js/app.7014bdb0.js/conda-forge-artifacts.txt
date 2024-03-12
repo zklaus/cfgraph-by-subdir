@@ -1,0 +1,3 @@
+pywwt-0.17.0-pyhd8ed1ab_0
+pywwt-0.18.0-pyhd8ed1ab_0
+pywwt-0.18.1-pyhd8ed1ab_0

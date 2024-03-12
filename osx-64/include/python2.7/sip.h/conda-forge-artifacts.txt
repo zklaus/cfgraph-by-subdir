@@ -1,0 +1,14 @@
+sip-4.18-py27_0
+sip-4.18-py27_1
+sip-4.19.8-py27_0
+sip-4.19.8-py27hfc679d8_0
+sip-4.18.1-py27hfc679d8_0
+sip-4.19.8-py27h0a44026_1000
+sip-4.18.1-py27h0a44026_1000
+sip-4.19.13-py27h6de7cb9_0
+sip-4.19.18-py27h6de7cb9_0
+pyqt-5.12.3-py27h2a560b1_0
+sip-4.19.18-py27h4a8c4bd_1
+pyqt-5.12.3-py27he22c54c_0
+pyqt-5.12.3-py27he22c54c_1
+sip-4.19.20-py27h4a8c4bd_0

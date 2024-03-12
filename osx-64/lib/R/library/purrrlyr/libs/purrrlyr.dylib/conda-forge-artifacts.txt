@@ -1,0 +1,14 @@
+r-purrrlyr-0.0.5-r36hf99fc2c_1
+r-purrrlyr-0.0.6-r36hc5da6b9_0
+r-purrrlyr-0.0.6-r40hc5da6b9_1
+r-purrrlyr-0.0.6-r36hc5da6b9_1
+r-purrrlyr-0.0.7-r36h815b84a_0
+r-purrrlyr-0.0.7-r40h815b84a_0
+r-purrrlyr-0.0.7-r41h9951f98_0
+r-purrrlyr-0.0.7-r40h9951f98_0
+r-purrrlyr-0.0.8-r40hc4bb905_0
+r-purrrlyr-0.0.8-r41hc4bb905_0
+r-purrrlyr-0.0.8-r42h49197e3_1
+r-purrrlyr-0.0.8-r41h49197e3_1
+r-purrrlyr-0.0.8-r42hac7d2d5_2
+r-purrrlyr-0.0.8-r43hac7d2d5_2

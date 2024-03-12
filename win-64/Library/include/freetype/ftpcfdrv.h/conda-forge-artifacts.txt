@@ -1,0 +1,4 @@
+freetype-2.8.1-vc14_0
+freetype-2.8.1-vc9_0
+freetype-2.8.1-h7b77801_1
+freetype-2.8.1-ha63716d_1

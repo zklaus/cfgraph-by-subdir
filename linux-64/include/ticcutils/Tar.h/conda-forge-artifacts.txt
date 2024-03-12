@@ -1,0 +1,14 @@
+ticcutils-0.20-he4058e0_1000
+ticcutils-0.20-h702f2d7_1001
+ticcutils-0.21-h702f2d7_0
+ticcutils-0.22-h702f2d7_0
+ticcutils-0.22-hf166e1f_1
+ticcutils-0.22-hd1d818a_2
+ticcutils-0.25-hd1d818a_0
+ticcutils-0.26-hd1d818a_0
+ticcutils-0.27-hd1d818a_0
+ticcutils-0.27-ha409f19_1
+ticcutils-0.28-ha409f19_0
+ticcutils-0.28-h45a0d52_1
+ticcutils-0.29-h45a0d52_0
+ticcutils-0.30-h2bc339c_0

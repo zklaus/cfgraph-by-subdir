@@ -1,0 +1,3 @@
+pgrouting-2.6.0-0
+pgrouting-2.6.0-h87ba5ca_0
+pgrouting-2.6.0-hb4b633e_0

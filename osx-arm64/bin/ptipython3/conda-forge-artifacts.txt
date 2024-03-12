@@ -1,0 +1,4 @@
+ptpython-3.0.20-py311h267d04e_2
+ptpython-3.0.20-py39h2804cbe_2
+ptpython-3.0.20-py310hbe9552e_2
+ptpython-3.0.20-py38h10201cd_2

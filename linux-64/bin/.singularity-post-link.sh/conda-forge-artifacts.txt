@@ -1,0 +1,2 @@
+singularity-3.0.1-h78ffa25_0
+singularity-3.0.1-h47021f1_1000

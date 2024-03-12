@@ -1,0 +1,11 @@
+r-desctools-0.99.39-r40h96779af_0
+r-desctools-0.99.39-r36h96779af_0
+r-desctools-0.99.40-r36h96779af_0
+r-desctools-0.99.40-r40h96779af_0
+r-desctools-0.99.41-r36h96779af_0
+r-desctools-0.99.41-r40h96779af_0
+r-desctools-0.99.42-r40h96779af_0
+r-desctools-0.99.43-r40h96779af_0
+r-desctools-0.99.44-r40h96779af_0
+r-desctools-0.99.45-r40h96779af_0
+r-desctools-0.99.46-r40h96779af_0

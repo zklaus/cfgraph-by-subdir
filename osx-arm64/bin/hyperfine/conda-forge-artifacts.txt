@@ -1,0 +1,9 @@
+hyperfine-1.11.0-h1efec70_1
+hyperfine-1.12.0-h822aac1_0
+hyperfine-1.13.0-h65448a5_0
+hyperfine-1.14.0-h3e56b83_0
+hyperfine-1.15.0-hb5d5e24_0
+hyperfine-1.16.0-hb5d5e24_0
+hyperfine-1.16.1-hb5d5e24_0
+hyperfine-1.17.0-h69fbcac_0
+hyperfine-1.18.0-h5ef7bb8_0

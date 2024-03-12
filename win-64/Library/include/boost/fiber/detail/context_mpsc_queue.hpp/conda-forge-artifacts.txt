@@ -1,0 +1,17 @@
+boost-1.63.0-py27_vc9_0
+boost-1.63.0-py27_vc9_1
+boost-1.63.0-py27_vc9_2
+boost-1.63.0-py34_vc10_0
+boost-1.63.0-py34_vc10_1
+boost-1.63.0-py34_vc10_2
+boost-1.63.0-py35_vc14_0
+boost-1.63.0-py35_vc14_1
+boost-1.63.0-py35_vc14_2
+boost-1.63.0-py36_vc14_2
+boost-cpp-1.63.0-vc10_0
+boost-cpp-1.63.0-vc14_0
+boost-cpp-1.63.0-vc14_1
+boost-cpp-1.63.0-vc14_2
+boost-cpp-1.63.0-vc9_0
+boost-cpp-1.63.0-vc9_1
+boost-cpp-1.63.0-vc9_2

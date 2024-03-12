@@ -1,0 +1,7 @@
+conda-forge-pinning-2021.07.30.07.43.16-hd8ed1ab_0
+conda-forge-pinning-2021.07.30.08.02.55-hd8ed1ab_0
+conda-forge-pinning-2021.07.30.08.11.18-hd8ed1ab_0
+conda-forge-pinning-2021.07.30.11.17.02-hd8ed1ab_0
+conda-forge-pinning-2021.08.02.07.59.16-hd8ed1ab_0
+conda-forge-pinning-2021.08.02.10.03.47-hd8ed1ab_0
+conda-forge-pinning-2021.08.02.12.49.19-hd8ed1ab_0

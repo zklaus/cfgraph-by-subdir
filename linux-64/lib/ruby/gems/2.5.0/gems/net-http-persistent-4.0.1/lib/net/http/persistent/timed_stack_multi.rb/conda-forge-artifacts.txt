@@ -1,0 +1,1 @@
+rb-net-http-persistent-4.0.1-ha770c72_0

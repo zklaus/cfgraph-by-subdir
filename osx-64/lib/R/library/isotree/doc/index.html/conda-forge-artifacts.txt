@@ -1,0 +1,8 @@
+r-isotree-0.5.17-r42h910fb29_0
+r-isotree-0.5.17-r41h910fb29_0
+r-isotree-0.5.19_1-r41h910fb29_0
+r-isotree-0.5.19_1-r42h910fb29_0
+r-isotree-0.5.20-r41hccecf6d_0
+r-isotree-0.5.20-r42hccecf6d_0
+r-isotree-0.5.20-r42hccecf6d_1
+r-isotree-0.5.20-r43hccecf6d_1

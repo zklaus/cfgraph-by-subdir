@@ -1,0 +1,12 @@
+r-git2r-0.26.1-r36hfcfeb50_1
+r-git2r-0.26.1-r40hfcfeb50_2
+r-git2r-0.26.1-r36hfcfeb50_2
+r-git2r-0.27.1-r40hfcfeb50_0
+r-git2r-0.27.1-r36hfcfeb50_0
+r-git2r-0.28.0-r40h61fa1b9_0
+r-git2r-0.28.0-r36h61fa1b9_0
+r-git2r-0.28.0-r41h61fa1b9_0
+r-git2r-0.28.0-r41h61fa1b9_1
+r-git2r-0.28.0-r40h745f0ae_1
+r-git2r-0.28.0-r41h745f0ae_1
+r-git2r-0.28.0-r40h61fa1b9_1

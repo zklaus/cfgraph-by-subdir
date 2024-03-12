@@ -1,0 +1,10 @@
+ifcopenshell-v0.7.0.231127-py312_novtk_he249f1c_101
+ifcopenshell-v0.7.0.231127-py39_all_h9e24565_201
+ifcopenshell-v0.7.0.231127-py311_novtk_h53defcb_101
+ifcopenshell-v0.7.0.231127-py39_novtk_hddb3d3d_101
+ifcopenshell-v0.7.0.231127-py38_all_h98e66d8_201
+ifcopenshell-v0.7.0.231127-py38_novtk_hade51a7_101
+ifcopenshell-v0.7.0.231127-py310_novtk_ha271834_101
+ifcopenshell-v0.7.0.231127-py311_all_h863b9b1_201
+ifcopenshell-v0.7.0.231127-py312_all_h866fb09_201
+ifcopenshell-v0.7.0.231127-py310_all_hb22bb53_201

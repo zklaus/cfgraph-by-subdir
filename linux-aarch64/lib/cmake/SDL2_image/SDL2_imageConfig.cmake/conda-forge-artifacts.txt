@@ -1,0 +1,6 @@
+sdl2_image-2.6.2-hd3b0b1d_3
+sdl2_image-2.6.3-hd3b0b1d_0
+sdl2_image-2.6.3-hb6ac098_1
+sdl2_image-2.6.3-h03dcf29_2
+sdl2_image-2.6.3-habf0803_3
+sdl2_image-2.6.3-h4267f4e_4

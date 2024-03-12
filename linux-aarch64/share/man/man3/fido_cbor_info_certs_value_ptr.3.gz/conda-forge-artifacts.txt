@@ -1,0 +1,2 @@
+libfido2-1.13.0-h73a623e_0
+libfido2-1.14.0-heb3f89f_0

@@ -1,0 +1,7 @@
+tango-admin-1.17-h4c384f3_1
+tango-admin-1.18-hfb8b400_0
+tango-admin-1.19-hcd2874e_0
+tango-admin-1.19-h61171f3_0
+tango-admin-1.19-hcd2874e_1
+tango-admin-1.19-h61171f3_1
+tango-admin-1.19-hfd7bbf3_1

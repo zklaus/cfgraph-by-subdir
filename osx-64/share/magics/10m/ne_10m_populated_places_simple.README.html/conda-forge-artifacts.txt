@@ -1,0 +1,12 @@
+magics-4.0.2-py37h27606e7_0
+magics-4.0.2-py27h27606e7_0
+magics-4.0.2-py36h27606e7_0
+magics-4.0.2-py27h27606e7_1
+magics-4.0.2-py37h27606e7_1
+magics-4.0.2-py36h27606e7_1
+magics-4.0.2-py27h27606e7_2
+magics-4.0.2-py36h27606e7_2
+magics-4.0.2-py37h27606e7_2
+magics-4.0.2-py27heb540d8_3
+magics-4.0.2-py37heb540d8_3
+magics-4.0.2-py36heb540d8_3

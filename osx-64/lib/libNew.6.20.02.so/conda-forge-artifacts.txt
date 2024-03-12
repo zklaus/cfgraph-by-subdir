@@ -1,0 +1,7 @@
+root_base-6.20.2-py38h9a6c036_0
+root_base-6.20.2-py27h7ce42fa_0
+root_base-6.20.2-py37h65fef63_0
+root_base-6.20.2-py36hb7dde67_0
+root_base-6.20.2-py36h69b0a59_1
+root_base-6.20.2-py38hbc92c2f_1
+root_base-6.20.2-py37hcc4ca02_1

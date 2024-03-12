@@ -1,0 +1,12 @@
+folly-2023.11.20.00-h2db6db1_0
+folly-2023.11.20.00-h83f57a1_0
+folly-2023.11.20.00-hb8f665b_0_jemalloc
+folly-2023.11.20.00-h58b644a_0
+folly-2023.11.20.00-hd3f4852_0_jemalloc
+folly-2023.11.20.00-ha5de9cd_0_jemalloc
+folly-2023.11.27.00-hd3f4852_0_jemalloc
+folly-2023.11.27.00-h83f57a1_0
+folly-2023.11.27.00-ha5de9cd_0_jemalloc
+folly-2023.11.27.00-h2db6db1_0
+folly-2023.11.27.00-h58b644a_0
+folly-2023.11.27.00-hb8f665b_0_jemalloc

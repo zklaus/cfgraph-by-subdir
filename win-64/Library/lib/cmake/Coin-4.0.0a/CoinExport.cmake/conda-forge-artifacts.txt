@@ -1,0 +1,6 @@
+coin3d-4.0.0-0
+coin3d-4.0.0-1
+coin3d-4.0.0-2
+coin3d-4.0.0-hcce0f6f_3
+coin3d-4.0.0-h037026a_4
+coin3d-4.0.0-h8c67754_1004

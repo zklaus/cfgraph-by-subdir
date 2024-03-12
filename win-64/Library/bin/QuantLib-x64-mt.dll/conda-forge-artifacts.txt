@@ -1,0 +1,7 @@
+quantlib-1.26-h3f0b077_2
+quantlib-1.26-h3f0b077_3
+quantlib-1.26-h3f0b077_4
+quantlib-1.26-h3f0b077_5
+quantlib-1.27-h3f0b077_0
+quantlib-1.27-h0878af3_1
+quantlib-1.28-h0878af3_0

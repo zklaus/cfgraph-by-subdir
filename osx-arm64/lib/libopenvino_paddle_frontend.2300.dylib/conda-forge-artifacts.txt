@@ -1,0 +1,2 @@
+libopenvino-paddle-frontend-2023.0.0-h13dd4ca_0
+libopenvino-paddle-frontend-2023.0.0-h13dd4ca_1

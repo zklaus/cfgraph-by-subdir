@@ -1,0 +1,2 @@
+libopenvino-intel-cpu-plugin-2023.0.0-h59595ed_0
+libopenvino-intel-cpu-plugin-2023.0.0-h59595ed_1

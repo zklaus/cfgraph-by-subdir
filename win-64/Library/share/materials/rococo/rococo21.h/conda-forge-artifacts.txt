@@ -1,0 +1,6 @@
+soqt-1.6.0a-he980bc4_0
+soqt-1.6.0a-he980bc4_1000
+soqt-1.6.0a-he980bc4_1001
+soqt-1.6.0a-he980bc4_1002
+soqt-1.6.0a-h729ed8e_1002
+soqt-1.6.0a-h5c3084f_1003

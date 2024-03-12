@@ -1,0 +1,5 @@
+pymem3dg-0.0.6rc2-py38h55f0d03_1
+pymem3dg-0.0.6rc2-py311h11cba17_1
+pymem3dg-0.0.6rc2-py39h11e591a_1
+pymem3dg-0.0.6rc2-py312hdd1ea77_1
+pymem3dg-0.0.6rc2-py310h10a056e_1

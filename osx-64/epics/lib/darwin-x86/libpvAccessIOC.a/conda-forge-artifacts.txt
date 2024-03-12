@@ -1,0 +1,8 @@
+epics-base-static-libs-7.0.3.1-h4a8c4bd_0
+epics-base-static-libs-7.0.3.1-h4a8c4bd_2
+epics-base-static-libs-7.0.4-h4a8c4bd_0
+epics-base-static-libs-7.0.5.0-he49afe7_0
+epics-base-static-libs-7.0.5.0-hb486fe8_1
+epics-base-static-libs-7.0.5.0-h694c41f_2
+epics-base-static-libs-7.0.6.1-h694c41f_0
+epics-base-static-libs-7.0.7.0-h694c41f_0

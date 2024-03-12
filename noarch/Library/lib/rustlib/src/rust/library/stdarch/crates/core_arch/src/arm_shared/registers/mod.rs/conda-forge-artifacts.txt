@@ -1,0 +1,11 @@
+rust-src-1.69.0-win_4
+rust-src-1.70.0-win_0
+rust-src-1.71.0-win_0
+rust-src-1.71.1-win_0
+rust-src-1.72.0-win_0
+rust-src-1.72.0-win_1
+rust-src-1.72.0-win_2
+rust-src-1.72.1-win_0
+rust-src-1.73.0-win_0
+rust-src-1.73.0-win_1
+rust-src-1.73.0-win_2

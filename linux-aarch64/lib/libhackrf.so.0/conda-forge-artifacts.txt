@@ -1,0 +1,3 @@
+libhackrf0-2021.03.1-hdb429d0_0
+libhackrf0-2022.09.1-hb041f25_0
+libhackrf0-2022.09.1-h4e544f5_1

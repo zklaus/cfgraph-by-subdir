@@ -1,0 +1,12 @@
+r-pkgdown-1.5.0-r36h6115d3f_0
+r-pkgdown-1.5.0-r35h6115d3f_0
+r-pkgdown-1.5.1-r35h6115d3f_0
+r-pkgdown-1.5.1-r36h6115d3f_0
+r-pkgdown-1.5.1-r40h6115d3f_1
+r-pkgdown-1.5.1-r36h6115d3f_1
+r-pkgdown-1.6.0-r40h6115d3f_0
+r-pkgdown-1.6.0-r36h6115d3f_0
+r-pkgdown-1.6.1-r36h6115d3f_0
+r-pkgdown-1.6.1-r40h6115d3f_0
+r-pkgdown-1.6.1-r40hc72bb7e_0
+r-pkgdown-1.6.1-r41hc72bb7e_0

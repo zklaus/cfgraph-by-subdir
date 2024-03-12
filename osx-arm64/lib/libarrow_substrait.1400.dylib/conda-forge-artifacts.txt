@@ -1,0 +1,10 @@
+libarrow-substrait-14.0.0-h594d712_0_cpu
+libarrow-substrait-14.0.1-h594d712_0_cpu
+libarrow-substrait-14.0.1-h594d712_1_cpu
+libarrow-substrait-14.0.1-h594d712_2_cpu
+libarrow-substrait-14.0.1-h594d712_3_cpu
+libarrow-substrait-14.0.1-h594d712_4_cpu
+libarrow-substrait-14.0.1-h594d712_5_cpu
+libarrow-substrait-14.0.1-h594d712_6_cpu
+libarrow-substrait-14.0.1-h594d712_7_cpu
+libarrow-substrait-14.0.1-h594d712_8_cpu

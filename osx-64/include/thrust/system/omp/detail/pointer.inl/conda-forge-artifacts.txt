@@ -1,0 +1,7 @@
+thrust-1.9.8-0
+thrust-1.9.9-0
+thrust-1.9.10-0
+thrust-1.10.0-0
+thrust-1.10.0-1
+thrust-1.11.0-h694c41f_0
+thrust-1.11.0-h694c41f_1

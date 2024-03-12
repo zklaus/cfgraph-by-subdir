@@ -1,0 +1,6 @@
+r-huxtable-3.0.0-r3.3.2_0
+r-huxtable-3.0.0-r3.4.1_0
+r-huxtable-4.0.0-r341_0
+r-huxtable-4.0.1-r341_0
+r-huxtable-4.2.0-r341h6115d3f_1
+r-huxtable-4.2.0-r351h6115d3f_1

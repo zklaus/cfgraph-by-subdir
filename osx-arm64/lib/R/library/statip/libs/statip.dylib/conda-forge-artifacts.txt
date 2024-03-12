@@ -1,0 +1,4 @@
+r-statip-0.2.3-r42h5d63f41_2
+r-statip-0.2.3-r41h5d63f41_2
+r-statip-0.2.3-r42h21dc0da_3
+r-statip-0.2.3-r43h21dc0da_3

@@ -1,0 +1,5 @@
+ripfind-0.3.2-ha1c5869_0
+ripfind-0.3.2-ha1c5869_1
+ripfind-0.3.3-ha1c5869_0
+ripfind-0.4.0-h79ecd18_0
+ripfind-0.4.2-hdc2c17b_0

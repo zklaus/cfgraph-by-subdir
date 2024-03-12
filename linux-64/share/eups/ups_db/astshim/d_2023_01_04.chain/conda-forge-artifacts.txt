@@ -1,0 +1,5 @@
+stackvana-afw-0.2023.1-py310hff52083_0
+stackvana-afw-0.2023.2-py310hff52083_0
+stackvana-afw-0.2023.3-py310hff52083_0
+stackvana-afw-0.2023.4-py310hff52083_0
+stackvana-afw-0.2023.5-py310hff52083_0

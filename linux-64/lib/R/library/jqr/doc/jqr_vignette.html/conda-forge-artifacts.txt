@@ -1,0 +1,5 @@
+r-jqr-1.1.0-r351hcdcec82_0
+r-jqr-1.1.0-r36hcdcec82_1
+r-jqr-1.1.0-r35hcdcec82_1
+r-jqr-1.1.0-r36hcdcec82_2
+r-jqr-1.1.0-r40hcdcec82_2

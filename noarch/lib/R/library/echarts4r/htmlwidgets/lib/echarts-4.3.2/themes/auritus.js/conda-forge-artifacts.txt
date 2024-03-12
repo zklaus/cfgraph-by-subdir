@@ -1,0 +1,8 @@
+r-echarts4r-0.2.1-r351h6115d3f_0
+r-echarts4r-0.2.2-r351h6115d3f_0
+r-echarts4r-0.2.2-r35h6115d3f_1
+r-echarts4r-0.2.2-r36h6115d3f_1
+r-echarts4r-0.2.3-r36h6115d3f_0
+r-echarts4r-0.2.3-r35h6115d3f_0
+r-echarts4r-0.2.3-r40h6115d3f_1
+r-echarts4r-0.2.3-r36h6115d3f_1

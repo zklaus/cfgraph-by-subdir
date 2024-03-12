@@ -1,0 +1,16 @@
+arrow-cpp-8.0.0-py38h21af1cf_5_cuda
+arrow-cpp-8.0.0-py37hd9ae0f0_5_cuda
+arrow-cpp-8.0.0-py310h47fda4d_5_cuda
+arrow-cpp-8.0.0-py310hbe01597_5_cpu
+arrow-cpp-8.0.0-py38ha7276ea_5_cpu
+arrow-cpp-8.0.0-py39h2f48f8a_5_cuda
+arrow-cpp-8.0.0-py37h81c5bf6_5_cpu
+arrow-cpp-8.0.0-py39h811ffd7_5_cpu
+arrow-cpp-8.0.0-py39hced362b_5_cuda
+arrow-cpp-8.0.0-py38h8abf307_5_cuda
+arrow-cpp-8.0.0-py310h025e8b3_5_cuda
+arrow-cpp-8.0.0-py38hd09f243_5_cpu
+arrow-cpp-8.0.0-py37h41ad185_5_cuda
+arrow-cpp-8.0.0-py37h1277737_5_cpu
+arrow-cpp-8.0.0-py39h2531139_5_cpu
+arrow-cpp-8.0.0-py310h893e394_5_cpu

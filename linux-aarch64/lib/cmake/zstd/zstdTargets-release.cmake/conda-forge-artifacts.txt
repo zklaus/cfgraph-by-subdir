@@ -1,0 +1,16 @@
+zstd-1.4.5-h6597ccf_0
+zstd-1.4.5-h6597ccf_1
+zstd-1.4.9-h41fb7a4_0
+zstd-1.5.0-h41fb7a4_0
+zstd-1.5.1-h41fb7a4_0
+zstd-1.5.2-h41fb7a4_0
+zstd-1.5.2-haad177d_1
+zstd-1.5.2-haad177d_2
+zstd-1.5.2-haad177d_3
+zstd-static-1.5.2-h4de3ea5_3
+zstd-1.5.2-haad177d_4
+zstd-1.5.2-hc1e27d5_4
+zstd-1.5.2-h44f6412_5
+zstd-1.5.2-h44f6412_6
+zstd-1.5.2-h4c53e97_7
+zstd-1.5.5-h4c53e97_0

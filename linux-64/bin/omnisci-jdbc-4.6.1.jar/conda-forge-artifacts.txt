@@ -1,0 +1,3 @@
+mapd-core-cpu-4.6.1-h7b9b601_0
+omniscidb-cpu-4.6.1-hfea7e52_0
+omniscidb-cpu-4.6.1-h8f1a4d2_1

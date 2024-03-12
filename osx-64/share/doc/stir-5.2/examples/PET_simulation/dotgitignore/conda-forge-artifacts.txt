@@ -1,0 +1,4 @@
+stir-5.2.0-cpu_py38h0722b14_3
+stir-5.2.0-cpu_py310hc8b6355_3
+stir-5.2.0-cpu_py39h1fe16f6_3
+stir-5.2.0-cpu_py311hcc20e6c_3

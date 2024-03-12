@@ -1,0 +1,2 @@
+brotli-0.6.0-vc14_0
+brotli-0.6.pre-vc14_3

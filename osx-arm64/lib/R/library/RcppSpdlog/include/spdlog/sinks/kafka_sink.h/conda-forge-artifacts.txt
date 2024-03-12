@@ -1,0 +1,4 @@
+r-rcppspdlog-0.0.14-r43he62749d_0
+r-rcppspdlog-0.0.14-r42he62749d_0
+r-rcppspdlog-0.0.15-r42he96f11e_0
+r-rcppspdlog-0.0.15-r43he96f11e_0

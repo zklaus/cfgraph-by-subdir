@@ -1,0 +1,15 @@
+onednn-2.5-omp_h4900ede_0
+onednn-2.5-threadpool_h2da97c1_0
+onednn-2.5-tbb_h7271bb5_0
+onednn-2.5.1-omp_h4900ede_0
+onednn-2.5.1-tbb_h7271bb5_0
+onednn-2.5.1-threadpool_h2da97c1_0
+onednn-2.5.2-tbb_h7271bb5_0
+onednn-2.5.2-omp_h4900ede_0
+onednn-2.5.2-threadpool_h2da97c1_0
+onednn-2.5.3-omp_h2073566_0
+onednn-2.5.3-tbb_h1536c92_0
+onednn-2.5.3-threadpool_h9701671_0
+onednn-2.5.4-tbb_h1536c92_0
+onednn-2.5.4-threadpool_h9701671_0
+onednn-2.5.4-omp_h2073566_0

@@ -1,0 +1,8 @@
+eiquadprog-1.2.3-h8cbb357_0
+eiquadprog-1.2.4-hd329d56_0
+eiquadprog-1.2.4-h7a94ca9_1
+eiquadprog-1.2.5-h7a94ca9_0
+eiquadprog-1.2.6-he57d4f7_0
+eiquadprog-1.2.6-h0af5e60_1
+eiquadprog-1.2.7-h0af5e60_0
+eiquadprog-1.2.8-h0af5e60_0

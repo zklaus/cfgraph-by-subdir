@@ -1,0 +1,5 @@
+xeus-python-0.1.0-py27h04f5b5a_0
+xeus-python-0.1.0-py36h04f5b5a_0
+xeus-python-0.1.0-py27h04f5b5a_1000
+xeus-python-0.1.0-py36h04f5b5a_1000
+xeus-python-0.1.0-py37h04f5b5a_1000

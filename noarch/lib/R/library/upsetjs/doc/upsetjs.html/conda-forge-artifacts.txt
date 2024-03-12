@@ -1,0 +1,15 @@
+r-upsetjs-1.9.0-r36hc72bb7e_0
+r-upsetjs-1.9.0-r40hc72bb7e_0
+r-upsetjs-1.9.0-r41hc72bb7e_0
+r-upsetjs-1.10.10-r40hc72bb7e_0
+r-upsetjs-1.10.10-r41hc72bb7e_0
+r-upsetjs-1.10.11-r40hc72bb7e_0
+r-upsetjs-1.10.11-r41hc72bb7e_0
+r-upsetjs-1.11.0-r40hc72bb7e_0
+r-upsetjs-1.11.0-r41hc72bb7e_0
+r-upsetjs-1.11.1-r41hc72bb7e_0
+r-upsetjs-1.11.1-r40hc72bb7e_0
+r-upsetjs-1.11.1-r42hc72bb7e_1
+r-upsetjs-1.11.1-r41hc72bb7e_1
+r-upsetjs-1.11.1-r43hc72bb7e_2
+r-upsetjs-1.11.1-r42hc72bb7e_2

@@ -1,0 +1,6 @@
+rapidjson-1.1.0-0
+rapidjson-1.1.0-hfc679d8_1
+rapidjson-1.1.0-h0a44026_1001
+rapidjson-1.1.0-h0a44026_1002
+rapidjson-1.1.0-h6de7cb9_1002
+rapidjson-1.1.0-hb1e8313_1002

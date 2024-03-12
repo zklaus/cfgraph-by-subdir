@@ -1,0 +1,3 @@
+mfront-3.2.1-py38h96aac5d_0
+mfront-3.2.1-py310heb670ec_0
+mfront-3.2.1-py39h56ed60a_0

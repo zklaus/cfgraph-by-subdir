@@ -1,0 +1,6 @@
+python-3.6.10-hd6c0276_1010_cpython
+python-3.6.10-h4334963_1010_cpython
+python-3.8.2-hbb7e721_6_cpython
+python-3.8.2-hd5f0129_6_cpython
+llvm-tools-9.0.1-h1341992_1
+eelbrain-0.31.4-py37h22065cd_0

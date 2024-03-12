@@ -1,0 +1,5 @@
+librealsense-2.54.2-py312h2088208_0_cpu
+librealsense-2.54.2-py310h5fa5a77_0_cpu
+librealsense-2.54.2-py311h58c5ca3_0_cpu
+librealsense-2.54.2-py38h88aff10_0_cpu
+librealsense-2.54.2-py39h83afdba_0_cpu

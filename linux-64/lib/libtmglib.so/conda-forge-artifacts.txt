@@ -1,0 +1,6 @@
+lapack-3.6.0-0
+lapack-3.6.1-0
+lapack-3.6.1-1
+lapack-3.6.1-ha44fe06_2
+libtmglib-3.9.0-4_h92ddd45_netlib
+libtmglib-3.9.0-5_h92ddd45_netlib

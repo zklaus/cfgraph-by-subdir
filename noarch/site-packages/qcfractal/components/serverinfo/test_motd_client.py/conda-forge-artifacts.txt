@@ -1,0 +1,4 @@
+qcfractal-0.50-pyh707e725_0
+qcfractal-0.51-pyhd8ed1ab_0
+qcfractal-0.52-pyh707e725_0
+qcfractal-0.52-pyh707e725_1

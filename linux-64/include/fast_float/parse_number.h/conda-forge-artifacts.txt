@@ -1,0 +1,5 @@
+fast_float-4.0.0-h00ab1b0_0
+fast_float-5.0.0-h00ab1b0_0
+fast_float-5.1.0-h00ab1b0_0
+fast_float-5.2.0-h00ab1b0_0
+fast_float-5.3.0-h00ab1b0_0

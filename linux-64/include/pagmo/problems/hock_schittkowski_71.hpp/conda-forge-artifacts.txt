@@ -1,0 +1,6 @@
+pagmo-devel-2.19.0-hc11bdb2_0
+pagmo-devel-2.19.0-hd942ecc_1
+pagmo-devel-2.19.0-h256d8ea_2
+pagmo-devel-2.19.0-h83858ac_3
+pagmo-devel-2.19.0-h83858ac_4
+pagmo-devel-2.19.0-heacd9e1_5

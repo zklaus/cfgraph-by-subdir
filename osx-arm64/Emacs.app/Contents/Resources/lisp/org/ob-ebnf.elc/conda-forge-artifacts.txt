@@ -1,0 +1,7 @@
+emacs-27.1-h9ae4781_2
+emacs-27.1-h9ae4781_3
+emacs-27.1-h1d6f1cd_4
+emacs-27.2-h31d83c2_0
+emacs-27.2-h31d83c2_1
+emacs-27.2-hcba963b_2
+emacs-27.2-hcba963b_3

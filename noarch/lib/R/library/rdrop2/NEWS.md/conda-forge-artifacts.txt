@@ -1,0 +1,8 @@
+r-rdrop2-0.8.2.1-r36h6115d3f_0
+r-rdrop2-0.8.2.1-r40h6115d3f_0
+r-rdrop2-0.8.2.1-r41hc72bb7e_0
+r-rdrop2-0.8.2.1-r40hc72bb7e_0
+r-rdrop2-0.8.2.1-r42hc72bb7e_1
+r-rdrop2-0.8.2.1-r41hc72bb7e_1
+r-rdrop2-0.8.2.1-r42hc72bb7e_2
+r-rdrop2-0.8.2.1-r43hc72bb7e_2

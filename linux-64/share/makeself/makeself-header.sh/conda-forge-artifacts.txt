@@ -1,0 +1,2 @@
+makeself-2.4.3-ha770c72_0
+makeself-2.5.0-ha770c72_0

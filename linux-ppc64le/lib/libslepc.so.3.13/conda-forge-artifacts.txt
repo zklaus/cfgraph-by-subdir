@@ -1,0 +1,13 @@
+slepc-3.13.0-h4caa8dc_1
+slepc-3.13.1-h4caa8dc_0
+slepc-3.13.1-h7db2258_0
+slepc-3.13.2-h4caa8dc_0
+slepc-3.13.2-h7db2258_0
+slepc-3.13.3-h4caa8dc_0
+slepc-3.13.3-h7db2258_0
+slepc-3.13.4-h4caa8dc_0
+slepc-3.13.4-h7db2258_0
+slepc-3.13.4-h3d48a8a_2
+slepc-3.13.4-hfdbcaff_2
+slepc-3.13.4-hf1c6990_2
+slepc-3.13.4-h081aabb_2

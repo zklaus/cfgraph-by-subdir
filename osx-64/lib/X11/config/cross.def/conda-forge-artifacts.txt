@@ -1,0 +1,4 @@
+xorg-cf-files-1.0.6-0
+xorg-cf-files-1.0.6-h470a237_1
+xorg-cf-files-1.0.6-h1de35cc_1001
+xorg-cf-files-1.0.7-h0d85af4_0

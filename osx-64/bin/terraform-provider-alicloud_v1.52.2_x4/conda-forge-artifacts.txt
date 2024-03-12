@@ -1,0 +1,1 @@
+terraform-provider-alicloud-1.52.2-h3eaf7b7_0

@@ -1,0 +1,12 @@
+libtiff-4.5.0-h82bc61c_0
+libtiff-4.5.0-h8a2b734_1
+libtiff-4.5.0-h6adf6a1_2
+libtiff-4.5.0-h61b78d3_3
+libtiff-4.5.0-hddfeb54_4
+libtiff-4.5.0-hddfeb54_5
+libtiff-4.5.0-ha587672_6
+libtiff-4.5.1-h8b53f26_0
+libtiff-4.5.1-h8b53f26_1
+libtiff-4.6.0-h8b53f26_0
+libtiff-4.6.0-h29866fb_1
+libtiff-4.6.0-ha9c0a0a_2

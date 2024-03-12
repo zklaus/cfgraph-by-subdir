@@ -1,0 +1,14 @@
+volk-2.4.1-py38h4d3f1cc_1
+volk-2.4.1-py36h599f18c_1
+volk-2.4.1-py39h64ee779_1
+volk-2.4.1-py36h978a726_1
+volk-2.4.1-py37h8ccbb4e_1
+volk-2.4.1-py37h4f59317_1
+volk-2.4.1-h3b9df90_2
+volk-2.4.1-h3b9df90_3
+volk-2.5.0-h3b9df90_0
+volk-2.5.1-h3b9df90_0
+volk-2.5.2-hbbae597_0
+volk-2.5.2-hbbae597_1
+volk-3.0.0-h883269e_0
+volk-3.0.0-h883269e_1

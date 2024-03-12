@@ -1,0 +1,13 @@
+r-taxonomizr-0.8.0-r40h28b5c78_0
+r-taxonomizr-0.8.0-r36h28b5c78_0
+r-taxonomizr-0.8.0-r41h28b5c78_0
+r-taxonomizr-0.9.2-r40h67d6963_0
+r-taxonomizr-0.9.2-r41h67d6963_0
+r-taxonomizr-0.9.3-r41h67d6963_0
+r-taxonomizr-0.9.3-r40h67d6963_0
+r-taxonomizr-0.9.3-r42h815d134_1
+r-taxonomizr-0.9.3-r41h815d134_1
+r-taxonomizr-0.10.2-r41h815d134_0
+r-taxonomizr-0.10.2-r42h815d134_0
+r-taxonomizr-0.10.2-r42h6dc245f_1
+r-taxonomizr-0.10.2-r43h6dc245f_1

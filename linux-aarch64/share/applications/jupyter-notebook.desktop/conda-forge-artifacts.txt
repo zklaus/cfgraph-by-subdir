@@ -1,0 +1,6 @@
+notebook-6.3.0-py36h2e20a7f_0
+notebook-6.3.0-py36h704843e_0
+notebook-6.3.0-py37h4bcbb9b_0
+notebook-6.3.0-py37hd9ded2f_0
+notebook-6.3.0-py38h2063c64_0
+notebook-6.3.0-py39ha65689a_0

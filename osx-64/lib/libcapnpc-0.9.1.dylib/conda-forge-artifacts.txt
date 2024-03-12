@@ -1,0 +1,6 @@
+capnproto-0.9.1-h64a5342_2
+capnproto-0.9.1-hd991315_3
+capnproto-0.9.1-h64a5342_3
+capnproto-0.9.1-h64a5342_4
+capnproto-0.9.1-hd991315_4
+capnproto-0.9.1-h45c0eea_5

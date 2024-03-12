@@ -1,0 +1,8 @@
+aws-c-cal-0.6.5-h771d0f2_0
+aws-c-cal-0.6.6-h771d0f2_0
+aws-c-cal-0.6.6-h84c8896_1
+aws-c-cal-0.6.7-h84c8896_0
+aws-c-cal-0.6.7-h4935996_1
+aws-c-cal-0.6.9-h4935996_0
+aws-c-cal-0.6.9-hd26b748_1
+aws-c-cal-0.6.9-h0350025_2

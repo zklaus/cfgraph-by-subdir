@@ -1,0 +1,2 @@
+spdlog-1.8.2-hffaa6b9_0
+spdlog-1.8.2-hd62202e_1

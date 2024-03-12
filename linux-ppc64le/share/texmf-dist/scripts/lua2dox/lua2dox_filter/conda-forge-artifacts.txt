@@ -1,0 +1,11 @@
+texlive-core-20180414-pl526h05d18a0_0
+texlive-core-20180414-pl526h8b45546_1
+texlive-core-20180414-pl526h3e1ad3b_2
+texlive-core-20180414-pl526h3e1ad3b_3
+texlive-core-20180414-pl5262he67baf8_4
+texlive-core-20180414-ha82af80_5
+texlive-core-20180414-h1aae950_6
+texlive-core-20180414-h1aae950_7
+texlive-core-20180414-h1aae950_8
+texlive-core-20180414-h1aae950_9
+texlive-core-20180414-heec0aea_10

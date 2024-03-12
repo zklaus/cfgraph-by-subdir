@@ -1,0 +1,4 @@
+xxhash-0.8.0-h8ffe710_2
+xxhash-0.8.0-h8ffe710_3
+xxhash-0.8.1-hcfcfb64_0
+xxhash-0.8.2-hcfcfb64_0

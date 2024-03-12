@@ -1,0 +1,8 @@
+orange3-educational-0.1.5-py35_0
+orange3-educational-0.1.5-py36_0
+orange3-educational-0.1.7-py35_0
+orange3-educational-0.1.7-py36_0
+orange3-educational-0.1.8-py36_0
+orange3-educational-0.1.8-py35_0
+orange3-educational-0.1.8-py37_1000
+orange3-educational-0.1.8-py36_1000

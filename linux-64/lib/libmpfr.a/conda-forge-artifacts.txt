@@ -1,0 +1,11 @@
+mpfr-3.1.4-0
+mpfr-3.1.4-1
+mpfr-3.1.4-2
+mpfr-3.1.4-3
+mpfr-3.1.5-0
+mpfr-4.0.1-0
+mpfr-4.0.1-h16a7912_0
+mpfr-4.0.1-ha14ba45_1000
+mpfr-4.0.2-ha14ba45_0
+mpfr-4.0.2-he80fd80_0
+mpfr-4.0.2-he80fd80_1

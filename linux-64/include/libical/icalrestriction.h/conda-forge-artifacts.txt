@@ -1,0 +1,10 @@
+libical-3.0.5-h3163065_0
+libical-3.0.5-h0305915_1
+libical-3.0.6-h0305915_0
+libical-3.0.7-h0305915_0
+libical-3.0.8-h0305915_0
+libical-3.0.8-h2775d3e_1
+libical-3.0.8-hd82375c_2
+libical-3.0.9-hd82375c_0
+libical-3.0.9-hf1b6037_1
+libical-3.0.10-h51a5218_0

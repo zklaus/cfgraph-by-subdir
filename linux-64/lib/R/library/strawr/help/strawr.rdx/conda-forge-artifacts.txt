@@ -1,0 +1,8 @@
+r-strawr-0.0.9-r40h7a93594_0
+r-strawr-0.0.9-r41h7a93594_0
+r-strawr-0.0.9-r42h495f63e_1
+r-strawr-0.0.9-r41h495f63e_1
+r-strawr-0.0.91-r41h96c3392_0
+r-strawr-0.0.91-r42h96c3392_0
+r-strawr-0.0.91-r42h308e8a1_1
+r-strawr-0.0.91-r43h308e8a1_1

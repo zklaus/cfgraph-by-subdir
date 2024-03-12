@@ -1,0 +1,7 @@
+r-stringi-1.2.3-r341_0
+r-stringi-1.2.3-r341hfc679d8_1
+r-stringi-1.2.4-r341h9d2a408_0
+r-stringi-1.2.4-r351h9d2a408_0
+r-stringi-1.2.4-r341h9d2a408_1
+r-stringi-1.2.4-r351h9d2a408_1
+r-stringi-1.2.4-r351h466af19_1001

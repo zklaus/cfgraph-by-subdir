@@ -1,0 +1,6 @@
+stackvana-afw-0.2021.32-py38h4f6d834_0
+stackvana-afw-0.2021.33-py38h4f6d834_0
+stackvana-afw-0.2021.34-py38h4f6d834_0
+stackvana-afw-0.2021.35-py38h4f6d834_0
+stackvana-afw-0.2021.35-py38hf635066_1
+stackvana-afw-0.2021.35-py38hfe1a3af_2

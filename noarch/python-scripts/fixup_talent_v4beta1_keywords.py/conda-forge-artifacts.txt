@@ -1,0 +1,13 @@
+google-cloud-talent-2.1.0-pyhd8ed1ab_0
+google-cloud-talent-2.2.0-pyhd8ed1ab_0
+google-cloud-talent-2.2.1-pyhd8ed1ab_0
+google-cloud-talent-2.3.0-pyhd8ed1ab_0
+google-cloud-talent-2.4.0-pyhd8ed1ab_0
+google-cloud-talent-2.5.0-pyhd8ed1ab_0
+google-cloud-talent-2.5.1-pyhd8ed1ab_0
+google-cloud-talent-2.5.2-pyhd8ed1ab_0
+google-cloud-talent-2.6.0-pyhd8ed1ab_0
+google-cloud-talent-2.7.0-pyhd8ed1ab_0
+google-cloud-talent-2.7.1-pyhd8ed1ab_0
+google-cloud-talent-2.7.2-pyhd8ed1ab_0
+google-cloud-talent-2.7.3-pyhd8ed1ab_0

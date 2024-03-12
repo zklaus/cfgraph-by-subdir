@@ -1,0 +1,7 @@
+daal-devel-2019.5-281
+daal-devel-2020.0-166
+daal-devel-2020.1-217
+daal-devel-2020.1-219
+daal-devel-2020.2-256
+daal-devel-2020.3-ha770c72_304
+daal-devel-2020.2-ha770c72_256

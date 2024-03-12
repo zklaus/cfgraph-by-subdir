@@ -1,0 +1,4 @@
+libignition-sensors6-6.0.1-hd9c418b_0
+libignition-sensors6-6.0.1-hc219fc0_0
+libignition-sensors6-6.0.1-h8658d24_1
+libignition-sensors6-6.0.1-hf05e9fd_1

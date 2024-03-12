@@ -1,0 +1,15 @@
+libgfortran-devel_osx-64-7.5.0-h2d743fc_9
+libgfortran-devel_osx-64-7.5.0-h2d743fc_10
+libgfortran-devel_osx-64-7.5.0-h2d743fc_11
+libgfortran-devel_osx-64-7.5.0-h50e675f_12
+libgfortran-devel_osx-64-7.5.0-h50e675f_13
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_14
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_15
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_16
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_17
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_18
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_19
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_20
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_21
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_22
+libgfortran-devel_osx-64-7.5.0-h1a10cd1_23

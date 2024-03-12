@@ -1,0 +1,15 @@
+r-fingerprint-3.5.7-r3.4.1_0
+r-fingerprint-3.5.7-r341h470a237_1
+r-fingerprint-3.5.7-r351hc070d10_2
+r-fingerprint-3.5.7-r341hc070d10_2
+r-fingerprint-3.5.7-r351h96ca727_1002
+r-fingerprint-3.5.7-r35hcdcec82_1003
+r-fingerprint-3.5.7-r36hcdcec82_1003
+r-fingerprint-3.5.7-r36hcdcec82_1004
+r-fingerprint-3.5.7-r40hcdcec82_1004
+r-fingerprint-3.5.7-r41hcfec24a_1004
+r-fingerprint-3.5.7-r40hcfec24a_1004
+r-fingerprint-3.5.7-r41h06615bd_1005
+r-fingerprint-3.5.7-r42h06615bd_1005
+r-fingerprint-3.5.7-r42h57805ef_1006
+r-fingerprint-3.5.7-r43h57805ef_1006

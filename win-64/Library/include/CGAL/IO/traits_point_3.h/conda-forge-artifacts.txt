@@ -1,0 +1,17 @@
+cgal-cpp-5.0-h411bc12_0
+cgal-cpp-5.0.1-h411bc12_0
+cgal-cpp-5.0.1-h26c6e29_1
+cgal-cpp-5.0.2-h9a563aa_1
+cgal-cpp-5.0.3-h9a563aa_0
+cgal-cpp-5.0.3-h566e9aa_1
+cgal-cpp-5.0.3-h60422a9_1
+cgal-cpp-5.1-h60422a9_0
+cgal-cpp-5.1-h566e9aa_0
+cgal-cpp-5.1.1-hd192e32_0
+cgal-cpp-5.1.1-h3c2f9b9_0
+cgal-cpp-5.2-h3c2f9b9_0
+cgal-cpp-5.2-hd192e32_0
+cgal-cpp-5.2.1-h3c2f9b9_0
+cgal-cpp-5.2.2-h3c2f9b9_0
+cgal-cpp-5.2.2-h3c2f9b9_1
+cgal-cpp-5.2.3-h3c2f9b9_0

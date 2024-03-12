@@ -1,0 +1,6 @@
+libusb-1.0.22-he1b5a44_0
+libusb-1.0.23-he1b5a44_0
+libusb-1.0.23-he1b5a44_1
+libusb-1.0.23-he1b5a44_2
+libusb-1.0.23-he1b5a44_3
+libusb-1.0.24-h9c3ff4c_0

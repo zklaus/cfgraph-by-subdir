@@ -1,0 +1,6 @@
+cuquantum-22.03.0.40-h0800d71_0
+cuquantum-22.05.0.41-h0800d71_0
+cuquantum-22.07.0.11-h0800d71_0
+cuquantum-22.07.1.14-h0800d71_0
+cutensornet-1.1.1-h0800d71_0
+cutensornet-1.1.1-h0800d71_1

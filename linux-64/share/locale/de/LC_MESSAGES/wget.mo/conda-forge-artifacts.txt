@@ -1,0 +1,5 @@
+wget-1.20.1-h90d6eec_0
+wget-1.20.1-h22169c7_0
+wget-1.20.3-ha56f1ee_0
+wget-1.20.3-ha35d2d1_1
+wget-1.20.3-ha56f1ee_1

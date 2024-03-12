@@ -1,0 +1,11 @@
+r-msm-1.6.7-r351h6115d3f_0
+r-msm-1.6.7-r36hda5aaf8_1
+r-msm-1.6.7-r35hda5aaf8_1
+r-msm-1.6.8-r35hda5aaf8_0
+r-msm-1.6.8-r36hda5aaf8_0
+r-msm-1.6.8-r36hda5aaf8_1
+r-msm-1.6.8-r40hda5aaf8_1
+r-msm-1.6.8-r40h0adb578_2
+r-msm-1.6.8-r36h0adb578_2
+r-msm-1.6.8-r40hd2e18ed_2
+r-msm-1.6.9-r40hd2e18ed_0

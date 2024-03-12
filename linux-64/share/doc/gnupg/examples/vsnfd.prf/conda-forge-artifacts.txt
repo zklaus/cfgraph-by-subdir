@@ -1,0 +1,12 @@
+gnupg-2.2.4-hbb3d537_0
+gnupg-2.2.7-hbb3d537_0
+gnupg-2.2.8-h40399eb_0
+gnupg-2.2.9-h40399eb_0
+gnupg-2.2.11-h40399eb_0
+gnupg-2.2.12-h40399eb_0
+gnupg-2.2.15-h30cff2d_0
+gnupg-2.2.15-he1f381d_1
+gnupg-2.2.17-he1f381d_0
+gnupg-2.2.19-he1f381d_0
+gnupg-2.2.21-he1f381d_0
+gnupg-2.2.22-h6df6d18_0

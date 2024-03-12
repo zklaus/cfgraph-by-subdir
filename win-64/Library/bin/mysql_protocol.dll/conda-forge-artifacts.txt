@@ -1,0 +1,12 @@
+mysql-router-8.0.19-h01dc58a_0
+mysql-router-8.0.20-h01dc58a_0
+mysql-router-8.0.20-h01dc58a_1
+mysql-router-8.0.20-h8fddf13_1
+mysql-router-8.0.21-h8fddf13_0
+mysql-router-8.0.21-h2544935_0
+mysql-router-8.0.21-h2544935_1
+mysql-router-8.0.21-hc61c92a_2
+mysql-router-8.0.22-hc61c92a_0
+mysql-router-8.0.22-h7951e0d_1
+mysql-router-8.0.22-hcc25f1e_2
+mysql-router-8.0.22-h0be70c7_3

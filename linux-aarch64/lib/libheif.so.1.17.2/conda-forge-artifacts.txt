@@ -1,0 +1,2 @@
+libheif-1.17.2-gpl_h71a477f_100
+libheif-1.17.2-lgpl_ha128224_0

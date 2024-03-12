@@ -1,0 +1,9 @@
+xorg-libxcursor-1.1.14-0
+xorg-libxcursor-1.1.15-0
+xorg-libxcursor-1.1.15-h470a237_1
+xorg-libxcursor-1.1.15-h470a237_2
+xorg-libxcursor-1.1.15-h14c3975_1002
+xorg-libxcursor-1.2.0-h14c3975_0
+xorg-libxcursor-1.2.0-h516909a_0
+xorg-libxcursor-1.2.0-h7f98852_0
+xorg-libxcursor-1.2.0-h0b41bf4_1

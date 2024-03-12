@@ -1,0 +1,10 @@
+r-rdsdp-1.0.5.1-r41hc2c5f09_0
+r-rdsdp-1.0.5.1-r40hc2c5f09_0
+r-rdsdp-1.0.5.2-r40h5682102_0
+r-rdsdp-1.0.5.2-r41h5682102_0
+r-rdsdp-1.0.5.2-r42hce01bf1_1
+r-rdsdp-1.0.5.2-r41hce01bf1_1
+r-rdsdp-1.0.5.2.1-r42hc46c21c_0
+r-rdsdp-1.0.5.2.1-r41hc46c21c_0
+r-rdsdp-1.0.5.2.1-r42hc46c21c_1
+r-rdsdp-1.0.5.2.1-r43hc46c21c_1

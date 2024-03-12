@@ -1,0 +1,8 @@
+r-rcppspdlog-0.0.9-r41ha856d6a_0
+r-rcppspdlog-0.0.10-r41ha856d6a_0
+r-rcppspdlog-0.0.11-r41ha856d6a_0
+r-rcppspdlog-0.0.12-r41ha856d6a_0
+r-rcppspdlog-0.0.12-r41ha856d6a_1
+r-rcppspdlog-0.0.13-r41ha856d6a_0
+r-rcppspdlog-0.0.14-r41ha856d6a_0
+r-rcppspdlog-0.0.15-r41ha856d6a_0

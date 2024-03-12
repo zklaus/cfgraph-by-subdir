@@ -1,0 +1,6 @@
+fermipy-0.15.1-py27_0
+fermipy-0.15.1-py34_0
+fermipy-0.15.1-py35_0
+fermipy-0.16.0-py27_0
+fermipy-0.16.0-py34_0
+fermipy-0.16.0-py35_0

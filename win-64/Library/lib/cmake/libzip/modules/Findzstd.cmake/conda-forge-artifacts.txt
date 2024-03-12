@@ -1,0 +1,5 @@
+libzip-1.10.0-h1d365fa_0
+libzip-1.10.1-h1d365fa_0
+libzip-1.10.1-h1d365fa_1
+libzip-1.10.1-h1d365fa_2
+libzip-1.10.1-h1d365fa_3

@@ -1,0 +1,4 @@
+dotnet-aspnetcore-5.0.5-ha205975_0
+dotnet-aspnetcore-5.0.5-ha205975_1
+dotnet-aspnetcore-5.0.5-ha205975_2
+dotnet-aspnetcore-5.0.5-ha205975_3

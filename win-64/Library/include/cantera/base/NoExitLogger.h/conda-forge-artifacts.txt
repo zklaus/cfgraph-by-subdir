@@ -1,0 +1,16 @@
+libcantera-devel-3.0.0-h3150e89_0
+libcantera-devel-3.0.0-h5b1e8af_0
+libcantera-devel-3.0.0-hebb22ad_0
+libcantera-devel-3.0.0-h5962b9e_0
+libcantera-devel-3.0.0-h6d8cd5e_1
+libcantera-devel-3.0.0-hf2a661a_1
+libcantera-devel-3.0.0-hc85a885_1
+libcantera-devel-3.0.0-h69cc0ef_1
+libcantera-devel-3.0.0-h286ba9b_2
+libcantera-devel-3.0.0-hff76d4b_2
+libcantera-devel-3.0.0-h3b7b6ab_2
+libcantera-devel-3.0.0-h4d0b157_2
+libcantera-devel-3.0.0-h3b7b6ab_3
+libcantera-devel-3.0.0-h286ba9b_3
+libcantera-devel-3.0.0-h4d0b157_3
+libcantera-devel-3.0.0-hff76d4b_3

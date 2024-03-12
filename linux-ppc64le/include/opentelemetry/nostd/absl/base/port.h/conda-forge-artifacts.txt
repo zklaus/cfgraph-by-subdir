@@ -1,0 +1,2 @@
+cpp-opentelemetry-api-1.1.0-h2acdbc0_2
+cpp-opentelemetry-api-1.1.1-h2acdbc0_0

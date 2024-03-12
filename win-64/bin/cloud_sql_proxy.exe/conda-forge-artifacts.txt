@@ -1,0 +1,3 @@
+cloud-sql-proxy-1.33.0-hd02998f_0
+cloud-sql-proxy-1.33.0-hd02998f_1
+cloud-sql-proxy-1.33.1-hd02998f_0

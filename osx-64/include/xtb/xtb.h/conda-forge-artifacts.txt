@@ -1,0 +1,17 @@
+xtb-6.2.3-hc1f6be1_0
+xtb-6.2.3-hc1f6be1_1
+xtb-6.2.3-py36h30239dc_2
+xtb-6.2.3-py37hb68b64c_2
+xtb-6.2.3-py38h741cc1f_2
+xtb-6.3.0-hc1f6be1_0
+xtb-6.3.1-hc1f6be1_0
+xtb-6.3.2-hc1f6be1_0
+xtb-6.3.2-hc1f6be1_1
+xtb-6.3.3-h9c1f690_0
+xtb-6.3.3-heb1e3ac_1
+xtb-6.3.3-h38daebe_1
+xtb-6.3.3-h62b70b6_2
+xtb-6.4.0-h8706be6_0
+xtb-6.4.1-hb5d6ffb_0
+xtb-6.4.1-h67747af_1
+xtb-6.4.1-h67747af_2

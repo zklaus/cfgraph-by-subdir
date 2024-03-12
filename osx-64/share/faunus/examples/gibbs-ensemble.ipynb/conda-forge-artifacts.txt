@@ -1,0 +1,12 @@
+faunus-2.10.1-py39h1a308a2_0
+faunus-2.10.1-py38hd2da59b_0
+faunus-2.10.1-py39hac5463e_0
+faunus-2.10.1-py311h79b22e7_0
+faunus-2.10.1-py38h935dd54_0
+faunus-2.10.1-py38hdadb8cf_0
+faunus-2.10.1-py39h970b929_0
+faunus-2.10.1-py310hcb1c698_0
+faunus-2.10.1-py39h57f1caa_0
+faunus-2.10.1-py311h9ca957e_0
+faunus-2.10.1-py38h712b705_0
+faunus-2.10.1-py310hc82e573_0

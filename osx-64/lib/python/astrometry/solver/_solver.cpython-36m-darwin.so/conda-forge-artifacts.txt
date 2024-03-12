@@ -1,0 +1,8 @@
+astrometry-0.82-py36hbdf98f2_0
+astrometry-0.83-py36h7c8b78b_0
+astrometry-0.84-py36h967774a_0
+astrometry-0.84-py36h967774a_1
+astrometry-0.84-py36h6d1eb0b_2
+astrometry-0.85-py36ha2d9d96_0
+astrometry-0.86-py36ha2d9d96_0
+astrometry-0.86-py36ha6b2cdd_1

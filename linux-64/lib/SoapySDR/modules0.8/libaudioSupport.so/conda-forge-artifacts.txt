@@ -1,0 +1,2 @@
+soapysdr-module-audio-0.1.1-hd00649d_0
+soapysdr-module-audio-0.1.1-h44a8f8d_1

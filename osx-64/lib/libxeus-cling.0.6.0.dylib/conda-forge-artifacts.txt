@@ -1,0 +1,2 @@
+xeus-cling-0.6.0-h2dec4b4_0
+xeus-cling-0.6.0-h2dec4b4_1

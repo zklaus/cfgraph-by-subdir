@@ -1,0 +1,5 @@
+qt6-gtk-platformtheme-6.4.3-hf441f66_0
+qt6-gtk-platformtheme-6.5.0-h880af47_0
+qt6-gtk-platformtheme-6.5.1-he21a4df_0
+qt6-gtk-platformtheme-6.5.1-he21a4df_1
+qt6-gtk-platformtheme-6.5.2-he21a4df_1

@@ -1,0 +1,4 @@
+ipyleaflet-gl-vector-layer-plugin-0.1.1-pyhd8ed1ab_0
+ipyleaflet-gl-vector-layer-plugin-0.1.2-pyhd8ed1ab_0
+ipyleaflet-gl-vector-layer-plugin-0.1.3-pyhd8ed1ab_0
+ipyleaflet-gl-vector-layer-plugin-0.1.3-pyhd8ed1ab_1

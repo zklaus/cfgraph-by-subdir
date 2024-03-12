@@ -1,0 +1,2 @@
+terraform-provider-opentelekomcloud-1.19.0-h918b63b_0
+terraform-provider-opentelekomcloud-1.19.0-h73c3971_1

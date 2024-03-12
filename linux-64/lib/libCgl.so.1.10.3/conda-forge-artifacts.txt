@@ -1,0 +1,9 @@
+coincbc-2.10.4-hab63836_0
+coincbc-2.10.5-hab63836_0
+coin-or-cgl-0.60.3-h9dddf35_0
+coincbc-2.10.5-h71b4bd6_1
+coincbc-2.10.5-hab63836_1
+coincbc-2.10.5-hcee13e7_1
+coin-or-cgl-0.60.3-he7e83c3_0
+coin-or-cgl-0.60.3-he7e83c3_1
+coin-or-cgl-0.60.3-he7e83c3_2

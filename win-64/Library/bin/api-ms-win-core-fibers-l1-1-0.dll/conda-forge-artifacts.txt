@@ -1,0 +1,7 @@
+ucrt-10.0.20348.0-h57928b3_0
+ucrt-10.0.22621.0-h57928b3_0
+libsolv-0.7.24-h12be248_4
+openjdk-8.0.382-h57928b3_0
+libsolv-0.7.25-h12be248_0
+libsolv-0.7.26-h12be248_0
+libsolv-0.7.27-h12be248_0

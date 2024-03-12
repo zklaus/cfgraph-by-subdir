@@ -1,0 +1,11 @@
+libxc-4.3.3-h9ac9557_0
+libxc-4.3.4-h9ac9557_0
+libxc-4.3.4-h6e990d7_1
+libxc-4.3.4-h6e990d7_2
+libxc-4.3.4-h86c2bf4_2
+yambo-5.1.1-haeb0354_0
+yambo-5.1.1-haeb0354_1
+yambo-5.1.1-h8ce2fc8_2
+yambo-5.1.1-h8ce2fc8_3
+libxc-4.3.4-hd8f1df9_3
+libxc-4.3.4-hd8f1df9_4

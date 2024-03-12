@@ -1,0 +1,11 @@
+armadillo-10.6.2-h7c03176_0
+armadillo-10.7.0-h7c03176_0
+armadillo-10.7.1-h7c03176_0
+armadillo-10.7.2-h7c03176_0
+armadillo-10.7.3-h7c03176_0
+armadillo-10.7.4-h7c03176_0
+armadillo-10.7.5-h7c03176_0
+armadillo-10.7.6-h7c03176_0
+armadillo-10.8.0-h7c03176_0
+armadillo-10.8.1-h7c03176_0
+armadillo-10.8.2-h7c03176_0

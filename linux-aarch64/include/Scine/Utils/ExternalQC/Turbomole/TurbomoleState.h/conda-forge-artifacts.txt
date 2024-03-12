@@ -1,0 +1,4 @@
+scine-utilsos-5.0.0-h46bf9e6_0
+scine-utilsos-6.0.0-h46bf9e6_0
+scine-utilsos-6.0.0-h7d4f0d6_1
+scine-utilsos-8.0.0-hfa1900e_1

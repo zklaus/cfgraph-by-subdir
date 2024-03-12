@@ -1,0 +1,4 @@
+containerpilot-2.7.8-0
+containerpilot-3.6.2-0
+containerpilot-3.7.0-0
+containerpilot-3.8.0-0

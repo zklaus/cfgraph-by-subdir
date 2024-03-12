@@ -1,0 +1,9 @@
+libblas-3.9.0-12_osx64_accelerate
+libblas-3.9.0-13_osx64_accelerate
+libblas-3.9.0-14_osx64_accelerate
+libblas-3.9.0-15_osx64_accelerate
+libblas-3.9.0-16_osx64_accelerate
+libblas-3.9.0-17_osx64_accelerate
+libblas-3.9.0-18_osx64_accelerate
+libblas-3.9.0-19_osx64_accelerate
+libblas-3.9.0-20_osx64_accelerate

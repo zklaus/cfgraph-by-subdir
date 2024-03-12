@@ -1,0 +1,12 @@
+dipy-0.16.0-py37hee00002_0
+dipy-0.16.0-py36hee00002_0
+dipy-0.16.0-py27h74bc36b_0
+dipy-1.0.0-py37h8aca51f_0
+dipy-1.0.0-py36h8aca51f_0
+dipy-1.0.0-py38h8aca51f_0
+dipy-1.1.0-py36h8aca51f_0
+dipy-1.1.0-py37h8aca51f_0
+dipy-1.1.0-py38h8aca51f_0
+dipy-1.1.0-py38h8aca51f_1
+dipy-1.1.0-py36h8aca51f_1
+dipy-1.1.0-py37h8aca51f_1

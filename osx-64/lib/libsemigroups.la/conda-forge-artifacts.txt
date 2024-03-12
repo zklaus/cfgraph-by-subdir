@@ -1,0 +1,11 @@
+libsemigroups-0.2.1-0
+libsemigroups-0.2.2-0
+libsemigroups-0.3.0-0
+libsemigroups-0.3.1-0
+libsemigroups-0.3.2-0
+libsemigroups-0.4.1-0
+libsemigroups-0.5.2-0
+libsemigroups-0.6.2-0
+libsemigroups-0.6.3-0
+libsemigroups-0.6.3-hfc679d8_0
+libsemigroups-0.6.3-h0a44026_1000

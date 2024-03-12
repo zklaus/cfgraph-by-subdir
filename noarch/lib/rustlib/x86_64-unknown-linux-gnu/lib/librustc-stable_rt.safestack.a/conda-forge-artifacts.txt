@@ -1,0 +1,8 @@
+rust-std-x86_64-unknown-linux-gnu-1.72.0-hc1431ca_0
+rust-std-x86_64-unknown-linux-gnu-1.72.0-hc1431ca_1
+rust-std-x86_64-unknown-linux-gnu-1.72.0-hc1431ca_2
+rust-std-x86_64-unknown-linux-gnu-1.72.1-hc1431ca_0
+rust-std-x86_64-unknown-linux-gnu-1.73.0-hc1431ca_0
+rust-std-x86_64-unknown-linux-gnu-1.73.0-hc1431ca_1
+rust-std-x86_64-unknown-linux-gnu-1.73.0-hc1431ca_2
+rust-std-x86_64-unknown-linux-gnu-1.74.0-h2c6d0dc_0

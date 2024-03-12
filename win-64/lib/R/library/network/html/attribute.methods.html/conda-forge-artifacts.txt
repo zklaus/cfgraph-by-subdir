@@ -1,0 +1,12 @@
+r-network-1.13.0.1-r351h6115d3f_1000
+r-network-1.15-r351h6115d3f_0
+r-network-1.15-r35hda5aaf8_1
+r-network-1.15-r36hda5aaf8_1
+r-network-1.16.0-r35hda5aaf8_0
+r-network-1.16.0-r36hda5aaf8_0
+r-network-1.16.0-r36hda5aaf8_1
+r-network-1.16.0-r40hda5aaf8_1
+r-network-1.16.1-r40h6d2157b_0
+r-network-1.17.0-r40h6d2157b_0
+r-network-1.17.1-r40h6d2157b_0
+r-network-1.17.2-r40h6d2157b_0

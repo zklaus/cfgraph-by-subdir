@@ -1,0 +1,12 @@
+libpython-2.0-py38_0
+libpython-2.0-py38h32f6830_0
+libpython-2.0-py38h32f6830_1
+libpython-2.0-py38haa244fe_1
+libpython-2.1-py38haa244fe_0
+libpython-2.1-py38haa244fe_1
+libpython-2.2-py38haa244fe_0
+libpython-2.2-py38haa244fe_1
+libpython-2.2-py38h32ec214_1
+libpython-2.2-py38h32ec214_2
+libpython-2.2-py38haa244fe_2
+libpython-2.2-py38haa244fe_3

@@ -1,0 +1,5 @@
+giflib-5.1.4-vc14_0
+giflib-5.1.4-h2fa13f4_0
+giflib-5.2.1-h2fa13f4_2
+giflib-5.2.1-h8d14728_2
+giflib-5.2.1-h64bf75a_3

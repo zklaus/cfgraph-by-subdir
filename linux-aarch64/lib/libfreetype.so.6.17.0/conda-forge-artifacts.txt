@@ -1,0 +1,2 @@
+freetype-2.10.0-hc85f378_1
+freetype-2.10.0-he06d7ca_2

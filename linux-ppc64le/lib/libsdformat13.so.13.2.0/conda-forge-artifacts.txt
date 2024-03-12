@@ -1,0 +1,6 @@
+libsdformat13-13.2.0-hcfbbd17_0
+libsdformat13-13.2.0-h512be60_0
+libsdformat13-13.2.0-h512be60_1
+libsdformat13-13.2.0-hcfbbd17_1
+libsdformat13-13.2.0-hcfbbd17_2
+libsdformat13-13.2.0-h512be60_2

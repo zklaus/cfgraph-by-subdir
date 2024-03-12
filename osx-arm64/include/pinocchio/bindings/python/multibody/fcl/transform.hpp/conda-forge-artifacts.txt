@@ -1,0 +1,9 @@
+pinocchio-2.6.21-py38h2b4d096_0
+pinocchio-2.6.21-py311he4349d1_0
+pinocchio-2.6.21-py310h25825a4_0
+pinocchio-2.6.21-py39hcd6891b_0
+pinocchio-2.6.21-py38h2b4d096_1
+pinocchio-2.6.21-py312hb5f7ee1_1
+pinocchio-2.6.21-py39hcd6891b_1
+pinocchio-2.6.21-py310h25825a4_1
+pinocchio-2.6.21-py311he4349d1_1

@@ -1,0 +1,12 @@
+r-xgboost-1.4.0-r40h3d7ed35_0
+r-xgboost-1.4.0-r36h3d7ed35_0
+r-xgboost-1.4.1-r40h3d7ed35_0
+r-xgboost-1.4.2-r40h3d7ed35_0
+r-xgboost-1.5.0-r40h3d7ed35_0
+r-xgboost-1.5.0-r40h3d7ed35_1
+r-xgboost-1.5.1-r40h3d7ed35_0
+r-xgboost-1.5.1-cpu_r40h8a2b917_1
+r-xgboost-1.5.1-cpu_r40h8a2b917_2
+r-xgboost-1.6.1-cpu_r40h8a2b917_0
+r-xgboost-1.6.1-cpu_r40h8a2b917_1
+r-xgboost-1.6.2-cpu_r40h55027d2_0

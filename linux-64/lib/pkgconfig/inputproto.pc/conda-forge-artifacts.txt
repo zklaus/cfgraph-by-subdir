@@ -1,0 +1,5 @@
+xorg-inputproto-2.3.2-0
+xorg-inputproto-2.3.2-1
+xorg-inputproto-2.3.2-h470a237_2
+xorg-inputproto-2.3.2-h14c3975_1002
+xorg-inputproto-2.3.2-h7f98852_1002

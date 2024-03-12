@@ -1,0 +1,8 @@
+firefox-116.0-h13dd4ca_0
+firefox-117.0-h13dd4ca_0
+firefox-117.0.1-h13dd4ca_0
+firefox-118.0-h13dd4ca_0
+firefox-118.0.1-h13dd4ca_0
+firefox-118.0.2-h965bd2d_0
+firefox-119.0-h965bd2d_0
+firefox-120.0-h965bd2d_0

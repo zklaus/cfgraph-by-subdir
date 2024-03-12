@@ -1,0 +1,3 @@
+casacore-2.4.1-py27he94f398_5
+casacore-2.4.1-py35he94f398_5
+casacore-2.4.1-py36he94f398_5

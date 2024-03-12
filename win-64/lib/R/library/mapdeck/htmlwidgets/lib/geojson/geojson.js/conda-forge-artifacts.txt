@@ -1,0 +1,15 @@
+r-mapdeck-0.3.2-r35h796a38f_0
+r-mapdeck-0.3.2-r36h796a38f_0
+r-mapdeck-0.3.2-r36h796a38f_1
+r-mapdeck-0.3.2-r35h796a38f_1
+r-mapdeck-0.3.2-r36h796a38f_2
+r-mapdeck-0.3.2-r40h796a38f_2
+r-mapdeck-0.3.3-r40h796a38f_0
+r-mapdeck-0.3.3-r36h796a38f_0
+r-mapdeck-0.3.4-r40h796a38f_0
+r-mapdeck-0.3.4-r36h796a38f_0
+r-mapdeck-0.3.4-r36ha856d6a_1
+r-mapdeck-0.3.4-r40ha856d6a_1
+r-mapdeck-0.3.4-r41ha856d6a_1
+r-mapdeck-0.3.4-r41ha856d6a_2
+r-mapdeck-0.3.4-r41ha856d6a_3

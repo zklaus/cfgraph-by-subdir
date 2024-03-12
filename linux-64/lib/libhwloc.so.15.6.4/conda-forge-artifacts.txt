@@ -1,0 +1,8 @@
+libhwloc-2.9.3-cuda120_h6ce9cf6_9
+libhwloc-2.9.3-rocm_h9b966dd_9
+libhwloc-2.9.3-default_h554bfaf_1009
+libhwloc-2.9.3-cuda112_h0ec456c_9
+libhwloc-2.9.3-cuda120_h92c67f8_9
+libhwloc-2.9.3-cuda112_hc67a98f_9
+libhwloc-2.9.3-cuda118_h7df7488_9
+libhwloc-2.9.3-cuda118_h0b28968_9

@@ -1,0 +1,6 @@
+openvscode-server-1.82.0-hc4473f2_0
+openvscode-server-1.82.1-hc4473f2_0
+openvscode-server-1.82.1-hec2315b_1
+openvscode-server-1.82.2-hec2315b_1
+openvscode-server-1.83.0-hec2315b_0
+openvscode-server-1.84.2-hec2315b_0

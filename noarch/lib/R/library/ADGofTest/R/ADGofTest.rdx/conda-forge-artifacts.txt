@@ -1,0 +1,11 @@
+r-adgoftest-0.3-r351_1001
+r-adgoftest-0.3-r36_1002
+r-adgoftest-0.3-r35_1002
+r-adgoftest-0.3-r40_1003
+r-adgoftest-0.3-r36_1003
+r-adgoftest-0.3-r40ha770c72_1003
+r-adgoftest-0.3-r41ha770c72_1003
+r-adgoftest-0.3-r42ha770c72_1004
+r-adgoftest-0.3-r41ha770c72_1004
+r-adgoftest-0.3-r42ha770c72_1005
+r-adgoftest-0.3-r43ha770c72_1005

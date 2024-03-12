@@ -1,0 +1,16 @@
+stir-5.2.0-cpu_py39h9635f43_3
+stir-5.2.0-cpu_py311h66e6221_3
+stir-5.2.0-cuda120_py39hd67d13c_203
+stir-5.2.0-cpu_py310hf12e5cf_3
+stir-5.2.0-cuda120_py310h06a1705_203
+stir-5.2.0-cuda112_py38hae792fc_203
+stir-5.2.0-cuda118_py310h9093e81_203
+stir-5.2.0-cuda118_py39hc02d105_203
+stir-5.2.0-cuda118_py38h9e64e38_203
+stir-5.2.0-cuda112_py311hfe88fd4_203
+stir-5.2.0-cuda120_py38h4628f84_203
+stir-5.2.0-cuda118_py311h65166d8_203
+stir-5.2.0-cuda112_py310h2f9c738_203
+stir-5.2.0-cuda120_py311ha01a399_203
+stir-5.2.0-cuda112_py39haac0d56_203
+stir-5.2.0-cpu_py38h990087d_3

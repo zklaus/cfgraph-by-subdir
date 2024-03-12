@@ -1,0 +1,11 @@
+neuron-8.0.2-mpi_mpich_py38h09c5d42_3
+neuron-8.0.2-mpi_openmpi_py39h7d6e3b8_3
+neuron-8.0.2-nompi_py39h1972df9_103
+neuron-8.0.2-mpi_openmpi_py38hdfa7582_3
+neuron-8.0.2-mpi_openmpi_py311h7d205a4_3
+neuron-8.0.2-nompi_py38h54c929c_103
+neuron-8.0.2-mpi_openmpi_py310h90ed451_3
+neuron-8.0.2-mpi_mpich_py39h22386e0_3
+neuron-8.0.2-nompi_py310h2032015_103
+neuron-8.0.2-mpi_mpich_py311h254ac6c_3
+neuron-8.0.2-nompi_py311h20a2d74_103

@@ -1,0 +1,6 @@
+r-data.table-1.11.4-r351h6115d3f_1002
+r-data.table-1.11.8-r351h6115d3f_1000
+r-data.table-1.12.0-r351h6115d3f_0
+r-data.table-1.12.2-r351h6115d3f_0
+r-data.table-1.12.2-r36hda5aaf8_1
+r-data.table-1.12.2-r35hda5aaf8_1

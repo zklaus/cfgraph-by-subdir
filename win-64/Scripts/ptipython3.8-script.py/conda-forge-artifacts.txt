@@ -1,0 +1,6 @@
+ptpython-3.0.17-py38haa244fe_0
+ptpython-3.0.18-py38haa244fe_0
+ptpython-3.0.19-py38haa244fe_0
+ptpython-3.0.20-py38haa244fe_0
+ptpython-3.0.20-py38haa244fe_1
+ptpython-3.0.20-py38haa244fe_2

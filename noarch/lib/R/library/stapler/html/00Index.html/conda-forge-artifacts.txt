@@ -1,0 +1,14 @@
+r-stapler-0.6.5-r351h6115d3f_1000
+r-stapler-0.6.6-r351h6115d3f_0
+r-stapler-0.6.6-r35h6115d3f_1
+r-stapler-0.6.6-r36h6115d3f_1
+r-stapler-0.7.1-r36h6115d3f_0
+r-stapler-0.7.1-r35h6115d3f_0
+r-stapler-0.7.1-r36h6115d3f_1
+r-stapler-0.7.1-r40h6115d3f_1
+r-stapler-0.7.1-r41hc72bb7e_1
+r-stapler-0.7.1-r40hc72bb7e_1
+r-stapler-0.7.1-r41hc72bb7e_2
+r-stapler-0.7.1-r42hc72bb7e_2
+r-stapler-0.7.1-r42hc72bb7e_3
+r-stapler-0.7.1-r43hc72bb7e_3

@@ -1,0 +1,13 @@
+r-seqminer-7.1-r36h0d0aa6d_0
+r-seqminer-7.1-r35h0d0aa6d_0
+r-seqminer-7.1-r35h6a87043_1
+r-seqminer-7.1-r36h6a87043_1
+r-seqminer-7.1-r35hb9bd586_2
+r-seqminer-7.1-r36hb9bd586_2
+r-seqminer-8.0-r36hb9bd586_0
+r-seqminer-8.0-r35hb9bd586_0
+r-seqminer-8.0-r40hb9bd586_1
+r-seqminer-8.0-r36hb9bd586_1
+r-seqminer-8.0-r40h5bfd6cc_2
+r-seqminer-8.0-r36h5bfd6cc_2
+r-seqminer-8.0-r41h5bfd6cc_2

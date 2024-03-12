@@ -1,0 +1,6 @@
+r-fasterize-1.0.4-r41h38f115c_0
+r-fasterize-1.0.4-r42h38f115c_0
+r-fasterize-1.0.4-r43ha503ecb_1
+r-fasterize-1.0.4-r42ha503ecb_1
+r-fasterize-1.0.5-r42ha503ecb_0
+r-fasterize-1.0.5-r43ha503ecb_0

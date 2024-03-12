@@ -1,0 +1,12 @@
+cpycppyy-1.12.6-py38h8048ec2_1
+cpycppyy-1.12.7-py38h8048ec2_0
+cpycppyy-1.12.8-py38h8048ec2_0
+cpycppyy-1.12.8-py38h8048ec2_1
+cpycppyy-1.12.9-py38hd5caf9b_0
+cpycppyy-1.12.10-py38hd5caf9b_0
+cpycppyy-1.12.11-py38hd5caf9b_0
+cpycppyy-1.12.12-py38h721baa8_0
+cpycppyy-1.12.13-py38hb4b5b6f_0
+cpycppyy-1.12.12-py38hb4b5b6f_1
+cpycppyy-1.12.12-py38hb4b5b6f_2
+cpycppyy-1.12.13-py38hb4b5b6f_1

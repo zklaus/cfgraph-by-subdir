@@ -1,0 +1,16 @@
+dftd4-2.4.0-hcf07773_0
+dftd4-2.5.0-hcf07773_0
+dftd4-2.5.0-hb223ae3_1
+dftd4-2.5.0-hcf07773_1
+dftd4-3.0.0-h95a0123_0
+dftd4-3.0.0-hf06ca72_1
+dftd4-3.1.0-hf06ca72_0
+dftd4-3.2.0-hf06ca72_0
+dftd4-3.3.0-hf06ca72_0
+dftd4-3.3.0-hf06ca72_1
+dftd4-3.3.0-hf06ca72_2
+dftd4-3.3.0-hf06ca72_3
+dftd4-3.4.0-h9d67668_0
+dftd4-3.4.0-h03160e7_1
+dftd4-3.5.0-h03160e7_0
+dftd4-3.6.0-hf49bc11_0

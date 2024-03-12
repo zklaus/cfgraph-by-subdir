@@ -1,0 +1,7 @@
+arrow-cpp-1.0.1-py36h155422d_20_cpu
+arrow-cpp-1.0.1-py37h98fffd1_20_cpu
+arrow-cpp-1.0.1-py38h2ca8f75_20_cpu
+arrow-cpp-1.0.1-py37h98fffd1_21_cpu
+arrow-cpp-1.0.1-py39h1550524_21_cpu
+arrow-cpp-1.0.1-py38h2ca8f75_21_cpu
+arrow-cpp-1.0.1-py36h155422d_21_cpu

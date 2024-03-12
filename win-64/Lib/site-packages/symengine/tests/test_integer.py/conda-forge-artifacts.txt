@@ -1,0 +1,3 @@
+python-symengine-0.2.0-py35_vc14_0
+python-symengine-0.2.0-py35_vc14_1
+python-symengine-0.2.0-py36_vc14_1

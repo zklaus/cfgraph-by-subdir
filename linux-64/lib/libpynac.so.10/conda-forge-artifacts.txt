@@ -1,0 +1,6 @@
+pynac-0.7.5-py27_0
+pynac-0.7.5-py27_1
+pynac-0.7.5-py35_0
+pynac-0.7.5-py35_1
+pynac-0.7.5-py36_0
+pynac-0.7.5-py36_1

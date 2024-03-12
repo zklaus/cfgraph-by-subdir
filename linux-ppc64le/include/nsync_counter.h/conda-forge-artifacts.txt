@@ -1,0 +1,2 @@
+nsync-1.24.0-h3b9df90_0
+nsync-1.25.0-hbbae597_0

@@ -1,0 +1,12 @@
+geant4-base-10.5.0-h286734e_0
+geant4-base-10.5.1-h286734e_0
+geant4-base-10.5.1-h286734e_1
+geant4-base-10.5.1-h96e9a6c_1
+geant4-base-10.5.1-h5e99b8e_2
+geant4-base-10.5.1-h04dc639_2
+geant4-base-10.5.1-default_h5e99b8e_3
+geant4-base-10.5.1-qt_h04dc639_3
+geant4-base-10.6.0-default_h5e99b8e_0
+geant4-base-10.6.0-qt_h04dc639_0
+geant4-10.6.2-h513272a_0
+geant4-10.6.3-h0f64581_0

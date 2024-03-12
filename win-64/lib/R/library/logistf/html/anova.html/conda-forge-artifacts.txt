@@ -1,0 +1,4 @@
+r-logistf-1.24-r36hda5aaf8_0
+r-logistf-1.24-r40hda5aaf8_0
+r-logistf-1.24-r40h6d2157b_0
+r-logistf-1.24.1-r40h6d2157b_0

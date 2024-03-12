@@ -1,0 +1,8 @@
+r-udpipe-0.8.8-r41ha856d6a_0
+r-udpipe-0.8.8-r40ha856d6a_0
+r-udpipe-0.8.9-r40ha856d6a_0
+r-udpipe-0.8.9-r41ha856d6a_0
+r-udpipe-0.8.9-r41ha856d6a_1
+r-udpipe-0.8.10-r41ha856d6a_0
+r-udpipe-0.8.11-r41ha856d6a_0
+r-udpipe-0.8.11-r41ha856d6a_1

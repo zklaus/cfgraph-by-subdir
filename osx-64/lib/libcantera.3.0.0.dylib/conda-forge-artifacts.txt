@@ -1,0 +1,16 @@
+libcantera-3.0.0-h65e1a1b_0
+libcantera-3.0.0-hd95f842_0
+libcantera-3.0.0-h4273656_0
+libcantera-3.0.0-hc7274f6_0
+libcantera-3.0.0-h1b3edbb_1
+libcantera-3.0.0-hc43f5af_1
+libcantera-3.0.0-h52f8781_1
+libcantera-3.0.0-hbccbcd3_1
+libcantera-3.0.0-hbe18e48_2
+libcantera-3.0.0-hee3d373_2
+libcantera-3.0.0-h91838d4_2
+libcantera-3.0.0-he7021b4_2
+libcantera-3.0.0-h383f64b_3
+libcantera-3.0.0-h953ff24_3
+libcantera-3.0.0-hff67751_3
+libcantera-3.0.0-h11486ac_3

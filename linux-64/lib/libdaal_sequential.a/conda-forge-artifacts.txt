@@ -1,0 +1,15 @@
+daal-static-2019.5-281
+daal-static-2020.0-166
+daal-static-2020.1-217
+daal-static-2020.1-219
+daal-static-2020.2-256
+daal-static-2020.3-ha770c72_304
+daal-static-2020.2-ha770c72_256
+dal-static-2021.1.1-ha770c72_79
+dal-static-2021.2.2-ha770c72_389
+dal-static-2021.3.0-ha770c72_557
+dal-static-2021.4.0-ha770c72_729
+dal-static-2021.5.1-ha770c72_803
+dal-static-2021.6.0-ha770c72_915
+dal-static-2021.7.1-ha770c72_16996
+dal-static-2021.7.1-ha770c72_16997

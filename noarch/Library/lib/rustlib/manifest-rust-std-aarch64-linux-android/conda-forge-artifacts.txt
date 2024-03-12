@@ -1,0 +1,10 @@
+rust-std-aarch64-linux-android-1.71.0-win_0
+rust-std-aarch64-linux-android-1.71.1-win_0
+rust-std-aarch64-linux-android-1.72.0-win_0
+rust-std-aarch64-linux-android-1.72.0-win_1
+rust-std-aarch64-linux-android-1.72.0-win_2
+rust-std-aarch64-linux-android-1.72.1-win_0
+rust-std-aarch64-linux-android-1.73.0-win_0
+rust-std-aarch64-linux-android-1.73.0-win_1
+rust-std-aarch64-linux-android-1.73.0-win_2
+rust-std-aarch64-linux-android-1.74.0-win_0

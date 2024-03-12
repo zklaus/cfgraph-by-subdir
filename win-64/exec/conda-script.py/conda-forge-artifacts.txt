@@ -1,0 +1,6 @@
+conda-4.1.11-py27_1
+conda-4.1.11-py34_1
+conda-4.1.11-py35_1
+conda-4.1.12-py27_0
+conda-4.1.12-py34_0
+conda-4.1.12-py35_0

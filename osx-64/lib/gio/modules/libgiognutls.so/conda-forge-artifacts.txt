@@ -1,0 +1,4 @@
+glib-networking-2.64.3-hddc9c9b_0
+glib-networking-2.64.3-hddc9c9b_1
+glib-networking-2.66.0-hddc9c9b_0
+glib-networking-2.66.0-h4a47463_1

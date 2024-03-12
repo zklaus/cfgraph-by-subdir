@@ -1,0 +1,6 @@
+r-geometries-0.1.0-r36h796a38f_0
+r-geometries-0.1.0-r40h796a38f_0
+r-geometries-0.1.0-r36ha856d6a_1
+r-geometries-0.1.0-r40ha856d6a_1
+r-geometries-0.2.0-r36ha856d6a_0
+r-geometries-0.2.0-r40ha856d6a_0

@@ -1,0 +1,10 @@
+sip-4.19.18-py38hb209c28_1
+sip-4.19.20-py38hb209c28_0
+sip-4.19.22-py38h8e8fcc4_0
+sip-4.19.23-py38h8e8fcc4_0
+sip-4.19.24-py38h8e8fcc4_0
+sip-4.19.24-py38h8e8fcc4_1
+sip-4.19.24-py38h8e8fcc4_2
+sip-4.19.24-py38ha35a538_3
+sip-4.19.25-py38ha35a538_0
+sip-4.19.25-py38ha35a538_1

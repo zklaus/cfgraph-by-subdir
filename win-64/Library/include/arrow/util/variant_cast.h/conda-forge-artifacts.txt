@@ -1,0 +1,14 @@
+arrow-cpp-0.9.0-py35_vc14_4
+arrow-cpp-0.9.0-py35_vc14_5
+arrow-cpp-0.9.0-py35_vc14_6
+arrow-cpp-0.9.0-py35_vc14_7
+arrow-cpp-0.9.0-py36_vc14_4
+arrow-cpp-0.9.0-py36_vc14_5
+arrow-cpp-0.9.0-py36_vc14_6
+arrow-cpp-0.9.0-py36_vc14_7
+arrow-cpp-0.9.0-py36had51946_7
+arrow-cpp-0.9.0-py35had51946_7
+arrow-cpp-0.9.0-py35h12fa3ca_7
+arrow-cpp-0.9.0-py36h12fa3ca_7
+arrow-cpp-0.10.0-py35_vc14h12fa3ca_0
+arrow-cpp-0.10.0-py36_vc14h12fa3ca_0

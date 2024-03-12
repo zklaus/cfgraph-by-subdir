@@ -1,0 +1,3 @@
+healpix_cxx-3.31-h268b298_1005
+healpix_cxx-3.31-h268b298_1006
+healpix_cxx-3.31-h268b298_1007

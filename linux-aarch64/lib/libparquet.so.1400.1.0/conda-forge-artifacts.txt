@@ -1,0 +1,17 @@
+libparquet-14.0.1-hb18b541_0_cpu
+libparquet-14.0.1-h1f4e33c_0_cuda
+libparquet-14.0.1-hb18b541_1_cpu
+libparquet-14.0.1-h1f4e33c_1_cuda
+libparquet-14.0.1-hb18b541_2_cpu
+libparquet-14.0.1-h1f4e33c_2_cuda
+libparquet-14.0.1-hb18b541_3_cpu
+libparquet-14.0.1-h1f4e33c_3_cuda
+libparquet-14.0.1-hb18b541_4_cpu
+libparquet-14.0.1-h1f4e33c_4_cuda
+libparquet-14.0.1-hb18b541_5_cpu
+libparquet-14.0.1-h1f4e33c_5_cuda
+libparquet-14.0.1-h1f4e33c_6_cuda
+libparquet-14.0.1-hb18b541_6_cpu
+libparquet-14.0.1-hb18b541_7_cpu
+libparquet-14.0.1-h1f4e33c_7_cuda
+libparquet-14.0.1-hb18b541_8_cpu

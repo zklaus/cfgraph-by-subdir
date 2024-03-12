@@ -1,0 +1,16 @@
+rdkit-2020.09.1-py38hcd8ae3c_0
+rdkit-2020.09.1-py36hf6a1616_0
+rdkit-2020.09.1-py39h54e287e_0
+rdkit-2020.09.1-py38he572eef_0
+rdkit-2020.09.1-py39h931a474_0
+rdkit-2020.09.1-py37h0c252aa_0
+rdkit-2020.09.1-py36hce6e9d5_0
+rdkit-2020.09.1-py37h53b44e5_0
+rdkit-2020.09.2-py37h8f71f70_0
+rdkit-2020.09.2-py37h713bca6_0
+rdkit-2020.09.2-py36hf1a5a59_0
+rdkit-2020.09.2-py38hd245aab_0
+rdkit-2020.09.2-py39h5786037_0
+rdkit-2020.09.2-py36h2e32ba4_0
+rdkit-2020.09.2-py39h65247da_0
+rdkit-2020.09.2-py38h0d43b38_0

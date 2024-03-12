@@ -1,0 +1,7 @@
+r-bookdown-0.4-r3.3.2_0
+r-bookdown-0.4-r3.4.1_0
+r-bookdown-0.6-r3.3.2_0
+r-bookdown-0.6-r3.4.1_0
+r-bookdown-0.7-r341h6115d3f_0
+r-bookdown-0.7-r351h6115d3f_1
+r-bookdown-0.7-r341h6115d3f_1

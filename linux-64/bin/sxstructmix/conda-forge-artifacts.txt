@@ -1,0 +1,6 @@
+sphinxdft-3.0.7-h1bc63a5_0
+sphinxdft-3.0.7-h3f3b94e_1
+sphinxdft-3.0.7-h925f8ab_2
+sphinxdft-3.0.7-hd4da288_3
+sphinxdft-3.0.7-h5807e1d_4
+sphinxdft-3.0.7-h701a00f_5

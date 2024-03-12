@@ -1,0 +1,4 @@
+r-kmer-1.1.2-r36h796a38f_0
+r-kmer-1.1.2-r36h796a38f_1
+r-kmer-1.1.2-r40h796a38f_1
+r-kmer-1.1.2-r40ha856d6a_1

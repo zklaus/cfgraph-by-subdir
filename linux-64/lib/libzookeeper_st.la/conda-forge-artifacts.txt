@@ -1,0 +1,5 @@
+zookeeper-c-3.4.10-0
+zookeeper-c-3.4.11-0
+zookeeper-c-3.4.12-0
+zookeeper-c-3.4.12-hfc679d8_1
+zookeeper-c-3.4.13-hfc679d8_0

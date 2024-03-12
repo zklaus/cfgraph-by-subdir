@@ -1,0 +1,16 @@
+pysr-0.14.3-py38h27387e6_0
+pysr-0.14.3-py311h9bdd199_0
+pysr-0.14.3-py310ha188af9_0
+pysr-0.14.3-py39h55f2206_0
+pysr-0.15.0-py38h27387e6_0
+pysr-0.15.0-py39h55f2206_0
+pysr-0.15.0-py310ha188af9_0
+pysr-0.15.0-py311h9bdd199_0
+pysr-0.15.1-py310ha188af9_0
+pysr-0.15.1-py39h55f2206_0
+pysr-0.15.1-py311h9bdd199_0
+pysr-0.15.1-py38h27387e6_0
+pysr-0.15.3-py311h9bdd199_0
+pysr-0.15.3-py310ha188af9_0
+pysr-0.15.3-py38h27387e6_0
+pysr-0.15.3-py39h55f2206_0

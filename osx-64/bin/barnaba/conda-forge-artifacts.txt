@@ -1,0 +1,4 @@
+barnaba-0.1.7-py37_0
+barnaba-0.1.7-py27_0
+barnaba-0.1.7-py36_0
+barnaba-0.1.7-py38_0

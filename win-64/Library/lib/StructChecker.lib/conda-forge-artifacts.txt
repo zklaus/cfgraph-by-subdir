@@ -1,0 +1,2 @@
+rdkit-2018.03.3-py36h8ddbe73_0
+rdkit-2018.03.3-py35h8ddbe73_0

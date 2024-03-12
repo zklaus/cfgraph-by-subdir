@@ -1,0 +1,15 @@
+caiman-1.9.12-py38h61dac83_0
+caiman-1.9.12-py310h2b830bf_0
+caiman-1.9.12-py39hde7b980_0
+caiman-1.9.13-py310h2b830bf_0
+caiman-1.9.13-py38h61dac83_0
+caiman-1.9.13-py39hde7b980_0
+caiman-1.9.14-py38hfaca753_0
+caiman-1.9.14-py310h2b830bf_0
+caiman-1.9.14-py39hd28f0be_0
+caiman-1.9.15-py39h6b13a34_0
+caiman-1.9.15-py310h1cdf563_0
+caiman-1.9.15-py38hefb543e_0
+caiman-1.9.15-py39hb198ff7_0
+caiman-1.9.15-py310h1253130_0
+caiman-1.9.15-py38he333c0f_0

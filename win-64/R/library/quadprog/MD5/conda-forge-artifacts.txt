@@ -1,0 +1,5 @@
+r-quadprog-1.5_5-r3.3.2_0
+r-quadprog-1.5_5-r3.4.1_0
+r-quadprog-1.5_5-r341h8933c1f_1
+r-quadprog-1.5_5-r341h6115d3f_2
+r-quadprog-1.5_5-r351h6115d3f_2

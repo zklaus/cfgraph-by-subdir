@@ -1,0 +1,14 @@
+cycamore-1.4.0-0
+cycamore-1.4.0rc1-0
+cycamore-1.5.0-0
+cycamore-1.5.0-1
+cycamore-1.5.0-2
+cycamore-1.5.3-py35_0
+cycamore-1.5.3-py35_1
+cycamore-1.5.3-py36_0
+cycamore-1.5.3-py36_1
+cycamore-1.5.3-py36hfc679d8_1
+cycamore-1.5.3-py35hfc679d8_1
+cycamore-1.5.4-py36he1b5a44_1
+cycamore-1.5.5-py37he1b5a44_0
+cycamore-1.5.5-py36he1b5a44_0

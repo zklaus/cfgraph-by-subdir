@@ -1,0 +1,5 @@
+azure-storage-blobs-cpp-12.7.0-h00ab1b0_0
+azure-storage-blobs-cpp-12.8.0-h00ab1b0_0
+azure-storage-blobs-cpp-12.8.0-h00ab1b0_1
+azure-storage-blobs-cpp-12.9.0-h00ab1b0_0
+azure-storage-blobs-cpp-12.10.0-h00ab1b0_0

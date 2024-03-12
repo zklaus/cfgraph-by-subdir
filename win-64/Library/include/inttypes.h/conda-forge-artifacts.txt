@@ -1,0 +1,5 @@
+msinttypes-r26-0
+msinttypes-r26-2
+msinttypes-r26-vc10_1
+msinttypes-r26-vc14_1
+msinttypes-r26-vc9_1

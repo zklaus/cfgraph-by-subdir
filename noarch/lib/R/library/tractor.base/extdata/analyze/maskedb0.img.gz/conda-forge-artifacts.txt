@@ -1,0 +1,17 @@
+r-tractor.base-3.3.0-r351h6115d3f_0
+r-tractor.base-3.3.2-r35h6115d3f_0
+r-tractor.base-3.3.2-r35h6115d3f_1
+r-tractor.base-3.3.2-r36h6115d3f_1
+r-tractor.base-3.3.2-r36h6115d3f_2
+r-tractor.base-3.3.2-r40h6115d3f_2
+r-tractor.base-3.3.3.1-r40hc72bb7e_0
+r-tractor.base-3.3.3.1-r36hc72bb7e_0
+r-tractor.base-3.3.3.1-r41hc72bb7e_0
+r-tractor.base-3.3.3.1-r40hc72bb7e_1
+r-tractor.base-3.3.3.1-r41hc72bb7e_1
+r-tractor.base-3.3.5.1-r41hc72bb7e_0
+r-tractor.base-3.3.5.1-r40hc72bb7e_0
+r-tractor.base-3.3.5.1-r42hc72bb7e_1
+r-tractor.base-3.3.5.1-r41hc72bb7e_1
+r-tractor.base-3.3.5.1-r43hc72bb7e_2
+r-tractor.base-3.3.5.1-r42hc72bb7e_2

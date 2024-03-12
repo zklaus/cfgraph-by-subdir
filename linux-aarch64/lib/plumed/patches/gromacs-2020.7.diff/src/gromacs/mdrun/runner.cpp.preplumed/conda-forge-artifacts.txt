@@ -1,0 +1,9 @@
+plumed-2.8.1-mpi_mpich_h4eea40a_0
+plumed-2.8.1-nompi_h1debfa0_100
+plumed-2.8.1-mpi_openmpi_hcd80bc1_0
+plumed-2.8.2-nompi_h4d77f25_100
+plumed-2.8.2-mpi_mpich_h2b8acf1_0
+plumed-2.8.2-mpi_openmpi_hf9ac265_0
+plumed-2.9.0-nompi_hb2c3b54_100
+plumed-2.9.0-mpi_openmpi_had6379e_0
+plumed-2.9.0-mpi_mpich_h9b68d0a_0

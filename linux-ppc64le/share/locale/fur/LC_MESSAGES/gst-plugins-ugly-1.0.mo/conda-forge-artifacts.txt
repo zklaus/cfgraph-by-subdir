@@ -1,0 +1,17 @@
+gst-plugins-ugly-1.18.4-h851bbad_1
+gst-plugins-ugly-1.18.5-h851bbad_0
+gst-plugins-ugly-1.18.5-h851bbad_1
+gst-plugins-ugly-1.18.5-h7a31d28_2
+gst-plugins-ugly-1.20.0-hae3ca63_0
+gst-plugins-ugly-1.20.1-hae3ca63_0
+gst-plugins-ugly-1.20.2-hae3ca63_0
+gst-plugins-ugly-1.20.3-hae3ca63_0
+gst-plugins-ugly-1.20.3-hae3ca63_1
+gst-plugins-ugly-1.20.3-h7bc8235_2
+gst-plugins-ugly-1.20.3-h1290b6d_3
+gst-plugins-ugly-1.21.2-h1290b6d_0
+gst-plugins-ugly-1.22.0-he233955_2
+gst-plugins-ugly-1.22.3-h19de544_0
+gst-plugins-ugly-1.22.4-h19de544_0
+gst-plugins-ugly-1.22.5-h11199ec_0
+gst-plugins-ugly-1.22.6-h11199ec_0

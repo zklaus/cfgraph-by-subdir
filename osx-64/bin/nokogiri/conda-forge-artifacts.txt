@@ -1,0 +1,4 @@
+rb-nokogiri-1.10.4-h9ca78f4_0
+rb-nokogiri-1.10.4-h8c422a9_0
+rb-nokogiri-1.10.8-he1b9c3a_0
+rb-nokogiri-1.10.10-h1df2973_0

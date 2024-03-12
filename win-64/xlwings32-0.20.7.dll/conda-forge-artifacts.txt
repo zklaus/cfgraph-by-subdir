@@ -1,0 +1,7 @@
+xlwings-0.20.7-py36h9f0ad1d_0
+xlwings-0.20.7-py37hc8dfbb8_0
+xlwings-0.20.7-py38h32f6830_0
+xlwings-0.20.7-py38h32f6830_1
+xlwings-0.20.7-py36h9f0ad1d_1
+xlwings-0.20.7-py37hc8dfbb8_1
+xlwings-0.20.7-py39hde42818_1

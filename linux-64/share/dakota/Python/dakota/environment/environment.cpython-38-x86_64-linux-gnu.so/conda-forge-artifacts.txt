@@ -1,0 +1,13 @@
+dakota-6.14.0-py38h728292b_0
+dakota-6.14.0-py38h9f736be_1
+dakota-6.14.0-py38pl5321h9f736be_2
+dakota-6.14.0-py38pl5321h9f736be_3
+dakota-6.16.0-py38pl5321hc9db2dc_0
+dakota-6.16.0-py38pl5321haee8f05_0
+dakota-6.16.0-py38pl5321h7cc5ab9_0
+dakota-6.16.0-py38pl5321h5ff1893_1
+dakota-6.16.0-py38pl5321he0c567b_1
+dakota-6.16.0-py38pl5321h617845d_1
+dakota-6.16.0-py38pl5321hfccbb6d_2
+dakota-6.16.0-py38pl5321he4b2bda_2
+dakota-6.16.0-py38pl5321h7f9f626_2

@@ -1,0 +1,13 @@
+r-goftest-1.1_1-r351h6115d3f_1002
+r-goftest-1.1_1-r35hda5aaf8_1003
+r-goftest-1.1_1-r36hda5aaf8_1003
+r-goftest-1.2_2-r35hda5aaf8_0
+r-goftest-1.2_2-r36hda5aaf8_0
+r-goftest-1.2_2-r36hda5aaf8_1
+r-goftest-1.2_2-r40hda5aaf8_1
+r-goftest-1.2_2-r40h6d2157b_1
+r-goftest-1.2_2-r41h6d2157b_1
+r-goftest-1.2_3-r41h6d2157b_0
+r-goftest-1.2_3-r40h6d2157b_0
+r-goftest-1.2_3-r41h6d2157b_1
+r-goftest-1.2_3-r41h6d2157b_2

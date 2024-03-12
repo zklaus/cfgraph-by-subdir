@@ -1,0 +1,10 @@
+ampl-mp-3.1.0-0
+ampl-mp-3.1.0-h26a2512_1
+ampl-mp-3.1.0-h26a2512_0
+ampl-mp-3.1.0-h1c2f66e_1001
+ampl-mp-3.1.0-hc99cbb1_1002
+ampl-mp-3.1.0-hc99cbb1_1003
+ampl-mp-3.1.0-h616b090_1004
+ampl-mp-3.1.0-hc99cbb1_1004
+ampl-mp-3.1.0-h2cc385e_1005
+ampl-mp-3.1.0-h2cc385e_1006

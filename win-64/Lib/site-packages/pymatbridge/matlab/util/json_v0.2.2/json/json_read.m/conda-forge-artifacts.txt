@@ -1,0 +1,3 @@
+pymatbridge-0.5.2-py27_0
+pymatbridge-0.5.2-py34_0
+pymatbridge-0.5.2-py35_0

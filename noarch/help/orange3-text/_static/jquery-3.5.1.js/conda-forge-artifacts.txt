@@ -1,0 +1,11 @@
+orange3-text-1.5.0-pyhd8ed1ab_0
+orange3-text-1.5.1-pyhd8ed1ab_0
+orange3-text-1.5.3-pyhd8ed1ab_0
+orange3-text-1.6.0-pyhd8ed1ab_0
+orange3-text-1.6.1-pyhd8ed1ab_0
+orange3-text-1.6.1-pyhd8ed1ab_1
+orange3-text-1.6.2-pyhd8ed1ab_0
+orange3-text-1.7.0-pyhd8ed1ab_0
+orange3-text-1.8.0-pyhd8ed1ab_0
+orange3-text-1.9.0-pyhd8ed1ab_0
+orange3-text-1.10.0-pyhd8ed1ab_0

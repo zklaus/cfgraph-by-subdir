@@ -1,0 +1,8 @@
+r-systemfonts-1.0.0-r36h93c4b31_0
+r-systemfonts-1.0.0-r40h93c4b31_0
+r-systemfonts-1.0.1-r40h93c4b31_0
+r-systemfonts-1.0.1-r36h93c4b31_0
+r-systemfonts-1.0.2-r40h93c4b31_0
+r-systemfonts-1.0.2-r36h93c4b31_0
+r-systemfonts-1.0.3-r40h93c4b31_0
+r-systemfonts-1.0.4-r40h93c4b31_0

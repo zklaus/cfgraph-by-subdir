@@ -1,0 +1,6 @@
+r-lexicon-0.7.4-r341_0
+r-lexicon-1.0.0-r341_0
+r-lexicon-0.7.4-r341_1
+r-lexicon-1.0.0-r341_1
+r-lexicon-1.0.0-r341h6115d3f_2
+r-lexicon-1.0.0-r351h6115d3f_2

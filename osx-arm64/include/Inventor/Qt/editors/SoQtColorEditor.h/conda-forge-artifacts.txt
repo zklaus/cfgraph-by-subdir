@@ -1,0 +1,5 @@
+soqt-1.6.0-hf86a087_3
+soqt-1.6.1-h75479a8_0
+soqt6-1.6.1-h16e4ad3_0
+soqt6-1.6.1-hac31a04_1
+soqt-1.6.1-hb8bd7d6_1

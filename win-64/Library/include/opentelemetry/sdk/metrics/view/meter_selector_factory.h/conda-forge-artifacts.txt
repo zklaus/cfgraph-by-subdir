@@ -1,0 +1,6 @@
+libopentelemetry-cpp-headers-1.10.0-h57928b3_0
+libopentelemetry-cpp-headers-1.11.0-h57928b3_0
+libopentelemetry-cpp-headers-1.11.0-h57928b3_1
+libopentelemetry-cpp-headers-1.11.0-h57928b3_2
+libopentelemetry-cpp-headers-1.12.0-h57928b3_0
+libopentelemetry-cpp-headers-1.12.0-h57928b3_1

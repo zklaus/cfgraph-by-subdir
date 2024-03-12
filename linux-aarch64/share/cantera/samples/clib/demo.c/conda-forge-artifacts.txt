@@ -1,0 +1,16 @@
+libcantera-devel-3.0.0-py39ha4c7d2c_0
+libcantera-devel-3.0.0-py310h2a0d738_0
+libcantera-devel-3.0.0-py38h1cdb13c_0
+libcantera-devel-3.0.0-py311hf77083d_0
+libcantera-devel-3.0.0-py38h46ab700_1
+libcantera-devel-3.0.0-py311h256fcdd_1
+libcantera-devel-3.0.0-py39h6ac1f90_1
+libcantera-devel-3.0.0-py310h14d7aef_1
+libcantera-devel-3.0.0-py311h450b197_2
+libcantera-devel-3.0.0-py310h5c39c77_2
+libcantera-devel-3.0.0-py38hcacaf82_2
+libcantera-devel-3.0.0-py39h2b3e5f8_2
+libcantera-devel-3.0.0-py38hcacaf82_3
+libcantera-devel-3.0.0-py311h450b197_3
+libcantera-devel-3.0.0-py39h2b3e5f8_3
+libcantera-devel-3.0.0-py310h5c39c77_3

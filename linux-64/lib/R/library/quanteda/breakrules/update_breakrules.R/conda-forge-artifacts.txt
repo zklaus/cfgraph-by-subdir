@@ -1,0 +1,6 @@
+r-quanteda-3.3.0-r41h38f115c_0
+r-quanteda-3.3.0-r42h38f115c_0
+r-quanteda-3.3.1-r42ha503ecb_0
+r-quanteda-3.3.1-r41ha503ecb_0
+r-quanteda-3.3.1-r43ha503ecb_1
+r-quanteda-3.3.1-r42ha503ecb_1

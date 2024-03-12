@@ -1,0 +1,2 @@
+pyinstaller-4.8-py310h5d2e7b6_0
+pyinstaller-4.8-py39h0992e24_0

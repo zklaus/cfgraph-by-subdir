@@ -1,0 +1,2 @@
+kaleido-core-0.2.0-h27ca646_0
+kaleido-core-0.2.1-h27ca646_0

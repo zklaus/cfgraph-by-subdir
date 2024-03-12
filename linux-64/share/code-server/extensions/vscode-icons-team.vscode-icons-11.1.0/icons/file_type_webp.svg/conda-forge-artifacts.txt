@@ -1,0 +1,3 @@
+vscode-icons-11.1.0-ha770c72_3
+vscode-icons-11.1.0-ha770c72_4
+vscode-icons-11.1.0-ha770c72_5

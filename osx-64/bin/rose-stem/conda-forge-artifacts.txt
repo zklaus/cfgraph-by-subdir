@@ -1,0 +1,11 @@
+metomi-rose-2.0b1-py37h271585c_0
+metomi-rose-2.0b1-py38h96a0964_0
+metomi-rose-2.0b1-py37h271585c_1
+metomi-rose-2.0b1-py39h89e85a6_1
+metomi-rose-2.0b1-py38h96a0964_1
+cylc-rose-0.2-py39h6e9494a_0
+cylc-rose-0.2-py37hf985489_0
+cylc-rose-0.2-py38h50d1736_0
+cylc-rose-0.3.0-py39h6e9494a_0
+cylc-rose-0.3.0-py38h50d1736_0
+cylc-rose-0.3.0-py37hf985489_0

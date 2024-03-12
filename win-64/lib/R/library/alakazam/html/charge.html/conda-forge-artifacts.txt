@@ -1,0 +1,14 @@
+r-alakazam-0.2.11-r351h6115d3f_1000
+r-alakazam-0.3.0-r35h796a38f_0
+r-alakazam-0.3.0-r36h796a38f_0
+r-alakazam-0.3.0-r36h796a38f_1
+r-alakazam-0.3.0-r35h796a38f_1
+r-alakazam-0.3.0-r36h796a38f_2
+r-alakazam-0.3.0-r40h796a38f_2
+r-alakazam-1.0.0-r40h796a38f_0
+r-alakazam-1.0.0-r36h796a38f_0
+r-alakazam-1.0.1-r40h796a38f_0
+r-alakazam-1.0.1-r36h796a38f_0
+r-alakazam-1.0.2-r40h796a38f_0
+r-alakazam-1.0.2-r36h796a38f_0
+r-alakazam-1.0.2-r40ha856d6a_0

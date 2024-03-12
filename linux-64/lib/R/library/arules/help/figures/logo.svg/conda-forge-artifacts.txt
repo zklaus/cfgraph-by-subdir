@@ -1,0 +1,12 @@
+r-arules-1.7_4-r40h06615bd_0
+r-arules-1.7_4-r41h06615bd_0
+r-arules-1.7_4-r42h06615bd_1
+r-arules-1.7_4-r41h06615bd_1
+r-arules-1.7_5-r42h06615bd_0
+r-arules-1.7_5-r41h06615bd_0
+r-arules-1.7_6-r41h133d619_0
+r-arules-1.7_6-r42h133d619_0
+r-arules-1.7_6-r42h57805ef_1
+r-arules-1.7_6-r43h57805ef_1
+r-arules-1.7_7-r43h57805ef_0
+r-arules-1.7_7-r42h57805ef_0

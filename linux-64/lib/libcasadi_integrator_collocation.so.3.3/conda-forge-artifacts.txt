@@ -1,0 +1,6 @@
+casadi-3.2.2-np112py27_blas_openblas_0
+casadi-3.2.2-np112py27_blas_openblas_1
+casadi-3.2.2-np112py35_blas_openblas_0
+casadi-3.2.2-np112py35_blas_openblas_1
+casadi-3.2.2-np112py36_blas_openblas_0
+casadi-3.2.2-np112py36_blas_openblas_1

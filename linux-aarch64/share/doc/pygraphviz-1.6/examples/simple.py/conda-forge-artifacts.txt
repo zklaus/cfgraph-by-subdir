@@ -1,0 +1,15 @@
+pygraphviz-1.6-py37h7931cfc_0
+pygraphviz-1.6-py38h50a994d_0
+pygraphviz-1.6-py36h3eb4679_0
+pygraphviz-1.6-py36hcc38c9a_0
+pygraphviz-1.6-py37h04d21ab_1
+pygraphviz-1.6-py36hb75c2c1_1
+pygraphviz-1.6-py36hf2b72a0_1
+pygraphviz-1.6-py38h25c7686_1
+pygraphviz-1.6-py39ha838a93_1
+pygraphviz-1.6-py38h9d3d84f_1
+pygraphviz-1.6-py37h06e4e77_1
+pygraphviz-1.6-py36h7d7f297_1
+pygraphviz-1.6-py37h736a27f_1
+pygraphviz-1.6-py36h90099f7_1
+pygraphviz-1.6-py39hc3a0a90_1

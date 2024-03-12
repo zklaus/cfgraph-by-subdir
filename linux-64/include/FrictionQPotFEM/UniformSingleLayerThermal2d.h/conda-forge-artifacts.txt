@@ -1,0 +1,7 @@
+frictionqpotfem-0.21.0-h924138e_0
+frictionqpotfem-0.22.0-h924138e_0
+frictionqpotfem-0.22.0-h924138e_1
+frictionqpotfem-0.23.0-h924138e_0
+frictionqpotfem-0.23.1-h924138e_0
+frictionqpotfem-0.23.2-hf52228f_0
+frictionqpotfem-0.23.3-hf52228f_0

@@ -1,0 +1,10 @@
+perspective-2.6.0-py310h105db49_0
+perspective-2.6.0-py39hbc081f8_0
+perspective-2.6.0-py311ha067d52_0
+perspective-2.6.0-py38h8575453_0
+perspective-2.6.0-py311h08dcb1e_0
+perspective-2.6.0-py312h9a57cae_0
+perspective-2.6.0-py39hfeb26a6_0
+perspective-2.6.0-py310h829afe1_0
+perspective-2.6.0-py312heb70157_0
+perspective-2.6.0-py38hed92b1f_0

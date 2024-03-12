@@ -1,0 +1,12 @@
+r-ellipsis-0.3.0-r36hd2b4baa_0
+r-ellipsis-0.3.0-r40hd2b4baa_1
+r-ellipsis-0.3.0-r36hd2b4baa_1
+r-ellipsis-0.3.1-r40hd2b4baa_0
+r-ellipsis-0.3.1-r36hd2b4baa_0
+r-ellipsis-0.3.2-r40h2be38b1_0
+r-ellipsis-0.3.2-r36h2be38b1_0
+r-ellipsis-0.3.2-r41h2be38b1_0
+r-ellipsis-0.3.2-r41h497a943_1
+r-ellipsis-0.3.2-r42h497a943_1
+r-ellipsis-0.3.2-r42h9da1b96_2
+r-ellipsis-0.3.2-r43h9da1b96_2

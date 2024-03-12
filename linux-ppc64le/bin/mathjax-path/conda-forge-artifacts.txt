@@ -1,0 +1,2 @@
+mathjax-3.2.2-ha3edaa6_0
+mathjax-2.7.7-ha3edaa6_3

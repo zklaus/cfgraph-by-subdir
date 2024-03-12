@@ -1,0 +1,7 @@
+libtensorflow-2.6.0-h5cee80d_0
+libtensorflow-2.6.0-hae7263e_1
+libtensorflow-2.6.0-cuda112hc822ecd_2
+libtensorflow-2.6.0-cuda110h8396c9d_2
+libtensorflow-2.6.0-cuda102hf451a2a_2
+libtensorflow-2.6.0-cpu_hf74009c_2
+libtensorflow-2.6.0-cuda111h5e03956_2

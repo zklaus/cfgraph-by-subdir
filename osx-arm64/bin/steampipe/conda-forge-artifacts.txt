@@ -1,0 +1,12 @@
+steampipe-0.19.4-h75b854d_0
+steampipe-0.20.2-h75b854d_0
+steampipe-0.20.3-h75b854d_0
+steampipe-0.20.5-h75b854d_0
+steampipe-0.20.6-h75b854d_0
+steampipe-0.20.7-h75b854d_0
+steampipe-0.20.8-h75b854d_0
+steampipe-0.20.9-h75b854d_0
+steampipe-0.20.10-h75b854d_0
+steampipe-0.20.11-h75b854d_0
+steampipe-0.20.12-h75b854d_0
+steampipe-0.21.1-h75b854d_0

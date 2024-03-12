@@ -1,0 +1,9 @@
+pgcli-1.6.0-py27_0
+pgcli-1.6.0-py35_0
+pgcli-1.6.0-py36_0
+pgcli-1.9.0-py27_0
+pgcli-1.9.0-py35_0
+pgcli-1.9.0-py36_0
+pgcli-1.9.1-py27_0
+pgcli-1.9.1-py35_0
+pgcli-1.9.1-py36_0

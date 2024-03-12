@@ -1,0 +1,14 @@
+r-sos-2.0_0-r35h6115d3f_0
+r-sos-2.0_0-r36h6115d3f_0
+r-sos-2.0_0-r40h6115d3f_1
+r-sos-2.0_0-r36h6115d3f_1
+r-sos-2.0_2-r40h142f84f_0
+r-sos-2.0_2-r36h142f84f_0
+r-sos-2.0_2-r40hc72bb7e_0
+r-sos-2.0_2-r41hc72bb7e_0
+r-sos-2.1_0-r41hc72bb7e_0
+r-sos-2.1_0-r40hc72bb7e_0
+r-sos-2.1_4-r41hc72bb7e_0
+r-sos-2.1_4-r40hc72bb7e_0
+r-sos-2.1_4-r41hc72bb7e_1
+r-sos-2.1_4-r42hc72bb7e_1

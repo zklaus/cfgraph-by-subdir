@@ -1,0 +1,15 @@
+r-smoof-1.5.1-r35h796a38f_1
+r-smoof-1.5.1-r36h796a38f_1
+r-smoof-1.6.0-r35h796a38f_0
+r-smoof-1.6.0-r36h796a38f_0
+r-smoof-1.6.0.1-r36h796a38f_0
+r-smoof-1.6.0.1-r35h796a38f_0
+r-smoof-1.6.0.2-r35h796a38f_0
+r-smoof-1.6.0.2-r36h796a38f_0
+r-smoof-1.6.0.2-r40h796a38f_1
+r-smoof-1.6.0.2-r36h796a38f_1
+r-smoof-1.6.0.2-r40ha856d6a_1
+r-smoof-1.6.0.2-r41ha856d6a_1
+r-smoof-1.6.0.2-r41ha856d6a_2
+r-smoof-1.6.0.3-r41ha856d6a_0
+r-smoof-1.6.0.3-r41ha856d6a_1

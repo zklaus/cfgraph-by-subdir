@@ -1,0 +1,13 @@
+r-jsonlite-1.1-r3.3.2_0
+r-jsonlite-1.4-r3.3.2_0
+r-jsonlite-1.4-r3.4.1_0
+r-jsonlite-1.5-r3.3.2_0
+r-jsonlite-1.5-r3.4.1_0
+r-jsonlite-1.5-r341h470a237_1
+r-jsonlite-1.5-r341hc070d10_2
+r-jsonlite-1.5-r351hc070d10_2
+r-jsonlite-1.5-r351h46e59ec_1002
+r-jsonlite-1.6-r351h46e59ec_1000
+r-jsonlite-1.6-r351hc070d10_0
+r-jsonlite-1.6-r35h159158b_1001
+r-jsonlite-1.6.1-r35h17f1fa6_0

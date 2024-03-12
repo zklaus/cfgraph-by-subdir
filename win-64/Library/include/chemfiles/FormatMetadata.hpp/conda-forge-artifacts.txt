@@ -1,0 +1,10 @@
+chemfiles-lib-0.10.0-he62cf13_0
+chemfiles-lib-0.10.0-h7852f4c_1
+chemfiles-lib-0.10.1-h7852f4c_0
+chemfiles-lib-0.10.1-heb63136_1
+chemfiles-lib-0.10.2-h0364ef3_0
+chemfiles-lib-0.10.2-h0364ef3_1
+chemfiles-lib-0.10.2-h0364ef3_2
+chemfiles-lib-0.10.3-h0364ef3_0
+chemfiles-lib-0.10.3-hbad0124_1
+chemfiles-lib-0.10.4-h7ae8300_0

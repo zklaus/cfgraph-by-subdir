@@ -1,0 +1,8 @@
+gstlal-ugly-1.11.0-py311he6d73f4_0
+gstlal-ugly-1.11.0-py39h8b70659_0
+gstlal-ugly-1.11.0-py38h469f920_0
+gstlal-ugly-1.11.0-py310h7dae896_0
+gstlal-ugly-1.12.0-py311he6d73f4_0
+gstlal-ugly-1.12.0-py310h42cce5e_0
+gstlal-ugly-1.12.0-py39h8d6e8d0_0
+gstlal-ugly-1.12.0-py38hc425d5e_0

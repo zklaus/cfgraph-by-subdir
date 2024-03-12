@@ -1,0 +1,1 @@
+terraform-provider-bitbucket-1.2.0-h918b63b_0

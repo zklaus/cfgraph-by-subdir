@@ -1,0 +1,2 @@
+libarchive-3.7.2-h566b526_0
+libarchive-minimal-static-3.7.2-h66cf738_0

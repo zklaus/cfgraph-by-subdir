@@ -1,0 +1,6 @@
+tesseract-5.3.0-he1868e8_0
+tesseract-5.3.1-he1868e8_0
+tesseract-5.3.2-h4838625_0
+tesseract-5.3.2-h0e145ea_1
+tesseract-5.3.2-h7aa9634_1
+tesseract-5.3.2-hbeb23df_2

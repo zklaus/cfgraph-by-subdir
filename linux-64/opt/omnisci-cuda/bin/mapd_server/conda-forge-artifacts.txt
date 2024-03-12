@@ -1,0 +1,7 @@
+omniscidb-5.2.2-h1234567_1_cuda
+omniscidb-5.2.2-h1234567_2_cuda
+omniscidb-5.2.2-h1234567_3_cuda
+omniscidb-5.4.0-h1234567_0_cuda
+omniscidb-5.4.0-h1234567_1_cuda
+omniscidb-5.4.1-h1234567_0_cuda
+omniscidb-5.4.1-h1234567_1_cuda

@@ -1,0 +1,7 @@
+pyroma-2.0.2-py27_0
+pyroma-2.0.2-py34_0
+pyroma-2.0.2-py35_0
+pyroma-2.0.2-py36_0
+pyroma-2.3-py27_0
+pyroma-2.3-py35_0
+pyroma-2.3-py36_0

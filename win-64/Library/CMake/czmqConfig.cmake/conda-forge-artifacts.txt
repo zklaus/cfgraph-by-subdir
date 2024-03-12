@@ -1,0 +1,9 @@
+czmq-4.2.0-hb8ba0b4_0
+czmq-4.2.0-hb11c2be_1
+czmq-4.2.1-h1ecf7c7_2
+czmq-4.2.1-heb255b9_3
+czmq-4.2.1-h790f28a_3
+czmq-4.2.1-heb255b9_4
+czmq-4.2.1-h6ef88ed_5
+czmq-4.2.1-hc3ecab3_6
+czmq-4.2.1-h581994d_7

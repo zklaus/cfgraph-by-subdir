@@ -1,0 +1,4 @@
+libsemigroups-2.7.0-h8025c9a_0
+libsemigroups-2.7.1-h8025c9a_0
+libsemigroups-2.7.1-h58da114_1
+libsemigroups-2.7.2-h58da114_0

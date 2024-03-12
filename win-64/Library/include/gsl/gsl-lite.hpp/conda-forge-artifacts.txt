@@ -1,0 +1,14 @@
+gsl-lite-0.32.0-hdc96acc_0
+gsl-lite-0.32.0-he980bc4_0
+gsl-lite-0.32.0-he980bc4_1
+gsl-lite-0.32.0-hdc96acc_1
+gsl-lite-0.33.0-hdc96acc_0
+gsl-lite-0.33.0-he980bc4_0
+gsl-lite-0.34.0-hdc96acc_0
+gsl-lite-0.34.0-he980bc4_0
+gsl-lite-0.37.0-h7266db4_0
+gsl-lite-0.38.0-h70d2c02_0
+gsl-lite-0.38.1-h70d2c02_0
+gsl-lite-0.39.0-h70d2c02_0
+gsl-lite-0.40.0-h70d2c02_0
+gsl-lite-0.41.0-h3992e66_0

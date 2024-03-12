@@ -1,0 +1,10 @@
+fleur-6.0-hf178e8a_5
+fleur-6.1-h0078b2b_0
+fleur-6.1-h6b828b9_1
+fleur-6.2-h1aa4226_0
+fleur-6.2-haf72c87_1
+fleur-6.2-haf72c87_2
+fleur-6.2-haf72c87_3
+fleur-6.2-haf72c87_4
+fleur-6.2-hdaf9220_5
+fleur-6.2-h6da0b20_6

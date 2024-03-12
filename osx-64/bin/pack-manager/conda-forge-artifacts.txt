@@ -1,0 +1,7 @@
+cmsis-pack-manager-0.4.0-py39hc048d1b_0
+cmsis-pack-manager-0.4.0-py37hf7efe54_0
+cmsis-pack-manager-0.4.0-py38h89213d7_0
+cmsis-pack-manager-0.4.0-py39hc048d1b_1
+cmsis-pack-manager-0.4.0-py310h73ea95a_1
+cmsis-pack-manager-0.4.0-py37hf7efe54_1
+cmsis-pack-manager-0.4.0-py38h89213d7_1

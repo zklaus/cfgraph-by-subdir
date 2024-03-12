@@ -1,0 +1,8 @@
+dftd4-3.0.0-h95a0123_0
+dftd4-3.0.0-hf06ca72_1
+dftd4-3.1.0-hf06ca72_0
+dftd4-3.2.0-hf06ca72_0
+dftd4-3.3.0-hf06ca72_0
+dftd4-3.3.0-hf06ca72_1
+dftd4-3.3.0-hf06ca72_2
+dftd4-3.3.0-hf06ca72_3

@@ -1,0 +1,4 @@
+r-stable-1.1.6-r41h5d63f41_1
+r-stable-1.1.6-r42h5d63f41_1
+r-stable-1.1.6-r43h21dc0da_2
+r-stable-1.1.6-r42h21dc0da_2

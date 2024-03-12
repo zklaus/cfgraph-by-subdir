@@ -1,0 +1,14 @@
+arrow-cpp-4.0.0-py38h6dfffbd_0_cpu
+arrow-cpp-4.0.0-py39hea50c2d_0_cpu
+arrow-cpp-4.0.0-py38h4950105_1_cpu
+arrow-cpp-4.0.0-py39h9a833ae_1_cpu
+arrow-cpp-4.0.0-py38h7c9bbbf_2_cpu
+arrow-cpp-4.0.0-py39hc31b32d_2_cpu
+arrow-cpp-4.0.0-py39h45fe533_3_cpu
+arrow-cpp-4.0.0-py38hfef2c2f_3_cpu
+arrow-cpp-4.0.0-py38h05f11e8_4_cpu
+arrow-cpp-4.0.0-py39hc766bb7_4_cpu
+arrow-cpp-4.0.0-py38heec6cbf_5_cpu
+arrow-cpp-4.0.0-py39hc2d2a09_5_cpu
+arrow-cpp-4.0.0-py39h9aaf6e6_6_cpu
+arrow-cpp-4.0.0-py38hc1d3319_6_cpu

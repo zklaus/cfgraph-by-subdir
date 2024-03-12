@@ -1,0 +1,7 @@
+libzip-1.8.0-h64a541f_0
+libzip-1.8.0-h64a541f_1
+libzip-1.8.0-h3b934f4_1
+libzip-1.9.2-heb2ba21_0
+libzip-1.9.2-ha107f47_0
+libzip-1.9.2-ha107f47_1
+libzip-1.9.2-heb2ba21_1

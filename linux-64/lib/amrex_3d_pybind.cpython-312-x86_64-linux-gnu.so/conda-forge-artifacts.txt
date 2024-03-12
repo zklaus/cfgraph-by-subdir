@@ -1,0 +1,16 @@
+warpx-23.10-py312h2062ddb_0
+impactx-23.10-py312h365505f_1
+pyamrex-23.10-py312hfb8ada1_4
+pyamrex-23.10-py312hfb8ada1_5
+pyamrex-23.10-nompi_py312h71b3bb6_106
+pyamrex-23.10-mpi_openmpi_py312ha286072_6
+pyamrex-23.10-mpi_mpich_py312hd896f00_6
+pyamrex-23.10-nompi_py312h71b3bb6_107
+pyamrex-23.10-mpi_openmpi_py312ha286072_7
+pyamrex-23.10-mpi_mpich_py312hd896f00_7
+pyamrex-23.10-nompi_py312h587ca98_108
+pyamrex-23.10-mpi_mpich_py312h7ccd90b_8
+pyamrex-23.10-mpi_openmpi_py312hc9ce1cc_8
+pyamrex-23.11-mpi_openmpi_py312hc9ce1cc_0
+pyamrex-23.11-mpi_mpich_py312h7ccd90b_0
+pyamrex-23.11-nompi_py312h587ca98_100

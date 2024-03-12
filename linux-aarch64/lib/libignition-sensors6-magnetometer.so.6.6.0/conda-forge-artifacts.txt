@@ -1,0 +1,14 @@
+libignition-sensors6-6.6.0-ha666614_1
+libignition-sensors6-6.6.0-h344f52f_1
+libignition-sensors6-6.6.0-h0b0dc1c_2
+libignition-sensors6-6.6.0-h53f58d2_2
+libignition-sensors6-6.6.0-hb0997eb_3
+libignition-sensors6-6.6.0-ha926532_3
+libignition-sensors6-6.6.0-ha25b3b1_4
+libignition-sensors6-6.6.0-h3f6fd12_4
+libignition-sensors6-6.6.0-ha25b3b1_5
+libignition-sensors6-6.6.0-hde5d81e_5
+libignition-sensors6-6.6.0-h0a29aee_6
+libignition-sensors6-6.6.0-h0a29aee_7
+libignition-sensors6-6.6.0-h046c39c_8
+libignition-sensors6-6.6.0-h2e007a6_9

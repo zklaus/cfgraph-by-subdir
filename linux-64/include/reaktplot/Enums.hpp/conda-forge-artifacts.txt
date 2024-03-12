@@ -1,0 +1,8 @@
+reaktplot-0.1.2-py38h4e180cd_0
+reaktplot-0.1.2-py310h7c64c84_0
+reaktplot-0.1.2-py37h237e563_0
+reaktplot-0.1.2-py39ha791e8c_0
+reaktplot-0.2.0-py39ha791e8c_0
+reaktplot-0.2.0-py310h7c64c84_0
+reaktplot-0.2.0-py37h237e563_0
+reaktplot-0.2.0-py38h4e180cd_0

@@ -1,0 +1,4 @@
+gnutls-3.5.15-0
+gnutls-3.5.17-0
+gnutls-3.5.19-h2a4e5f8_0
+gnutls-3.5.19-h2a4e5f8_1

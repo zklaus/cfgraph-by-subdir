@@ -1,0 +1,1 @@
+libadbc-driver-sqlite-0.3.0-h6d3b9b6_0

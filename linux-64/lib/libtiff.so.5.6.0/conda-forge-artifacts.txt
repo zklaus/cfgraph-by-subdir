@@ -1,0 +1,4 @@
+libtiff-4.2.0-hdc55705_0
+libtiff-4.2.0-hdc55705_1
+libtiff-4.2.0-hbd63e13_2
+libtiff-4.2.0-hf544144_3

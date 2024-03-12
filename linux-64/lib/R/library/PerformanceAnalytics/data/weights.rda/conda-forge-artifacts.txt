@@ -1,0 +1,5 @@
+r-performanceanalytics-1.5.2-r351hc070d10_0
+r-performanceanalytics-1.5.2-r351h96ca727_1000
+r-performanceanalytics-1.5.3-r35hcdcec82_0
+r-performanceanalytics-1.5.3-r35hcdcec82_1
+r-performanceanalytics-1.5.3-r36hcdcec82_1

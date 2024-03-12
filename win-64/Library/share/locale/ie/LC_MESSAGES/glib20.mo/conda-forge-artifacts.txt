@@ -1,0 +1,7 @@
+libglib-2.76.1-he8f3873_0
+libglib-2.76.2-he8f3873_0
+libglib-2.76.3-he8f3873_0
+libglib-2.76.4-he8f3873_0
+libglib-2.78.0-he8f3873_0
+libglib-2.78.1-he8f3873_0
+libglib-2.78.1-h16e383f_1

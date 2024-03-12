@@ -1,0 +1,2 @@
+capnproto-1.0.1-h268317e_0
+capnproto-1.0.1.1-h440efdd_0

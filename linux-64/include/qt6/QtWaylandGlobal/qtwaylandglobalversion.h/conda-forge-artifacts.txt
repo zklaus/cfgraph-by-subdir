@@ -1,0 +1,4 @@
+qt6-wayland-6.5.0-h67b3eb1_0
+qt6-wayland-6.5.1-h35d8138_0
+qt6-wayland-6.6.0-h35d8138_0
+qt6-wayland-6.6.1-h35d8138_0

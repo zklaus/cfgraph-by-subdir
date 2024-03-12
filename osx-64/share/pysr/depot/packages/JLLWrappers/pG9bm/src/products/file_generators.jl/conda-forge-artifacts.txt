@@ -1,0 +1,8 @@
+pysr-0.16.2-py311h9bdd199_0
+pysr-0.16.2-py310h1cef2ca_0
+pysr-0.16.2-py38h5f45964_0
+pysr-0.16.2-py39hbd905a8_0
+pysr-0.16.3-py311h9bdd199_0
+pysr-0.16.3-py38h5f45964_0
+pysr-0.16.3-py310h1cef2ca_0
+pysr-0.16.3-py39hbd905a8_0

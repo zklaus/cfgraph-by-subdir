@@ -1,0 +1,8 @@
+rdkit-dev-2021.09.1-h57928b3_0
+rdkit-dev-2021.09.2-h57928b3_0
+rdkit-dev-2021.09.3-h57928b3_0
+rdkit-dev-2021.09.4-h57928b3_0
+rdkit-dev-2021.09.5-h57928b3_0
+rdkit-dev-2022.03.1-h57928b3_0
+rdkit-dev-2022.03.1-h57928b3_1
+rdkit-dev-2022.03.2-h57928b3_0

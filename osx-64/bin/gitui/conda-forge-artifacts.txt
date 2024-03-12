@@ -1,0 +1,5 @@
+gitui-0.23.0-hb44ead1_0
+gitui-0.24.0-hb44ead1_0
+gitui-0.24.1-hb44ead1_0
+gitui-0.24.2-hb44ead1_0
+gitui-0.24.3-hb44ead1_0

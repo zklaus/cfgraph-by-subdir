@@ -1,0 +1,9 @@
+r-metarnaseq-1.0.5-r40ha770c72_0
+r-metarnaseq-1.0.5-r36ha770c72_0
+r-metarnaseq-1.0.5-r41ha770c72_0
+r-metarnaseq-1.0.7-r41ha770c72_0
+r-metarnaseq-1.0.7-r40ha770c72_0
+r-metarnaseq-1.0.7-r42ha770c72_1
+r-metarnaseq-1.0.7-r41ha770c72_1
+r-metarnaseq-1.0.7-r43ha770c72_2
+r-metarnaseq-1.0.7-r42ha770c72_2

@@ -1,0 +1,13 @@
+liblapacke-3.8.0-2_h436c29b_netlib
+liblapacke-3.8.0-3_h436c29b_netlib
+liblapacke-3.8.0-4_hd44dcd8_netlib
+liblapacke-3.8.0-5_hd44dcd8_netlib
+liblapacke-3.8.0-6_hd44dcd8_netlib
+liblapacke-3.8.0-6_h4bb4525_netlib
+liblapacke-3.8.0-7_h4bb4525_netlib
+liblapacke-3.8.0-7_hd44dcd8_netlib
+liblapacke-3.8.0-8_h1ddc27c_netlib
+liblapacke-3.8.0-10_h43114d0_netlib
+liblapacke-3.8.0-10_h508aa58_netlib
+liblapacke-3.8.0-11_h43114d0_netlib
+liblapacke-3.8.0-11_h508aa58_netlib

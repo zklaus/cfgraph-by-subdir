@@ -1,0 +1,9 @@
+dolfyn-0.8.1-py_1
+dolfyn-0.8.2-py_0
+dolfyn-0.8.3-py_0
+dolfyn-0.10.0-py_0
+dolfyn-0.11.0-py_0
+dolfyn-0.11.2-py_0
+dolfyn-0.12-py_0
+dolfyn-0.12.1-pyh9f0ad1d_0
+dolfyn-0.13.0-pyhd8ed1ab_0

@@ -1,0 +1,4 @@
+libosqp-0.6.2-h9f76cd9_2
+libosqp-0.6.2-hbdafb3b_3
+libosqp-0.6.2-hb7217d7_4
+libosqp-0.6.3-h13dd4ca_0

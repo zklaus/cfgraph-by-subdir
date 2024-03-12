@@ -1,0 +1,12 @@
+qdldl-python-0.1.5.post2-py39h4ede4f2_0
+qdldl-python-0.1.5.post2-py38h7a9a32c_0
+qdldl-python-0.1.5.post2-py310h7b168e4_0
+qdldl-python-0.1.5.post2-py38h0f2dada_0
+qdldl-python-0.1.5.post2-py39h9cb46f9_0
+qdldl-python-0.1.5.post2-py311h5c25d8d_0
+qdldl-python-0.1.5.post2-py310h243fb84_1
+qdldl-python-0.1.5.post2-py38h699d38d_1
+qdldl-python-0.1.5.post2-py39hb04930d_1
+qdldl-python-0.1.5.post2-py312hc1e8604_1
+qdldl-python-0.1.5.post2-py311hd315007_1
+qdldl-python-0.1.5.post2-py39h9d01c57_1

@@ -1,0 +1,16 @@
+r-sjstats-0.17.1-r351h6115d3f_1000
+r-sjstats-0.17.2-r351h6115d3f_1000
+r-sjstats-0.17.3-r351h6115d3f_0
+r-sjstats-0.17.5-r35h6115d3f_0
+r-sjstats-0.17.5-r35h6115d3f_1
+r-sjstats-0.17.5-r36h6115d3f_1
+r-sjstats-0.17.6-r36h6115d3f_0
+r-sjstats-0.17.6-r35h6115d3f_0
+r-sjstats-0.17.7-r35h6115d3f_0
+r-sjstats-0.17.7-r36h6115d3f_0
+r-sjstats-0.17.8-r35h6115d3f_0
+r-sjstats-0.17.8-r36h6115d3f_0
+r-sjstats-0.17.9-r36h6115d3f_0
+r-sjstats-0.17.9-r35h6115d3f_0
+r-sjstats-0.17.9-r36h6115d3f_1
+r-sjstats-0.17.9-r40h6115d3f_1

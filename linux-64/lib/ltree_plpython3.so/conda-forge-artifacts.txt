@@ -1,0 +1,16 @@
+postgresql-10.2-py35_0
+postgresql-10.2-py36_0
+postgresql-10.3-py35_0
+postgresql-10.3-py36_0
+postgresql-9.6.3-py35_5
+postgresql-9.6.3-py36_5
+postgresql-9.6.7-py35_0
+postgresql-9.6.7-py36_0
+postgresql-9.6.8-py35_0
+postgresql-9.6.8-py36_0
+postgresql-10.4-py36ha98c86b_0
+postgresql-10.4-py35ha98c86b_0
+postgresql-9.6.9-py36ha98c86b_0
+postgresql-9.6.9-py35ha98c86b_0
+postgresql-10.5-py35ha98c86b_0
+postgresql-10.5-py36ha98c86b_0

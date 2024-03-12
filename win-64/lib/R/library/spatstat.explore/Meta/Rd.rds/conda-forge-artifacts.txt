@@ -1,0 +1,8 @@
+r-spatstat.explore-3.0_3-r41h6d2157b_0
+r-spatstat.explore-3.0_5-r41h6d2157b_0
+r-spatstat.explore-3.0_6-r41h6d2157b_0
+r-spatstat.explore-3.1_0-r41h6d2157b_0
+r-spatstat.explore-3.2_1-r41h6d2157b_0
+r-spatstat.explore-3.2_1-r41h6d2157b_1
+r-spatstat.explore-3.2_3-r41h6d2157b_0
+r-spatstat.explore-3.2_5-r41h6d2157b_0

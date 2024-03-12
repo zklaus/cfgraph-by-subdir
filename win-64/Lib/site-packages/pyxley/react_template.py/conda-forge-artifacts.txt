@@ -1,0 +1,7 @@
+pyxley-0.0.9-py27_0
+pyxley-0.0.9-py34_0
+pyxley-0.0.9-py35_0
+pyxley-0.0.9-py36_0
+pyxley-0.1.0-py27_0
+pyxley-0.1.0-py35_0
+pyxley-0.1.0-py36_0

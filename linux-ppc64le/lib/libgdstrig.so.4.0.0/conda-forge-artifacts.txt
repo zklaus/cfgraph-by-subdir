@@ -1,0 +1,3 @@
+gds-base-gdstrig-3.0.0-h06f31f1_0
+gds-base-gdstrig-3.0.0-h06f31f1_2
+gds-base-gdstrig-3.0.0-he01d56d_3

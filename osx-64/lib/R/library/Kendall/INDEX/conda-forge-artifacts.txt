@@ -1,0 +1,9 @@
+r-kendall-2.2-r36h174eee0_0
+r-kendall-2.2-r40h174eee0_0
+r-kendall-2.2-r41h174eee0_0
+r-kendall-2.2.1-r40h174eee0_0
+r-kendall-2.2.1-r41h174eee0_0
+r-kendall-2.2.1-r41hea8d99d_1
+r-kendall-2.2.1-r42hea8d99d_1
+r-kendall-2.2.1-r43h08c3a65_2
+r-kendall-2.2.1-r42h08c3a65_2

@@ -1,0 +1,15 @@
+curl-7.48.0-vc10_0
+curl-7.48.0-vc10_1
+curl-7.48.0-vc10_2
+curl-7.48.0-vc14_0
+curl-7.48.0-vc14_1
+curl-7.48.0-vc14_2
+curl-7.48.0-vc9_0
+curl-7.48.0-vc9_1
+curl-7.48.0-vc9_2
+curl-7.49.1-vc10_1
+curl-7.49.1-vc10_2
+curl-7.49.1-vc14_1
+curl-7.49.1-vc14_2
+curl-7.49.1-vc9_1
+curl-7.49.1-vc9_2

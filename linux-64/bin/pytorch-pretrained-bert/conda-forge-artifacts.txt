@@ -1,0 +1,15 @@
+pytorch-pretrained-bert-0.4.0-py36_0
+pytorch-pretrained-bert-0.4.0-py37_1000
+pytorch-pretrained-bert-0.4.0-py36_1000
+pytorch-pretrained-bert-0.1.2-py36_1000
+pytorch-pretrained-bert-0.1.2-py37_1000
+pytorch-pretrained-bert-0.5.0-py37_0
+pytorch-pretrained-bert-0.5.0-py36_0
+pytorch-pretrained-bert-0.5.1-py37_0
+pytorch-pretrained-bert-0.5.1-py36_0
+pytorch-pretrained-bert-0.6.2-py37_0
+pytorch-pretrained-bert-0.6.2-py36_0
+pytorch-pretrained-bert-0.6.2-py311h38be061_1
+pytorch-pretrained-bert-0.6.2-py39hf3d152e_1
+pytorch-pretrained-bert-0.6.2-py38h578d9bd_1
+pytorch-pretrained-bert-0.6.2-py310hff52083_1

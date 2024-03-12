@@ -1,0 +1,14 @@
+r-lambertw-0.6.5-r36ha856d6a_0
+r-lambertw-0.6.5-r40ha856d6a_0
+r-lambertw-0.6.6-r40ha856d6a_0
+r-lambertw-0.6.6-r36ha856d6a_0
+r-lambertw-0.6.6-r41ha856d6a_0
+r-lambertw-0.6.7-r40ha856d6a_0
+r-lambertw-0.6.7-r41ha856d6a_0
+r-lambertw-0.6.7_1-r40ha856d6a_0
+r-lambertw-0.6.7_1-r41ha856d6a_0
+r-lambertw-0.6.7_1-r41ha856d6a_1
+r-lambertw-0.6.7_1-r41ha856d6a_2
+r-lambertw-0.6.8-r41ha856d6a_0
+r-lambertw-0.6.9-r41ha856d6a_0
+r-lambertw-0.6.9_1-r41ha856d6a_0

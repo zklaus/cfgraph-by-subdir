@@ -1,0 +1,9 @@
+libfido2-1.9.0-he4cd7f6_0
+libfido2-1.9.0-h62a264d_1
+libfido2-1.9.0-he4cd7f6_1
+libfido2-1.10.0-he4cd7f6_0
+libfido2-1.10.0-h62a264d_0
+libfido2-1.11.0-haeec458_0
+libfido2-1.11.0-h6b14776_0
+libfido2-1.13.0-h19e3c78_0
+libfido2-1.14.0-h8d15234_0

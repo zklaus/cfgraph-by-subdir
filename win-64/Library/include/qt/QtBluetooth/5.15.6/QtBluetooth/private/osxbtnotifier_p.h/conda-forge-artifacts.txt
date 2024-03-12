@@ -1,0 +1,11 @@
+qt-main-5.15.6-hf0cf448_0
+qt-main-5.15.6-h9c3277a_1
+qt-main-5.15.6-h9c3277a_2
+qt-main-5.15.6-hb9439ea_3
+qt-main-5.15.6-h11209a8_3
+qt-main-5.15.6-h11209a8_4
+qt-main-5.15.6-hb9439ea_4
+qt-main-5.15.6-h068e40c_5
+qt-main-5.15.6-h9580fe5_5
+qt-main-5.15.6-h9580fe5_6
+qt-main-5.15.6-h068e40c_6

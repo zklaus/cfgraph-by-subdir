@@ -1,0 +1,4 @@
+pango-1.48.10-h0df5bd0_0
+pango-1.48.10-h0df5bd0_1
+pango-1.48.10-h7254360_2
+pango-1.48.10-hcb4bb58_3

@@ -1,0 +1,10 @@
+r-textshaping-0.3.6-r41h738d2e0_4
+r-textshaping-0.3.6-r42h738d2e0_4
+r-textshaping-0.3.6-r42hbf54eaa_5
+r-textshaping-0.3.6-r41hbf54eaa_5
+r-textshaping-0.3.6-r43hbf54eaa_6
+r-textshaping-0.3.6-r42hbf54eaa_6
+r-textshaping-0.3.6-r43h0c0641b_7
+r-textshaping-0.3.6-r42h0c0641b_7
+r-textshaping-0.3.7-r43h0c0641b_0
+r-textshaping-0.3.7-r42h0c0641b_0

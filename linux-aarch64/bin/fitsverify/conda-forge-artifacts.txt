@@ -1,0 +1,4 @@
+fitsverify-4.20-ha41af6a_5
+fitsverify-4.20-hbbf2d84_6
+fitsverify-4.20-h5710807_7
+fitsverify-4.22-h5710807_0

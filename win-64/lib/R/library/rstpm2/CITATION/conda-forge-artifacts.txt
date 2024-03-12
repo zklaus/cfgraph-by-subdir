@@ -1,0 +1,15 @@
+r-rstpm2-1.5.2-r36h438b884_0
+r-rstpm2-1.5.2-r40h438b884_0
+r-rstpm2-1.5.2-r41h438b884_0
+r-rstpm2-1.5.5-r41h438b884_0
+r-rstpm2-1.5.5-r40h438b884_0
+r-rstpm2-1.5.6-r41h438b884_0
+r-rstpm2-1.5.6-r40h438b884_0
+r-rstpm2-1.5.7-r41h30befbe_0
+r-rstpm2-1.5.7-r40h30befbe_0
+r-rstpm2-1.5.7-r41h30befbe_1
+r-rstpm2-1.5.8-r41h30befbe_0
+r-rstpm2-1.5.9-r41h30befbe_0
+r-rstpm2-1.6.1-r41h30befbe_0
+r-rstpm2-1.6.2-r41h30befbe_0
+r-rstpm2-1.6.2-r41h30befbe_1

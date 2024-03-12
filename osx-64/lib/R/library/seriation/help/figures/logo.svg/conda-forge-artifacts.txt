@@ -1,0 +1,16 @@
+r-seriation-1.4.0-r41h1e4e481_0
+r-seriation-1.4.0-r42h1e4e481_0
+r-seriation-1.4.1-r41h1e4e481_0
+r-seriation-1.4.1-r42h1e4e481_0
+r-seriation-1.4.2-r41h1e4e481_0
+r-seriation-1.4.2-r42h1e4e481_0
+r-seriation-1.4.2-r43hfe07776_1
+r-seriation-1.4.2-r42hfe07776_1
+r-seriation-1.5.0-r43hfe07776_0
+r-seriation-1.5.0-r42hfe07776_0
+r-seriation-1.5.1-r42hfe07776_0
+r-seriation-1.5.1-r43hfe07776_0
+r-seriation-1.5.2-r42hed23af9_0
+r-seriation-1.5.2-r43hed23af9_0
+r-seriation-1.5.3-r42hed23af9_0
+r-seriation-1.5.3-r43hed23af9_0

@@ -1,0 +1,14 @@
+onednn-2.2-tbb_h950b5aa_0
+onednn-2.2.1-tbb_h950b5aa_0
+onednn-2.2.2-tbb_h950b5aa_0
+onednn-2.2.2-tbb_hac94fa8_1
+onednn-2.2.2-omp_h8f73e2d_1
+onednn-2.2.2-omp_h8f73e2d_2
+onednn-2.2.2-tbb_h5d71bca_2
+onednn-2.2.3-omp_h8f73e2d_0
+onednn-2.2.3-omp_h8f73e2d_1
+onednn-2.2.3-tbb_h5d71bca_1
+onednn-2.2.3-threadpool_h2c37127_1
+onednn-2.2.4-tbb_h5d71bca_0
+onednn-2.2.4-omp_h8f73e2d_0
+onednn-2.2.4-threadpool_h2c37127_0

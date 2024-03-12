@@ -1,0 +1,6 @@
+casacore-2.2.0-0
+casacore-2.2.0-1
+casacore-2.2.0-2
+casacore-2.2.0-py27_3
+casacore-2.2.0-py35_3
+casacore-2.2.0-py36_3

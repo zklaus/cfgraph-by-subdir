@@ -1,0 +1,7 @@
+biorbd-1.0.0-py37h471f5a5_0
+biorbd-1.0.0-py36h471f5a5_0
+biorbd-1.0.0-py37h471f5a5_1
+biorbd-1.0.0-py36h471f5a5_1
+biorbd-1.0.1-py36hb14e2bb_1
+biorbd-1.0.1-py37hb14e2bb_1
+biorbd-1.0.1-py38hb14e2bb_1

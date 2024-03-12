@@ -1,0 +1,12 @@
+r-base-3.6.1-h813aebb_0
+r-base-3.6.1-h91c7823_0
+r-base-3.6.1-h813aebb_1
+r-base-3.6.1-h91c7823_1
+r-base-3.6.1-h813aebb_2
+r-base-3.6.1-h91c7823_2
+r-base-3.6.1-h8760951_3
+r-base-3.6.1-he73377c_3
+r-base-3.6.1-h813aebb_4
+r-base-3.6.1-h91c7823_4
+r-base-3.6.1-hf0ea6f9_5
+r-base-3.6.1-hf0ea6f9_6

@@ -1,0 +1,2 @@
+xorg-libxft-2.3.4-h8aea5ac_0
+xorg-libxft-2.3.4-hc534e41_1

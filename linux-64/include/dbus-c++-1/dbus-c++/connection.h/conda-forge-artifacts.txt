@@ -1,0 +1,9 @@
+dbus-cxx-0.9.1-0
+dbus-cxx-0.9.1-1
+dbus-cxx-0.9.1-2
+dbus-cxx-0.9.1-h28aa286_2
+dbus-cxx-0.9.2-h4b6f8c2_0
+dbus-cxx-0.9.2-h9ea1f2e_1000
+dbus-cxx-0.9.2-h956751d_1001
+dbus-cxx-0.9.2-h956751d_1002
+dbus-cxx-0.9.2-h39e5437_1003

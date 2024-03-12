@@ -1,0 +1,11 @@
+e-antic-1.0.0-hf1f868f_0
+e-antic-1.0.1-hf1f868f_0
+e-antic-1.0.2-hf1f868f_0
+libeantic-1.0.2-hf1f868f_1
+libeantic-1.0.2-h5b088b0_2
+libeantic-1.0.2-h5b088b0_3
+libeantic-1.0.3-h5b088b0_0
+libeantic-1.0.3-h67ec10a_1
+libeantic-1.0.3-h67ec10a_2
+libeantic-1.0.3-h67ec10a_3
+libeantic-1.0.3-h52e3b27_4

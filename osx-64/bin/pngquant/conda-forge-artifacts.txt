@@ -1,0 +1,5 @@
+pngquant-2.13.1-h217eb9c_1
+pngquant-2.14.1-h2a9a05e_0
+pngquant-2.15.0-h2a9a05e_0
+pngquant-2.15.1-h2a9a05e_0
+pngquant-2.16.0-h94bf07f_0

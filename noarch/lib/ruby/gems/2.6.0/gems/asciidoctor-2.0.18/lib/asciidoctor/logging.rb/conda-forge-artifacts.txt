@@ -1,0 +1,2 @@
+asciidoctor-2.0.18-h5df7e58_0
+asciidoctor-2.0.18-h5df7e58_1

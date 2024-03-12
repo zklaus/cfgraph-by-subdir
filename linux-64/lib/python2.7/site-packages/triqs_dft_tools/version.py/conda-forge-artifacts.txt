@@ -1,0 +1,6 @@
+triqs_dft_tools-2.2.1-py27h7262182_1
+triqs_dft_tools-2.2.1-py27hf83a388_1
+triqs_dft_tools-2.2.1-py27h490b6c0_2
+triqs_dft_tools-2.2.1-py27h45a7e2c_2
+triqs_dft_tools-2.2.1-py27h490b6c0_4
+triqs_dft_tools-2.2.1-py27h45a7e2c_4

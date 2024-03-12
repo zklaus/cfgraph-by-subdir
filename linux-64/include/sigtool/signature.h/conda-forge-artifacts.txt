@@ -1,0 +1,9 @@
+sigtool-0.1.0-h695e95d_0
+sigtool-0.1.0-h695e95d_1
+sigtool-0.1.0-hc1a0600_1
+sigtool-0.1.2-hc1a0600_0
+sigtool-0.1.2-h695e95d_0
+sigtool-0.1.2-hc1a0600_1
+sigtool-0.1.2-h695e95d_1
+sigtool-0.1.3-hc1a0600_0
+sigtool-0.1.3-h695e95d_0

@@ -1,0 +1,17 @@
+librsvg-2.52.0-h47a9834_0
+librsvg-2.52.1-h47a9834_0
+librsvg-2.52.2-h47a9834_0
+librsvg-2.52.3-h47a9834_0
+librsvg-2.52.4-h47a9834_0
+librsvg-2.52.5-h47a9834_0
+librsvg-2.52.5-h47a9834_1
+librsvg-2.52.5-h25f65eb_2
+librsvg-2.52.5-h25f65eb_3
+librsvg-2.54.0-h3ad45c2_0
+librsvg-2.54.1-h3ad45c2_0
+librsvg-2.54.3-h3ad45c2_0
+librsvg-2.54.4-h3ad45c2_0
+librsvg-2.56.0-h2c07517_1
+librsvg-2.56.1-h2c07517_0
+librsvg-2.56.3-h2c07517_0
+librsvg-2.56.3-h4341b47_1

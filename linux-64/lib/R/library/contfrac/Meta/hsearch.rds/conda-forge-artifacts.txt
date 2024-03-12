@@ -1,0 +1,13 @@
+r-contfrac-1.1_12-r351hc070d10_0
+r-contfrac-1.1_12-r341hc070d10_0
+r-contfrac-1.1_12-r351h96ca727_1000
+r-contfrac-1.1_12-r36hcdcec82_1001
+r-contfrac-1.1_12-r35hcdcec82_1001
+r-contfrac-1.1_12-r36hcdcec82_1002
+r-contfrac-1.1_12-r40hcdcec82_1002
+r-contfrac-1.1_12-r40hcfec24a_1002
+r-contfrac-1.1_12-r41hcfec24a_1002
+r-contfrac-1.1_12-r41h06615bd_1003
+r-contfrac-1.1_12-r42h06615bd_1003
+r-contfrac-1.1_12-r42h57805ef_1004
+r-contfrac-1.1_12-r43h57805ef_1004

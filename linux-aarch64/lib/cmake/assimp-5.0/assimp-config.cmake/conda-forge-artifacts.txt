@@ -1,0 +1,2 @@
+assimp-5.0.1-hfcf317e_3
+assimp-5.0.1-h2c2f449_3

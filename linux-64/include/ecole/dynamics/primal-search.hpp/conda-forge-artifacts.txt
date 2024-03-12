@@ -1,0 +1,4 @@
+libecole-0.8.0-hc9b68a8_1
+libecole-0.8.1-hf88bb37_1
+libecole-0.8.1-h9b3ece8_2
+libecole-0.8.1-hd2e6256_3

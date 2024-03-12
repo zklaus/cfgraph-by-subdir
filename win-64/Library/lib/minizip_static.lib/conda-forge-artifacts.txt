@@ -1,0 +1,2 @@
+minizip-static-1.2-h12be248_1
+minizip-static-1.2-h12be248_2

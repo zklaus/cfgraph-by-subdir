@@ -1,0 +1,15 @@
+r-pubmed.miner-1.0.16-r35h6115d3f_0
+r-pubmed.miner-1.0.16-r36h6115d3f_0
+r-pubmed.miner-1.0.16-r40h6115d3f_1
+r-pubmed.miner-1.0.16-r36h6115d3f_1
+r-pubmed.miner-1.0.17-r40hc72bb7e_0
+r-pubmed.miner-1.0.17-r36hc72bb7e_0
+r-pubmed.miner-1.0.17-r41hc72bb7e_0
+r-pubmed.miner-1.0.18-r40hc72bb7e_0
+r-pubmed.miner-1.0.18-r41hc72bb7e_0
+r-pubmed.miner-1.0.19-r41hc72bb7e_0
+r-pubmed.miner-1.0.19-r40hc72bb7e_0
+r-pubmed.miner-1.0.19-r42hc72bb7e_1
+r-pubmed.miner-1.0.19-r41hc72bb7e_1
+r-pubmed.miner-1.0.19-r42hc72bb7e_2
+r-pubmed.miner-1.0.19-r43hc72bb7e_2

@@ -1,0 +1,13 @@
+fish-3.1.2-hc083dc1_1
+fish-3.2.0-h4e17f28_0
+fish-3.2.1-h4e17f28_0
+fish-3.2.2-he5559ba_0
+fish-3.2.2-hc4271fb_1
+fish-3.3.0-hc4271fb_0
+fish-3.3.1-hc4271fb_0
+fish-3.3.1-h0569eea_0
+fish-3.4.1-hc4ce0c0_0
+fish-3.5.0-hc5976cb_0
+fish-3.5.1-hc5976cb_0
+fish-3.5.1-h87ac134_1
+fish-3.5.1-h7b970da_1

@@ -1,0 +1,6 @@
+occt-7.7.0-hb189d26_1
+occt-7.7.0-hafc16cd_2
+occt-7.7.1-hafc16cd_0
+occt-7.7.1-all_h34f8297_201
+occt-7.7.2-all_h34f8297_200
+occt-7.7.2-all_h1e2436f_201

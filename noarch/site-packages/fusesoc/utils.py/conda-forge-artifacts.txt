@@ -1,0 +1,5 @@
+fusesoc-1.11.0-pyh9f0ad1d_1
+fusesoc-1.12.0-pyhd8ed1ab_0
+fusesoc-2.1-pyhd8ed1ab_0
+fusesoc-2.2-pyhd8ed1ab_0
+fusesoc-2.3-pyhd8ed1ab_0

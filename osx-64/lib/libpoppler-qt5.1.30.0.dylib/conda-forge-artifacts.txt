@@ -1,0 +1,5 @@
+poppler-qt-21.10.0-hee1052d_0
+poppler-qt-21.11.0-hee1052d_0
+poppler-qt-22.01.0-hee1052d_0
+poppler-qt-22.01.0-hd5146ce_1
+poppler-qt-22.01.0-hd5146ce_2

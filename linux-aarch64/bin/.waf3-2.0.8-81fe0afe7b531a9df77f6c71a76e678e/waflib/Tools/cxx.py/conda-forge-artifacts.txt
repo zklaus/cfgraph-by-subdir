@@ -1,0 +1,6 @@
+pyinstaller-4.2-py39h0992e24_0
+pyinstaller-4.2-py39h0992e24_1
+pyinstaller-4.3-py39h0992e24_0
+pyinstaller-4.4-py39h0992e24_0
+pyinstaller-4.5.1-py39h0992e24_0
+pyinstaller-4.6-py39h0992e24_0

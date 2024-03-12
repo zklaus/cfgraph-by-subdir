@@ -1,0 +1,6 @@
+pyside-1.2.4-py34_0
+pyside-1.2.4-py34_1
+pyside-1.2.4-py34_2
+pyside-1.2.4-py34_3
+pyside-1.2.4-py34_4
+pyside-1.2.4-py34_5

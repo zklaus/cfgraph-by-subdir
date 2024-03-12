@@ -1,0 +1,11 @@
+r-bayestestr-0.8.2-r40hc72bb7e_0
+r-bayestestr-0.8.2-r36hc72bb7e_0
+r-bayestestr-0.9.0-r40hc72bb7e_0
+r-bayestestr-0.9.0-r36hc72bb7e_0
+r-bayestestr-0.9.0-r41hc72bb7e_0
+r-bayestestr-0.10.0-r41hc72bb7e_0
+r-bayestestr-0.10.0-r40hc72bb7e_0
+r-bayestestr-0.10.5-r41hc72bb7e_0
+r-bayestestr-0.10.5-r40hc72bb7e_0
+r-bayestestr-0.11.0-r40hc72bb7e_0
+r-bayestestr-0.11.0-r41hc72bb7e_0

@@ -1,0 +1,4 @@
+petsc-3.14.4-heae5eae_0
+petsc-3.14.4-h1b1e40c_0
+petsc-3.14.4-h8925c1f_0
+petsc-3.14.4-h90adf95_0

@@ -1,0 +1,12 @@
+r-mcmcprecision-0.3.9-r36hf99fc2c_0
+r-mcmcprecision-0.4.0-r36hc5da6b9_0
+r-mcmcprecision-0.4.0-r40hc5da6b9_1
+r-mcmcprecision-0.4.0-r36hc5da6b9_1
+r-mcmcprecision-0.4.0-r40hdab79a9_2
+r-mcmcprecision-0.4.0-r36hdab79a9_2
+r-mcmcprecision-0.4.0-r41he5a6823_2
+r-mcmcprecision-0.4.0-r40he5a6823_2
+r-mcmcprecision-0.4.0-r42h4f1a15b_3
+r-mcmcprecision-0.4.0-r41h4f1a15b_3
+r-mcmcprecision-0.4.0-r43hfaea39f_4
+r-mcmcprecision-0.4.0-r42hfaea39f_4

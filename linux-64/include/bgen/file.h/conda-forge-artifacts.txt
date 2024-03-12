@@ -1,0 +1,9 @@
+bgen-3.0.2-h9db9d1d_0
+bgen-3.0.2-h6ce7ff7_1
+bgen-3.0.3-h6ce7ff7_0
+bgen-3.0.3-h256d785_1
+bgen-4.0.1-h6fbbc79_0
+bgen-4.1.0-h6fbbc79_0
+bgen-4.1.1-h58ab8b0_0
+bgen-4.1.3-h58ab8b0_0
+bgen-4.1.3-ha0ad84f_0

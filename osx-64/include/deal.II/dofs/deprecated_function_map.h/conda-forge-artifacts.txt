@@ -1,0 +1,14 @@
+dealii-9.1.0-h889253b_0
+dealii-9.1.1-h49e071a_2
+dealii-9.1.1-hd8ebdb5_2
+dealii-9.1.1-h02eb0dd_3
+dealii-9.2.0-py36ha5f857a_0
+dealii-9.2.0-py37h93343c8_0
+dealii-9.2.0-py38h4ca948b_0
+dealii-9.2.0-py37h489b4b8_1
+dealii-9.2.0-py36he304a34_1
+dealii-9.2.0-py38h1b08411_1
+dealii-9.2.0-py36he304a34_2
+dealii-9.2.0-py38h1b08411_2
+dealii-9.2.0-py39haa6ef02_2
+dealii-9.2.0-py37h489b4b8_2

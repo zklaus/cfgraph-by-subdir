@@ -1,0 +1,5 @@
+numix-icon-theme-22.11.17-ha770c72_0
+numix-icon-theme-23.04.26-ha770c72_0
+numix-icon-theme-23.11.11-ha770c72_0
+numix-icon-theme-23.11.20-ha770c72_0
+numix-icon-theme-23.12.02-ha770c72_0

@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-2.0.3-hac98541_0

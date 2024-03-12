@@ -1,0 +1,2 @@
+git-annex-remote-rclone-0.7-ha770c72_0
+git-annex-remote-rclone-0.8-ha770c72_0

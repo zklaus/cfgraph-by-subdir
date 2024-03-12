@@ -1,0 +1,5 @@
+libthermo-0.2.0-h44ffa79_1
+pythermo-0.2.0-h6dac906_1
+pythermo-0.2.0-h3a38bc5_1
+pythermo-0.2.0-hdb6400b_1
+pythermo-0.2.0-hae8f3c4_1

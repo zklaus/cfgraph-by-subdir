@@ -1,0 +1,6 @@
+pngquant-2.13.1-h43e59ac_1
+pngquant-2.14.1-h43e59ac_0
+pngquant-2.15.0-h43e59ac_0
+pngquant-2.15.1-h43e59ac_0
+pngquant-2.16.0-h43e59ac_0
+pngquant-2.17.0-h43e59ac_0

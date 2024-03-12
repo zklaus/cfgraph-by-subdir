@@ -1,0 +1,5 @@
+poppler-qt-21.10.0-h6ef9ed9_0
+poppler-qt-21.11.0-h6ef9ed9_0
+poppler-qt-22.01.0-h6ef9ed9_0
+poppler-qt-22.01.0-hf358c63_1
+poppler-qt-22.01.0-hf358c63_2

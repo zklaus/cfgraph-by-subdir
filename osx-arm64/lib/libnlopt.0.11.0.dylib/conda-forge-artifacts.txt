@@ -1,0 +1,5 @@
+nlopt-2.7.0-py39ha152735_1
+nlopt-2.7.0-py38h433fbb1_1
+nlopt-2.7.0-py39ha152735_2
+nlopt-2.7.0-py310h8dc9a4b_2
+nlopt-2.7.0-py38h433fbb1_2

@@ -1,0 +1,6 @@
+r-effectsize-0.4.0-r40h142f84f_0
+r-effectsize-0.4.0-r36h142f84f_0
+r-effectsize-0.4.1-r40hc72bb7e_0
+r-effectsize-0.4.1-r36hc72bb7e_0
+r-effectsize-0.4.3-r40hc72bb7e_0
+r-effectsize-0.4.3-r36hc72bb7e_0

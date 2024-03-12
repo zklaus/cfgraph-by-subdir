@@ -1,0 +1,11 @@
+mingwpy-0.1.0-py27_0
+mingwpy-0.1.0-py27_1
+mingwpy-0.1.0-py27_2
+wrf-python-1.0b1-np111py27_1
+wrf-python-1.0b2-np111py27_1
+wrf-python-1.0b2-np111py27_2
+pytmatrix-0.3.1-py27hfc399c3_1
+pytmatrix-0.3.1-py27hfc399c3_1001
+pytmatrix-0.3.1-py27h87dffe9_1002
+pyfmmlib-2019.1.5-py27h87dffe9_0
+pytmatrix-0.3.2-py27ha880a00_0

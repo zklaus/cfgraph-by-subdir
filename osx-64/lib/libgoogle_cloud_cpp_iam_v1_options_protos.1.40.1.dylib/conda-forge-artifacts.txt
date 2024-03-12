@@ -1,0 +1,6 @@
+libgoogle-cloud-1.40.1-h2a38a09_0
+libgoogle-cloud-1.40.1-hf73c098_0
+libgoogle-cloud-1.40.1-hd1acdc8_1
+libgoogle-cloud-1.40.1-h0f907e1_1
+libgoogle-cloud-1.40.1-hc6327d4_1
+libgoogle-cloud-1.40.1-h6afa83d_1

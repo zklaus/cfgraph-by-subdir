@@ -1,0 +1,9 @@
+onednn-2.7-omp_h77b2d07_0
+onednn-2.7-tbb_h8c2115b_0
+onednn-2.7-threadpool_h88d46bb_0
+onednn-2.7.1-omp_h77b2d07_0
+onednn-2.7.1-tbb_h8c2115b_0
+onednn-2.7.1-threadpool_h88d46bb_0
+onednn-2.7.2-omp_h77b2d07_0
+onednn-2.7.2-tbb_h8c2115b_0
+onednn-2.7.2-threadpool_h88d46bb_0

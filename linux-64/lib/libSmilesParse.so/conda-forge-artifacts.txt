@@ -1,0 +1,3 @@
+rdkit-2018.03.2-py36h4ce040e_0
+rdkit-2018.03.2-py27h4ce040e_0
+rdkit-2018.03.2-py35h4ce040e_0

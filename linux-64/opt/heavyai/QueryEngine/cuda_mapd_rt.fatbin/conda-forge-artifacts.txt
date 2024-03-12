@@ -1,0 +1,8 @@
+heavydb-6.0.0-h1234567_0_cuda
+heavydb-6.0.0-h1234567_1_cuda
+heavydb-6.0.0-h1234567_2_cuda
+heavydb-6.1.0-h1234567_0_cuda
+heavydb-6.1.1-h1234567_0_cuda
+heavydb-6.1.1-h1234567_1_cuda
+heavydb-6.2.0-h1234567_0_cuda
+heavydb-6.4.0-h1234567_0_cuda

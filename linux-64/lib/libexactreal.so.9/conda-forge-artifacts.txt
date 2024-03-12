@@ -1,0 +1,4 @@
+libexactreal-3.0.0-h2647266_0
+libexactreal-3.0.1-h2647266_0
+libexactreal-3.1.0-h2647266_0
+libexactreal-3.1.0-h6948ae6_0

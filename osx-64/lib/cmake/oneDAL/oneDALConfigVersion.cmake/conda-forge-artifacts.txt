@@ -1,0 +1,16 @@
+dal-2023.0.0-h694c41f_25369
+dal-static-2023.0.0-h694c41f_25369
+dal-2023.0.1-h694c41f_31031
+dal-static-2023.0.1-h694c41f_31031
+dal-static-2023.1.0-h694c41f_43546
+dal-static-2023.1.1-h694c41f_48681
+dal-static-2023.2.0-h694c41f_49578
+dal-static-2023.2.1-h694c41f_34
+dal-static-2023.2.1-h694c41f_35
+dal-static-2023.2.1-h694c41f_36
+dal-static-2023.2.1-h694c41f_37
+dal-static-2023.2.1-h694c41f_38
+dal-static-2023.2.1-h694c41f_39
+dal-static-2023.2.1-h694c41f_40
+dal-static-2023.2.1-h694c41f_1033
+dal-static-2023.2.1-h694c41f_1034

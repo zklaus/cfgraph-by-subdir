@@ -1,0 +1,5 @@
+gst-plugins-ugly-1.22.0-he233955_2
+gst-plugins-ugly-1.22.3-h19de544_0
+gst-plugins-ugly-1.22.4-h19de544_0
+gst-plugins-ugly-1.22.5-h11199ec_0
+gst-plugins-ugly-1.22.6-h11199ec_0

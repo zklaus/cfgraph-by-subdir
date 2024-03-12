@@ -1,0 +1,6 @@
+r-bigalgebra-1.0.0-r40h96779af_0
+r-bigalgebra-1.0.0-r36h96779af_0
+r-bigalgebra-1.0.0-r41h96779af_0
+r-bigalgebra-1.0.0-r41h96779af_1
+r-bigalgebra-1.1.0-r41h96779af_0
+r-bigalgebra-1.1.0-r41h96779af_1

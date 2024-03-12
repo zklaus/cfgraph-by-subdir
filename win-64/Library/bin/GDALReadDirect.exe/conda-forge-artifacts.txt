@@ -1,0 +1,3 @@
+gdal-csharp-1.0.0-h941e3da_0
+gdal-csharp-1.0.0-hf7502b7_1
+gdal-csharp-1.0.0-hf7502b7_2

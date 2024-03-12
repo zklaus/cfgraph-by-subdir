@@ -1,0 +1,9 @@
+cgal-4.10.1-py27_0
+cgal-4.10.1-py35_0
+cgal-4.10.1-py36_0
+cgal-4.10-py27_0
+cgal-4.10-py27_1
+cgal-4.10-py35_0
+cgal-4.10-py35_1
+cgal-4.10-py36_0
+cgal-4.10-py36_1

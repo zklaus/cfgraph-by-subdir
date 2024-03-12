@@ -1,0 +1,2 @@
+terraform-provider-template-2.1.2-h33c4730_0
+terraform-provider-template-2.1.2-h918b63b_0

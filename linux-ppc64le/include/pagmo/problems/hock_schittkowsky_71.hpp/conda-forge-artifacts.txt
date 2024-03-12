@@ -1,0 +1,10 @@
+pagmo-devel-2.17.0-h11e8bb6_3
+pagmo-devel-2.17.0-h11e8bb6_4
+pagmo-devel-2.18.0-h11e8bb6_0
+pagmo-devel-2.18.0-h11e8bb6_1
+pagmo-devel-2.18.0-h11e8bb6_2
+pagmo-devel-2.18.0-h11e8bb6_3
+pagmo-devel-2.18.0-hff5ee8b_4
+pagmo-devel-2.18.0-h95813de_5
+pagmo-devel-2.18.0-h8e5fa53_6
+pagmo-devel-2.18.0-h8e5fa53_7

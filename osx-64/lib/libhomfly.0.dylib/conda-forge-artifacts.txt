@@ -1,0 +1,3 @@
+libhomfly-1.02r6-h01d97ff_0
+libhomfly-1.02r6-h0b31af3_0
+libhomfly-1.02r6-hc929b4f_0

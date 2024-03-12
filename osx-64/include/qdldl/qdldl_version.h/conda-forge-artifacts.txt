@@ -1,0 +1,3 @@
+libqdldl-0.1.6-hb486fe8_0
+libqdldl-0.1.6-hf0c8a7f_1
+libqdldl-0.1.7-hf0c8a7f_0

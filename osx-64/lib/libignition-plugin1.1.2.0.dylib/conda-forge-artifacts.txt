@@ -1,0 +1,2 @@
+libignition-plugin1-1.2.0-he49afe7_0
+libignition-plugin1-1.2.0-he49afe7_1

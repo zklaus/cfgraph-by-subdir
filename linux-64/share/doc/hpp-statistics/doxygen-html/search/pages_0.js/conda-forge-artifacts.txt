@@ -1,0 +1,9 @@
+hpp-statistics-4.12.0-h8cbb357_0
+hpp-statistics-4.13.0-hd329d56_0
+hpp-statistics-4.13.0-h7a94ca9_1
+hpp-statistics-4.13.0-h924138e_2
+hpp-statistics-4.13.0-h7a94ca9_3
+hpp-statistics-4.14.0-h7a94ca9_0
+hpp-statistics-4.15.1-he57d4f7_0
+hpp-statistics-4.15.1-had84ea8_1
+hpp-statistics-4.15.1-h00ab1b0_2

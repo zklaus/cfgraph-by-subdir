@@ -1,0 +1,10 @@
+xtensor-io-0.12.2-hf817b99_0
+xtensor-io-0.12.3-hf817b99_0
+xtensor-io-0.12.4-h4bd325d_0
+xtensor-io-0.12.4-h4bd325d_1
+xtensor-io-0.12.5-h4bd325d_1
+xtensor-io-0.12.6-h4bd325d_0
+xtensor-io-0.12.7-h4bd325d_0
+xtensor-io-0.12.8-h4bd325d_0
+xtensor-io-0.12.9-h4bd325d_0
+xtensor-io-0.13.0-h4bd325d_0

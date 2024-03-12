@@ -1,0 +1,10 @@
+nlopt-2.6.1-py37h1a28907_2
+nlopt-2.6.1-py36h4c6872f_2
+nlopt-2.6.1-py38haf0142a_2
+nlopt-2.6.2-py36h4c6872f_0
+nlopt-2.6.2-py37h1a28907_0
+nlopt-2.6.2-py38haf0142a_0
+nlopt-2.6.2-py39h62151c6_1
+nlopt-2.6.2-py38haf0142a_1
+nlopt-2.6.2-py36h4c6872f_1
+nlopt-2.6.2-py37h1a28907_1

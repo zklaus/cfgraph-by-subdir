@@ -1,0 +1,8 @@
+rpfits-2.23-0
+rpfits-2.24-0
+rpfits-2.24-1
+rpfits-2.24-ha44fe06_2
+rpfits-2.24-h9ac9557_1002
+rpfits-2.25-h6e990d7_0
+rpfits-2.25-h86c2bf4_1
+rpfits-2.25-h6e990d7_1

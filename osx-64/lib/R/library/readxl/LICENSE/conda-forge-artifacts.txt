@@ -1,0 +1,12 @@
+r-readxl-1.4.0-r40h45e8629_0
+r-readxl-1.4.0-r41h45e8629_0
+r-readxl-1.4.1-r40h56ae5ef_0
+r-readxl-1.4.1-r41h56ae5ef_0
+r-readxl-1.4.1-r41h3ae43e4_1
+r-readxl-1.4.1-r42h3ae43e4_1
+r-readxl-1.4.2-r41h3ae43e4_0
+r-readxl-1.4.2-r42h3ae43e4_0
+r-readxl-1.4.2-r43h88814b1_1
+r-readxl-1.4.2-r42h88814b1_1
+r-readxl-1.4.3-r42h88814b1_0
+r-readxl-1.4.3-r43h88814b1_0

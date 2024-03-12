@@ -1,0 +1,1 @@
+terraform-provider-newrelic-2.1.0-h918b63b_0

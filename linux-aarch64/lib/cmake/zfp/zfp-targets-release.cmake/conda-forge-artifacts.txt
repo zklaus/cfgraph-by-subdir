@@ -1,0 +1,14 @@
+zfp-0.5.5-he1b5a44_1
+zfp-0.5.5-h54f1f3f_2
+zfp-0.5.5-he1b5a44_3
+zfp-0.5.5-he1b5a44_4
+zfp-0.5.5-h01db608_4
+zfp-0.5.5-h01db608_5
+zfp-0.5.5-h01db608_6
+zfp-0.5.5-h01db608_7
+zfp-0.5.5-h01db608_8
+zfp-1.0.0-h4de3ea5_0
+zfp-1.0.0-h4de3ea5_1
+zfp-1.0.0-h4de3ea5_2
+zfp-1.0.0-h4de3ea5_3
+zfp-1.0.0-h2f0025b_4

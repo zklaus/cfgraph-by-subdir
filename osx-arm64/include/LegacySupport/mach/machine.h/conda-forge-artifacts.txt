@@ -1,0 +1,7 @@
+macports-legacy-support-1.0.7-h1a8c8d9_0
+macports-legacy-support-1.0.8-h1a8c8d9_0
+macports-legacy-support-1.0.9-h1a8c8d9_0
+macports-legacy-support-1.0.10-hb547adb_0
+macports-legacy-support-1.0.11-hb547adb_0
+macports-legacy-support-1.0.13-hb547adb_0
+macports-legacy-support-1.1.1-hb547adb_0

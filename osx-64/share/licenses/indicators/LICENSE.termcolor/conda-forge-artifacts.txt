@@ -1,0 +1,7 @@
+indicators-1.7-ha1b3eb9_0
+indicators-1.8-ha1b3eb9_0
+indicators-1.9-ha1b3eb9_0
+indicators-2.0-h926bf3e_0
+indicators-2.1-h940c156_0
+indicators-2.2-h940c156_0
+indicators-2.3-hb8565cd_0

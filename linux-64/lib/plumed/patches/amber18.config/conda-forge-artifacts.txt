@@ -1,0 +1,5 @@
+plumed-2.6.0-he6d885d_0
+plumed-2.6.0-h191070c_1
+plumed-2.6.0-hfcf5afb_2
+plumed-2.6.1-hfcf5afb_0
+plumed-2.6.2-h73c09e9_0

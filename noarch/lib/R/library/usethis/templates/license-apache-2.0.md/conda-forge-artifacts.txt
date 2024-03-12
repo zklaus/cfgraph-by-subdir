@@ -1,0 +1,13 @@
+r-usethis-1.4.0-r351h6115d3f_1000
+r-usethis-1.5.0-r351h6115d3f_0
+r-usethis-1.5.1-r351h6115d3f_0
+r-usethis-1.5.1-r35h6115d3f_1
+r-usethis-1.5.1-r36h6115d3f_1
+r-usethis-1.6.0-r35h6115d3f_0
+r-usethis-1.6.0-r36h6115d3f_0
+r-usethis-1.6.1-r35h6115d3f_0
+r-usethis-1.6.1-r36h6115d3f_0
+r-usethis-1.6.1-r36h6115d3f_1
+r-usethis-1.6.1-r40h6115d3f_1
+r-usethis-1.6.3-r36h6115d3f_0
+r-usethis-1.6.3-r40h6115d3f_0

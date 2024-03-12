@@ -1,0 +1,3 @@
+copc-lib-2.5.3-py310h2887b22_0
+copc-lib-2.5.3-py38h9dc3d6a_0
+copc-lib-2.5.3-py39haaf3ac1_0

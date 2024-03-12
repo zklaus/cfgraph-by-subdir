@@ -1,0 +1,2 @@
+rtl-sdr-0.6.0.post20230829-hfa5f0b2_0
+rtl-sdr-0.6.0.post20230829-hfa5f0b2_1

@@ -1,0 +1,13 @@
+r-fastverse-0.2.3-r41h06615bd_0
+r-fastverse-0.2.3-r40h06615bd_0
+r-fastverse-0.2.4-r40h06615bd_0
+r-fastverse-0.2.4-r41h06615bd_0
+r-fastverse-0.2.4-r42h06615bd_1
+r-fastverse-0.3.0-r42h06615bd_0
+r-fastverse-0.3.0-r41h06615bd_0
+r-fastverse-0.3.1-r41h133d619_0
+r-fastverse-0.3.1-r42h133d619_0
+r-fastverse-0.3.1-r42h57805ef_1
+r-fastverse-0.3.1-r43h57805ef_1
+r-fastverse-0.3.2-r42h57805ef_0
+r-fastverse-0.3.2-r43h57805ef_0

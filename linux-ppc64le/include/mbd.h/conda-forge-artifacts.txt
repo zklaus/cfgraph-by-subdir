@@ -1,0 +1,12 @@
+libmbd-0.12.1-nompi_h031e402_101
+libmbd-0.12.1-mpi_openmpi_h770fb8b_1
+libmbd-0.12.1-mpi_mpich_hef51f88_1
+libmbd-0.12.2-nompi_h031e402_100
+libmbd-0.12.2-mpi_mpich_hef51f88_0
+libmbd-0.12.2-mpi_openmpi_h770fb8b_0
+libmbd-0.12.2-mpi_mpich_hef51f88_1
+libmbd-0.12.2-mpi_openmpi_h770fb8b_1
+libmbd-0.12.2-nompi_h031e402_101
+libmbd-0.12.3-mpi_openmpi_h770fb8b_0
+libmbd-0.12.3-nompi_h031e402_100
+libmbd-0.12.3-mpi_mpich_hef51f88_0

@@ -1,0 +1,8 @@
+aiida-quantumespresso-3.5.2-pyhd8ed1ab_0
+aiida-quantumespresso-3.5.2-pyhd8ed1ab_1
+aiida-quantumespresso-4.0.0-pyhd8ed1ab_0
+aiida-quantumespresso-4.0.1-pyhd8ed1ab_0
+aiida-quantumespresso-4.1.0-pyhd8ed1ab_0
+aiida-quantumespresso-4.2.0-pyhd8ed1ab_0
+aiida-quantumespresso-4.3.0-pyhd8ed1ab_0
+aiida-quantumespresso-4.4.0-pyhd8ed1ab_0

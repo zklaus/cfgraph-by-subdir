@@ -1,0 +1,3 @@
+libta-lib-0.4.0-he774522_0
+libta-lib-0.4.0-hcfcfb64_1
+libta-lib-0.4.0-hcfcfb64_2

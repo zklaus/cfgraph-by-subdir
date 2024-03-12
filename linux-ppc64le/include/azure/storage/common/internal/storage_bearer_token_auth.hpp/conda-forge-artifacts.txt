@@ -1,0 +1,6 @@
+azure-storage-common-cpp-12.5.0-hec628a5_0
+azure-storage-common-cpp-12.5.0-h8257868_0
+azure-storage-common-cpp-12.5.0-hec628a5_1
+azure-storage-common-cpp-12.5.0-h8257868_1
+azure-storage-common-cpp-12.5.0-h45ee75e_2
+azure-storage-common-cpp-12.5.0-hb6e82a5_2

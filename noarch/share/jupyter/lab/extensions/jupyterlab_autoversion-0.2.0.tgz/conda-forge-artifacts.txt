@@ -1,0 +1,1 @@
+jupyterlab_autoversion-0.2.0-py_0

@@ -1,0 +1,3 @@
+terraform-provider-rabbitmq-1.0.0-0
+terraform-provider-rabbitmq-1.0.0-1
+terraform-provider-rabbitmq-1.0.0-1001

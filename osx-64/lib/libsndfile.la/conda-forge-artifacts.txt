@@ -1,0 +1,4 @@
+libsndfile-1.0.27-0
+libsndfile-1.0.27-1
+libsndfile-1.0.28-0
+libsndfile-1.0.28-hfc679d8_0

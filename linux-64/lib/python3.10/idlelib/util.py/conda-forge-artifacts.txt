@@ -1,0 +1,15 @@
+python-3.10.4-h9a8a25e_0_cpython
+python-3.10.4-h2660328_0_cpython
+python-3.10.5-h582c2e5_0_cpython
+python-3.10.5-ha86cf86_0_cpython
+python-3.10.6-h582c2e5_0_cpython
+python-3.10.6-ha86cf86_0_cpython
+python-3.10.7-h257c98d_0_cpython
+python-3.10.7-h4a9ceb5_0_cpython
+python-3.10.8-h257c98d_0_cpython
+python-3.10.8-h4a9ceb5_0_cpython
+python-3.10.9-he550d4f_0_cpython
+python-3.10.10-he550d4f_0_cpython
+python-3.10.11-he550d4f_0_cpython
+python-3.10.12-hd12c33a_0_cpython
+python-3.10.13-hd12c33a_0_cpython

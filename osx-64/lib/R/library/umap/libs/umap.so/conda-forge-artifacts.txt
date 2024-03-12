@@ -1,0 +1,9 @@
+r-umap-0.2.0.0-r341h9d2a408_0
+r-umap-0.2.0.0-r351h466af19_1000
+r-umap-0.2.0.0-r351h9d2a408_0
+r-umap-0.2.1.0-r351hf99fc2c_0
+r-umap-0.2.2.0-r351hf99fc2c_0
+r-umap-0.2.2.0-r35hf99fc2c_1
+r-umap-0.2.3.1-r35hf99fc2c_0
+r-umap-0.2.4.0-r35hc5da6b9_0
+r-umap-0.2.4.1-r35hc5da6b9_0

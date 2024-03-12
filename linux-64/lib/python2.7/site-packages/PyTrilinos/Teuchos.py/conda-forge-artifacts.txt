@@ -1,0 +1,2 @@
+pytrilinos-12.10.1-py27h7127e17_2
+pytrilinos-12.10.1-py27hf476568_2

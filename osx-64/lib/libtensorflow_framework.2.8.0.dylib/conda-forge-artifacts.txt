@@ -1,0 +1,2 @@
+libtensorflow-2.8.0-cpu_he5af24d_0
+libtensorflow_cc-2.8.0-cpu_he5af24d_0

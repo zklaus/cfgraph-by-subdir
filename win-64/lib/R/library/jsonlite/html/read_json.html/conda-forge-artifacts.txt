@@ -1,0 +1,15 @@
+r-jsonlite-1.6-r351h6115d3f_1000
+r-jsonlite-1.6-r35hda5aaf8_1001
+r-jsonlite-1.6-r36hda5aaf8_1001
+r-jsonlite-1.6.1-r35hda5aaf8_0
+r-jsonlite-1.6.1-r36hda5aaf8_0
+r-jsonlite-1.6.1-r36hda5aaf8_1
+r-jsonlite-1.6.1-r40hda5aaf8_1
+r-jsonlite-1.7.0-r36hda5aaf8_0
+r-jsonlite-1.7.0-r40hda5aaf8_0
+r-jsonlite-1.7.1-r40hda5aaf8_0
+r-jsonlite-1.7.1-r36hda5aaf8_0
+r-jsonlite-1.7.2-r40h6d2157b_0
+r-jsonlite-1.7.2-r36h6d2157b_0
+r-jsonlite-1.7.3-r40h6d2157b_0
+r-jsonlite-1.8.0-r40h6d2157b_0

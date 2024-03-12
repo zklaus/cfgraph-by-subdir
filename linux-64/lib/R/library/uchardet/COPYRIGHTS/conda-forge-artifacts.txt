@@ -1,0 +1,9 @@
+r-uchardet-1.1.0-r40h03ef668_0
+r-uchardet-1.1.0-r36h03ef668_0
+r-uchardet-1.1.0-r41h03ef668_0
+r-uchardet-1.1.0-r41h7525677_1
+r-uchardet-1.1.0-r42h7525677_1
+r-uchardet-1.1.1-r42h7525677_0
+r-uchardet-1.1.1-r41h7525677_0
+r-uchardet-1.1.1-r43ha503ecb_1
+r-uchardet-1.1.1-r42ha503ecb_1

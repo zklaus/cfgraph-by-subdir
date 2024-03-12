@@ -1,0 +1,6 @@
+omicron-2.4.0-h4c29b9a_0
+omicron-2.4.0-hfb67729_1
+omicron-2.4.1-hfb67729_0
+omicron-2.4.2-h49b1101_0
+omicron-2.4.2-h1ba73a6_1
+omicron-2.4.2-h7b375d4_2

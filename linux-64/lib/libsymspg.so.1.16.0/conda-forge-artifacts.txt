@@ -1,0 +1,9 @@
+spglib-1.16.0-py37h161383b_3
+spglib-1.16.0-py36h68bb277_3
+spglib-1.16.0-py36hda16e5c_3
+spglib-1.16.0-py38hab2c0dc_3
+spglib-1.16.0-py36h68bb277_4
+spglib-1.16.0-py37h161383b_4
+spglib-1.16.0-py39h1dff97c_4
+spglib-1.16.0-py38hab2c0dc_4
+spglib-1.16.0-py36hda16e5c_4

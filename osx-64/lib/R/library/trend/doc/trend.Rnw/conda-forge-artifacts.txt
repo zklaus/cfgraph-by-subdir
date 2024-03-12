@@ -1,0 +1,10 @@
+r-trend-1.1.4-r41h749f5a1_0
+r-trend-1.1.4-r40h749f5a1_0
+r-trend-1.1.4-r41h1e4e481_1
+r-trend-1.1.4-r42h1e4e481_1
+r-trend-1.1.5-r41h1e4e481_0
+r-trend-1.1.5-r42h1e4e481_0
+r-trend-1.1.5-r43hfe07776_1
+r-trend-1.1.5-r42hfe07776_1
+r-trend-1.1.6-r43hed23af9_0
+r-trend-1.1.6-r42hed23af9_0

@@ -1,0 +1,5 @@
+mcstas-core-3.4.7-h10d778d_0
+mcstas-core-3.4.7-h10d778d_1
+mcstas-core-3.4.7-h10d778d_2
+mcstas-core-3.4.7-h10d778d_3
+mcstas-core-3.4.8-h10d778d_0

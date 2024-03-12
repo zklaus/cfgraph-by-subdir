@@ -1,0 +1,5 @@
+xorg-libxmu-1.1.2-0
+xorg-libxmu-1.1.2-vc14_0
+xorg-libxmu-1.1.2-vc9_0
+xorg-libxmu-1.1.2-hcb389fa_1
+xorg-libxmu-1.1.2-hbaa294b_1

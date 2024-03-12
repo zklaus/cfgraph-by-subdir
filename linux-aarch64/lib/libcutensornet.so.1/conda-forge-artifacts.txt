@@ -1,0 +1,5 @@
+cuquantum-22.03.0.40-h436c9ae_0
+cuquantum-22.05.0.41-h436c9ae_0
+cuquantum-22.07.0.11-h1212f3d_0
+cuquantum-22.07.1.14-h1212f3d_0
+cutensornet-1.1.1-h1212f3d_1

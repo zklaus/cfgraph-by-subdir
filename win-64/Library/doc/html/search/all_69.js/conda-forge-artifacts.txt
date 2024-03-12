@@ -1,0 +1,7 @@
+qwtpolar-1.1.1-vc14_4
+qwtpolar-1.1.1-vc9_3
+qwtpolar-1.1.1-vc9_4
+qwtpolar-1.1.1-h4cbc711_5
+qwtpolar-1.1.1-h764d66f_5
+qwtpolar-1.1.1-h1a227db_6
+qwtpolar-1.1.1-hd7ce7fb_7

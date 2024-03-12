@@ -1,0 +1,12 @@
+sympow-2.023.3-h470a237_2
+sympow-2.023.3-h14c3975_1002
+sympow-3.0.5-h470a237_0
+sympow-3.0.5-h14c3975_1000
+sympow-4.1.4-h14c3975_1000
+sympow-2.023.3-h4c5a542_1003
+sympow-2.023.4-h4c5a542_0
+sympow-2.023.6-h4c5a542_0
+sympow-2.023.6-hd963cf6_0
+sympow-2.023.6-h66c2926_1
+sympow-2.023.6-h779893b_2
+sympow-2.023.6-hc6ab17c_3

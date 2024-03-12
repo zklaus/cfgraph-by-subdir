@@ -1,0 +1,4 @@
+prometheus-cpp-1.0.0-h8daca28_0
+prometheus-cpp-1.0.1-h8daca28_0
+prometheus-cpp-1.1.0-h86e9ca2_0
+prometheus-cpp-1.1.0-h86e9ca2_1

@@ -1,0 +1,8 @@
+dotnet-sdk-6.0.300-hb062e78_0
+dotnet-sdk-6.0.301-hb062e78_0
+dotnet-sdk-6.0.401-hb062e78_0
+dotnet-sdk-6.0.403-hb062e78_0
+dotnet-sdk-6.0.405-hf302d7b_0
+dotnet-sdk-6.0.408-h9e6cf05_0
+dotnet-sdk-6.0.412-h9e6cf05_0
+dotnet-sdk-6.0.417-h9e6cf05_0

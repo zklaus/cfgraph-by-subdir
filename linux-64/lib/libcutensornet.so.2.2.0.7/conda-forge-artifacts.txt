@@ -1,0 +1,6 @@
+cutensornet-2.2.0-nompi_hedba195_100
+cutensornet-2.2.0-mpi_mpich_hedba195_0
+cutensornet-2.2.0-mpi_openmpi_hedba195_0
+cutensornet-2.2.0-mpi_openmpi_hbc2648d_0
+cutensornet-2.2.0-mpi_mpich_hbc2648d_0
+cutensornet-2.2.0-nompi_hbc2648d_100

@@ -1,0 +1,2 @@
+nginx-module-njs-0.2.7-h3ae37b7_0
+nginx-module-njs-0.2.7-h3ae37b7_2

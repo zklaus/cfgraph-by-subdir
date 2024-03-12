@@ -1,0 +1,10 @@
+micropython-1.12-hd0aa502_0
+micropython-1.13-h3123e0c_0
+micropython-1.13-h2378705_1
+micropython-1.14-h728783a_0
+micropython-1.15-ha46a29e_0
+micropython-1.16-ha46a29e_0
+micropython-1.16-h2e947b6_1
+micropython-1.18-h2e947b6_0
+micropython-1.19-h65f8906_0
+micropython-1.19.1-h65f8906_0

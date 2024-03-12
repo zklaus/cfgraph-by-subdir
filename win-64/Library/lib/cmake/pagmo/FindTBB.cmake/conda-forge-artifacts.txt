@@ -1,0 +1,8 @@
+pagmo-2.11-h468caf7_0
+pagmo-2.11.1-h468caf7_0
+pagmo-2.11.2-h468caf7_0
+pagmo-2.11.3-h468caf7_0
+pagmo-2.11.4-h468caf7_0
+pagmo-2.11.4-h468caf7_1
+pagmo-devel-2.11.4-hb77bc88_2
+pagmo-devel-2.11.4-hb77bc88_3

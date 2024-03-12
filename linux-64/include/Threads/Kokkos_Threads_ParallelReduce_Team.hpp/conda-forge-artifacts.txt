@@ -1,0 +1,4 @@
+kokkos-4.2.00-h6772cb2_0
+kokkos-4.2.00-h22b3db6_0
+kokkos-4.2.00-hb7983d7_0
+kokkos-4.2.00-h69fb06d_0

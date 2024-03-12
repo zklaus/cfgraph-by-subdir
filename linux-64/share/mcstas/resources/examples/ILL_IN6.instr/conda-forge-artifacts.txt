@@ -1,0 +1,5 @@
+mcstas-core-3.4.7-hd590300_0
+mcstas-core-3.4.7-hd590300_1
+mcstas-core-3.4.7-hd590300_2
+mcstas-core-3.4.7-hd590300_3
+mcstas-core-3.4.8-hd590300_0

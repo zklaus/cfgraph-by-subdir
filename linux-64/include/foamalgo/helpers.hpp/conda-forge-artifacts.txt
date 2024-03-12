@@ -1,0 +1,7 @@
+foamalgo-0.0.4-py37h48f8a5e_0
+foamalgo-0.0.4-py38h1e42940_0
+foamalgo-0.0.4-py36h79e6602_0
+foamalgo-0.0.5-py37h48f8a5e_0
+foamalgo-0.0.5-py38h1e42940_0
+foamalgo-0.0.5-py36h79e6602_0
+foamalgo-0.0.5-hc9558a2_1

@@ -1,0 +1,5 @@
+mathics3-1.1.1-py36h903dffd_0
+mathics3-1.1.1-py39hcbf5805_0
+mathics3-1.1.1-py38h5406a74_0
+mathics3-1.1.1-py37hf967b71_0
+mathics3-1.1.1-py36h20b66c6_0

@@ -1,0 +1,8 @@
+r-bigmemory-4.6.0-r41h7525677_0
+r-bigmemory-4.6.0-r40h7525677_0
+r-bigmemory-4.6.1-r41h7525677_0
+r-bigmemory-4.6.1-r40h7525677_0
+r-bigmemory-4.6.1-r42h7525677_1
+r-bigmemory-4.6.1-r41h7525677_1
+r-bigmemory-4.6.1-r42ha503ecb_2
+r-bigmemory-4.6.1-r43ha503ecb_2

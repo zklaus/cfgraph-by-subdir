@@ -1,0 +1,4 @@
+azure-storage-queues-cpp-12.0.0-h91493d7_0
+azure-storage-queues-cpp-12.0.0-h91493d7_1
+azure-storage-queues-cpp-12.1.0-h91493d7_0
+azure-storage-queues-cpp-12.2.0-h91493d7_0

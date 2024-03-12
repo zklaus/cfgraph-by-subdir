@@ -1,0 +1,8 @@
+oauth2-proxy-5.1.1-h375a9b1_0
+oauth2-proxy-7.0.0-h990441c_0
+oauth2-proxy-7.0.1-h990441c_0
+oauth2-proxy-7.1.3-h990441c_0
+oauth2-proxy-7.1.3-h990441c_1
+oauth2-proxy-7.2.0-h990441c_0
+oauth2-proxy-7.2.1-h990441c_0
+oauth2-proxy-7.5.1-h990441c_0

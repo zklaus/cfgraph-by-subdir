@@ -1,0 +1,16 @@
+mpir-2.7.2-vc10_1
+mpir-2.7.2-vc14_1
+libgd-2.3.0-h80bb184_0
+libgd-2.3.0-heebb4dc_1
+libgd-2.3.0-h138e682_2
+libgd-2.3.2-h138e682_0
+libgd-2.3.3-h8bb91b0_0
+libgd-2.3.3-h217ff3b_1
+libgd-2.3.3-h217ff3b_2
+libgd-2.3.3-h891f43f_3
+libgd-2.3.3-hf5a96e7_4
+libgd-2.3.3-hfdcf643_5
+libgd-2.3.3-h2ed9e1d_6
+libgd-2.3.3-h99fc506_7
+libgd-2.3.3-h4c0c323_8
+libgd-2.3.3-h312136b_9

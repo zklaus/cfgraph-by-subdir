@@ -1,0 +1,12 @@
+xsimd-7.5.0-hd62202e_1
+xsimd-7.6.0-hd62202e_0
+xsimd-8.0.0-hd62202e_0
+xsimd-8.0.1-hd62202e_0
+xsimd-8.0.2-hd62202e_0
+xsimd-8.0.3-hd62202e_0
+xsimd-8.0.3-hd62202e_1
+xsimd-8.0.4-hd62202e_0
+xsimd-8.0.5-hd62202e_0
+xsimd-8.1.0-hdd96247_0
+xsimd-9.0.0-hdd96247_0
+xsimd-9.0.1-hdd96247_0

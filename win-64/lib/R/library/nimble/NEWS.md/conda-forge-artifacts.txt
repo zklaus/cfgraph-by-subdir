@@ -1,0 +1,6 @@
+r-nimble-0.13.0-r41h30befbe_0
+r-nimble-0.13.1-r41h30befbe_0
+r-nimble-0.13.2-r41h30befbe_0
+r-nimble-1.0.0-r41h30befbe_0
+r-nimble-1.0.1-r41h30befbe_0
+r-nimble-1.0.1-r41h30befbe_1

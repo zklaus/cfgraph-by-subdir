@@ -1,0 +1,16 @@
+ptscotch-6.0.9-h9271a0d_1
+ptscotch-6.0.9-h294ddb0_1
+ptscotch-6.0.9-h3b37a53_1
+ptscotch-6.0.9-h13c86b3_1
+ptscotch-6.0.9-h836f696_2
+ptscotch-6.0.9-he18ce4a_2
+ptscotch-6.1.3-he18ce4a_0
+ptscotch-6.1.3-h836f696_0
+ptscotch-7.0.2-habe6132_0
+ptscotch-7.0.2-h320e786_0
+ptscotch-7.0.3-habe6132_0
+ptscotch-7.0.3-h320e786_0
+ptscotch-7.0.3-habe6132_1
+ptscotch-7.0.3-h320e786_1
+ptscotch-7.0.4-habe6132_0
+ptscotch-7.0.4-h320e786_0

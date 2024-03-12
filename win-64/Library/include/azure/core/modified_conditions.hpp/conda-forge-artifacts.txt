@@ -1,0 +1,5 @@
+azure-core-cpp-1.10.0-h249a519_0
+azure-core-cpp-1.10.2-h249a519_0
+azure-core-cpp-1.10.2-h1a1d67c_0
+azure-core-cpp-1.10.3-h1a1d67c_0
+azure-core-cpp-1.10.3-h249a519_0

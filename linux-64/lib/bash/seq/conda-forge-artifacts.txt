@@ -1,0 +1,5 @@
+bash-5.0.011-hcee41ef_0
+bash-5.0.018-h0a1914f_0
+bash-5.1.16-hd863ed2_0
+bash-5.2.15-hfbf034d_0
+bash-5.2.15-h7f99829_1

@@ -1,0 +1,17 @@
+r-desctools-0.99.24-r341_0
+r-desctools-0.99.24-r341h26a2512_1
+r-desctools-0.99.25-r341h26a2512_0
+r-desctools-0.99.25-r351h26a2512_0
+r-desctools-0.99.25-r351h1c2f66e_1000
+r-desctools-0.99.26-r351h1606924_0
+r-desctools-0.99.27-r351h9ad8f1e_0
+r-desctools-0.99.28-r351h4333106_0
+r-desctools-0.99.28-r35h4333106_1
+r-desctools-0.99.28-r36h4333106_1
+r-desctools-0.99.28-r36h4333106_2
+r-desctools-0.99.28-r35h4333106_2
+r-desctools-0.99.29-r35h4333106_0
+r-desctools-0.99.29-r36h4333106_0
+r-desctools-0.99.32-r36h6786f55_0
+r-desctools-0.99.33-r36h6786f55_0
+r-desctools-0.99.34-r36h6786f55_0

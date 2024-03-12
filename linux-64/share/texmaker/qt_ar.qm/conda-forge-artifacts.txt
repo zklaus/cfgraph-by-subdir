@@ -1,0 +1,7 @@
+texmaker-5.0.4-h2264404_0
+texmaker-5.1.0-h2264404_0
+texmaker-5.1.1-h2264404_0
+texmaker-5.1.2-h2264404_0
+texmaker-5.1.3-h3cbd39f_0
+texmaker-5.1.3-h51e5271_1
+texmaker-5.1.4-h0c700ba_0

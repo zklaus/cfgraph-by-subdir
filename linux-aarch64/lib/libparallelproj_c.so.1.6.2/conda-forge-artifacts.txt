@@ -1,0 +1,4 @@
+libparallelproj-1.6.2-cpu_h3cca40e_0
+libparallelproj-1.6.2-cuda120_h37f0215_200
+libparallelproj-1.6.2-cuda118_h362d83c_200
+libparallelproj-1.6.2-cuda112_h74649c0_200

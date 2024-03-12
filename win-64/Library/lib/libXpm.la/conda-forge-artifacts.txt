@@ -1,0 +1,5 @@
+xorg-libxpm-3.5.12-0
+xorg-libxpm-3.5.12-vc14_0
+xorg-libxpm-3.5.12-vc9_0
+xorg-libxpm-3.5.12-hbaa294b_1
+xorg-libxpm-3.5.12-hcb389fa_1

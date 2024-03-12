@@ -1,0 +1,14 @@
+pyside6-6.6.0-py38h2cd8495_0
+pyside6-6.6.0-py311h1ad9240_0
+pyside6-6.6.0-py39h3e6d040_0
+pyside6-6.6.0-py310hc2210c7_0
+pyside6-6.6.0-py39hd776bd1_1
+pyside6-6.6.0-py312h693e8d1_1
+pyside6-6.6.0-py38hea9ca0f_1
+pyside6-6.6.0-py310h5005a96_1
+pyside6-6.6.0-py311h6a994ee_1
+pyside6-6.6.0-py38hea9ca0f_2
+pyside6-6.6.0-py312h693e8d1_2
+pyside6-6.6.0-py310h5005a96_2
+pyside6-6.6.0-py311h6a994ee_2
+pyside6-6.6.0-py39hd776bd1_2

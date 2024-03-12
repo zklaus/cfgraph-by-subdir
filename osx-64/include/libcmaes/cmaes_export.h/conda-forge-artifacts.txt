@@ -1,0 +1,14 @@
+libcmaes-0.9.6-py36hcb4cb51_0
+libcmaes-0.9.6-py37h4ca6ae1_0
+libcmaes-0.9.6.1-py36hcb4cb51_0
+libcmaes-0.9.6.1-py37h4ca6ae1_0
+libcmaes-0.9.6.1-py38h4163e68_0
+libcmaes-0.9.6.1-py39he78a6fd_1
+libcmaes-0.9.6.1-py311hcf0ffac_1
+libcmaes-0.9.6.1-py310hc084151_1
+libcmaes-0.9.6.1-py38h5c5ca36_1
+libcmaes-0.9.6.1-py310hc084151_2
+libcmaes-0.9.6.1-py312h5810552_2
+libcmaes-0.9.6.1-py39he78a6fd_2
+libcmaes-0.9.6.1-py38h5c5ca36_2
+libcmaes-0.9.6.1-py311hcf0ffac_2

@@ -1,0 +1,6 @@
+xorg-libxaw3d-1.6.2-0
+xorg-libxaw3d-1.6.3-0
+xorg-libxaw3d-1.6.3-h470a237_1
+xorg-libxaw3d-1.6.3-h470a237_2
+xorg-libxaw3d-1.6.3-h1de35cc_1002
+xorg-libxaw3d-1.6.3-h470a237_1002

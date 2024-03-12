@@ -1,0 +1,6 @@
+xorg-libx11-1.6.4-3
+xorg-libx11-1.6.4-4
+xorg-libx11-1.6.4-vc14_3
+xorg-libx11-1.6.4-vc14_4
+xorg-libx11-1.6.4-vc9_3
+xorg-libx11-1.6.4-vc9_4

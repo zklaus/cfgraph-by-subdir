@@ -1,0 +1,6 @@
+cellfinder-core-0.3.0-py310h2887b22_0
+cellfinder-core-0.3.0-py39haaf3ac1_0
+cellfinder-core-0.3.0-py38h9dc3d6a_0
+cellfinder-core-0.3.1-py310h2887b22_0
+cellfinder-core-0.3.1-py39haaf3ac1_0
+cellfinder-core-0.3.1-py38h9dc3d6a_0

@@ -1,0 +1,2 @@
+rabbitmq-server-3.7.6-0
+rabbitmq-server-3.7.7-0

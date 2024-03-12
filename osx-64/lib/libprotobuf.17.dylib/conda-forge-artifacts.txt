@@ -1,0 +1,3 @@
+libprotobuf-3.6.1-hd28b015_0
+libprotobuf-3.6.1-hd9629dc_1000
+libprotobuf-3.6.1-hd9629dc_1001

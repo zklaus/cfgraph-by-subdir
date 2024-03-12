@@ -1,0 +1,11 @@
+jsonpointer-2.4-py38he3eb160_2
+jsonpointer-2.4-py39h4420490_2
+jsonpointer-2.4-py311hec3470c_2
+jsonpointer-2.4-py39h387a52e_2
+jsonpointer-2.4-py310h4c7bcd0_2
+jsonpointer-2.4-py38he3eb160_3
+jsonpointer-2.4-py39h4420490_3
+jsonpointer-2.4-py39h387a52e_3
+jsonpointer-2.4-py310h4c7bcd0_3
+jsonpointer-2.4-py311hec3470c_3
+jsonpointer-2.4-py312h996f985_3

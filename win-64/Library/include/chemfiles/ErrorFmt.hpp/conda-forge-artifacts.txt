@@ -1,0 +1,8 @@
+chemfiles-lib-0.8.0-vc14_1
+chemfiles-lib-0.8.0-he025d50_2
+chemfiles-lib-0.8.1-he025d50_1
+chemfiles-lib-0.8.1-he025d50_2
+chemfiles-lib-0.9.0-he025d50_0
+chemfiles-lib-0.9.1-he025d50_0
+chemfiles-lib-0.9.1-he025d50_1
+chemfiles-lib-0.9.1-he025d50_2

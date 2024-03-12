@@ -1,0 +1,5 @@
+katago-1.11.0-cpu_hf79927b_0
+katago-1.11.0-cpu_hd199232_1
+katago-1.11.0-cpu_hf79927b_1
+katago-1.11.0-cpu_hd6aaa18_2
+katago-1.13.2-cpu_hd6aaa18_0

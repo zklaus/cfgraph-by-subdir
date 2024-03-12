@@ -1,0 +1,3 @@
+terraform-provider-cobbler-1.0.1-0
+terraform-provider-cobbler-1.0.1-1
+terraform-provider-cobbler-1.0.1-1001

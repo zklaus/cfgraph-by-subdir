@@ -1,0 +1,10 @@
+omicron-3.2.0-h22ba825_0
+omicron-3.2.0-hbefc3c4_1
+omicron-3.2.0-ha7393b2_2
+omicron-3.2.0-h2a4145c_3
+omicron-4.0.0-h2a4145c_0
+omicron-4.0.0-h16db3a4_1
+omicron-4.0.0-h0b91f4f_2
+omicron-4.0.0-h8bc10ce_2
+omicron-4.0.0-h7420b21_3
+omicron-4.1.0-h7420b21_0

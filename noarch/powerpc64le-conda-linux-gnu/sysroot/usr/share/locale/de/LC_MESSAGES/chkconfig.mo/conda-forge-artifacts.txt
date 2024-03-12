@@ -1,0 +1,6 @@
+chkconfig-cos7-ppc64le-1.7.4-h2da7399_1100
+chkconfig-cos7-ppc64le-1.7.4-h1795305_1101
+chkconfig-cos7-ppc64le-1.7.4-hdf0574f_1102
+chkconfig-cos7-ppc64le-1.7.4-ha826a6f_1103
+chkconfig-cos7-ppc64le-1.7.4-h9d98e8f_1104
+chkconfig-cos7-ppc64le-1.7.6-h9b0a68f_1105

@@ -1,0 +1,6 @@
+r-zipfr-0.6_70-r40hc72bb7e_0
+r-zipfr-0.6_70-r41hc72bb7e_0
+r-zipfr-0.6_70-r42hc72bb7e_1
+r-zipfr-0.6_70-r41hc72bb7e_1
+r-zipfr-0.6_70-r43hc72bb7e_2
+r-zipfr-0.6_70-r42hc72bb7e_2

@@ -1,0 +1,15 @@
+mysql-client-8.0.21-h2fd239a_0
+mysql-client-8.0.21-h2fd239a_1
+mysql-client-8.0.21-h2fd239a_2
+mysql-client-8.0.22-h8e00c18_0
+mysql-client-8.0.22-hd8bdcf3_1
+mysql-client-8.0.22-h8794b47_2
+mysql-client-8.0.22-h8794b47_3
+mysql-client-8.0.23-h8794b47_0
+mysql-client-8.0.23-h8794b47_1
+mysql-client-8.0.23-h8794b47_2
+mysql-client-8.0.24-h8794b47_0
+mysql-client-8.0.25-h8794b47_0
+mysql-client-8.0.25-ha7fd285_1
+mysql-client-8.0.25-ha7fd285_2
+mysql-client-8.0.25-ha7fd285_3

@@ -1,0 +1,13 @@
+gama-2.02-he025d50_0
+gama-2.02-he025d50_1000
+gama-2.03-he025d50_0
+gama-2.06-he025d50_0
+gama-2.09-h33f27b4_0
+gama-2.10-h33f27b4_0
+gama-2.11-h33f27b4_0
+gama-2.12-h39d44d4_0
+gama-2.13-h39d44d4_0
+gama-2.14-h39d44d4_0
+gama-2.15-h39d44d4_0
+gama-2.18-h39d44d4_0
+gama-2.19-h39d44d4_0

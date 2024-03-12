@@ -1,0 +1,14 @@
+qscintilla2-2.14.0-py38h120c9fe_0
+qscintilla2-2.14.0-py311h14ede98_0
+qscintilla2-2.14.0-py310hcf420b7_0
+qscintilla2-2.14.0-py39h0a87ed2_0
+qscintilla2-2.14.0-py312h14105d7_1
+qscintilla2-2.14.0-py38h120c9fe_1
+qscintilla2-2.14.0-py39h0a87ed2_1
+qscintilla2-2.14.0-py311h14ede98_1
+qscintilla2-2.14.0-py310hcf420b7_1
+qscintilla2-2.14.1-py39h0a87ed2_0
+qscintilla2-2.14.1-py311h14ede98_0
+qscintilla2-2.14.1-py310hcf420b7_0
+qscintilla2-2.14.1-py38h120c9fe_0
+qscintilla2-2.14.1-py312h14105d7_0

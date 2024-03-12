@@ -1,0 +1,16 @@
+libmediainfo-20.03-h0b14f55_0
+libmediainfo-21.09-h148c3ef_0
+libmediainfo-21.09-h148c3ef_1
+libmediainfo-21.09-h148c3ef_2
+libmediainfo-22.03-ha998575_0
+libmediainfo-22.03-ha998575_1
+libmediainfo-22.06-ha998575_0
+libmediainfo-22.09-ha998575_0
+libmediainfo-22.12-hca472f8_0
+libmediainfo-23.03-hca472f8_0
+libmediainfo-23.04-had58582_0
+libmediainfo-23.06-had58582_0
+libmediainfo-23.07-had58582_0
+libmediainfo-23.09-had58582_0
+libmediainfo-23.10-had58582_0
+libmediainfo-23.11-had58582_0

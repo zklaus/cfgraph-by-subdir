@@ -1,0 +1,12 @@
+stir-5.0.0-py310h9e3ec04_1
+stir-5.0.0-py39h96655cc_1
+stir-5.0.0-py37h96302ba_1
+stir-5.0.0-py38he5f93fe_1
+stir-5.0.0-py38he5f93fe_2
+stir-5.0.0-py37h96302ba_2
+stir-5.0.0-py39h96655cc_2
+stir-5.0.0-py310h9e3ec04_2
+stir-5.0.0-py37h5bfd4b6_3
+stir-5.0.0-py310h63f273e_3
+stir-5.0.0-py38h99eca4e_3
+stir-5.0.0-py39hbe385c1_3

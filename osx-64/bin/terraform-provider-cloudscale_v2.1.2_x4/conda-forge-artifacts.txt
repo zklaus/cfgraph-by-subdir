@@ -1,0 +1,1 @@
+terraform-provider-cloudscale-2.1.2-ha8a90a3_0

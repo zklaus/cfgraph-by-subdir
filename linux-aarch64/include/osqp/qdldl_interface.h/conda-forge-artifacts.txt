@@ -1,0 +1,2 @@
+libosqp-0.6.2-hd600fc2_4
+libosqp-0.6.3-h2f0025b_0

@@ -1,0 +1,5 @@
+terraform-provider-ignition-1.0.1-0
+terraform-provider-ignition-1.0.1-h14c3975_0
+terraform-provider-ignition-1.0.1-h81701ea_1
+terraform-provider-ignition-1.0.1-h81701ea_1001
+terraform-provider-ignition-1.0.1-h209b5c4_1002

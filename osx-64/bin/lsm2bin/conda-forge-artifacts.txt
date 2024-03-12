@@ -1,0 +1,16 @@
+tifffile-2019.7.26-py37h3b54f70_0
+tifffile-2019.7.26-py38h3b54f70_0
+tifffile-2019.7.26-py36h3b54f70_0
+tifffile-2019.7.26-py27h3b54f70_0
+tifffile-2019.7.26-py37h3b54f70_1
+tifffile-2019.7.26-py27h3b54f70_1
+tifffile-2019.7.26-py38h3b54f70_1
+tifffile-2019.7.26-py36h3b54f70_1
+tifffile-2019.7.26-py37_2
+tifffile-2019.7.26-py38_2
+tifffile-2019.7.26-py27_2
+tifffile-2019.7.26-py36_2
+tifffile-2019.7.26.2-py37_0
+tifffile-2019.7.26.2-py36_0
+tifffile-2019.7.26.2-py27_0
+tifffile-2019.7.26.2-py38_0

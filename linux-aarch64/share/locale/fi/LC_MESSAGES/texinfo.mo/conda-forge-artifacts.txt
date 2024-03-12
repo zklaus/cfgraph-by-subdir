@@ -1,0 +1,8 @@
+texinfo-6.6-pl526hf8c457e_0
+texinfo-6.7-pl526h46ee950_0
+texinfo-6.7-pl526he28a2e2_1
+texinfo-6.7-pl5262h10724fe_2
+texinfo-6.8-pl5262h10724fe_0
+texinfo-6.8-pl5321h10724fe_1
+texinfo-6.8-pl5321h17f021e_2
+texinfo-7.0-pl5321h17f021e_0

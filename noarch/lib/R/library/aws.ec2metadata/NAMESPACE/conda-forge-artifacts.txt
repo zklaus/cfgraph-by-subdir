@@ -1,0 +1,15 @@
+r-aws.ec2metadata-0.1.5-r351h6115d3f_1001
+r-aws.ec2metadata-0.1.5-r351h6115d3f_1002
+r-aws.ec2metadata-0.1.6-r351h6115d3f_0
+r-aws.ec2metadata-0.1.6-r36h6115d3f_1
+r-aws.ec2metadata-0.1.6-r35h6115d3f_1
+r-aws.ec2metadata-0.2.0-r35h6115d3f_0
+r-aws.ec2metadata-0.2.0-r36h6115d3f_0
+r-aws.ec2metadata-0.2.0-r36h6115d3f_1
+r-aws.ec2metadata-0.2.0-r40h6115d3f_1
+r-aws.ec2metadata-0.2.0-r41hc72bb7e_1
+r-aws.ec2metadata-0.2.0-r40hc72bb7e_1
+r-aws.ec2metadata-0.2.0-r41hc72bb7e_2
+r-aws.ec2metadata-0.2.0-r42hc72bb7e_2
+r-aws.ec2metadata-0.2.0-r43hc72bb7e_3
+r-aws.ec2metadata-0.2.0-r42hc72bb7e_3

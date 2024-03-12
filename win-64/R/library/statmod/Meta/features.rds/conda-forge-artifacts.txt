@@ -1,0 +1,5 @@
+r-statmod-1.4.30-r3.4.1_0
+r-statmod-1.4.30-r341h8933c1f_1
+r-statmod-1.4.30-r341h8933c1f_2
+r-statmod-1.4.30-r351h8933c1f_2
+r-statmod-1.4.30-r351h8933c1f_1002

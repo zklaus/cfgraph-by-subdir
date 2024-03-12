@@ -1,0 +1,9 @@
+libnetcdf-4.9.0-nompi_h996a5af_100
+libnetcdf-4.9.0-mpi_openmpi_h2fcbec1_0
+libnetcdf-4.9.0-mpi_mpich_h1ec8146_0
+libnetcdf-4.9.0-nompi_h66d6d65_101
+libnetcdf-4.9.0-mpi_mpich_h1dec8b6_1
+libnetcdf-4.9.0-mpi_openmpi_h6b085dc_1
+libnetcdf-4.9.0-nompi_h66d6d65_102
+libnetcdf-4.9.0-mpi_mpich_h1dec8b6_2
+libnetcdf-4.9.0-mpi_openmpi_h6b085dc_2

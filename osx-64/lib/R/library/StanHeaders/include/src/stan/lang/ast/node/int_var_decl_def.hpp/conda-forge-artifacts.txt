@@ -1,0 +1,13 @@
+r-stanheaders-2.14.0_1-r3.3.2_0
+r-stanheaders-2.15.0_1-r3.3.2_0
+r-stanheaders-2.15.0_1-r3.4.1_0
+r-stanheaders-2.17.2-r3.3.2_0
+r-stanheaders-2.17.2-r3.4.1_0
+r-stanheaders-2.17.2-r341hfc679d8_1
+r-stanheaders-2.17.2-r341h9d2a408_2
+r-stanheaders-2.17.2-r351h9d2a408_2
+r-stanheaders-2.18.0-r341h9d2a408_0
+r-stanheaders-2.18.0-r351h9d2a408_0
+r-stanheaders-2.18.0-r351h466af19_1000
+r-stanheaders-2.18.0_1-r351h466af19_1000
+r-stanheaders-2.18.0_1-r351h9d2a408_0

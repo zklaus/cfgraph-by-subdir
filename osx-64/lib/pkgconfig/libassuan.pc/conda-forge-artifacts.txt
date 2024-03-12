@@ -1,0 +1,7 @@
+libassuan-2.5.2-h0a44026_1000
+libassuan-2.5.3-h0a44026_0
+libassuan-2.5.3-h4a8c4bd_1
+libassuan-2.5.3-hb1e8313_1
+libassuan-2.5.4-h61578c0_0
+libassuan-2.5.5-he49afe7_0
+libassuan-2.5.6-he965462_0

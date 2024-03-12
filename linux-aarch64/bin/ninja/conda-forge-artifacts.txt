@@ -1,0 +1,13 @@
+ninja-1.9.0-h6bb024c_0
+ninja-1.9.0-hc9558a2_1
+ninja-1.10.0-hc9558a2_0
+ninja-1.10.1-h99015e2_0
+ninja-1.10.1-hbf85e49_0
+ninja-1.10.1-h499bf3f_0
+ninja-1.10.1-hdb11119_0
+ninja-1.10.1-hc9558a2_1
+ninja-1.10.1-hea5ffa9_2
+ninja-1.10.2-hd62202e_0
+ninja-1.10.2-hd62202e_1
+ninja-1.11.0-hdd96247_0
+ninja-1.11.1-hdd96247_0

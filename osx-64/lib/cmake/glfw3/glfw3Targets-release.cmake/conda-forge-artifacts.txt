@@ -1,0 +1,9 @@
+glfw-3.3.3-h0d85af4_0
+glfw-3.3.4-h0d85af4_0
+glfw-3.3.5-h0d85af4_0
+glfw-3.3.6-h0d85af4_0
+glfw-3.3.7-h5eb16cf_0
+glfw-3.3.7-hac89ed1_0
+glfw-3.3.8-hac89ed1_0
+glfw-3.3.8-h0dc2134_1
+glfw-3.3.8-h10d778d_2

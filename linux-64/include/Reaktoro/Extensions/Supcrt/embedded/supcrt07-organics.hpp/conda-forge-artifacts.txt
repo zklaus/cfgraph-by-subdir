@@ -1,0 +1,17 @@
+reaktoro-2.0.0rc1-py39h5472131_0
+reaktoro-2.0.0rc2-py39h5472131_0
+reaktoro-2.0.0rc2-py38h7faa152_0
+reaktoro-2.0.0rc2-py36hf25718c_0
+reaktoro-2.0.0rc2-py39h9da6136_0
+reaktoro-2.0.0rc2-py37h844b065_0
+reaktoro-2.0.0rc2-py37h4931ca2_0
+reaktoro-2.0.0rc3-py39h9da6136_0
+reaktoro-2.0.0rc3-py36hf25718c_0
+reaktoro-2.0.0rc3-py38h7faa152_0
+reaktoro-2.0.0rc3-py37h844b065_0
+reaktoro-2.0.0rc3-py37h4931ca2_0
+reaktoro-2.0.0rc4-py38h7faa152_0
+reaktoro-2.0.0rc4-py39h9da6136_0
+reaktoro-2.0.0rc4-py37h844b065_0
+reaktoro-2.0.0rc4-py37h4931ca2_0
+reaktoro-2.0.0rc4-py36hf25718c_0

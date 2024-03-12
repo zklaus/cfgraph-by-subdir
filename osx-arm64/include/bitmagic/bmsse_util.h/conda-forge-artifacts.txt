@@ -1,0 +1,2 @@
+bitmagic-7.12.3-hce30654_1
+bitmagic-7.13.4-hce30654_0

@@ -1,0 +1,7 @@
+mkl-devel-2019.5-282
+mkl-devel-2020.0-167
+mkl-devel-2020.1-218
+mkl-devel-2020.1-220
+mkl-devel-2020.2-257
+mkl-devel-2020.4-ha770c72_305
+mkl-devel-2020.2-ha770c72_257

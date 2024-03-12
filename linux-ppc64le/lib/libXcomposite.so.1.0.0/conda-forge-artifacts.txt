@@ -1,0 +1,3 @@
+xorg-libxcomposite-0.4.5-h4e0d66e_0
+xorg-libxcomposite-0.4.5-h4194056_1
+xorg-libxcomposite-0.4.6-h4194056_1

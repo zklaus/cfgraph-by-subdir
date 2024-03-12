@@ -1,0 +1,3 @@
+libnetworkit-10.0-h924138e_0
+libnetworkit-10.1-hf52228f_0
+libnetworkit-10.1-h00ab1b0_1

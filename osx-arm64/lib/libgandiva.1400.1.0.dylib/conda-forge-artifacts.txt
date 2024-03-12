@@ -1,0 +1,9 @@
+libarrow-gandiva-14.0.1-h2b96968_0_cpu
+libarrow-gandiva-14.0.1-h2b96968_1_cpu
+libarrow-gandiva-14.0.1-h2b96968_2_cpu
+libarrow-gandiva-14.0.1-h2b96968_3_cpu
+libarrow-gandiva-14.0.1-h2b96968_4_cpu
+libarrow-gandiva-14.0.1-h2b96968_5_cpu
+libarrow-gandiva-14.0.1-h2b96968_6_cpu
+libarrow-gandiva-14.0.1-h2b96968_7_cpu
+libarrow-gandiva-14.0.1-h2b96968_8_cpu

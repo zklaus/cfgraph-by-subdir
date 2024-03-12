@@ -1,0 +1,5 @@
+r-infotheo-1.2.0-r3.4.1_0
+r-infotheo-1.2.0-r341hca4a3dc_1
+r-infotheo-1.2.0-r341hca4a3dc_2
+r-infotheo-1.2.0-r351hca4a3dc_2
+r-infotheo-1.2.0-r351hca4a3dc_1002

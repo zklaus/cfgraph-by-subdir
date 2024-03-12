@@ -1,0 +1,3 @@
+omniscidb-5.2.2-h1234567_1_cpu
+omniscidb-5.2.2-h1234567_2_cpu
+omniscidb-5.2.2-h1234567_3_cpu

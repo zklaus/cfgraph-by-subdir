@@ -1,0 +1,7 @@
+r-infotheo-1.2.0-r3.3.2_0
+r-infotheo-1.2.0-r3.4.1_0
+r-infotheo-1.2.0-r341hfc679d8_1
+r-infotheo-1.2.0-r341hfc679d8_2
+r-infotheo-1.2.0-r351hfc679d8_2
+r-infotheo-1.2.0-r351h0a44026_1002
+r-infotheo-1.2.0-r35h6de7cb9_1003

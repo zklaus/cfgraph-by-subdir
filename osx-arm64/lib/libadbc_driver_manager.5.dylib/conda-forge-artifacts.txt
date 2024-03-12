@@ -1,0 +1,2 @@
+libadbc-driver-manager-0.5.0-h1995070_0
+libadbc-driver-manager-0.5.1-h1995070_0

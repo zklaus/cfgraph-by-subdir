@@ -1,0 +1,12 @@
+xorg-fixesproto-5.0-1
+xorg-fixesproto-5.0-hbaa294b_2
+xorg-fixesproto-5.0-hcb389fa_2
+xorg-fixesproto-5.0-h301d43c_1002
+xorg-fixesproto-5.0-hcd874cb_1002
+xorg-xorgproto-2021.4-hcd874cb_0
+xorg-xorgproto-2021.5-hcd874cb_0
+xorg-xorgproto-2022.1-hcd874cb_0
+xorg-xorgproto-2022.2-hcd874cb_0
+xorg-xorgproto-2022.2-hcd874cb_1
+xorg-xorgproto-2023.1-hcd874cb_0
+xorg-xorgproto-2023.2-hcd874cb_0

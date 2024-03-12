@@ -1,0 +1,11 @@
+r-narray-0.4.0-r341h6115d3f_0
+r-narray-0.4.1-r341h6115d3f_0
+r-narray-0.4.1-r351h6115d3f_1
+r-narray-0.4.1-r341h6115d3f_1
+r-narray-0.5.0-r40h64890a7_0
+r-narray-0.5.0-r41h64890a7_0
+r-narray-0.5.1-r41h49197e3_0
+r-narray-0.5.1-r41h49197e3_1
+r-narray-0.5.1-r42h49197e3_1
+r-narray-0.5.1-r42hac7d2d5_2
+r-narray-0.5.1-r43hac7d2d5_2

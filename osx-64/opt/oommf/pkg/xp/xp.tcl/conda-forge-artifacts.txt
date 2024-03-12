@@ -1,0 +1,6 @@
+oommf-2.0a2-h986adc9_1
+oommf-2.0a2-h986adc9_2
+oommf-2.0a3-h59b422c_0
+oommf-2.0a3-h7ed976a_1
+oommf-2.0b0-ha266ebe_0
+oommf-2.0b0.post1-h72edba1_0

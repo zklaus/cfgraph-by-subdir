@@ -1,0 +1,8 @@
+xeus-python-0.6.7-py27ha1b3eb9_0
+xeus-python-0.6.7-py36ha1b3eb9_0
+xeus-python-0.6.7-py38ha1b3eb9_0
+xeus-python-0.6.7-py37ha1b3eb9_0
+xeus-python-0.6.7-py38ha1b3eb9_1
+xeus-python-0.6.7-py37ha1b3eb9_1
+xeus-python-0.6.7-py36ha1b3eb9_1
+xeus-python-0.6.7-py27ha1b3eb9_1

@@ -1,0 +1,12 @@
+xz-5.0.5-1
+xz-5.2.2-0
+xz-5.2.3-0
+xz-5.2.4-h470a237_0
+xz-5.2.4-h470a237_1
+xz-5.2.4-h1de35cc_1001
+xz-5.2.4-h0b31af3_1002
+xz-5.2.5-h0b31af3_0
+xz-static-5.2.5-h0b31af3_1
+xz-static-5.2.5-haf1e3a3_1
+xz-static-5.2.6-h775f41a_0
+xz-static-5.2.9-hb7f2c08_0

@@ -1,0 +1,10 @@
+pycppad-1.2.0-py37h2d7f23a_0
+pycppad-1.2.0-py37hb7e7899_0
+pycppad-1.2.0-py39h1e32b98_0
+pycppad-1.2.0-py38h40e05ec_0
+pycppad-1.2.0-py36heb4ae3e_0
+pycppad-1.2.0-py38h8037b8a_1
+pycppad-1.2.0-py37h8350a8f_1
+pycppad-1.2.0-py39h71bd303_1
+pycppad-1.2.0-py37hc648c87_1
+pycppad-1.2.0-py310hf80304f_1

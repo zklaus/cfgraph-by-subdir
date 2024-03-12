@@ -1,0 +1,4 @@
+r-spatialreg-1.2_1-r40hd2e18ed_0
+r-spatialreg-1.2_1-r40hd2e18ed_1
+r-spatialreg-1.2_3-r40hd2e18ed_0
+r-spatialreg-1.2_5-r40hb9981e2_0

@@ -1,0 +1,4 @@
+asio-1.26.0-hb7217d7_0
+asio-1.27.0-hb7217d7_0
+asio-1.28.0-h13dd4ca_0
+asio-1.28.1-h13dd4ca_0

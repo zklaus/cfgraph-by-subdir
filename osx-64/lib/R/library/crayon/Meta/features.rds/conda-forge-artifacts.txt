@@ -1,0 +1,4 @@
+r-crayon-1.3.2-r3.4.1_0
+r-crayon-1.3.4-r3.4.1_0
+r-crayon-1.3.4-r341h6115d3f_1
+r-crayon-1.3.4-r351h6115d3f_1

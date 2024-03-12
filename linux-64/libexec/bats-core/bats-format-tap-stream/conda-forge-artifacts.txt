@@ -1,0 +1,4 @@
+bats-core-1.0.2-0
+bats-core-1.1.0-0
+bats-core-1.1.0-1
+bats-core-1.2.0-0

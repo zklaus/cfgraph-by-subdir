@@ -1,0 +1,11 @@
+opencamlib-2019.07-py310h38211d3_4
+opencamlib-2019.07-py39hd85083b_4
+opencamlib-2019.07-py38h524d572_4
+opencamlib-2019.07-py38h17bbaa0_5
+opencamlib-2019.07-py310h07f826d_5
+opencamlib-2019.07-py38h2f12907_6
+opencamlib-2019.07-py310h9df1a2c_6
+opencamlib-2019.07-py310h9df1a2c_7
+opencamlib-2019.07-py39h8f4c4af_7
+opencamlib-2019.07-py38h2f12907_7
+opencamlib-2019.07-py311hee587a1_7

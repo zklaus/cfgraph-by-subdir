@@ -1,0 +1,8 @@
+mpir-2.7.2-0
+mpir-2.7.2-1
+mpir-2.7.2-2
+mpir-2.7.2-3
+mpir-2.7.3.dev0-0
+mpir-2.7.3.dev0-1
+mpir-3.0.0-0
+mpir-3.0.0-hfc679d8_1

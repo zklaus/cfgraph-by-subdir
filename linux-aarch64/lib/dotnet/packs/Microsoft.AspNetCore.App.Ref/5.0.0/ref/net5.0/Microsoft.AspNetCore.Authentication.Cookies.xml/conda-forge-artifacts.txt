@@ -1,0 +1,8 @@
+dotnet-sdk-5.0.202-h25a8a10_3
+dotnet-sdk-5.0.203-h25a8a10_0
+dotnet-sdk-5.0.403-h25a8a10_0
+dotnet-sdk-5.0.404-h25a8a10_0
+dotnet-sdk-5.0.405-h25a8a10_0
+dotnet-sdk-5.0.406-hb062e78_0
+dotnet-sdk-5.0.407-hb062e78_0
+dotnet-sdk-5.0.408-hb062e78_0

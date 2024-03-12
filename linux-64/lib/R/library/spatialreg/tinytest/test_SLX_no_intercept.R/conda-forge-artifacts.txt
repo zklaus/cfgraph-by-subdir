@@ -1,0 +1,8 @@
+r-spatialreg-1.2_8-r41he1ae0d6_0
+r-spatialreg-1.2_8-r42he1ae0d6_0
+r-spatialreg-1.2_9-r42h316c678_0
+r-spatialreg-1.2_9-r41h316c678_0
+r-spatialreg-1.2_9-r43h316c678_1
+r-spatialreg-1.2_9-r42h316c678_1
+r-spatialreg-1.3_1-r43h316c678_0
+r-spatialreg-1.3_1-r42h316c678_0

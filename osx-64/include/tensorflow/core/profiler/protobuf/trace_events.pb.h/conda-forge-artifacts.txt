@@ -1,0 +1,8 @@
+libtensorflow_cc-2.8.0-cpu_he5af24d_0
+libtensorflow_cc-2.8.1-cpu_h5b67d77_0
+libtensorflow_cc-2.9.1-cpu_h6b62bad_0
+libtensorflow_cc-2.10.0-cpu_h184dcb9_0
+libtensorflow_cc-2.11.0-cpu_ha1346e6_0
+libtensorflow_cc-2.11.0-cpu_hdd08f3e_1
+libtensorflow_cc-2.11.1-cpu_haaa568a_0
+libtensorflow_cc-2.14.0-cpu_hf250fc6_0

@@ -1,0 +1,3 @@
+xorg-libsm-1.2.3-h83de47b_1000
+xorg-libsm-1.2.3-h743bd3d_1000
+xorg-libsm-1.2.4-heec23bc_0

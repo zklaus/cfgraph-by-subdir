@@ -1,0 +1,12 @@
+sherlockml-dataclean-0.2.2-py27_0
+sherlockml-dataclean-0.2.2-py36_0
+sherlockml-dataclean-0.2.2-py27_1000
+sherlockml-dataclean-0.2.2-py36_1000
+sherlockml-dataclean-0.2.2-py37_1000
+sherlockml-dataclean-0.2.2-py36h9f0ad1d_1001
+sherlockml-dataclean-0.2.2-py37hc8dfbb8_1001
+sherlockml-dataclean-0.2.2-py38h32f6830_1001
+sherlockml-dataclean-0.2.2-py39h6e9494a_1002
+sherlockml-dataclean-0.2.2-py38h50d1736_1002
+sherlockml-dataclean-0.2.2-py36h79c6626_1002
+sherlockml-dataclean-0.2.2-py37hf985489_1002

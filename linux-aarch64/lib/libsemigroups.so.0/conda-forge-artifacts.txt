@@ -1,0 +1,2 @@
+libsemigroups-1.0.3-he1b5a44_0
+libsemigroups-0.6.7-he1b5a44_2

@@ -1,0 +1,7 @@
+scikit-network-0.27.1-py38hb7a56ff_0
+scikit-network-0.27.1-py310hd1a16b9_0
+scikit-network-0.27.1-py39h17be4e2_0
+scikit-network-0.27.1-py311ha8db355_1
+scikit-network-0.27.1-py39h17be4e2_1
+scikit-network-0.27.1-py310hd1a16b9_1
+scikit-network-0.27.1-py38hb7a56ff_1

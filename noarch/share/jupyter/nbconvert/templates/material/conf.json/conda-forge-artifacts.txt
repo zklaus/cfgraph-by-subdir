@@ -1,0 +1,6 @@
+voila-material-0.4.0-py_0
+voila-material-0.4.0-pyhd8ed1ab_1
+voila-material-0.4.0-pyhd8ed1ab_2
+voila-material-0.4.1-pyhd8ed1ab_0
+voila-material-0.4.2-pyhd8ed1ab_0
+voila-material-0.4.3-pyhd8ed1ab_0

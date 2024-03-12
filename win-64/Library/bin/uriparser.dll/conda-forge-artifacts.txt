@@ -1,0 +1,6 @@
+uriparser-0.9.3-hc56fc5f_0
+uriparser-0.9.3-h6538335_0
+uriparser-0.9.3-he025d50_1
+uriparser-0.9.5-h39d44d4_0
+uriparser-0.9.7-h1537add_0
+uriparser-0.9.7-h1537add_1

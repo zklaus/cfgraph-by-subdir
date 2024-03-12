@@ -1,0 +1,15 @@
+r-segmented-1.1_0-r35h6115d3f_0
+r-segmented-1.1_0-r36h6115d3f_0
+r-segmented-1.1_0-r36h6115d3f_1
+r-segmented-1.1_0-r40h6115d3f_1
+r-segmented-1.2_0-r36h6115d3f_0
+r-segmented-1.2_0-r40h6115d3f_0
+r-segmented-1.3_0-r40h142f84f_0
+r-segmented-1.3_0-r36h142f84f_0
+r-segmented-1.3_1-r40hc72bb7e_0
+r-segmented-1.3_1-r36hc72bb7e_0
+r-segmented-1.3_2-r40hc72bb7e_0
+r-segmented-1.3_2-r36hc72bb7e_0
+r-segmented-1.3_4-r36hc72bb7e_0
+r-segmented-1.3_4-r41hc72bb7e_0
+r-segmented-1.3_4-r40hc72bb7e_0

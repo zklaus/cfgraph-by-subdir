@@ -1,0 +1,6 @@
+taskipy-1.12.2-py312h3645c4a_0
+taskipy-1.12.2-py38hc23d278_0
+taskipy-1.12.2-py311h633711f_0
+taskipy-1.12.2-py310h29c5123_0
+taskipy-1.12.2-py39h97a2661_0
+taskipy-1.12.2-py39h46a1287_0

@@ -1,0 +1,9 @@
+setuptools-32.3.0-py36_0
+setuptools-32.3.1-py36_0
+setuptools-33.1.0-py36_0
+setuptools-33.1.1-py36_0
+setuptools-36.2.0-py36_0
+setuptools-36.2.2-py36_0
+setuptools-36.3.0-py36_0
+setuptools-36.6.0-py36_0
+pyamg-4.0.0-py36h8300f20_1000

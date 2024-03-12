@@ -1,0 +1,6 @@
+r-textminer-3.0.5-r41h03ef668_0
+r-textminer-3.0.5-r40h03ef668_0
+r-textminer-3.0.5-r41h7525677_1
+r-textminer-3.0.5-r42h7525677_1
+r-textminer-3.0.5-r42ha503ecb_2
+r-textminer-3.0.5-r43ha503ecb_2

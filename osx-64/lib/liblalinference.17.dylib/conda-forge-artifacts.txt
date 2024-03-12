@@ -1,0 +1,13 @@
+lalinference-1.11.0-hcc68c30_0
+lalinference-1.11.1-hcc68c30_0
+lalinference-1.11.1-h44072c3_1
+lalinference-1.11.2-hc66d1d9_0
+lalinference-1.11.2-h2913f75_1
+lalinference-1.11.2-h2913f75_2
+lalinference-1.11.4-h113f514_2
+lalinference-1.11.5-h113f514_0
+lalinference-1.11.5-he520ccc_1
+lalinference-1.11.6-h113f514_0
+lalinference-1.11.6-he520ccc_1
+lalinference-1.11.6-he520ccc_2
+lalinference-1.11.7-he520ccc_0

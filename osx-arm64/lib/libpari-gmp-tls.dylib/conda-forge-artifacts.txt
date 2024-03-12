@@ -1,0 +1,8 @@
+pari-2.11.4-h1cd4dcc_1
+pari-2.13.2-h95ccf47_1_pthread
+pari-2.13.2-hb7e482d_1_pthread
+pari-2.13.3-h95ccf47_1_pthread
+pari-2.13.3-hb7e482d_1_pthread
+pari-2.15.2-hee76a8e_2_pthread
+pari-2.15.3-hee76a8e_2_pthread
+pari-2.15.4-haeeeed7_2_pthread

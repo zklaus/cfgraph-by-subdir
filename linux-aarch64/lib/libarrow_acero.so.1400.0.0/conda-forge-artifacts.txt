@@ -1,0 +1,2 @@
+libarrow-acero-14.0.0-h2f0025b_0_cpu
+libarrow-acero-14.0.0-h4de3ea5_0_cuda

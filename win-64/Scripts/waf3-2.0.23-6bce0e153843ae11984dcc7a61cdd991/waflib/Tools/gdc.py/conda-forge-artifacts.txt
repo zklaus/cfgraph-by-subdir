@@ -1,0 +1,7 @@
+pyinstaller-4.8-py38hd0d6af5_0
+pyinstaller-4.9-py38hd0d6af5_0
+pyinstaller-4.9-py38hd0d6af5_1
+pyinstaller-4.10-py38hd0d6af5_0
+pyinstaller-5.0-py38hd0d6af5_0
+pyinstaller-5.0.1-py38hd0d6af5_0
+pyinstaller-5.1-py38hd0d6af5_0

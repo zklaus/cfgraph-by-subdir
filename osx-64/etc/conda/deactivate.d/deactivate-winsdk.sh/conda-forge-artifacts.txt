@@ -1,0 +1,13 @@
+winsdk-10.0.17763.0-he0c64b4_4
+winsdk-10.0.17763.0-hd6d559d_5
+winsdk-10.0.17763.0-hd6d559d_6
+winsdk-10.0.17763.0-hdcd9423_0
+winsdk-10.0.17763.0-h716e03d_2
+winsdk-10.0.17763.0-h716e03d_0
+winsdk-10.0.22621.0-hab1ab0b_1
+winsdk-10.0.22621.0-h7196ab8_1
+winsdk-10.0.22621.0-h7196ab8_2
+winsdk-10.0.22621.0-hab1ab0b_2
+winsdk-10.0.22621.0-h97863ab_2
+winsdk-10.0.22621.0-h5af613e_3
+winsdk-10.0.22621.0-h8ed7f03_3

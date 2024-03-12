@@ -1,0 +1,8 @@
+river-ingester-1.0.10-h8628b72_0
+river-ingester-1.0.10-he2162a1_0
+river-ingester-1.0.10-h43e4870_0
+river-ingester-1.0.10-h3b0a54b_0
+river-ingester-1.0.10-hbf0e34b_1
+river-ingester-1.0.10-h85a43d0_1
+river-ingester-1.0.10-he1ca6ac_1
+river-ingester-1.0.10-hb20fa83_1

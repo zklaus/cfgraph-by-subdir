@@ -1,0 +1,7 @@
+libjxl-0.7.0-h04a2554_1
+libjxl-0.8.0-hd419ce0_0
+libjxl-0.8.1-hd419ce0_0
+libjxl-0.8.1-hd419ce0_1
+libjxl-0.8.2-ha575a3e_0
+libjxl-0.8.2-ha575a3e_1
+libjxl-0.8.2-ha575a3e_2

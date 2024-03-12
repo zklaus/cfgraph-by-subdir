@@ -1,0 +1,17 @@
+fftw-3.3.10-mpi_openmpi_h19b2a9c_3
+fftw-3.3.10-nompi_h6e8bf23_103
+fftw-3.3.10-mpi_mpich_h6ce47c3_3
+fftw-3.3.10-mpi_openmpi_h7f3849b_4
+fftw-3.3.10-nompi_h4fa670e_4
+fftw-3.3.10-nompi_h4fa670e_105
+fftw-3.3.10-mpi_openmpi_h7f3849b_5
+fftw-3.3.10-mpi_mpich_h4a8b384_5
+fftw-3.3.10-mpi_mpich_h4a8b384_6
+fftw-3.3.10-mpi_openmpi_h7f3849b_6
+fftw-3.3.10-nompi_h4fa670e_106
+fftw-3.3.10-nompi_h4fa670e_107
+fftw-3.3.10-mpi_mpich_h4a8b384_7
+fftw-3.3.10-mpi_openmpi_h7f3849b_7
+fftw-3.3.10-mpi_openmpi_h7f3849b_8
+fftw-3.3.10-mpi_mpich_h4a8b384_8
+fftw-3.3.10-nompi_h4fa670e_108

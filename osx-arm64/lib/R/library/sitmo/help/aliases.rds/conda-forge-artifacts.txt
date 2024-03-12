@@ -1,0 +1,6 @@
+r-sitmo-2.0.2-r40h39468a4_0
+r-sitmo-2.0.2-r41h39468a4_0
+r-sitmo-2.0.2-r42h9a38a31_1
+r-sitmo-2.0.2-r41h9a38a31_1
+r-sitmo-2.0.2-r42he62749d_2
+r-sitmo-2.0.2-r43he62749d_2

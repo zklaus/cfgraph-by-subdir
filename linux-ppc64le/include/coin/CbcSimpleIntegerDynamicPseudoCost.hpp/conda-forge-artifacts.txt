@@ -1,0 +1,5 @@
+coincbc-2.10.5-hcf1b700_1
+coin-or-cbc-2.10.8-h191bf1f_0
+coin-or-cbc-2.10.9-h82ff7f7_0
+coin-or-cbc-2.10.9-h82ff7f7_1
+coin-or-cbc-2.10.10-h82ff7f7_0

@@ -1,0 +1,2 @@
+pyreadstat-0.2.5-py37ha441bb4_0
+pyreadstat-0.2.5-py36ha441bb4_0

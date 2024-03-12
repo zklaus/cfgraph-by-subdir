@@ -1,0 +1,6 @@
+ptscotch-6.0.9-h50d10c7_1
+ptscotch-6.0.9-h14136ff_1
+ptscotch-6.0.9-hfc6c32b_1
+ptscotch-6.0.9-hdd79083_1
+ptscotch-6.0.9-h98907d5_2
+ptscotch-6.0.9-h1290c27_2

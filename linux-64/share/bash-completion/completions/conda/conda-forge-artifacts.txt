@@ -1,0 +1,5 @@
+conda-bash-completion-1.5-0
+conda-bash-completion-1.5-1
+conda-bash-completion-1.6-ha770c72_0
+conda-bash-completion-1.7-ha770c72_0
+conda-bash-completion-1.7-ha770c72_1

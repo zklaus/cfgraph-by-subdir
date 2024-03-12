@@ -1,0 +1,12 @@
+r-fgarch-4021.87-r41h225c1e1_0
+r-fgarch-4021.87-r40h225c1e1_0
+r-fgarch-4021.87-r41h1e4e481_1
+r-fgarch-4021.87-r42h1e4e481_1
+r-fgarch-4021.88-r41h1e4e481_0
+r-fgarch-4021.88-r42h1e4e481_0
+r-fgarch-4022.89-r41h1e4e481_0
+r-fgarch-4022.89-r42h1e4e481_0
+r-fgarch-4022.89-r42hfe07776_1
+r-fgarch-4022.89-r43hfe07776_1
+r-fgarch-4031.90-r43hed23af9_0
+r-fgarch-4031.90-r42hed23af9_0

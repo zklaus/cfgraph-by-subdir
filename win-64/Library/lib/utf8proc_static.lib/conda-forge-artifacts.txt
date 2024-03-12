@@ -1,0 +1,8 @@
+libutf8proc-2.2.0-h0c8e037_0
+libutf8proc-2.2.0-hfa6e2cd_0
+libutf8proc-2.2.0-h0c8e037_1
+libutf8proc-2.2.0-hfa6e2cd_1
+libutf8proc-2.4.0-h52329aa_0
+libutf8proc-2.4.0-hb66647a_0
+libutf8proc-2.5.0-hb66647a_0
+libutf8proc-2.5.0-h9e6e254_1

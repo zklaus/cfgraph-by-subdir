@@ -1,0 +1,12 @@
+muscat-core-2.0.0-py38had74f05_0
+muscat-core-2.0.0-py311h156c9e9_0
+muscat-core-2.0.0-py310he6af29b_0
+muscat-core-2.0.0-py39he118287_0
+muscat-core-2.0.0-py311h156c9e9_1
+muscat-core-2.0.0-py39he118287_1
+muscat-core-2.0.0-py310he6af29b_1
+muscat-core-2.0.0-py38had74f05_1
+muscat-core-2.0.1-py310hb676cb4_0
+muscat-core-2.0.1-py311h97b577b_0
+muscat-core-2.0.1-py38h43a9bf0_0
+muscat-core-2.0.1-py39ha84eda2_0

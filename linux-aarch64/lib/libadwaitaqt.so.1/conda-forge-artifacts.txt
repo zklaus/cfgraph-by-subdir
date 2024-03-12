@@ -1,0 +1,2 @@
+adwaita-qt-1.4.2-hd600fc2_0
+adwaita-qt-1.4.2-hc3bbf29_1

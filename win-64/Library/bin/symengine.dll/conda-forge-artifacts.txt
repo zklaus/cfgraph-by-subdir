@@ -1,0 +1,8 @@
+symengine-0.2.0-vc14_0
+symengine-0.2.0-vc14_1
+symengine-0.3.0-vc14_0
+symengine-0.3.0-vc14_1
+symengine-0.3.0-h661a5dd_2
+symengine-0.3.0-hf5ebb56_1003
+symengine-0.4.0-hf5ebb56_0
+symengine-0.4.1-hf5ebb56_0

@@ -1,0 +1,1 @@
+terraform-provider-azurerm-2.48.0-h73c3971_0

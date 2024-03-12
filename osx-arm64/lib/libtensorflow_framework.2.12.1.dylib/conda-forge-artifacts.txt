@@ -1,0 +1,4 @@
+libtensorflow-2.12.1-cpu_h3438d36_0
+libtensorflow_cc-2.12.1-cpu_h34875b8_0
+libtensorflow-2.12.1-cpu_h8bdb520_1
+libtensorflow_cc-2.12.1-cpu_hd34dfa9_1

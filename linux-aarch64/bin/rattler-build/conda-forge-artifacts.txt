@@ -1,0 +1,4 @@
+rattler-build-0.4.0-h92c2520_1
+rattler-build-0.5.0-h92c2520_1
+rattler-build-0.5.1-h92c2520_0
+rattler-build-0.5.2-h92c2520_0

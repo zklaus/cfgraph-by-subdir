@@ -1,0 +1,17 @@
+polycap-1.2-py311h90c63de_1
+polycap-1.2-py38hc511b68_1
+polycap-1.2-py310hfebc56a_1
+polycap-1.2-py39h620ab50_1
+polycap-1.2-py311h9b89549_2
+polycap-1.2-py38ha38b89d_2
+polycap-1.2-py310he1b6d69_2
+polycap-1.2-py39h3aebd09_2
+polycap-1.2-py311h361db0b_3
+polycap-1.2-py38h28765ba_3
+polycap-1.2-py39h9a92469_3
+polycap-1.2-py310he2349d3_3
+polycap-1.2-py312ha2acd61_4
+polycap-1.2-py310he2349d3_4
+polycap-1.2-py39h9a92469_4
+polycap-1.2-py311h361db0b_4
+polycap-1.2-py38h28765ba_4

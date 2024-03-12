@@ -1,0 +1,3 @@
+libopenvino-intel-gpu-plugin-2023.0.1-h59595ed_1
+libopenvino-intel-gpu-plugin-2023.0.1-h59595ed_2
+libopenvino-intel-gpu-plugin-2023.0.1-h59595ed_3

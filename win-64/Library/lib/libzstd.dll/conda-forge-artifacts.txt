@@ -1,0 +1,10 @@
+zstd-1.1.3-vc14_0
+zstd-1.1.3-vc9_0
+zstd-1.1.4-vc14_0
+zstd-1.1.4-vc9_0
+zstd-1.2.0-vc14_0
+zstd-1.2.0-vc14_1
+zstd-1.2.0-vc9_0
+zstd-1.2.0-vc9_1
+zstd-1.3.2-vc14_0
+zstd-1.3.2-vc9_0

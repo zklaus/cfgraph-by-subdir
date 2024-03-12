@@ -1,0 +1,6 @@
+qscintilla2-2.9.3-py27_0
+qscintilla2-2.9.3-py27_1
+qscintilla2-2.9.3-py34_0
+qscintilla2-2.9.3-py34_1
+qscintilla2-2.9.3-py35_0
+qscintilla2-2.9.3-py35_1

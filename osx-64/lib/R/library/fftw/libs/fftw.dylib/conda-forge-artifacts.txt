@@ -1,0 +1,13 @@
+r-fftw-1.0_6-r36h17f1fa6_0
+r-fftw-1.0_6-r40h17f1fa6_1
+r-fftw-1.0_6-r36h17f1fa6_1
+r-fftw-1.0_6-r41h28b5c78_1
+r-fftw-1.0_6-r40h28b5c78_1
+r-fftw-1.0_6.1-r40h28b5c78_0
+r-fftw-1.0_6.1-r41h28b5c78_0
+r-fftw-1.0_7-r41h0f1d5c4_0
+r-fftw-1.0_7-r40h0f1d5c4_0
+r-fftw-1.0_7-r42h815d134_1
+r-fftw-1.0_7-r41h815d134_1
+r-fftw-1.0_7-r42h6dc245f_2
+r-fftw-1.0_7-r43h6dc245f_2

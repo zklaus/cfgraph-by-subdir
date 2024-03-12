@@ -1,0 +1,12 @@
+r-superpc-1.09-r351h6115d3f_1000
+r-superpc-1.09-r35h6115d3f_1001
+r-superpc-1.09-r40h6115d3f_1002
+r-superpc-1.09-r36h6115d3f_1002
+r-superpc-1.12-r40h142f84f_0
+r-superpc-1.12-r36h142f84f_0
+r-superpc-1.12-r40hc72bb7e_0
+r-superpc-1.12-r41hc72bb7e_0
+r-superpc-1.12-r42hc72bb7e_1
+r-superpc-1.12-r41hc72bb7e_1
+r-superpc-1.12-r43hc72bb7e_2
+r-superpc-1.12-r42hc72bb7e_2

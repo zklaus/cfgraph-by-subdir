@@ -1,0 +1,3 @@
+pyreports-1.5.0-pyhd8ed1ab_0
+pyreports-1.5.1-pyhd8ed1ab_0
+pyreports-1.6.0-pyhd8ed1ab_0

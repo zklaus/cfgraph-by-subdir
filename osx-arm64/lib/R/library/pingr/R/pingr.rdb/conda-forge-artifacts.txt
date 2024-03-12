@@ -1,0 +1,4 @@
+r-pingr-2.0.2-r41h5d63f41_0
+r-pingr-2.0.2-r42h5d63f41_0
+r-pingr-2.0.2-r42h21dc0da_1
+r-pingr-2.0.2-r43h21dc0da_1

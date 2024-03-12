@@ -1,0 +1,12 @@
+brotli-1.0.9-hc88da5d_0
+brotli-1.0.9-hb904e53_0
+brotli-1.0.9-hb904e53_1
+brotli-1.0.9-hb904e53_2
+brotli-1.0.9-hb904e53_3
+brotli-1.0.9-h9f76cd9_4
+brotli-1.0.9-hbdafb3b_4
+libbrotlienc-1.0.9-h3422bc3_5
+libbrotlienc-1.0.9-h3422bc3_6
+libbrotlienc-1.0.9-h1c322ee_7
+libbrotlienc-1.0.9-h1a8c8d9_8
+libbrotlienc-1.0.9-h1a8c8d9_9

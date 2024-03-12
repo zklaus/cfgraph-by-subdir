@@ -1,0 +1,17 @@
+lapack-3.6.1-1
+lapack-3.6.1-h8933c1f_2
+libblas-3.8.0-2_h8933c1f_netlib
+libblas-3.8.0-3_h8933c1f_netlib
+libblas-3.8.0-4_h8933c1f_netlib
+libblas-3.8.0-5_h8933c1f_netlib
+libblas-3.8.0-6_h8933c1f_netlib
+libblas-3.8.0-7_h8933c1f_netlib
+libblas-3.8.0-8_h8933c1f_netlib
+libblas-3.8.0-10_h8933c1f_netlib
+libblas-3.8.0-11_h8933c1f_netlib
+libblas-3.9.0-0_h8933c1f_netlib
+libblas-3.9.0-1_h8933c1f_netlib
+libblas-3.9.0-2_h8933c1f_netlib
+libblas-3.9.0-3_hd5c7e75_netlib
+libblas-3.9.0-4_hd5c7e75_netlib
+libblas-3.9.0-5_hd5c7e75_netlib

@@ -1,0 +1,5 @@
+dotnet-sdk-7.0.100-h674eb6b_0
+dotnet-sdk-7.0.102-h674eb6b_0
+dotnet-sdk-7.0.400-ha99ce8b_0
+dotnet-sdk-7.0.400-hba4e794_0
+dotnet-sdk-7.0.404-ha659e4c_0

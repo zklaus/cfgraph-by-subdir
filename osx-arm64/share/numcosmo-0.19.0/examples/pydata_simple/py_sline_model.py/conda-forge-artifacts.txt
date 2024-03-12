@@ -1,0 +1,5 @@
+numcosmo-0.19.0-py310h2bc72cd_0
+numcosmo-0.19.0-py39hbf6a865_0
+numcosmo-0.19.0-py38h0d420ed_0
+numcosmo-0.19.0-py311hbff3adf_0
+numcosmo-0.19.0-py312h7a6a05f_0

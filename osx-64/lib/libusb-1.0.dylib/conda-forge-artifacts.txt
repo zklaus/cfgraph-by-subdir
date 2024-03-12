@@ -1,0 +1,12 @@
+libusb-1.0.22-h6de7cb9_0
+libusb-1.0.23-h6de7cb9_0
+libusb-1.0.23-h4a8c4bd_1
+libusb-1.0.23-h4a8c4bd_2
+libusb-1.0.23-hb1e8313_3
+libusb-1.0.24-h046ec9c_0
+libusb-1.0.24-h1c7c35f_1
+libusb-1.0.24-he49afe7_2
+libusb-1.0.24-h0d85af4_4
+libusb-1.0.24-h0d85af4_105
+libusb-1.0.25-hdfbd463_100
+libusb-1.0.26-hc2f2c32_100

@@ -1,0 +1,13 @@
+xeus-0.16.0-h04f5b5a_1000
+xeus-0.17.0-h04f5b5a_1000
+xeus-0.18.0-h04f5b5a_1000
+xeus-0.18.1-h04f5b5a_1000
+xeus-0.19.0-h770b8ee_0
+xeus-0.19.0-h770b8ee_1
+xeus-0.19.1-h770b8ee_1
+xeus-0.19.1-h770b8ee_2
+xeus-0.19.1-h770b8ee_3
+xeus-0.19.2-h770b8ee_0
+xeus-0.19.3-h770b8ee_0
+xeus-0.20.0-h770b8ee_0
+xeus-0.20.0-h770b8ee_1

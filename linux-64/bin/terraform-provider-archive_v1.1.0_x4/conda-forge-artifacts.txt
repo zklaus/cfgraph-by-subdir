@@ -1,0 +1,2 @@
+terraform-provider-archive-1.1.0-1000
+terraform-provider-archive-1.1.0-h209b5c4_1001

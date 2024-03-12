@@ -1,0 +1,6 @@
+pygraphviz-1.4rc1-py27_0
+pygraphviz-1.4rc1-py35_0
+pygraphviz-1.4rc1-py36_0
+pygraphviz-1.4rc1-py27h470a237_0
+pygraphviz-1.4rc1-py35h470a237_0
+pygraphviz-1.4rc1-py36h470a237_0

@@ -1,0 +1,9 @@
+cryptominisat-5.0.2-py27_0
+cryptominisat-5.0.2-py27_1
+cryptominisat-5.0.2-py35_0
+cryptominisat-5.0.2-py35_1
+cryptominisat-5.0.2-py36_0
+cryptominisat-5.0.2-py36_1
+cryptominisat-5.6.0-py27he941832_0
+cryptominisat-5.6.0-py36he941832_0
+cryptominisat-5.6.0-py35he941832_0

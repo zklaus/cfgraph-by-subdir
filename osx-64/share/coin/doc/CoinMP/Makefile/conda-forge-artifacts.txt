@@ -1,0 +1,10 @@
+coinmp-1.8.3-0
+coinmp-1.8.3-1
+coinmp-1.8.3-h14f21a1_1
+coinmp-1.8.3-h12c3663_1001
+coinmp-1.8.4-h6a2fb71_0
+coinmp-1.8.4-h852bcba_1
+coinmp-1.8.4-hdf282c7_2
+coinmp-1.8.4-h852bcba_2
+coinmp-1.8.4-he7a9ab4_3
+coinmp-1.8.4-h4cbccac_3

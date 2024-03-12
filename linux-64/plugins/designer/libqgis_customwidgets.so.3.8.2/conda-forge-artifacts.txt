@@ -1,0 +1,2 @@
+qgis-3.8.2-py37hee8cbbe_0
+qgis-3.8.2-py36hee8cbbe_0

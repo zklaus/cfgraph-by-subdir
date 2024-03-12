@@ -1,0 +1,16 @@
+dbus-python-1.2.16-py27h1369247_0
+dbus-python-1.2.16-py37h1369247_0
+dbus-python-1.2.16-py36h1369247_0
+dbus-python-1.2.16-py38h1369247_0
+dbus-python-1.2.16-py38h84dd7af_1
+dbus-python-1.2.16-py36h58b24f6_1
+dbus-python-1.2.16-py37h2f1e986_1
+dbus-python-1.2.16-py39hbd6bdb1_1
+dbus-python-1.2.16-py38hec75210_2
+dbus-python-1.2.16-py37h172dbb5_2
+dbus-python-1.2.16-py39h80f5410_2
+dbus-python-1.2.16-py36h672ac1c_2
+dbus-python-1.2.16-py38h22cd0b8_3
+dbus-python-1.2.16-py37h416f1df_3
+dbus-python-1.2.16-py39h8860ebb_3
+dbus-python-1.2.16-py36h4905d30_3

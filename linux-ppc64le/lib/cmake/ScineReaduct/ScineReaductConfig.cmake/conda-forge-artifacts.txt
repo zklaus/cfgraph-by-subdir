@@ -1,0 +1,8 @@
+scine-readuct-3.0.0-h4e2eaed_1
+scine-readuct-4.0.0-h2d86c2b_0
+scine-readuct-4.1.0-h2d86c2b_0
+scine-readuct-4.1.0-h2d86c2b_1
+scine-readuct-4.1.0-h2d86c2b_2
+scine-readuct-4.1.0-h2d86c2b_3
+scine-readuct-4.1.0-h491372e_4
+scine-readuct-4.1.0-h491372e_5

@@ -1,0 +1,4 @@
+sympy-1.11.1-pyh04b8f61_3
+sympy-1.11.1-pypyh9d50eac_103
+sympy-1.12-pypyh9d50eac_103
+sympy-1.12-pyh04b8f61_3

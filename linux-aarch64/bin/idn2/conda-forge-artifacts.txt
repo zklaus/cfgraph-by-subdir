@@ -1,0 +1,6 @@
+libidn2-2.1.1-h14c3975_0
+libidn2-2.3.0-h516909a_0
+libidn2-2.3.1-hf897c2e_0
+libidn2-2.3.2-hf897c2e_0
+libidn2-2.3.3-h4e544f5_0
+libidn2-2.3.4-h4e544f5_0

@@ -1,0 +1,7 @@
+librsvg-2.40.19-0
+librsvg-2.40.19-h0fcbb2e_0
+librsvg-2.40.19-h7818f71_1000
+librsvg-2.40.19-h02b147b_0
+librsvg-2.44.3-h0cfae06_1000
+librsvg-2.44.5-h0cfae06_0
+librsvg-2.44.7-h0cfae06_0

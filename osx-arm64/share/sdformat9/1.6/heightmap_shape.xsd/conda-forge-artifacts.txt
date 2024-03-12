@@ -1,0 +1,16 @@
+libsdformat-9.3.0-hb799d9e_4
+libsdformat-9.3.0-h3aecdd4_4
+libsdformat-9.3.0-h69bbded_5
+libsdformat-9.3.0-h6c7faf4_5
+libsdformat-9.8.0-h7409ab0_0
+libsdformat-9.8.0-h70a6a36_0
+libsdformat-9.8.0-h7409ab0_1
+libsdformat-9.8.0-h70a6a36_1
+libsdformat-9.8.0-hea5a4a0_2
+libsdformat-9.8.0-hb3dc90a_2
+libsdformat-9.8.0-h2a6b7b9_3
+libsdformat-9.8.0-hd02342f_3
+libsdformat-9.8.0-h2a6b7b9_4
+libsdformat-9.8.0-hd02342f_4
+libsdformat-9.8.0-ha580304_5
+libsdformat-9.8.0-he789f8c_5

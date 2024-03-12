@@ -1,0 +1,7 @@
+r-alakazam-1.0.0-r40h796a38f_0
+r-alakazam-1.0.0-r36h796a38f_0
+r-alakazam-1.0.1-r40h796a38f_0
+r-alakazam-1.0.1-r36h796a38f_0
+r-alakazam-1.0.2-r40h796a38f_0
+r-alakazam-1.0.2-r36h796a38f_0
+r-alakazam-1.0.2-r40ha856d6a_0

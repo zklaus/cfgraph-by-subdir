@@ -1,0 +1,8 @@
+openpmd-api-0.8.0a-py37h90e5e85_1
+openpmd-api-0.8.0a-py36h90e5e85_1
+openpmd-api-0.8.0a-py36h90e5e85_2
+openpmd-api-0.8.0a-py37h90e5e85_2
+openpmd-api-0.8.0a-nompi_py37h26541e8_103
+openpmd-api-0.8.0a-nompi_py36h26541e8_103
+openpmd-api-0.8.0a-nompi_py36h26541e8_104
+openpmd-api-0.8.0a-nompi_py37h26541e8_104

@@ -1,0 +1,16 @@
+rank_filter-0.4.11-np110py27_0
+rank_filter-0.4.11-np110py27_1
+rank_filter-0.4.11-np110py27_2
+rank_filter-0.4.11-np110py27_3
+rank_filter-0.4.11-np111py27_0
+rank_filter-0.4.11-np111py27_1
+rank_filter-0.4.11-np111py27_2
+rank_filter-0.4.11-np111py27_3
+rank_filter-0.4.11-np19py27_0
+rank_filter-0.4.12-np110py27_0
+rank_filter-0.4.12-np110py27_1
+rank_filter-0.4.12-np110py27_2
+rank_filter-0.4.12-np111py27_0
+rank_filter-0.4.12-np111py27_1
+rank_filter-0.4.12-np111py27_2
+rank_filter-0.4.12-np112py27_2

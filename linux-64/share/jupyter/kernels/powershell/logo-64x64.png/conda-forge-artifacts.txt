@@ -1,0 +1,6 @@
+dotnet-interactive-1.0.225602-ha770c72_0
+dotnet-interactive-1.0.2275031-ha770c72_0
+dotnet-interactive-1.0.2309030-ha770c72_0
+dotnet-interactive-1.0.260601-ha770c72_0
+dotnet-interactive-1.0.3606021-ha770c72_0
+dotnet-interactive-1.0.3606021-h4715778_1

@@ -1,0 +1,13 @@
+hugin-base-2021.0.0-pl5321h1f0edaa_7
+hugin-base-2021.0.0-pl5321hf48a77c_8
+hugin-base-2021.0.0-pl5321he887181_9
+hugin-base-2022.0.0-pl5321h0e46edd_0
+hugin-base-2022.0.0-pl5321h520be52_1
+hugin-base-2022.0.0-pl5321hf076ea0_2
+hugin-base-2022.0.0-pl5321h2ea0917_3
+hugin-base-2022.0.0-pl5321h7c63f6a_4
+hugin-base-2022.0.0-pl5321h26dd22f_5
+hugin-base-2022.0.0-pl5321h8c21359_6
+hugin-base-2022.0.0-pl5321hebcb205_7
+hugin-base-2022.0.0-pl5321hef7cccf_8
+hugin-base-2022.0.0-pl5321hd611669_9

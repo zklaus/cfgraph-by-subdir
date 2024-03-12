@@ -1,0 +1,8 @@
+xtensor-0.24.1-h924138e_0
+xtensor-0.24.2-h924138e_0
+xtensor-0.24.3-h924138e_0
+xtensor-0.24.3-h924138e_1
+xtensor-0.24.4-hf52228f_0
+xtensor-0.24.5-hf52228f_0
+xtensor-0.24.6-hf52228f_0
+xtensor-0.24.7-h00ab1b0_0

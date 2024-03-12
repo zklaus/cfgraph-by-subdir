@@ -1,0 +1,2 @@
+uchardet-0.0.6-h924138e_0
+uchardet-0.0.7-h924138e_0

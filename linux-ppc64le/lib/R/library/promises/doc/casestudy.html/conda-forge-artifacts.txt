@@ -1,0 +1,12 @@
+r-promises-1.1.0-r36he54295a_0
+r-promises-1.1.0-r40he54295a_1
+r-promises-1.1.0-r36he54295a_1
+r-promises-1.1.1-r36he54295a_0
+r-promises-1.1.1-r40he54295a_0
+r-promises-1.2.0.1-r36h6203a36_0
+r-promises-1.2.0.1-r40h6203a36_0
+r-promises-1.2.0.1-r41h6203a36_0
+r-promises-1.2.0.1-r42ha35a809_1
+r-promises-1.2.0.1-r41ha35a809_1
+r-promises-1.2.0.1-r43hd301276_2
+r-promises-1.2.0.1-r42hd301276_2

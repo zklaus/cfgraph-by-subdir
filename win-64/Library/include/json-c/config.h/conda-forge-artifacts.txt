@@ -1,0 +1,7 @@
+json-c-0.13.1-h3cc03e0_0
+json-c-0.13.1-h2fa13f4_0
+json-c-0.13.1-h3cc03e0_1
+json-c-0.13.1-h2fa13f4_1
+json-c-0.13.1-h3cc03e0_1001
+json-c-0.13.1-h2fa13f4_1001
+json-c-0.13.1-h8980c6f_1002

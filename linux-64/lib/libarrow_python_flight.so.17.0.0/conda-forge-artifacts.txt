@@ -1,0 +1,15 @@
+arrow-cpp-0.17.0-py37hc11a6a2_0
+arrow-cpp-0.17.0-py36h646bcbe_0
+arrow-cpp-0.17.0-py38h9d6855f_0
+arrow-cpp-0.17.0-py37h64a887a_2_cpu
+arrow-cpp-0.17.0-py37h9e3b35e_2_cuda
+arrow-cpp-0.17.0-py38hfe83a3e_2_cpu
+arrow-cpp-0.17.0-py38h25a4a40_2_cuda
+arrow-cpp-0.17.0-py36hfb56125_2_cpu
+arrow-cpp-0.17.0-py36h0b8190f_2_cuda
+arrow-cpp-0.17.0-py38he7e9c3a_2_cpu
+arrow-cpp-0.17.0-py37hc4171bc_2_cpu
+arrow-cpp-0.17.0-py37hb61253b_2_cuda
+arrow-cpp-0.17.0-py38hc92d6da_2_cuda
+arrow-cpp-0.17.0-py36he333134_2_cpu
+arrow-cpp-0.17.0-py36h32c2cc6_2_cuda

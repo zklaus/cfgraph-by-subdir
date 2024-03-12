@@ -1,0 +1,3 @@
+libvips-8.10.6-ha4ea9b7_0
+libvips-8.10.6-had3ea37_1
+libvips-8.10.6-h275373c_2

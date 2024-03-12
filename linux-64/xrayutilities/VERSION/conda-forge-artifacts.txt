@@ -1,0 +1,11 @@
+xrayutilities-1.5.2-py37hc1659b7_0
+xrayutilities-1.5.2-py27hc1659b7_0
+xrayutilities-1.5.2-py36hc1659b7_0
+xrayutilities-1.5.3-py37hc1659b7_0
+xrayutilities-1.5.3-py27hc1659b7_0
+xrayutilities-1.5.3-py36hc1659b7_0
+xrayutilities-1.5.3-py38hc1659b7_0
+xrayutilities-1.5.4-py27hc1659b7_0
+xrayutilities-1.5.4-py36hc1659b7_0
+xrayutilities-1.5.4-py37hc1659b7_0
+xrayutilities-1.5.4-py38hc1659b7_0

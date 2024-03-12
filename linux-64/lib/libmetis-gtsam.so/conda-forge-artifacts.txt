@@ -1,0 +1,12 @@
+gtsam-4.1.1-py37he299665_0
+gtsam-4.1.1-py39h6086118_0
+gtsam-4.1.1-py38h085cda9_0
+gtsam-4.1.1-py39hc999847_1
+gtsam-4.1.1-py38h9e6c1bc_1
+gtsam-4.1.1-py37h8e90ffa_1
+gtsam-4.1.1-py310h274ebfd_1
+gtsam-4.1.1-py310hc899cb4_1
+gtsam-4.1.1-py39h628a4c4_2
+gtsam-4.1.1-py310h0697861_2
+gtsam-4.1.1-py37h6f93042_2
+gtsam-4.1.1-py38ha0d7170_2

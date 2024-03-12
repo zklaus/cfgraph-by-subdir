@@ -1,0 +1,2 @@
+clang_bootstrap_osx-arm64-16.0.5-hf0dc7c0_0
+clang_bootstrap_osx-64-16.0.5-h184bbbd_0

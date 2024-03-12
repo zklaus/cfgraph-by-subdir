@@ -1,0 +1,3 @@
+googletrans-2.3.0-py_0
+potranslator-1.1.5-py_0
+googletrans-2.3.0-py_1000

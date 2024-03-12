@@ -1,0 +1,2 @@
+graphicsmagick-1.3.37-hea5a672_0
+graphicsmagick-1.3.37-h26fad99_1

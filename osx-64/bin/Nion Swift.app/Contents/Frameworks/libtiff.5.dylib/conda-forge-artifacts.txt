@@ -1,0 +1,12 @@
+nionswift-tool-0.4.17-py38h0b37e7b_0
+nionswift-tool-0.4.17-py39h0b37e7b_0
+nionswift-tool-0.4.17-py310h0b37e7b_0
+nionswift-tool-0.4.17-py310h0b37e7b_1
+nionswift-tool-0.4.17-py39h0b37e7b_1
+nionswift-tool-0.4.17-py38h0b37e7b_1
+nionswift-tool-0.4.17-py310h0b37e7b_2
+nionswift-tool-0.4.17-py38h0b37e7b_2
+nionswift-tool-0.4.17-py39h0b37e7b_2
+nionswift-tool-0.4.18-py38h0b37e7b_0
+nionswift-tool-0.4.18-py310h0b37e7b_0
+nionswift-tool-0.4.18-py39h0b37e7b_0

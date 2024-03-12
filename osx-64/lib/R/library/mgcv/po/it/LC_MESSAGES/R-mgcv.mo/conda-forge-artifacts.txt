@@ -1,0 +1,11 @@
+r-mgcv-1.8_35-r36hc2c5f09_0
+r-mgcv-1.8_35-r40hc2c5f09_0
+r-mgcv-1.8_35-r41hc2c5f09_0
+r-mgcv-1.8_36-r41hc2c5f09_0
+r-mgcv-1.8_36-r40hc2c5f09_0
+r-mgcv-1.8_38-r40hf27e4f0_0
+r-mgcv-1.8_38-r41hf27e4f0_0
+r-mgcv-1.8_39-r40h60b693f_0
+r-mgcv-1.8_39-r41h60b693f_0
+r-mgcv-1.9_0-r43h9c380c6_0
+r-mgcv-1.9_0-r42h9c380c6_0

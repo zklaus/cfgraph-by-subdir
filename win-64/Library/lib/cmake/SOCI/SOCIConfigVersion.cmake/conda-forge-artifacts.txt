@@ -1,0 +1,6 @@
+soci-core-4.0.2-h2d74725_0
+soci-core-4.0.3-h2d74725_0
+soci-core-4.0.3-h2d74725_1
+soci-core-4.0.3-h91493d7_2
+soci-core-4.0.3-h91493d7_3
+soci-core-4.0.3-h91493d7_4

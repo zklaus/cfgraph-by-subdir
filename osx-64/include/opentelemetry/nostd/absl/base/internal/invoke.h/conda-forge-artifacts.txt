@@ -1,0 +1,4 @@
+cpp-opentelemetry-api-1.1.0-h940c156_0
+cpp-opentelemetry-api-1.1.0-h940c156_1
+cpp-opentelemetry-api-1.1.0-h940c156_2
+cpp-opentelemetry-api-1.1.1-h940c156_0

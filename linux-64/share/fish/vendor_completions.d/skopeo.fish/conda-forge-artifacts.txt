@@ -1,0 +1,6 @@
+skopeo-1.11.2-he5cbd37_0
+skopeo-1.12.0-he5cbd37_0
+skopeo-1.13.0-h6d78a85_0
+skopeo-1.13.1-h6d78a85_0
+skopeo-1.13.2-h6d78a85_0
+skopeo-1.13.3-h6d78a85_0

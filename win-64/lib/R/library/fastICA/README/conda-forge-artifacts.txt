@@ -1,0 +1,16 @@
+r-fastica-1.2_1-r35hda5aaf8_0
+r-fastica-1.2_1-r35hda5aaf8_1
+r-fastica-1.2_1-r36hda5aaf8_1
+r-fastica-1.2_2-r35hda5aaf8_0
+r-fastica-1.2_2-r36hda5aaf8_0
+r-fastica-1.2_2-r36hda5aaf8_1
+r-fastica-1.2_2-r40hda5aaf8_1
+r-fastica-1.2_2-r36h0adb578_2
+r-fastica-1.2_2-r40h0adb578_2
+r-fastica-1.2_2-r41hd2e18ed_2
+r-fastica-1.2_2-r40hd2e18ed_2
+r-fastica-1.2_3-r41hd2e18ed_0
+r-fastica-1.2_3-r40hd2e18ed_0
+r-fastica-1.2_3-r41hb9981e2_1
+r-fastica-1.2_3-r41hb9981e2_2
+r-fastica-1.2_4-r41hb9981e2_0

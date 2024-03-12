@@ -1,0 +1,6 @@
+quazip-1.1-hbeaa875_0
+quazip-1.2-hbeaa875_0
+quazip-1.3-ha88f3e4_0
+quazip-1.3-h0f80edd_0
+quazip-1.3-h246edc1_1
+quazip-1.4-hf1985f1_0

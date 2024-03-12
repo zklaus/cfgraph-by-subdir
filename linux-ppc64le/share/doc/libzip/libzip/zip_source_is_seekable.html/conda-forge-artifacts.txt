@@ -1,0 +1,5 @@
+libzip-1.10.0-hb84b332_0
+libzip-1.10.1-hb84b332_0
+libzip-1.10.1-hb84b332_1
+libzip-1.10.1-hb84b332_2
+libzip-1.10.1-hb84b332_3

@@ -1,0 +1,6 @@
+libthrift-0.18.0-h6635e49_0
+libthrift-0.18.1-h6635e49_0
+libthrift-0.18.1-ha061701_1
+libthrift-0.18.1-ha061701_2
+libthrift-0.19.0-ha061701_0
+libthrift-0.19.0-h026a170_1

@@ -1,0 +1,5 @@
+r-rstanarm-2.17.3-r341_0
+r-rstanarm-2.17.4-r341_0
+r-rstanarm-2.17.4-r341hfc679d8_1
+r-rstanarm-2.17.4-r341h9d2a408_2
+r-rstanarm-2.17.4-r351h9d2a408_2

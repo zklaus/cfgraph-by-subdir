@@ -1,0 +1,14 @@
+libignition-cmake2-2.8.0-he49afe7_0
+libignition-cmake2-2.9.0-he49afe7_0
+libignition-cmake2-2.9.0-he49afe7_1
+libignition-cmake2-2.10.0-he49afe7_0
+libignition-cmake2-2.11.0-h96cf925_0
+libignition-cmake2-2.12.0-h96cf925_0
+libignition-cmake2-2.12.1-h96cf925_0
+libignition-cmake2-2.13.0-hb486fe8_0
+libignition-cmake2-2.13.0-hb486fe8_1
+libignition-cmake2-2.14.0-hb486fe8_0
+libignition-cmake2-2.15.0-hf0c8a7f_0
+libignition-cmake2-2.15.0-hf0c8a7f_1
+libignition-cmake2-2.16.0-hf0c8a7f_0
+libignition-cmake2-2.16.0-hf0c8a7f_1

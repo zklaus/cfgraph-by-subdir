@@ -1,0 +1,1 @@
+terraform-provider-mailgun-0.4.2-ha8a90a3_0

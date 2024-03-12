@@ -1,0 +1,12 @@
+r-testit-0.7-r351_1000
+r-testit-0.9-r351h6115d3f_0
+r-testit-0.9-r35h6115d3f_1
+r-testit-0.9-r36h6115d3f_1
+r-testit-0.10-r36h6115d3f_0
+r-testit-0.10-r35h6115d3f_0
+r-testit-0.11-r36h6115d3f_0
+r-testit-0.11-r35h6115d3f_0
+r-testit-0.11-r40h6115d3f_1
+r-testit-0.11-r36h6115d3f_1
+r-testit-0.12-r40h6115d3f_0
+r-testit-0.12-r36h6115d3f_0

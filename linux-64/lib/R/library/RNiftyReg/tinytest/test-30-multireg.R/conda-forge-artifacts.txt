@@ -1,0 +1,4 @@
+r-rniftyreg-2.8.0-r43ha503ecb_0
+r-rniftyreg-2.8.0-r42ha503ecb_0
+r-rniftyreg-2.8.1-r43ha503ecb_0
+r-rniftyreg-2.8.1-r42ha503ecb_0

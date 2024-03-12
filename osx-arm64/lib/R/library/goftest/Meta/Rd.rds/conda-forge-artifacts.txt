@@ -1,0 +1,6 @@
+r-goftest-1.2_3-r41h2cbef18_0
+r-goftest-1.2_3-r40h2cbef18_0
+r-goftest-1.2_3-r41h5d63f41_1
+r-goftest-1.2_3-r42h5d63f41_1
+r-goftest-1.2_3-r43h21dc0da_2
+r-goftest-1.2_3-r42h21dc0da_2

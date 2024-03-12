@@ -1,0 +1,3 @@
+reaktoro-0.1.0-py36hbcfbec3_0
+reaktoro-0.1.0-py36h565a2e7_1000
+reaktoro-0.1.0-py37h565a2e7_1000

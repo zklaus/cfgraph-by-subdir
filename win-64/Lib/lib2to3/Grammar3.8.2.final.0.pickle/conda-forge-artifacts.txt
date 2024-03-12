@@ -1,0 +1,8 @@
+python-3.8.2-he1f5543_0_cpython
+python-3.8.2-h5fd99cc_1_cpython
+python-3.8.2-h5fd99cc_2_cpython
+python-3.8.2-h5fd99cc_3_cpython
+python-3.8.2-h5fd99cc_4_cpython
+python-3.8.2-h5fd99cc_5_cpython
+python-3.8.2-h5fd99cc_6_cpython
+python-3.8.2-h5fd99cc_7_cpython

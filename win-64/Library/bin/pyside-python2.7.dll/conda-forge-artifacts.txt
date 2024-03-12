@@ -1,0 +1,9 @@
+pyside-1.2.4-py27_vc9_0
+pyside-1.2.4-py27_vc9_1
+pyside-1.2.4-py27_vc9_2
+pyside-1.2.4-py27_vc9_3
+pyside-1.2.4-py27_vc9_4
+pyside-1.2.4-py27_vc9_5
+pyside-1.2.4-py27_vc9_6
+pyside-1.2.4-py27_vc9_7
+pyside-1.2.4-py27_vc9_8

@@ -1,0 +1,6 @@
+s5cmd-1.4.0-ha8f183a_0
+s5cmd-2.0.0-ha8f183a_0
+s5cmd-2.1.0-ha8f183a_0
+s5cmd-2.2.0-ha8f183a_0
+s5cmd-2.2.1-ha8f183a_0
+s5cmd-2.2.2-ha8f183a_0

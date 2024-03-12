@@ -1,0 +1,3 @@
+duplicity-0.8.21.post7-py37h5e8e339_0
+duplicity-0.8.21.post7-py38h497a2fe_0
+duplicity-0.8.21.post7-py39h3811e60_0

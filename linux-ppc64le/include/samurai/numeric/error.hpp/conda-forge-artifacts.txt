@@ -1,0 +1,10 @@
+samurai-0.2.0-h43f89eb_0
+samurai-0.3.0-h3de9e99_1
+samurai-0.4.0-h3de9e99_0
+samurai-0.5.0-h3de9e99_0
+samurai-0.6.0-h3de9e99_0
+samurai-0.6.0-h848173e_1
+samurai-0.7.0-h848173e_0
+samurai-0.8.0-h848173e_0
+samurai-0.8.0-h1c11202_1
+samurai-0.9.0-h1c11202_0

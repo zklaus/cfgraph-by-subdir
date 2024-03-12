@@ -1,0 +1,3 @@
+libframel-8.42.2-h166bdaf_0
+libframel-8.42.2-h166bdaf_1
+libframel-8.42.2-hd590300_2

@@ -1,0 +1,6 @@
+gooseslurm-0.4.0-py38h10201cd_0
+gooseslurm-0.4.0-py39h2804cbe_0
+gooseslurm-0.4.1-py38h10201cd_0
+gooseslurm-0.4.1-py39h2804cbe_0
+gooseslurm-0.5.1-py38h10201cd_0
+gooseslurm-0.5.1-py39h2804cbe_0

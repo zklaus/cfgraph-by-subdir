@@ -1,0 +1,2 @@
+libgdal-3.5.2-h889d05c_2
+libgdal-3.5.2-he1a18a7_2

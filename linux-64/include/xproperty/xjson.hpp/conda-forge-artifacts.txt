@@ -1,0 +1,8 @@
+xproperty-0.10.1-hc9558a2_0
+xproperty-0.10.2-hc9558a2_0
+xproperty-0.10.3-hc9558a2_0
+xproperty-0.10.4-hc9558a2_0
+xproperty-0.10.4-h4bd325d_0
+xproperty-0.11.0-h4bd325d_0
+xproperty-0.11.0-h4bd325d_1
+xproperty-0.11.0-hf52228f_2

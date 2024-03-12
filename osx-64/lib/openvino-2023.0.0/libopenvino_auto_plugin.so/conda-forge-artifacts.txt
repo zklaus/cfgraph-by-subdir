@@ -1,0 +1,2 @@
+libopenvino-auto-plugin-2023.0.0-he965462_0
+libopenvino-auto-plugin-2023.0.0-he965462_1

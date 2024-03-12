@@ -1,0 +1,1 @@
+google-cloud-cpp-1.32.0-h3a30730_0

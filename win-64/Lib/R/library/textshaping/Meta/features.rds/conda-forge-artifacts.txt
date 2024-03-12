@@ -1,0 +1,6 @@
+r-textshaping-0.1.1-r40h17278f5_0
+r-textshaping-0.1.1-r36h17278f5_0
+r-textshaping-0.1.2-r36h17278f5_0
+r-textshaping-0.1.2-r40h17278f5_0
+r-textshaping-0.1.2-r40haa1c89b_1
+r-textshaping-0.1.2-r41haa1c89b_1

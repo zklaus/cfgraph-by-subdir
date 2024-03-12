@@ -1,0 +1,13 @@
+r-moments-0.14-r351_1001
+r-moments-0.14-r35_1002
+r-moments-0.14-r36_1002
+r-moments-0.14-r36_1003
+r-moments-0.14-r40_1003
+r-moments-0.14-r40ha770c72_1003
+r-moments-0.14-r41ha770c72_1003
+r-moments-0.14.1-r41hc72bb7e_0
+r-moments-0.14.1-r40hc72bb7e_0
+r-moments-0.14.1-r41hc72bb7e_1
+r-moments-0.14.1-r42hc72bb7e_1
+r-moments-0.14.1-r42hc72bb7e_2
+r-moments-0.14.1-r43hc72bb7e_2

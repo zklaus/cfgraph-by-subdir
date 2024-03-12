@@ -1,0 +1,12 @@
+remotery-static-1.2.1-h59595ed_0
+remotery-1.2.1-h59595ed_0
+remotery-1.2.1-h59595ed_1
+remotery-static-1.2.1-h59595ed_1
+remotery-1.2.1-h59595ed_2
+remotery-static-1.2.1-h59595ed_2
+remotery-1.2.1-h59595ed_3
+remotery-static-1.2.1-h59595ed_3
+remotery-1.2.1-h59595ed_4
+remotery-static-1.2.1-h59595ed_4
+remotery-1.2.1-h59595ed_5
+remotery-static-1.2.1-h59595ed_5

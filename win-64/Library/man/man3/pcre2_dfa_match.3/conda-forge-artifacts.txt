@@ -1,0 +1,10 @@
+pcre2-10.34-hb6083bd_0
+pcre2-10.35-hb6083bd_0
+pcre2-10.35-hdfff0fc_1
+pcre2-10.35-hdfff0fc_2
+pcre2-10.36-hdfff0fc_0
+pcre2-10.36-hdfff0fc_1
+pcre2-10.37-hdfff0fc_0
+pcre2-10.37-hdfff0fc_1
+pcre2-10.40-h17e33f8_0
+pcre2-10.42-h17e33f8_0

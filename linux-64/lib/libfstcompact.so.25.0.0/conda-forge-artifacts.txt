@@ -1,0 +1,3 @@
+openfst-1.8.2-h4bd325d_0
+openfst-1.8.2-h4bd325d_1
+openfst-1.8.2-h924138e_2

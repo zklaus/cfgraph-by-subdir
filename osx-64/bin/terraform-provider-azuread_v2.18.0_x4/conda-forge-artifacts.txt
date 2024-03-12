@@ -1,0 +1,1 @@
+terraform-provider-azuread-2.18.0-hac98541_0

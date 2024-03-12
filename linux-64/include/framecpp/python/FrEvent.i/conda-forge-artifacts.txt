@@ -1,0 +1,7 @@
+ldas-tools-framecpp-swig-2.6.13-h27087fc_0
+ldas-tools-framecpp-swig-2.6.13-h27087fc_1
+ldas-tools-framecpp-swig-2.6.14-h27087fc_0
+ldas-tools-framecpp-swig-2.6.14-h27087fc_1
+ldas-tools-framecpp-swig-2.6.14-h27087fc_2
+ldas-tools-framecpp-swig-3.0.0-hcb278e6_0
+ldas-tools-framecpp-swig-3.0.0-h59595ed_1

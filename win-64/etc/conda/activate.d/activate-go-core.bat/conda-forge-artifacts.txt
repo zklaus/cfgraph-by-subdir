@@ -1,0 +1,9 @@
+go-core-1.10.3-h22be3a3_1
+go-core-1.10.3-h41a7c8f_2
+go-core-1.10.3-h41a7c8f_3
+go-core-1.9.7-0
+go-core-1.10.4-h41a7c8f_0
+go-core-1.10.4-h41a7c8f_1
+go-core-1.10.5-h41a7c8f_0
+go-core-1.11.2-h41a7c8f_0
+go-core-1.11.2-h41a7c8f_1000

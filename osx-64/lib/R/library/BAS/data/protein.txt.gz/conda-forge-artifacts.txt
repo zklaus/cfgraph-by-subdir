@@ -1,0 +1,14 @@
+r-bas-1.5.5-r41hc2c5f09_0
+r-bas-1.5.5-r40hc2c5f09_0
+r-bas-1.6.0-r40hc2c5f09_0
+r-bas-1.6.0-r41hc2c5f09_0
+r-bas-1.6.2-r40h5682102_0
+r-bas-1.6.2-r41h5682102_0
+r-bas-1.6.2-r42hce01bf1_1
+r-bas-1.6.2-r41hce01bf1_1
+r-bas-1.6.4-r41hce01bf1_0
+r-bas-1.6.4-r42hce01bf1_0
+r-bas-1.6.4-r42hc46c21c_1
+r-bas-1.6.4-r43hc46c21c_1
+r-bas-1.6.6-r42h39411cf_0
+r-bas-1.6.6-r43h39411cf_0

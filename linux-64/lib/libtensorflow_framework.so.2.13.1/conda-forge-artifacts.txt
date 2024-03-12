@@ -1,0 +1,6 @@
+libtensorflow-2.13.1-cuda112h9043351_1
+libtensorflow_cc-2.13.1-cuda112hd3d283e_1
+libtensorflow-2.13.1-cpu_h2e87cff_1
+libtensorflow_cc-2.13.1-cpu_h88ceed9_1
+libtensorflow-2.13.1-cuda118hb8c380e_1
+libtensorflow_cc-2.13.1-cuda118h1497db3_1

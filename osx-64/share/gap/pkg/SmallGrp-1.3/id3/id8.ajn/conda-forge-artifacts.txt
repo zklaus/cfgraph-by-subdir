@@ -1,0 +1,7 @@
+gap-core-4.10.1-ha23fb60_4
+gap-core-4.10.2-h3f7906e_0
+gap-core-4.10.2-h3f7906e_1
+gap-core-4.10.2-hd7484aa_2
+gap-core-4.10.2-h9d095d4_3
+gap-core-4.10.2-h9d095d4_4
+gap-core-4.10.2-hf4075e3_6

@@ -1,0 +1,6 @@
+libsecret-0.18.6-hb9387b2_0
+libsecret-0.18.7-h785cea0_0
+libsecret-0.18.8-h10e0853_0
+libsecret-0.18.8-h29a8107_1
+libsecret-0.18.8-h8622b34_1
+libsecret-0.18.8-hc7eb428_2

@@ -1,0 +1,2 @@
+zeromq-4.2.1-vc14_0
+zeromq-4.2.1-vc14_1

@@ -1,0 +1,6 @@
+singular-4.2.0.p3-h05e9254_0
+singular-4.2.0.p3-h5f4c2d1_2
+singular-4.2.1.p3-h8d621d1_0
+singular-4.2.1.p3-h5e0816b_1
+singular-4.2.1.p3-h9658235_2
+singular-4.2.1.p3-h65924b9_3

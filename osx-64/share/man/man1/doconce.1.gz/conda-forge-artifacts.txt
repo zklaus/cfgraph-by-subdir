@@ -1,0 +1,16 @@
+doconce-1.0.0-py27_0
+doconce-1.0.0-py27_1
+doconce-1.0.0-py27_2
+doconce-1.0.0-py27_3
+doconce-1.0.0-py27_4
+doconce-1.4.9-py27_1
+doconce-1.4.9-py36_1
+doconce-1.4.9-py35_1
+doconce-1.4.10-py36_0
+doconce-1.4.10-py27_0
+doconce-1.4.10-py27_1000
+doconce-1.4.10-py36_1000
+doconce-1.4.10-py37_1000
+doconce-1.4.11-py36_0
+doconce-1.4.11-py27_0
+doconce-1.4.11-py37_0

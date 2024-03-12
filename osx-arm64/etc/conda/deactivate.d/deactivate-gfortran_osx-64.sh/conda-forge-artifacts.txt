@@ -1,0 +1,8 @@
+gfortran_osx-64-11.3.0-he24f851_0
+gfortran_osx-64-12.2.0-he24f851_1
+gfortran_osx-64-11.3.0-he24f851_1
+gfortran_osx-64-12.3.0-he24f851_0
+gfortran_osx-64-11.4.0-he24f851_0
+gfortran_osx-64-12.3.0-he24f851_1
+gfortran_osx-64-11.4.0-he24f851_1
+gfortran_osx-64-13.2.0-he24f851_1

@@ -1,0 +1,3 @@
+gcc_bootstrap_linux-aarch64-9.3.0-h9c612fe_32
+gcc_bootstrap_linux-aarch64-8.4.0-hdec9fc2_32
+gcc_bootstrap_linux-aarch64-7.5.0-h3208a7c_32

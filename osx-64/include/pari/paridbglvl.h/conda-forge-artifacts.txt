@@ -1,0 +1,8 @@
+pari-2.15.2-h07a0853_1_pthread
+pari-2.15.2-h3205032_1_single
+pari-2.15.2-h3205032_2_single
+pari-2.15.2-h07a0853_2_pthread
+pari-2.15.3-h07a0853_2_pthread
+pari-2.15.3-h3205032_2_single
+pari-2.15.4-hf8d8751_2_single
+pari-2.15.4-h93f793c_2_pthread

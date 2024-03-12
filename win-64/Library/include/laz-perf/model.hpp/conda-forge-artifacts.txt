@@ -1,0 +1,8 @@
+laz-perf-1.1.0-vc14_1
+laz-perf-1.2.0-vc14_1
+laz-perf-1.2.0-h6538335_2
+laz-perf-1.3.0-h6538335_0
+laz-perf-1.3.0-h6538335_1000
+laz-perf-1.3.0-h6538335_1001
+laz-perf-1.3.0-h6538335_1002
+laz-perf-1.4.4-ha925a31_0

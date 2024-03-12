@@ -1,0 +1,15 @@
+xeus-sqlite-0.2.0-h580fb7d_0
+xeus-sqlite-0.2.0-h3c8fcfb_1
+xeus-sqlite-0.3.0-h3c8fcfb_0
+xeus-sqlite-0.2.0-h580fb7d_1
+xeus-sqlite-0.3.0-h3c8fcfb_1
+xeus-sqlite-0.3.0-h3c8fcfb_2
+xeus-sqlite-0.3.0-ha3ad84b_3
+xeus-sqlite-0.4.0-ha3ad84b_3
+xeus-sqlite-0.5.0-ha3ad84b_0
+xeus-sqlite-0.5.1-ha3ad84b_0
+xeus-sqlite-0.5.2-h0a1122d_0
+xeus-sqlite-0.6.0-hdd8d261_0
+xeus-sqlite-0.6.0-hdd8d261_1
+xeus-sqlite-0.6.0-h7c51462_2
+xeus-sqlite-0.6.1-h7c51462_0

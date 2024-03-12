@@ -1,0 +1,16 @@
+r-memoise-1.1.0-r351h6115d3f_1001
+r-memoise-1.1.0-r36h6115d3f_1002
+r-memoise-1.1.0-r35h6115d3f_1002
+r-memoise-1.1.0-r35h6115d3f_1003
+r-memoise-1.1.0-r36h6115d3f_1003
+r-memoise-1.1.0-r36h6115d3f_1004
+r-memoise-1.1.0-r40h6115d3f_1004
+r-memoise-2.0.0-r40hc72bb7e_0
+r-memoise-2.0.0-r36hc72bb7e_0
+r-memoise-2.0.0-r41hc72bb7e_0
+r-memoise-2.0.1-r40hc72bb7e_0
+r-memoise-2.0.1-r41hc72bb7e_0
+r-memoise-2.0.1-r42hc72bb7e_1
+r-memoise-2.0.1-r41hc72bb7e_1
+r-memoise-2.0.1-r43hc72bb7e_2
+r-memoise-2.0.1-r42hc72bb7e_2

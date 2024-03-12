@@ -1,0 +1,3 @@
+libgcc-devel_linux-64-12.1.0-he90ca5a_16
+gcc_bootstrap_linux-64-12.1.0-h4c28eba_10
+libgcc-devel_linux-64-12.1.0-he90ca5a_17

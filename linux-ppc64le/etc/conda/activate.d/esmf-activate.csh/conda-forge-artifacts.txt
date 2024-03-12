@@ -1,0 +1,6 @@
+esmf-8.4.2-mpi_mpich_h5c4694a_102
+esmf-8.4.2-mpi_openmpi_hf8f598c_2
+esmf-8.4.2-nompi_h5cd296b_2
+esmf-8.4.2-mpi_mpich_h46a2a10_103
+esmf-8.4.2-mpi_openmpi_h0c3aa2e_3
+esmf-8.4.2-nompi_h74532f7_3

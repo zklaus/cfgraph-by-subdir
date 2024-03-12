@@ -1,0 +1,10 @@
+aws-session-manager-plugin-1.2.295.0-ha8f183a_0
+aws-session-manager-plugin-1.2.312.0-ha8f183a_0
+aws-session-manager-plugin-1.2.312.0-ha8f183a_1
+aws-session-manager-plugin-1.2.323.0-ha8f183a_0
+aws-session-manager-plugin-1.2.331.0-ha8f183a_0
+aws-session-manager-plugin-1.2.339.0-ha8f183a_0
+aws-session-manager-plugin-1.2.398.0-ha8f183a_0
+aws-session-manager-plugin-1.2.463.0-ha8f183a_0
+aws-session-manager-plugin-1.2.463.0-ha8f183a_1
+aws-session-manager-plugin-1.2.497.0-ha8f183a_0

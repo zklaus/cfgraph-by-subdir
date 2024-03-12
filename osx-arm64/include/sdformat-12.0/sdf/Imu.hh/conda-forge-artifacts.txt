@@ -1,0 +1,2 @@
+libsdformat12-12.0.0-h2f50e36_0
+libsdformat12-12.0.0-he441fe1_0

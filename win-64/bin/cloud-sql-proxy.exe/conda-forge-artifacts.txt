@@ -1,0 +1,11 @@
+cloud-sql-proxy-2.1.1-hd02998f_0
+cloud-sql-proxy-2.1.2-hd02998f_0
+cloud-sql-proxy-2.2.0-hd02998f_0
+cloud-sql-proxy-2.3.0-hd02998f_0
+cloud-sql-proxy-2.4.0-hd02998f_0
+cloud-sql-proxy-2.5.0-hd02998f_0
+cloud-sql-proxy-2.6.0-hd02998f_0
+cloud-sql-proxy-2.6.1-hd02998f_0
+cloud-sql-proxy-2.7.0-hd02998f_0
+cloud-sql-proxy-2.7.1-hd02998f_0
+cloud-sql-proxy-2.7.2-hd02998f_0

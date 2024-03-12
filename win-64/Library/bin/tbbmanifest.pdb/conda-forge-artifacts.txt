@@ -1,0 +1,12 @@
+tbb-2018.0.3-vc9_0
+tbb-devel-2018.0.4-hdc96acc_0
+tbb-devel-2018.0.5-hdc96acc_0
+tbb-devel-2019.0-hdc96acc_0
+tbb-devel-2019.1-hdc96acc_1000
+tbb-devel-2019.2-hdc96acc_1000
+tbb-devel-2019.3-hdc96acc_1000
+tbb-devel-2019.4-hdc96acc_0
+tbb-devel-2019.5-hdc96acc_0
+tbb-devel-2019.6-hdc96acc_0
+tbb-devel-2019.7-hdc96acc_0
+tbb-devel-2019.8-hdc96acc_0

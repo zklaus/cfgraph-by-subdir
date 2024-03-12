@@ -1,0 +1,7 @@
+zconfig-3.1.0-py27_0
+zconfig-3.1.0-py34_0
+zconfig-3.1.0-py35_0
+zconfig-3.1.0-py36_0
+zconfig-3.2.0-py27_0
+zconfig-3.2.0-py35_0
+zconfig-3.2.0-py36_0

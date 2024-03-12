@@ -1,0 +1,5 @@
+coincbc-2.10.5-hcf1b700_1
+coin-or-cgl-0.60.6-h05022b0_0
+coin-or-cgl-0.60.6-h12b7cce_1
+coin-or-cgl-0.60.6-h12b7cce_2
+coin-or-cgl-0.60.7-h5caf65a_0

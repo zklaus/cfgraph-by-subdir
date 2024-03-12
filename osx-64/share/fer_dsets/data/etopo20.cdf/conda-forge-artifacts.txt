@@ -1,0 +1,4 @@
+ferret_datasets-7.0.0-py27_0
+ferret_datasets-7.1.0-py27_0
+ferret_datasets-7.4-py27_0
+ferret_datasets-7.4-1

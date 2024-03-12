@@ -1,0 +1,12 @@
+cryptominisat-5.8.0-py36h108b1b2_0
+cryptominisat-5.8.0-py37haaa77d3_0
+cryptominisat-5.8.0-py38h0750f31_0
+cryptominisat-5.8.0-py39hcf67cbd_0
+cryptominisat-5.8.0-py39hcf67cbd_1
+cryptominisat-5.8.0-py37haaa77d3_1
+cryptominisat-5.8.0-py38h0750f31_1
+cryptominisat-5.8.0-py310h498eb00_1
+cryptominisat-5.8.0-py39h1a3a448_2
+cryptominisat-5.8.0-py311h597d2cd_2
+cryptominisat-5.8.0-py38h2a962c2_2
+cryptominisat-5.8.0-py310he5dd035_2

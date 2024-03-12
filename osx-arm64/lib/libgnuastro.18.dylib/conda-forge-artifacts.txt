@@ -1,0 +1,8 @@
+gnuastro-0.20-hb3866ba_3
+gnuastro-0.20-h9346e7a_0
+gnuastro-0.20-hed7b7db_1
+gnuastro-0.20-h9ea8699_2
+gnuastro-0.20-he9ab953_3
+gnuastro-0.20-h0d00f60_4
+gnuastro-0.20-h9f1e09e_5
+gnuastro-0.20-heddb8bd_6

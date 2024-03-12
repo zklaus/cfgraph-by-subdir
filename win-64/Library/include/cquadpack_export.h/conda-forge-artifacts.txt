@@ -1,0 +1,7 @@
+cquadpack-1.1.1-vc10_0
+cquadpack-1.1.1-vc14_0
+cquadpack-1.1.1-vc9_0
+cquadpack-1.1.1-h0c8e037_0
+cquadpack-1.1.1-hfa6e2cd_0
+cquadpack-1.1.1-hc56fc5f_1000
+cquadpack-1.1.1-h6538335_1000

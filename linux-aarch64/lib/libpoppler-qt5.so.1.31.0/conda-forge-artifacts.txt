@@ -1,0 +1,13 @@
+poppler-qt-22.04.0-hbd36401_0
+poppler-qt-22.04.0-he00d887_1
+poppler-qt-22.04.0-h998b711_2
+poppler-qt-22.04.0-h1b36eed_3
+poppler-qt-22.10.0-haf01173_0
+poppler-qt-22.11.0-haf01173_0
+poppler-qt-22.12.0-haf01173_0
+poppler-qt-22.12.0-h30490b2_1
+poppler-qt-23.01.0-h30490b2_0
+poppler-qt-23.03.0-h30490b2_0
+poppler-qt-23.03.0-h7ec9101_1
+poppler-qt-23.04.0-h7ec9101_1
+poppler-qt-23.05.0-h9c846af_1

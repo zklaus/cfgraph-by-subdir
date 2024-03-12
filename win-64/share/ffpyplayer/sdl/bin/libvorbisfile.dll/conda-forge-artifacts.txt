@@ -1,0 +1,13 @@
+ffpyplayer-4.1.0.dev0-py35h7a8ccf0_0
+ffpyplayer-4.1.0.dev0-py36h7a8ccf0_0
+ffpyplayer-4.1.0-py36h7a8ccf0_0
+ffpyplayer-4.1.0-py35h7a8ccf0_0
+ffpyplayer-4.1.0-py38h76a8933_0
+ffpyplayer-4.1.0-py36h76a8933_0
+ffpyplayer-4.1.0-py37h76a8933_0
+ffpyplayer-4.3.0-py36h76a8933_0
+ffpyplayer-4.3.0-py38h76a8933_0
+ffpyplayer-4.3.0-py37h76a8933_0
+ffpyplayer-4.3.1-py36h76a8933_0
+ffpyplayer-4.3.1-py38h76a8933_0
+ffpyplayer-4.3.1-py37h76a8933_0

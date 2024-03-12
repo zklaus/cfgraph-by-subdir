@@ -1,0 +1,6 @@
+hypertemp-0.8.0-py27_0
+hypertemp-0.8.0-py35_0
+hypertemp-0.8.0-py36_0
+hypertemp-0.8.0-py37_1000
+hypertemp-0.8.0-py27_1000
+hypertemp-0.8.0-py36_1000

@@ -1,0 +1,12 @@
+r-rcpparmadillo-0.11.4.0.1-r41h78deb2a_0
+r-rcpparmadillo-0.11.4.2.1-r41h78deb2a_0
+r-rcpparmadillo-0.11.4.3.1-r41h78deb2a_0
+r-rcpparmadillo-0.11.4.4.0-r41h78deb2a_0
+r-rcpparmadillo-0.12.2.0.0-r41h78deb2a_0
+r-rcpparmadillo-0.12.4.0.0-r41h78deb2a_0
+r-rcpparmadillo-0.12.4.0.0-r41h78deb2a_1
+r-rcpparmadillo-0.12.4.0.0-r41h78deb2a_2
+r-rcpparmadillo-0.12.4.1.0-r41h78deb2a_0
+r-rcpparmadillo-0.12.6.1.0-r41h78deb2a_0
+r-rcpparmadillo-0.12.6.3.0-r41h78deb2a_0
+r-rcpparmadillo-0.12.6.4.0-r41h78deb2a_0

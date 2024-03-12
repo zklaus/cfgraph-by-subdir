@@ -1,0 +1,8 @@
+libgit2-1.6.0-h1f77430_0
+libgit2-1.6.1-h1f77430_0
+libgit2-1.6.2-h1f77430_0
+libgit2-1.6.3-h1f77430_0
+libgit2-1.6.3-h747ad27_1
+libgit2-1.6.4-h747ad27_0
+libgit2-1.7.1-hca3a8ce_0
+libgit2-1.7.1-h76de150_1

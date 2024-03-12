@@ -1,0 +1,2 @@
+r-praznik-7.0.0-r35h17f1fa6_0
+r-praznik-8.0.0-r35h17f1fa6_0

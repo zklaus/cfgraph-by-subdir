@@ -1,0 +1,12 @@
+proxsuite-0.3.0-py38h8ba9450_0
+proxsuite-0.3.0-py310ha1ee9ca_0
+proxsuite-0.3.0-py39h9e1b185_0
+proxsuite-0.3.0-py311h351b19f_0
+proxsuite-0.3.1-py310ha1ee9ca_0
+proxsuite-0.3.1-py39h9e1b185_0
+proxsuite-0.3.1-py311h351b19f_0
+proxsuite-0.3.1-py38h8ba9450_0
+proxsuite-0.3.2-py39h9e1b185_0
+proxsuite-0.3.2-py38h8ba9450_0
+proxsuite-0.3.2-py310ha1ee9ca_0
+proxsuite-0.3.2-py311h351b19f_0

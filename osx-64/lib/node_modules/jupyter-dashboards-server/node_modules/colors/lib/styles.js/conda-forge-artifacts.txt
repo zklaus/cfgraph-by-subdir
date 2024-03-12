@@ -1,0 +1,2 @@
+jupyter-dashboards-server-0.8.0-0
+jupyter-dashboards-server-0.8.0-1

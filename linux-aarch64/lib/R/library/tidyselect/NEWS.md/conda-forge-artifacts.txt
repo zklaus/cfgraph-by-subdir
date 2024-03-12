@@ -1,0 +1,16 @@
+r-tidyselect-1.0.0-r36h6115d3f_0
+r-tidyselect-1.0.0-r40h6115d3f_1
+r-tidyselect-1.0.0-r36h6115d3f_1
+r-tidyselect-1.1.0-r40h6115d3f_0
+r-tidyselect-1.1.0-r36h6115d3f_0
+r-tidyselect-1.1.1-r36h4da3e95_0
+r-tidyselect-1.1.1-r40h4da3e95_0
+r-tidyselect-1.1.1-r41h4da3e95_0
+r-tidyselect-1.1.2-r40h4da3e95_0
+r-tidyselect-1.1.2-r41h4da3e95_0
+r-tidyselect-1.1.2-r42h4571c7f_1
+r-tidyselect-1.1.2-r41h4571c7f_1
+r-tidyselect-1.2.0-r41h4571c7f_0
+r-tidyselect-1.2.0-r42h4571c7f_0
+r-tidyselect-1.2.0-r42h4571c7f_1
+r-tidyselect-1.2.0-r43h4571c7f_1

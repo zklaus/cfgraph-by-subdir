@@ -1,0 +1,6 @@
+pygoss-0.4.2-py39h4b4f3f3_1
+pygoss-0.4.2-py38hfbd4bf9_1
+pygoss-0.4.2-py310hdf3cbec_1
+pygoss-0.4.2-py39h4b4f3f3_2
+pygoss-0.4.2-py310hdf3cbec_2
+pygoss-0.4.2-py38hfbd4bf9_2

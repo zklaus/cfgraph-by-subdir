@@ -1,0 +1,8 @@
+qgis-3.28.3-py310h0634f3b_0
+qgis-3.28.3-py39hce96edc_0
+qgis-3.28.3-py38h3a316c2_0
+qgis-3.28.3-py311h8deab50_0
+qgis-3.28.3-py39hce96edc_1
+qgis-3.28.3-py311h8deab50_1
+qgis-3.28.3-py38h3a316c2_1
+qgis-3.28.3-py310h0634f3b_1

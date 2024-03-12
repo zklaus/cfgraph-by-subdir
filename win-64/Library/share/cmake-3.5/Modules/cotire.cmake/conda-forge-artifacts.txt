@@ -1,0 +1,3 @@
+cotire-1.7.8-vc10_0
+cotire-1.7.8-vc14_0
+cotire-1.7.8-vc9_0

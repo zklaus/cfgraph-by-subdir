@@ -1,0 +1,7 @@
+gmt-5.3.1-0
+gmt-5.3.3-0
+gmt-5.3.3-blas_openblas_1
+gmt-5.4.1-blas_openblas_0
+gmt-5.4.1-blas_openblas_1
+gmt-5.4.2-blas_openblas_0
+gmt-5.4.2-blas_openblas_1

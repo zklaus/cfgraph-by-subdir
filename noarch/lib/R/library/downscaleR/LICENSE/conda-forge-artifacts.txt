@@ -1,0 +1,7 @@
+r-downscaler-3.3.4-r42ha770c72_0
+r-downscaler-3.3.4-r43ha770c72_0
+r-downscaler-3.3.4-r42ha770c72_1
+r-downscaler-3.3.4-r40ha770c72_1
+r-downscaler-3.3.4-r43ha770c72_1
+r-downscaler-3.3.4-r36ha770c72_1
+r-downscaler-3.3.4-r41ha770c72_1

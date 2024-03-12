@@ -1,0 +1,6 @@
+jasper-2.0.14-h07fcdf6_0
+jasper-2.0.14-habb8e15_1
+jasper-2.0.14-ha77e612_1
+jasper-2.0.14-ha77e612_2
+jasper-2.0.33-ha77e612_0
+jasper-2.0.33-h0ff4b12_1

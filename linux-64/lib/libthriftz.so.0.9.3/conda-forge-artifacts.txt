@@ -1,0 +1,6 @@
+thrift-cpp-0.9.3-0
+thrift-cpp-0.9.3-1
+thrift-cpp-0.9.3-2
+thrift-cpp-0.9.3-3
+thrift-cpp-0.9.3-4
+thrift-cpp-0.9.3-5

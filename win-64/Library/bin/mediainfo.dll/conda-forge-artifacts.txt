@@ -1,0 +1,13 @@
+libmediainfo-21.09-hbabe409_2
+libmediainfo-22.03-hbabe409_0
+libmediainfo-22.03-hbabe409_1
+libmediainfo-22.06-hbabe409_0
+libmediainfo-22.09-h0650ae2_0
+libmediainfo-22.12-h0650ae2_0
+libmediainfo-23.03-h0650ae2_0
+libmediainfo-23.04-h8ec2201_0
+libmediainfo-23.06-h8ec2201_0
+libmediainfo-23.07-h8ec2201_0
+libmediainfo-23.09-h8ec2201_0
+libmediainfo-23.10-h8ec2201_0
+libmediainfo-23.11-h8ec2201_0

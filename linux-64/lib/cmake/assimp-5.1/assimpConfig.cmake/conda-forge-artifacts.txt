@@ -1,0 +1,6 @@
+assimp-5.1.0-hedfc422_0
+assimp-5.1.0-hedfc422_1
+assimp-5.1.3-hedfc422_1
+assimp-5.1.4-hedfc422_0
+assimp-5.1.5-hedfc422_0
+assimp-5.1.6-hedfc422_0

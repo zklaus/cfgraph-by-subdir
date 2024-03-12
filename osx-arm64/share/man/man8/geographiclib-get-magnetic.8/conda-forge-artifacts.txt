@@ -1,0 +1,6 @@
+geographiclib-cpp-2.0-hf86a087_0
+geographiclib-cpp-2.1-hf86a087_0
+geographiclib-cpp-2.1.1-hf86a087_0
+geographiclib-cpp-2.1.2-hffc8910_0
+geographiclib-cpp-2.2-hffc8910_0
+geographiclib-cpp-2.3-h1995070_0

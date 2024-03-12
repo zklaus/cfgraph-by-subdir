@@ -1,0 +1,10 @@
+r-bigrquery-1.4.0-r41h9951f98_0
+r-bigrquery-1.4.0-r40h9951f98_0
+r-bigrquery-1.4.0-r41h49197e3_1
+r-bigrquery-1.4.0-r42h49197e3_1
+r-bigrquery-1.4.1-r41h49197e3_0
+r-bigrquery-1.4.1-r42h49197e3_0
+r-bigrquery-1.4.2-r41hac7d2d5_0
+r-bigrquery-1.4.2-r42hac7d2d5_0
+r-bigrquery-1.4.2-r42hac7d2d5_1
+r-bigrquery-1.4.2-r43hac7d2d5_1

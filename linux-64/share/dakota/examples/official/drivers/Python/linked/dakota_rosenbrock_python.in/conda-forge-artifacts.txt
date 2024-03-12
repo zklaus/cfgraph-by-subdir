@@ -1,0 +1,9 @@
+dakota-6.14.0-py39hd72a089_0
+dakota-6.14.0-py38h728292b_0
+dakota-6.14.0-py39h5f72919_1
+dakota-6.14.0-py38h9f736be_1
+dakota-6.14.0-py38pl5321h9f736be_2
+dakota-6.14.0-py39pl5321h5f72919_2
+dakota-6.14.0-py38pl5321h9f736be_3
+dakota-6.14.0-py39pl5321h5f72919_3
+dakota-6.14.0-py310pl5321h40f2506_3

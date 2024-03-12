@@ -1,0 +1,7 @@
+zoxide-0.5.0-h9bce647_0
+zoxide-0.6.0-h244e342_0
+zoxide-0.7.0-h244e342_0
+zoxide-0.7.2-h244e342_0
+zoxide-0.7.6-h80d2146_0
+zoxide-0.7.7-h80d2146_0
+zoxide-0.8.0-h80d2146_0

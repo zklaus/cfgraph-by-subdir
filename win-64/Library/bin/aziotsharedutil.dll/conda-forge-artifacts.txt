@@ -1,0 +1,4 @@
+azure-c-shared-utility-2020.01.22-0
+azure-c-shared-utility-2020.01.22-hcfcfb64_1
+azure-c-shared-utility-2020.12.09-hcfcfb64_0
+azure-c-shared-utility-2022.07.ref02-h27ff760_0

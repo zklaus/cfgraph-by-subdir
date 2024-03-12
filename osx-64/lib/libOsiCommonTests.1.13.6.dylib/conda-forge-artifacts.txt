@@ -1,0 +1,11 @@
+coincbc-2.10.4-h186aa8c_0
+coincbc-2.10.5-h186aa8c_0
+coin-or-osi-0.108.6-hee95245_0
+coincbc-2.10.5-he839f3e_1
+coincbc-2.10.5-h9fab268_1
+coincbc-2.10.5-he509fd4_1
+coincbc-2.10.5-h35dd71c_1
+coin-or-osi-0.108.6-hb609d80_0
+coin-or-osi-0.108.6-hb609d80_1
+coin-or-osi-0.108.6-hb609d80_2
+coin-or-osi-0.108.6-h009c923_2

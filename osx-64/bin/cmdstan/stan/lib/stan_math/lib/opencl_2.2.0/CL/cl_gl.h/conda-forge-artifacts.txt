@@ -1,0 +1,5 @@
+cmdstan-2.27.0-h23add5a_0
+cmdstan-2.27.0-h8783527_1
+cmdstan-2.27.0-h8783527_2
+cmdstan-2.27.0-h8783527_3
+cmdstan-2.26.1-h164ebb8_0

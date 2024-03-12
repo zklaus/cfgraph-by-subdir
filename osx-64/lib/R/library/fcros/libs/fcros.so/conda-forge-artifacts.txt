@@ -1,0 +1,6 @@
+r-fcros-1.5.6-r341hc070d10_0
+r-fcros-1.5.6-r351hc070d10_0
+r-fcros-1.5.6-r351h46e59ec_1000
+r-fcros-1.6-r351h46e59ec_0
+r-fcros-1.6.1-r35h159158b_0
+r-fcros-1.6.1-r35h159158b_1

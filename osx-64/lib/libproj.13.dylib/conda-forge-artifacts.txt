@@ -1,0 +1,15 @@
+proj4-5.0.0-0
+proj4-5.0.1-0
+proj4-5.1.0-0
+proj4-5.1.0-h470a237_1
+proj4-5.1.0-h470a237_2
+proj4-5.1.0-h1de35cc_1002
+proj4-5.2.0-h1de35cc_1000
+proj4-5.2.0-h470a237_0
+proj4-5.2.0-h470a237_1
+proj4-5.2.0-h1de35cc_1001
+proj4-5.2.0-h6de7cb9_1002
+proj4-5.2.0-h6de7cb9_1003
+proj4-5.2.0-h6de7cb9_1004
+proj4-5.2.0-h6de7cb9_1005
+proj4-5.2.0-h6de7cb9_1006

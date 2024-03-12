@@ -1,0 +1,2 @@
+libsoup-3.0.7-h7ee6442_0
+libsoup-3.0.7-he84dbf8_1

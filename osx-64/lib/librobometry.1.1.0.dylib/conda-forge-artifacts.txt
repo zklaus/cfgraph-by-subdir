@@ -1,0 +1,5 @@
+librobometry-1.1.0-h3038fc2_0
+librobometry-1.2.0-h3038fc2_0
+librobometry-1.2.0-h9945a95_1
+librobometry-1.2.0-h9945a95_2
+librobometry-1.2.0-h9945a95_3

@@ -1,0 +1,2 @@
+resvg-0.35.0-h69fbcac_0
+resvg-0.36.0-h69fbcac_0

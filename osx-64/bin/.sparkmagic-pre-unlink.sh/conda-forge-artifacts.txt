@@ -1,0 +1,15 @@
+sparkmagic-0.12.1-py27_0
+sparkmagic-0.12.1-py35_0
+sparkmagic-0.12.1-py36_0
+sparkmagic-0.12.5-py27_0
+sparkmagic-0.12.5-py35_0
+sparkmagic-0.12.5-py36_0
+sparkmagic-0.12.6-py27_0
+sparkmagic-0.12.6-py35_0
+sparkmagic-0.12.6-py36_0
+sparkmagic-0.12.6-py27_1000
+sparkmagic-0.12.6-py36_1000
+sparkmagic-0.12.6-py37_1000
+sparkmagic-0.12.7-py27_0
+sparkmagic-0.12.7-py36_0
+sparkmagic-0.12.7-py37_0

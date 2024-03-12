@@ -1,0 +1,12 @@
+bzip2-1.0.6-0
+bzip2-1.0.6-1
+bzip2-1.0.6-h1de35cc_1002
+bzip2-1.0.6-h470a237_2
+bzip2-1.0.8-h01d97ff_0
+bzip2-1.0.8-h01d97ff_1
+bzip2-1.0.8-h0b31af3_2
+bzip2-1.0.8-haf1e3a3_2
+bzip2-1.0.8-haf1e3a3_3
+bzip2-1.0.8-hc929b4f_4
+bzip2-1.0.8-h0d85af4_4
+bzip2-1.0.8-h10d778d_5

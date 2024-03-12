@@ -1,0 +1,8 @@
+libgcc-devel_linux-ppc64le-9.5.0-he727271_16
+gcc_bootstrap_linux-ppc64le-9.5.0-hddaac41_10
+libgcc-devel_linux-ppc64le-9.5.0-he727271_17
+libgcc-devel_linux-ppc64le-9.5.0-h1a4eb2a_18
+gcc_bootstrap_linux-ppc64le-9.5.0-hb54ca20_11
+libgcc-devel_linux-ppc64le-9.5.0-h1a4eb2a_19
+gcc_bootstrap_linux-ppc64le-9.5.0-hb54ca20_12
+gcc_bootstrap_linux-ppc64le-9.5.0-hb54ca20_13

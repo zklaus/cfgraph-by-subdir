@@ -1,0 +1,8 @@
+r-tidyselect-0.2.4-r351h6115d3f_1003
+r-tidyselect-0.2.5-r351h6115d3f_1000
+r-tidyselect-0.2.5-r35h796a38f_1001
+r-tidyselect-0.2.5-r36h796a38f_1001
+r-tidyselect-1.0.0-r35h6115d3f_0
+r-tidyselect-1.0.0-r36h6115d3f_0
+r-tidyselect-1.0.0-r36h6115d3f_1
+r-tidyselect-1.0.0-r40h6115d3f_1

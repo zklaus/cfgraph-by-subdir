@@ -1,0 +1,17 @@
+r-data.table-1.13.2-r40h02096d4_0
+r-data.table-1.13.2-r36h02096d4_0
+r-data.table-1.13.4-r40h6d2157b_0
+r-data.table-1.13.4-r36h6d2157b_0
+r-data.table-1.13.6-r40h6d2157b_0
+r-data.table-1.13.6-r36h6d2157b_0
+r-data.table-1.14.0-r40h6d2157b_0
+r-data.table-1.14.0-r36h6d2157b_0
+r-data.table-1.14.0-r41h6d2157b_0
+r-data.table-1.14.2-r41h6d2157b_0
+r-data.table-1.14.2-r40h6d2157b_0
+r-data.table-1.14.2-r41h6d2157b_1
+r-data.table-1.14.4-r41h6d2157b_0
+r-data.table-1.14.6-r41h6d2157b_0
+r-data.table-1.14.8-r41h6d2157b_0
+r-data.table-1.14.8-r41h6d2157b_1
+r-data.table-1.14.8-r41h6d2157b_2

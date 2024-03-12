@@ -1,0 +1,5 @@
+qt6-main-6.5.0-head6826_4
+qt6-main-6.5.0-hae41e4f_5
+qt6-main-6.5.0-hae41e4f_6
+qt6-main-6.5.0-h871d45a_7
+qt6-main-6.5.0-ha2ff4f7_8

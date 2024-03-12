@@ -1,0 +1,4 @@
+xorg-xineramaproto-1.2.1-0
+xorg-xineramaproto-1.2.1-h470a237_1
+xorg-xineramaproto-1.2.1-h14c3975_1001
+xorg-xineramaproto-1.2.1-h7f98852_1001

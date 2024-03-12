@@ -1,0 +1,9 @@
+r-precrec-0.9.1-r3.3.2_0
+r-precrec-0.9.1-r3.4.1_0
+r-precrec-0.9.1-r341hfc679d8_1
+r-precrec-0.9.1-r341hfc679d8_2
+r-precrec-0.9.1-r351hfc679d8_2
+r-precrec-0.9.1-r351h0a44026_1002
+r-precrec-0.10.1-r35hf99fc2c_0
+r-precrec-0.10.1-r35hf99fc2c_1
+r-precrec-0.11-r35hc5da6b9_0

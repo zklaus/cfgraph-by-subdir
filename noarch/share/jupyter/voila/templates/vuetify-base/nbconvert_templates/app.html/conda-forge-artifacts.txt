@@ -1,0 +1,7 @@
+voila-vuetify-0.1.1-py_0
+voila-vuetify-0.1.2-py_0
+voila-vuetify-0.2.0-py_0
+voila-vuetify-0.2.1-py_0
+voila-vuetify-0.2.2-py_0
+voila-vuetify-0.3.0-py_0
+voila-vuetify-0.4.0-py_0

@@ -1,0 +1,10 @@
+mypy-0.570-py35_0
+mypy-0.570-py36_0
+mypy-0.590-py35_0
+mypy-0.590-py36_0
+mypy-0.600-py36_0
+mypy-0.600-py35_0
+mypy-0.610-py36_0
+mypy-0.610-py35_0
+mypy-0.620-py36_0
+mypy-0.620-py35_0

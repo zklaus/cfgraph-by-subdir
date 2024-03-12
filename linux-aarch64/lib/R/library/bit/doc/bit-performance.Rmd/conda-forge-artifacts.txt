@@ -1,0 +1,13 @@
+r-bit-4.0.3-r40hcdcec82_0
+r-bit-4.0.3-r36hcdcec82_0
+r-bit-4.0.4-r36hcdcec82_0
+r-bit-4.0.4-r40hcdcec82_0
+r-bit-4.0.4-r36h96a179c_0
+r-bit-4.0.4-r40h96a179c_0
+r-bit-4.0.4-r41h96a179c_0
+r-bit-4.0.4-r42h8e445f0_1
+r-bit-4.0.4-r41h8e445f0_1
+r-bit-4.0.5-r42h8e445f0_0
+r-bit-4.0.5-r41h8e445f0_0
+r-bit-4.0.5-r42h25e906a_1
+r-bit-4.0.5-r43h25e906a_1

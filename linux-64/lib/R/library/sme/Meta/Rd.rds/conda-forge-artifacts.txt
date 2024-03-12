@@ -1,0 +1,14 @@
+r-sme-0.8-r3.3.2_0
+r-sme-0.8-r3.4.1_0
+r-sme-0.8-r341h470a237_1
+r-sme-0.8-r351h470a237_1
+r-sme-0.8-r351h14c3975_1001
+r-sme-1.0.2-r351hcdcec82_0
+r-sme-1.0.2-r35hcdcec82_1
+r-sme-1.0.2-r36hcdcec82_1
+r-sme-1.0.2-r40hcdcec82_2
+r-sme-1.0.2-r36hcdcec82_2
+r-sme-1.0.2-r40hcfec24a_2
+r-sme-1.0.2-r41hcfec24a_2
+r-sme-1.0.2-r42h06615bd_3
+r-sme-1.0.2-r41h06615bd_3

@@ -1,0 +1,10 @@
+rake_nltk-1.0.3-py27_0
+rake_nltk-1.0.3-py35_0
+rake_nltk-1.0.3-py36_0
+rake_nltk-1.0.3-py27_1000
+rake_nltk-1.0.3-py36_1000
+rake_nltk-1.0.3-py37_1000
+nltk_data-2019.07.04-1
+nltk_data-2019.07.04-h694c41f_2
+nltk_data-2019.07.04-h694c41f_3
+nltk_data-2022.05.27-h694c41f_0

@@ -1,0 +1,2 @@
+pixman-0.40.0-h27ca646_0
+pixman-0.42.2-h13dd4ca_0

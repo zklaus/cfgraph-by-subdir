@@ -1,0 +1,8 @@
+jwt-cpp-0.5.0-h05e8e0f_0
+jwt-cpp-0.5.1-h05e8e0f_0
+jwt-cpp-0.5.1-hfbb9f57_1
+jwt-cpp-0.5.1-h05e8e0f_1
+jwt-cpp-0.5.1-h05e8e0f_2
+jwt-cpp-0.5.1-hfbb9f57_2
+jwt-cpp-0.6.0-h9ac69f0_0
+jwt-cpp-0.6.0-haa90c7b_0

@@ -1,0 +1,6 @@
+xorg-libxdmcp-1.1.2-0
+xorg-libxdmcp-1.1.2-2
+xorg-libxdmcp-1.1.2-vc14_0
+xorg-libxdmcp-1.1.2-vc14_2
+xorg-libxdmcp-1.1.2-vc9_0
+xorg-libxdmcp-1.1.2-vc9_2

@@ -1,0 +1,12 @@
+pynini-2.1.5-py311hd2070f0_5
+pynini-2.1.5-py39hf022c4e_5
+pynini-2.1.5-py39h92daf61_5
+pynini-2.1.5-py38h47a3246_5
+pynini-2.1.5-py38h98b9b1b_5
+pynini-2.1.5-py310ha23aa8a_5
+pynini-2.1.5-py310h88cfcbd_6
+pynini-2.1.5-py311h5fe6e05_6
+pynini-2.1.5-py38h15a1a5b_6
+pynini-2.1.5-py312h49ebfd2_6
+pynini-2.1.5-py39h8ee36c8_6
+pynini-2.1.5-py39h801e03e_6

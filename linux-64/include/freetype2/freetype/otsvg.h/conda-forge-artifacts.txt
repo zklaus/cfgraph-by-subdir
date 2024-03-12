@@ -1,0 +1,3 @@
+freetype-2.12.1-hca18f0e_0
+freetype-2.12.1-hca18f0e_1
+freetype-2.12.1-h267a509_2

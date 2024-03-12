@@ -1,0 +1,4 @@
+nuitka-0.5.29.5-py36_0
+nuitka-0.5.29.5-py35_0
+nuitka-0.5.30-py35_0
+nuitka-0.5.30-py36_0

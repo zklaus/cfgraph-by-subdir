@@ -1,0 +1,3 @@
+libgcc-devel_linux-aarch64-12.1.0-h6301dc9_16
+gcc_bootstrap_linux-aarch64-12.1.0-h441832d_10
+libgcc-devel_linux-aarch64-12.1.0-h6301dc9_17

@@ -1,0 +1,2 @@
+google-cloud-cpp-0.20.0-h3134a0d_0
+google-cloud-cpp-0.20.0-h61a0902_1

@@ -1,0 +1,7 @@
+r-isoband-0.2.2-r36h796a38f_0
+r-isoband-0.2.2-r40h796a38f_0
+r-isoband-0.2.3-r36ha856d6a_0
+r-isoband-0.2.3-r40ha856d6a_0
+r-isoband-0.2.4-r36ha856d6a_0
+r-isoband-0.2.4-r40ha856d6a_0
+r-isoband-0.2.5-r40ha856d6a_0

@@ -1,0 +1,2 @@
+thrift-cpp-0.10.0-0
+thrift-cpp-0.10.0-1

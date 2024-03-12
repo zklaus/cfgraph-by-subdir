@@ -1,0 +1,17 @@
+isl-0.21-h64d3456_1
+isl-0.22-h64d3456_0
+isl-0.22.1-h64d3456_0
+isl-0.22.1-h64d3456_1
+isl-0.22.1-h7479147_1
+isl-0.22.1-hb209c28_2
+barvinok-0.41.5-hda59f3d_1
+barvinok-0.41.5-hda59f3d_2
+isl-0.24-h3b9df90_0
+isl-0.25-hbbae597_0
+barvinok-0.41.5-h52e13c7_4
+barvinok-0.41.6-h52e13c7_0
+barvinok-0.41.6-h2eedcf5_1
+isl-0.25-imath32_h511a0d1_101
+isl-0.25-gmp_h80f4fc3_1
+isl-0.26-imath32_h89479ec_101
+isl-0.26-gmp_h7d2a380_1

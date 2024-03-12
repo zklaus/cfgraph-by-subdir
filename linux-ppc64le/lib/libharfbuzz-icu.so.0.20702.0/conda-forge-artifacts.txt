@@ -1,0 +1,4 @@
+harfbuzz-2.7.2-hb509d72_0
+harfbuzz-2.7.2-h5170227_1
+harfbuzz-2.7.2-h5e6dc67_1
+harfbuzz-2.7.2-h2cd057d_2

@@ -1,0 +1,7 @@
+gmatelastic-0.2.0-h926bf3e_0
+gmatelastic-0.2.1-h65a07b1_0
+gmatelastic-0.2.1-h940c156_0
+gmatelastic-0.2.2-h940c156_0
+gmatelastic-0.2.2-h940c156_1
+gmatelastic-0.3.0-hbb4e6a2_0
+gmatelastic-0.3.0-hbb4e6a2_1

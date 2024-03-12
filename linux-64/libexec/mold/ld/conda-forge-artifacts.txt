@@ -1,0 +1,11 @@
+mold-1.11.0-h913df21_0
+mold-2.0.0-h913df21_0
+mold-2.1.0-h913df21_0
+mold-2.1.0-h913df21_1
+mold-2.1.0-h76aa41c_2
+mold-2.2.0-h76aa41c_0
+mold-2.3.0-h76aa41c_0
+mold-2.3.1-h76aa41c_0
+mold-2.3.2-h76aa41c_0
+mold-2.3.3-h76aa41c_0
+mold-2.4.0-h76aa41c_0

@@ -1,0 +1,12 @@
+giac-1.2.3.25-blas_openblas_0
+giac-1.2.3.25-blas_openblas_1
+giac-1.4.9.57-blas_openblas_1
+giac-1.4.9.57-blas_openblash7aa6a8e_2
+giac-1.4.9.57-blas_openblashb294cb5_3
+giac-1.4.9.57-blas_openblash6ad2574_1003
+giac-1.4.9.57-blas_openblash9d325bd_3
+giac-1.4.9.57-h6866182_1004
+giac-1.5.0.37-h6866182_0
+giac-1.5.0.37-h8b4616e_1
+giac-1.5.0.37-h68f4845_2
+giac-1.5.0.63-h68f4845_2

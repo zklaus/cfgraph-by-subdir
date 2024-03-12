@@ -1,0 +1,3 @@
+libvips-8.12.2-hfce16b2_2
+libvips-8.12.2-h7fbc68d_3
+libvips-8.12.2-hd201370_4

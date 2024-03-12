@@ -1,0 +1,17 @@
+r-minqa-1.2.4-r36h8503d49_1004
+r-minqa-1.2.4-r36h8503d49_1005
+r-minqa-1.2.4-r40h8503d49_1005
+r-minqa-1.2.4-r40he4ed712_1006
+r-minqa-1.2.4-r36h545d300_1006
+r-minqa-1.2.4-r36he4ed712_1006
+r-minqa-1.2.4-r40h545d300_1006
+r-minqa-1.2.4-r41h9f01647_1006
+r-minqa-1.2.4-r40h9f01647_1006
+r-minqa-1.2.4-r41h29c5db4_1007
+r-minqa-1.2.4-r42h29c5db4_1007
+r-minqa-1.2.5-r41h29c5db4_0
+r-minqa-1.2.5-r42h29c5db4_0
+r-minqa-1.2.5-r43hac7c46c_1
+r-minqa-1.2.5-r42hac7c46c_1
+r-minqa-1.2.6-r42hac7c46c_0
+r-minqa-1.2.6-r43hac7c46c_0

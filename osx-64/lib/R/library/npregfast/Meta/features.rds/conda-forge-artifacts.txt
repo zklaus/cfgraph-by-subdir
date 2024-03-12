@@ -1,0 +1,8 @@
+r-npregfast-1.5.1-r41h749f5a1_0
+r-npregfast-1.5.1-r40h749f5a1_0
+r-npregfast-1.5.2-r40h1e4e481_0
+r-npregfast-1.5.2-r41h1e4e481_0
+r-npregfast-1.5.2-r41h1e4e481_1
+r-npregfast-1.5.2-r42h1e4e481_1
+r-npregfast-1.5.2-r42hfe07776_2
+r-npregfast-1.5.2-r43hfe07776_2

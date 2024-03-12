@@ -1,0 +1,6 @@
+pexsi-1.2.0-mpi_mpich_hfe5d17c_1
+pexsi-1.2.0-mpi_openmpi_h5dd7c89_1
+pexsi-1.2.0-mpi_openmpi_h6c90076_1
+pexsi-1.2.0-mpi_mpich_h89c9322_1
+pexsi-2.0.0-mpi_mpich_hf47366b_0
+pexsi-2.0.0-mpi_openmpi_hfe4b79c_0

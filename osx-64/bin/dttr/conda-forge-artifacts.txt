@@ -1,0 +1,6 @@
+pygrametl-2.7-py36h5dafb3c_0
+pygrametl-2.7-py39h6e9494a_0
+pygrametl-2.7-py36h79c6626_0
+pygrametl-2.7-py37hf985489_0
+pygrametl-2.7-py37h5186d4c_0
+pygrametl-2.7-py38h50d1736_0

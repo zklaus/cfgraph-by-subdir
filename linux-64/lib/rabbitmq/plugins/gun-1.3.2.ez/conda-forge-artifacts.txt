@@ -1,0 +1,2 @@
+rabbitmq-server-3.8.4-ha770c72_0
+rabbitmq-server-3.8.6-ha770c72_0

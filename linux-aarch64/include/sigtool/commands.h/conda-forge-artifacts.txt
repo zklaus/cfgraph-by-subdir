@@ -1,0 +1,4 @@
+sigtool-0.1.2-h3c49101_1
+sigtool-0.1.2-hb49fb11_1
+sigtool-0.1.3-hb49fb11_0
+sigtool-0.1.3-h3c49101_0

@@ -1,0 +1,16 @@
+ipopt-3.14.1-hf6be2e5_0
+ipopt-3.14.2-hf6be2e5_0
+ipopt-3.14.3-hf6be2e5_0
+ipopt-3.14.4-hf6be2e5_0
+ipopt-3.14.5-hf6be2e5_0
+ipopt-3.14.6-hf6be2e5_0
+ipopt-3.14.7-h99cadeb_0
+ipopt-3.14.7-h99cadeb_1
+ipopt-3.14.8-h99cadeb_0
+ipopt-3.14.9-h99cadeb_0
+ipopt-3.14.9-h0ff4939_1
+ipopt-3.14.10-ha9547d1_0
+ipopt-3.14.11-ha9547d1_0
+ipopt-3.14.12-ha9547d1_0
+ipopt-3.14.12-ha9547d1_1
+ipopt-3.14.13-ha9547d1_0

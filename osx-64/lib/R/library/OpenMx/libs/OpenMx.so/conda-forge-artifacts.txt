@@ -1,0 +1,6 @@
+r-openmx-2.9.6-r341_0
+r-openmx-2.9.6-r341h26a2512_1
+r-openmx-2.11.4-r341he0ffe0d_0
+r-openmx-2.11.4-r351he0ffe0d_0
+r-openmx-2.16.0-r35h9db898c_0
+r-openmx-2.17.3-r35h9db898c_0

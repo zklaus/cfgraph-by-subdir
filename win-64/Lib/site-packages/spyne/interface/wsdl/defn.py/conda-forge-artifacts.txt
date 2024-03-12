@@ -1,0 +1,12 @@
+spyne-2.12.11-py27_0
+spyne-2.12.11-py34_0
+spyne-2.12.11-py35_0
+spyne-2.12.13-py27_0
+spyne-2.12.13-py34_0
+spyne-2.12.13-py35_0
+spyne-2.12.14-py27_0
+spyne-2.12.14-py34_0
+spyne-2.12.14-py35_0
+spyne-2.12.14-py36_1000
+spyne-2.12.16-py27_0
+spyne-2.12.16-py36_0

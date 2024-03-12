@@ -1,0 +1,4 @@
+apd-0.5.0-pyhd8ed1ab_0
+apd-0.6.0-pyhd8ed1ab_0
+apd-0.7.0-pyhd8ed1ab_0
+apd-0.7.1-pyhd8ed1ab_0

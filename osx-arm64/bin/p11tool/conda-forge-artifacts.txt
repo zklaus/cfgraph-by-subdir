@@ -1,0 +1,6 @@
+gnutls-3.7.6-h88f254d_4
+gnutls-3.7.6-h27a1928_5
+gnutls-3.7.7-h27a1928_0
+gnutls-3.7.8-h9f1a10d_0
+gnutls-3.7.8-hd26332c_1
+gnutls-3.7.9-hd26332c_0

@@ -1,0 +1,5 @@
+libprotobuf-21.5-h6239696_0
+libprotobuf-21.5-h6239696_1
+libprotobuf-3.21.5-h6239696_0
+libprotobuf-3.21.5-h6239696_2
+libprotobuf-3.21.5-h6239696_3

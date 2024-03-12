@@ -1,0 +1,8 @@
+osmium-tool-1.13.2-h41609fd_0
+osmium-tool-1.14.0-h41609fd_0
+osmium-tool-1.14.0-h41609fd_1
+osmium-tool-1.14.0-h193e024_2
+osmium-tool-1.15.0-hbfd299d_0
+osmium-tool-1.16.0-he3809c7_0
+osmium-tool-1.16.0-he3809c7_1
+osmium-tool-1.16.0-h7fca47f_2

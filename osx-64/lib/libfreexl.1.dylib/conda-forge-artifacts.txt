@@ -1,0 +1,12 @@
+freexl-1.0.2-0
+freexl-1.0.2-1
+freexl-1.0.2-2
+freexl-1.0.4-0
+freexl-1.0.5-0
+freexl-1.0.5-hf837533_1
+freexl-1.0.5-h470a237_2
+freexl-1.0.5-h1de35cc_1002
+freexl-1.0.5-h0b31af3_1002
+freexl-1.0.6-h0d85af4_0
+freexl-1.0.6-hb7f2c08_1
+freexl-2.0.0-h3ec172f_0

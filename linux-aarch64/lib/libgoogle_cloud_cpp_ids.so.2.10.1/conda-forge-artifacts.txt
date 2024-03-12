@@ -1,0 +1,2 @@
+libgoogle-cloud-2.10.1-h48e691c_0
+libgoogle-cloud-2.10.1-h48e691c_1

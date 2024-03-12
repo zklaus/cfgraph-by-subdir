@@ -1,0 +1,2 @@
+r-striprtf-0.5.2-r36h5b6a25b_1
+r-striprtf-0.5.2-r40h5b6a25b_1

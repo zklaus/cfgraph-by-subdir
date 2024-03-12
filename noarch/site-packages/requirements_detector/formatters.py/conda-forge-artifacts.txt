@@ -1,0 +1,3 @@
+requirements-detector-0.7-pyhd8ed1ab_4
+requirements-detector-1.2.1-pyhd8ed1ab_0
+requirements-detector-1.2.2-pyhd8ed1ab_0

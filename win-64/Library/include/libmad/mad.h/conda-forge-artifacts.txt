@@ -1,0 +1,6 @@
+libmad-0.15.1b-vc10_0
+libmad-0.15.1b-vc14_0
+libmad-0.15.1b-vc9_0
+libmad-0.15.1b-h0c8e037_1000
+libmad-0.15.1b-hfa6e2cd_1000
+libmad-0.15.1b-hcfcfb64_1001

@@ -1,0 +1,12 @@
+libparallelproj-1.6.1-cuda120_h3a97aeb_200
+libparallelproj-1.6.1-cpu_h1b64f48_0
+libparallelproj-1.6.1-cuda112_h0800d71_200
+libparallelproj-1.6.1-cuda118_h6103f9b_200
+libparallelproj-1.6.1-cpu_h1b64f48_1
+libparallelproj-1.6.1-cuda118_he266856_201
+libparallelproj-1.6.1-cuda112_hd8b62ff_201
+libparallelproj-1.6.1-cuda120_ha4afa4e_201
+libparallelproj-1.6.1-cuda120_ha4afa4e_202
+libparallelproj-1.6.1-cuda112_hd8b62ff_202
+libparallelproj-1.6.1-cpu_h1b64f48_2
+libparallelproj-1.6.1-cuda118_he266856_202

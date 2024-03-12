@@ -1,0 +1,10 @@
+impactx-22.11-py311h7bf5779_1
+impactx-22.12-py311h7bf5779_0
+impactx-23.01-py311h7bf5779_0
+impactx-23.02-py311h7bf5779_0
+impactx-23.04-py311h7bf5779_0
+impactx-23.05-py311he5afff7_0
+impactx-23.08-py311he5afff7_0
+impactx-23.10-py311hbcb22e1_0
+impactx-23.10-py311hbcb22e1_1
+impactx-23.11-py311h1b79546_0

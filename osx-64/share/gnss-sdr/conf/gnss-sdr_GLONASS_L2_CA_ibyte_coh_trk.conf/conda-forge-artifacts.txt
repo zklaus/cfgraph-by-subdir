@@ -1,0 +1,13 @@
+gnss-sdr-0.0.18-h89e93db_0
+gnss-sdr-0.0.18-hae1a621_1
+gnss-sdr-0.0.18-h89e93db_1
+gnss-sdr-0.0.18-heda64f0_2
+gnss-sdr-0.0.18-hc8bb68c_3
+gnss-sdr-0.0.18-h2070f43_4
+gnss-sdr-0.0.18-h2070f43_5
+gnss-sdr-0.0.18-hc2bb961_6
+gnss-sdr-0.0.18-hee4a162_8
+gnss-sdr-0.0.18-heec65d0_9
+gnss-sdr-0.0.18-h569012a_11
+gnss-sdr-0.0.18-h9883109_12
+gnss-sdr-0.0.18-h9408857_13

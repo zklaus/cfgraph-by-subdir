@@ -1,0 +1,10 @@
+r-lasso2-1.2_20-r36h159158b_1001
+r-lasso2-1.2_20-r40h17f1fa6_1002
+r-lasso2-1.2_20-r36h17f1fa6_1002
+r-lasso2-1.2_21.1-r40hb5ad454_0
+r-lasso2-1.2_21.1-r40h28b5c78_0
+r-lasso2-1.2_21.1-r41h28b5c78_0
+r-lasso2-1.2_22-r41h28b5c78_0
+r-lasso2-1.2_22-r40h28b5c78_0
+r-lasso2-1.2_22-r41h815d134_1
+r-lasso2-1.2_22-r42h815d134_1

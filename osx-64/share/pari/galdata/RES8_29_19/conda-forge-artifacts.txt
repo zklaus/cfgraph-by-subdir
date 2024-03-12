@@ -1,0 +1,9 @@
+pari-2.9.1-pl5.22.0.1_1
+pari-2.9.2-pl5.22.0.1_0
+pari-2.9.4-pl5.22.0.1_0
+pari-2.9.5-pl522ha4d7672_0
+pari-2.9.5-pl526h787e8ac_1
+pari-2.9.5-pl526h6c62345_1001
+pari-2.9.5-pl526hf9b3ef1_1002
+pari-2.11.1-pl526h0169eea_0
+pari-2.11.1-pl526h71decd9_1

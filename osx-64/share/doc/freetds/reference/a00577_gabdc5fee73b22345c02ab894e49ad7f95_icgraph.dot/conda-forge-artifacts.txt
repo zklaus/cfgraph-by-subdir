@@ -1,0 +1,10 @@
+freetds-1.4.1-h5e3c844_0
+freetds-1.4.2-h5e3c844_0
+freetds-1.4.3-h9fd8376_0
+freetds-1.4.4-h9fd8376_0
+freetds-1.4.5-h9fd8376_0
+freetds-1.4.6-h9fd8376_0
+freetds-1.4.7-h9fd8376_0
+freetds-1.4.8-h9fd8376_0
+freetds-1.4.9-h9fd8376_0
+freetds-1.4.10-h9fd8376_0

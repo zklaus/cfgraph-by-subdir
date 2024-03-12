@@ -1,0 +1,5 @@
+socat-1.7.3.4-hf91ca04_0
+socat-1.7.3.4-ha7ce1ec_0
+socat-1.7.4.3-ha7ce1ec_0
+socat-1.7.4.3-hf91ca04_0
+socat-1.8.0.0-h3b17510_0

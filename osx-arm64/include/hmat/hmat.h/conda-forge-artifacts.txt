@@ -1,0 +1,7 @@
+hmat-oss-1.7.1-he60877b_0
+hmat-oss-1.7.1-hf889cad_1
+hmat-oss-1.8.0-ha536d44_0
+hmat-oss-1.8.1-h199dbb6_0
+hmat-oss-1.8.1-h15d16e4_1
+hmat-oss-1.8.1-h15d16e4_2
+hmat-oss-1.9.0-h15d16e4_0

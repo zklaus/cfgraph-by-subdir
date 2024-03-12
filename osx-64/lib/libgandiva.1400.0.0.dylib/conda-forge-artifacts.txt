@@ -1,0 +1,1 @@
+libarrow-gandiva-14.0.0-heeebe7c_0_cpu

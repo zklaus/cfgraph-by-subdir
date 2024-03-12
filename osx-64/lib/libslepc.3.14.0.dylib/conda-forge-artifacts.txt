@@ -1,0 +1,6 @@
+slepc-3.14.0-hcab1c59_0
+slepc-3.14.0-hcb18b3e_0
+slepc-3.14.0-h6260a01_1
+slepc-3.14.0-hf357543_1
+slepc-3.14.0-h6a63b8d_1
+slepc-3.14.0-hf5b3444_1

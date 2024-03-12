@@ -1,0 +1,7 @@
+jsonarango-0.1.0-hd94202b_0
+jsonarango-0.1.0-hd94202b_1
+jsonarango-0.1.1-hd94202b_0
+jsonarango-0.2.0-hb10fc5a_0
+jsonarango-0.3.0-hb10fc5a_0
+jsonarango-0.4.0-hb10fc5a_0
+jsonarango-0.4.0-hb5108ff_1

@@ -1,0 +1,3 @@
+libmodulemd-2.11.0-py38hb401775_0
+libmodulemd-2.11.0-py37h9c9e77a_0
+libmodulemd-2.11.0-py36h148dfc4_0

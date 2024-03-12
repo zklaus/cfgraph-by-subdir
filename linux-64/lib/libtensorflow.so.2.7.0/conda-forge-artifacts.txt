@@ -1,0 +1,5 @@
+libtensorflow-2.7.0-cuda112he1a0a60_0
+libtensorflow-2.7.0-cuda111hbb87069_0
+libtensorflow-2.7.0-cuda110h42b7d06_0
+libtensorflow-2.7.0-cuda102h92e7a29_0
+libtensorflow-2.7.0-cpu_h0a78848_0

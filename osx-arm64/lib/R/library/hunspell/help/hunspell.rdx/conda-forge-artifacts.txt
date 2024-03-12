@@ -1,0 +1,6 @@
+r-hunspell-3.0.2-r42h9a38a31_1
+r-hunspell-3.0.2-r41h9a38a31_1
+r-hunspell-3.0.2-r42he62749d_2
+r-hunspell-3.0.2-r43he62749d_2
+r-hunspell-3.0.3-r42he96f11e_0
+r-hunspell-3.0.3-r43he96f11e_0

@@ -1,0 +1,4 @@
+pyagrum-0.16.4-py37h4f17bb1_0
+pyagrum-0.16.4-py36h4f17bb1_0
+pyagrum-0.16.4-py27h4f17bb1_0
+pyagrum-0.16.4-py38h4f17bb1_0

@@ -1,0 +1,13 @@
+r-bigmemory.sri-0.1.3-r351h6115d3f_1002
+r-bigmemory.sri-0.1.3-r36h6115d3f_1003
+r-bigmemory.sri-0.1.3-r35h6115d3f_1003
+r-bigmemory.sri-0.1.3-r40h6115d3f_1004
+r-bigmemory.sri-0.1.3-r36h6115d3f_1004
+r-bigmemory.sri-0.1.3-r41hc72bb7e_1004
+r-bigmemory.sri-0.1.3-r40hc72bb7e_1004
+r-bigmemory.sri-0.1.3-r42hc72bb7e_1005
+r-bigmemory.sri-0.1.3-r41hc72bb7e_1005
+r-bigmemory.sri-0.1.6-r42hc72bb7e_0
+r-bigmemory.sri-0.1.6-r41hc72bb7e_0
+r-bigmemory.sri-0.1.6-r42hc72bb7e_1
+r-bigmemory.sri-0.1.6-r43hc72bb7e_1

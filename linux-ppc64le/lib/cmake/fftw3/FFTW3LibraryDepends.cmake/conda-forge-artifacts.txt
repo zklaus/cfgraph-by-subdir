@@ -1,0 +1,12 @@
+fftw-3.3.10-mpi_openmpi_ha4fa02e_5
+fftw-3.3.10-nompi_hfe3237c_105
+fftw-3.3.10-mpi_mpich_h08a665d_5
+fftw-3.3.10-nompi_hfe3237c_106
+fftw-3.3.10-mpi_mpich_h08a665d_6
+fftw-3.3.10-mpi_openmpi_ha4fa02e_6
+fftw-3.3.10-mpi_openmpi_h6735b39_7
+fftw-3.3.10-nompi_h11bfeb0_107
+fftw-3.3.10-mpi_mpich_hcafff5f_7
+fftw-3.3.10-mpi_openmpi_h6735b39_8
+fftw-3.3.10-nompi_h11bfeb0_108
+fftw-3.3.10-mpi_mpich_hcafff5f_8

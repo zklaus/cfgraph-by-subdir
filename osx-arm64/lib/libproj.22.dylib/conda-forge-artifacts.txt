@@ -1,0 +1,9 @@
+proj-8.0.0-h1f90baf_0
+proj-8.0.1-h2d984c1_0
+proj-8.1.0-h2d984c1_0
+proj-8.1.0-h2d984c1_1
+proj-8.1.1-h2d984c1_0
+proj-8.1.1-h2d984c1_1
+proj-8.1.1-h2d984c1_2
+proj-8.2.0-h2d984c1_0
+proj-8.2.1-h2d984c1_0

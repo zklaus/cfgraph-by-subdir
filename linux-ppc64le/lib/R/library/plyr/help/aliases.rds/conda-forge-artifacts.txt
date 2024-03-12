@@ -1,0 +1,15 @@
+r-plyr-1.8.6-r36he54295a_0
+r-plyr-1.8.6-r36he54295a_1
+r-plyr-1.8.6-r40he54295a_1
+r-plyr-1.8.6-r41h6203a36_1
+r-plyr-1.8.6-r40h6203a36_1
+r-plyr-1.8.7-r40ha35a809_0
+r-plyr-1.8.7-r41ha35a809_0
+r-plyr-1.8.7-r41ha35a809_1
+r-plyr-1.8.7-r42ha35a809_1
+r-plyr-1.8.8-r41ha35a809_0
+r-plyr-1.8.8-r42ha35a809_0
+r-plyr-1.8.8-r43hd301276_1
+r-plyr-1.8.8-r42hd301276_1
+r-plyr-1.8.9-r42hd301276_0
+r-plyr-1.8.9-r43hd301276_0

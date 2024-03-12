@@ -1,0 +1,10 @@
+coloredlogs-15.0.1-py36h704843e_1
+coloredlogs-15.0.1-py37h4bcbb9b_1
+coloredlogs-15.0.1-py37hd9ded2f_1
+coloredlogs-15.0.1-py38h2063c64_1
+coloredlogs-15.0.1-py39ha65689a_1
+coloredlogs-15.0.1-py37hd9ded2f_2
+coloredlogs-15.0.1-py37h4bcbb9b_2
+coloredlogs-15.0.1-py38h2063c64_2
+coloredlogs-15.0.1-py39ha65689a_2
+coloredlogs-15.0.1-py310hbbe02a8_2

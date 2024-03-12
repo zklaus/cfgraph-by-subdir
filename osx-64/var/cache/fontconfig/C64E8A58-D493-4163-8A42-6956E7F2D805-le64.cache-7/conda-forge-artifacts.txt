@@ -1,0 +1,7 @@
+otagrum-0.3-py37hdadc0f0_0
+otagrum-0.3-py36h27176af_0
+otagrum-0.3-py38h11c0d25_0
+pyagrum-0.18.1-py39h13df4ff_1
+pyagrum-0.18.1-py36h72eec15_1
+pyagrum-0.18.1-py38h6be0db6_1
+pyagrum-0.18.1-py37h6d0141a_1

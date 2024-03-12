@@ -1,0 +1,6 @@
+r-spatstat.geom-2.2_0-r40h6d2157b_0
+r-spatstat.geom-2.2_2-r40h6d2157b_0
+r-spatstat.geom-2.3_0-r40h6d2157b_0
+r-spatstat.geom-2.3_1-r40h6d2157b_0
+r-spatstat.geom-2.3_2-r40h6d2157b_0
+r-spatstat.geom-2.4_0-r40h6d2157b_0

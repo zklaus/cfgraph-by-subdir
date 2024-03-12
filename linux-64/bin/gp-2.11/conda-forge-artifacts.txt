@@ -1,0 +1,8 @@
+pari-2.11.1-pl526h7ba8bfb_0
+pari-2.11.1-pl526h80ae19e_1
+pari-2.11.1-pl526h80ae19e_2
+pari-2.11.2-pl526h80ae19e_0
+pari-2.11.4-pl5262hdc55233_0
+pari-2.11.4-h325f2e7_0
+pari-2.11.4-hddaffa3_1
+pari-2.11.4-hddaffa3_2

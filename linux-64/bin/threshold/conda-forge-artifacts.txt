@@ -1,0 +1,14 @@
+scorec-20161004-mpi_mpich_h9f7b9cf_0
+scorec-20161004-mpi_openmpi_hc401efc_0
+scorec-20161004-mpi_mpich_h9f7b9cf_1
+scorec-20161004-mpi_openmpi_hc401efc_1
+scorec-2.2.2-mpi_mpich_h9f7b9cf_0
+scorec-2.2.2-mpi_openmpi_hc401efc_0
+taudem-5.3.8-h4ba2636_0
+taudem-5.3.8-h4f3a8d6_1
+taudem-5.3.8-h4f3a8d6_2
+taudem-5.3.8-h0c848a3_3
+taudem-5.3.8-he526eef_3
+scorec-2.2.7-mpi_openmpi_ha06272d_0
+scorec-2.2.7-mpi_mpich_h3d8636e_0
+taudem-5.3.8-h69042ef_4

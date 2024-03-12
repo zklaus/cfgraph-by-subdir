@@ -1,0 +1,5 @@
+libjpeg-turbo-1.5.1-0
+libjpeg-turbo-1.5.2-0
+libjpeg-turbo-1.5.3-0
+libjpeg-turbo-3.0.0-hd590300_0
+libjpeg-turbo-3.0.0-hd590300_1

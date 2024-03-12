@@ -1,0 +1,4 @@
+cliquer-1.21-0
+cliquer-1.21-h516909a_1001
+cliquer-1.22-h516909a_0
+cliquer-1.22-h36c2ea0_0

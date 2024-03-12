@@ -1,0 +1,6 @@
+fribidi-1.0.5-h516909a_1001
+fribidi-1.0.5-h516909a_1002
+fribidi-1.0.5-h516909a_1003
+fribidi-1.0.9-h516909a_0
+fribidi-1.0.10-h516909a_0
+fribidi-1.0.10-hb9de7d4_0

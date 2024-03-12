@@ -1,0 +1,4 @@
+r-sdcmicro-5.6.1-r41h9951f98_0
+r-sdcmicro-5.6.1-r40h9951f98_0
+r-sdcmicro-5.7.1-r40h8619c4b_0
+r-sdcmicro-5.7.1-r41h8619c4b_0

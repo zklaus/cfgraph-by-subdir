@@ -1,0 +1,9 @@
+dcap-2.47.12-hb27a016_2
+dcap-2.47.12-h068fd6a_3
+dcap-2.47.12-ha4d4d2b_4
+dcap-2.47.12-ha4d4d2b_5
+dcap-2.47.12-h0ad4e35_5
+dcap-2.47.12-h336aac3_6
+dcap-2.47.12-haf057d8_6
+dcap-2.47.14-h336aac3_0
+dcap-2.47.14-h7c544c4_1

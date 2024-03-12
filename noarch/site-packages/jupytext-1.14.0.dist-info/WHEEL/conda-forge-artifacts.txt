@@ -1,0 +1,3 @@
+jupytext-1.14.0-pyhd0ecf6b_0
+jupytext-1.14.0-pyh4b9bcc7_0
+jupytext-1.14.0-pyheef035f_0

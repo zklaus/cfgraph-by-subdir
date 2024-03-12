@@ -1,0 +1,10 @@
+cadabra2-2.2.8-py36hbcab1b3_0
+cadabra2-2.2.8-py37h590524e_0
+cadabra2-2.2.8-py38ha9e4835_0
+cadabra2-2.2.8-py36h04269c6_1
+cadabra2-2.2.8-py37h09b6ec1_1
+cadabra2-2.2.8-py38h2f06f46_1
+yad-11.0-hd6df667_0
+yad-11.0-h3e258af_1
+yad-11.1-h3e258af_0
+yad-12.0-h3e258af_0

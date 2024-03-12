@@ -1,0 +1,12 @@
+jupyterlab-nvdashboard-0.3.1-py_0
+jupyterlab-nvdashboard-0.3.0-py_0
+jupyterlab-nvdashboard-0.4.0-py_0
+jupyterlab-nvdashboard-0.4.0-py_1
+jupyterlab-nvdashboard-0.5.0-pyhd8ed1ab_0
+jupyterlab-nvdashboard-0.6.0-pyhd8ed1ab_0
+jupyterlab-nvdashboard-0.7.0-pyh76afe40_0
+jupyterlab-nvdashboard-0.7.0-pyh1d7be83_0
+jupyterlab-nvdashboard-0.7.0-pyhc268e32_0
+jupyterlab-nvdashboard-0.8.0-pyh1d7be83_0
+jupyterlab-nvdashboard-0.8.0-pyh5bfe37b_0
+jupyterlab-nvdashboard-0.8.0-pyhc268e32_0

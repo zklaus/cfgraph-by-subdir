@@ -1,0 +1,14 @@
+libsvm-3.21-1
+libsvm-3.21-vc10_0
+libsvm-3.21-vc10_1
+libsvm-3.21-vc14_0
+libsvm-3.21-vc14_1
+libsvm-3.21-vc9_0
+libsvm-3.21-vc9_1
+libsvm-323-0
+libsvm-323-h0e60522_1
+libsvm-324-h0e60522_0
+libsvm-325-h0e60522_0
+libsvm-330-h63175ca_0
+libsvm-331-h63175ca_0
+libsvm-332-h63175ca_0

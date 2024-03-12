@@ -1,0 +1,10 @@
+libgit2-0.27.0-0
+libgit2-0.27.1-h2a9243c_0
+libgit2-0.27.2-h2a9243c_0
+libgit2-0.27.3-h2a9243c_0
+libgit2-0.27.4-h5ee2e84_0
+libgit2-0.27.5-h5ee2e84_0
+libgit2-0.27.5-hbd8068c_1000
+libgit2-0.27.7-hbd8068c_1000
+libgit2-0.27.7-h5ee2e84_0
+libgit2-0.27.8-hbd8068c_0

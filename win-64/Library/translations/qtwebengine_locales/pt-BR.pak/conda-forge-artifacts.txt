@@ -1,0 +1,17 @@
+qt-5.9.7-hc6833c9_1
+qt-5.9.7-h506e8af_3
+qt-5.12.1-h444579a_0
+qt-5.12.5-h7ef1ec2_0
+qt-5.12.6-hb2cf2c5_0
+qt-5.12.9-hb2cf2c5_0
+qt-5.12.9-h5909a2a_2
+qt-5.12.9-h5909a2a_3
+qt-5.12.9-h5909a2a_4
+qt-webengine-5.15.4-ha014ca1_1
+qt-5.12.9-h556501e_6
+qt-webengine-5.15.4-h94572ca_2
+qt-webengine-5.15.4-h7325c83_3
+qt-webengine-5.15.4-hd018be4_3
+qt-webengine-5.15.4-h0bdee70_3
+qt-webengine-5.15.8-h5b1ea0b_0
+qt-webengine-5.15.8-h4bf5c4e_4

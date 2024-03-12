@@ -1,0 +1,12 @@
+dlpack-0.2-he1b5a44_1
+dlpack-0.3dev-he1b5a44_0
+dlpack-0.3-he1b5a44_0
+dlpack-0.3-he1b5a44_1
+dlpack-0.4-h01db608_0
+dlpack-0.5-h01db608_0
+dlpack-0.6-h01db608_0
+dlpack-0.7-h4de3ea5_0
+dlpack-0.8-hd600fc2_0
+dlpack-0.8-hd600fc2_1
+dlpack-0.8-h2f0025b_2
+dlpack-0.8-h2f0025b_3

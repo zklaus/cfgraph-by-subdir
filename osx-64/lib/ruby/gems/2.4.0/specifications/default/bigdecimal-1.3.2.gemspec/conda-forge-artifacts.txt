@@ -1,0 +1,8 @@
+ruby-2.4.4-0
+ruby-2.4.4-h0825b16_1
+ruby-2.4.4-hcc41e92_1001
+ruby-2.4.5-hcc41e92_1000
+ruby-2.4.5-h3d91b9f_1001
+ruby-2.4.5-hf4e25d5_1001
+ruby-2.4.5-h28fbfb0_1002
+ruby-2.4.5-h28fbfb0_1003

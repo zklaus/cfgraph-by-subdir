@@ -1,0 +1,4 @@
+r-digest-0.6.27-r40h8ea1354_0
+r-digest-0.6.27-r41h8ea1354_0
+r-digest-0.6.28-r40h8ea1354_0
+r-digest-0.6.28-r41h8ea1354_0

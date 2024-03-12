@@ -1,0 +1,7 @@
+frictionqpotfem-0.21.0-hb8565cd_0
+frictionqpotfem-0.22.0-hb8565cd_0
+frictionqpotfem-0.22.0-hb8565cd_1
+frictionqpotfem-0.23.0-hb8565cd_0
+frictionqpotfem-0.23.1-hb8565cd_0
+frictionqpotfem-0.23.2-hb8565cd_0
+frictionqpotfem-0.23.3-hb8565cd_0

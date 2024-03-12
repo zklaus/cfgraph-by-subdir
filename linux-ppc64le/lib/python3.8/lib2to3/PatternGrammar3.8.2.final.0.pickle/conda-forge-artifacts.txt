@@ -1,0 +1,7 @@
+python-3.8.2-h6ff4683_4_cpython
+python-3.8.2-h54393fb_5_cpython
+python-3.8.2-haf90cd5_5_cpython
+python-3.8.2-haf90cd5_6_cpython
+python-3.8.2-h54393fb_6_cpython
+python-3.8.2-haf90cd5_7_cpython
+python-3.8.2-h54393fb_7_cpython

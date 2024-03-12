@@ -1,0 +1,5 @@
+pybind11-1.8.1-py34_0
+pybind11-1.8-py34_0
+pybind11-2.0.0-py34_0
+pybind11-2.0.0rc1-py34_0
+pybind11-2.0.1-py34_0

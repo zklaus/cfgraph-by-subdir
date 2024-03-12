@@ -1,0 +1,15 @@
+ripgrep-11.0.1-0
+ripgrep-11.0.2-0
+ripgrep-11.0.2-1
+ripgrep-11.0.2-h01d97ff_2
+ripgrep-11.0.2-h01d97ff_3
+ripgrep-12.0.1-h0b31af3_0
+ripgrep-12.0.1-h0b31af3_1
+ripgrep-12.1.0-h0b31af3_0
+ripgrep-12.1.1-h0b31af3_0
+ripgrep-12.1.1-haf1e3a3_1
+ripgrep-13.0.0-h244e342_0
+ripgrep-13.0.0-h80d2146_1
+ripgrep-13.0.0-hbbacdb1_2
+ripgrep-13.0.0-h63b85fc_3
+ripgrep-14.0.3-h11a7dfb_1

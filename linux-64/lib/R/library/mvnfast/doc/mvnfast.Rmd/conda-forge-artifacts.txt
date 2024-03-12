@@ -1,0 +1,17 @@
+r-mvnfast-0.2.5-r36h0357c0b_0
+r-mvnfast-0.2.5-r35h0357c0b_0
+r-mvnfast-0.2.5-r35hc8faad4_1
+r-mvnfast-0.2.5-r36hc8faad4_1
+r-mvnfast-0.2.5-r36h51c796c_2
+r-mvnfast-0.2.5-r40h51c796c_2
+r-mvnfast-0.2.5.1-r36h26cb444_0
+r-mvnfast-0.2.5.1-r40h26cb444_0
+r-mvnfast-0.2.7-r36h306847c_0
+r-mvnfast-0.2.7-r40h306847c_0
+r-mvnfast-0.2.7-r41h306847c_0
+r-mvnfast-0.2.7-r42h9f5de39_1
+r-mvnfast-0.2.7-r41h9f5de39_1
+r-mvnfast-0.2.8-r41h358215d_0
+r-mvnfast-0.2.8-r42h358215d_0
+r-mvnfast-0.2.8-r42h08d816e_1
+r-mvnfast-0.2.8-r43h08d816e_1

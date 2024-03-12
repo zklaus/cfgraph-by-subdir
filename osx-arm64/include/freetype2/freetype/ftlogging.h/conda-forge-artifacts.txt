@@ -1,0 +1,3 @@
+freetype-2.12.1-hd633e50_0
+freetype-2.12.1-hd633e50_1
+freetype-2.12.1-hadb7bae_2

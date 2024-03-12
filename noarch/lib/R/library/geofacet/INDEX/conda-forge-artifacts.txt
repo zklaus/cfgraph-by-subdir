@@ -1,0 +1,11 @@
+r-geofacet-0.2.0-r40h6115d3f_0
+r-geofacet-0.2.0-r36h6115d3f_0
+r-geofacet-0.2.0-r36hc72bb7e_1
+r-geofacet-0.2.0-r40hc72bb7e_1
+r-geofacet-0.2.0-r41hc72bb7e_1
+r-geofacet-0.2.0-r41hc72bb7e_2
+r-geofacet-0.2.0-r42hc72bb7e_2
+r-geofacet-0.2.0-r42hc72bb7e_3
+r-geofacet-0.2.0-r43hc72bb7e_3
+r-geofacet-0.2.1-r43hc72bb7e_0
+r-geofacet-0.2.1-r42hc72bb7e_0

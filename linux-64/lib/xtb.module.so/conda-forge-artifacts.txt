@@ -1,0 +1,8 @@
+scine-xtb-1.0.0-h798913b_0
+scine-xtb-1.0.0-h798913b_1
+scine-xtb-1.0.0-h798913b_2
+scine-xtb-1.0.1-h886c582_0
+scine-xtb-1.0.1-h886c582_1
+scine-xtb-1.0.2-h886c582_0
+scine-xtb-1.0.2-h3c423a6_1
+scine-xtb-1.0.2-h3c423a6_2

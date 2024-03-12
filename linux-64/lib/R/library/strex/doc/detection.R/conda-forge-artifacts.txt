@@ -1,0 +1,8 @@
+r-strex-1.5.1-r42h133d619_0
+r-strex-1.5.1-r41h133d619_0
+r-strex-1.6.0-r42h133d619_0
+r-strex-1.6.0-r41h133d619_0
+r-strex-1.6.0-r43h57805ef_1
+r-strex-1.6.0-r42h57805ef_1
+r-strex-1.6.1-r43h57805ef_0
+r-strex-1.6.1-r42h57805ef_0

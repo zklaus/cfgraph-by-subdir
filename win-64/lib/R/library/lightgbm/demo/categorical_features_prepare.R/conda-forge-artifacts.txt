@@ -1,0 +1,11 @@
+r-lightgbm-2.2.2-r351_0
+r-lightgbm-2.2.2-r351_1000
+r-lightgbm-2.2.2-r351h2fa13f4_1001
+r-lightgbm-2.2.2-r351h2fa13f4_1002
+r-lightgbm-2.2.3-r351h2fa13f4_0
+r-lightgbm-2.2.3-r35hca4a3dc_1
+r-lightgbm-2.2.3-r36hca4a3dc_1
+r-lightgbm-2.2.3-r40hca4a3dc_2
+r-lightgbm-2.2.3-r36hca4a3dc_2
+r-lightgbm-2.3.1-r36hca4a3dc_0
+r-lightgbm-2.3.1-r40hca4a3dc_0

@@ -1,0 +1,4 @@
+r-bayesm-3.1_5-r43hfc38db2_1
+r-bayesm-3.1_5-r42hfc38db2_1
+r-bayesm-3.1_6-r42hfc38db2_0
+r-bayesm-3.1_6-r43hfc38db2_0

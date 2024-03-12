@@ -1,0 +1,17 @@
+r-iterators-1.0.10-r351h6115d3f_1001
+r-iterators-1.0.10-r35h6115d3f_1002
+r-iterators-1.0.10-r36h6115d3f_1002
+r-iterators-1.0.12-r36h6115d3f_0
+r-iterators-1.0.12-r35h6115d3f_0
+r-iterators-1.0.12-r36h6115d3f_1
+r-iterators-1.0.12-r40h6115d3f_1
+r-iterators-1.0.13-r40h142f84f_0
+r-iterators-1.0.13-r36h142f84f_0
+r-iterators-1.0.13-r41hc72bb7e_0
+r-iterators-1.0.13-r40hc72bb7e_0
+r-iterators-1.0.14-r41hc72bb7e_0
+r-iterators-1.0.14-r40hc72bb7e_0
+r-iterators-1.0.14-r42hc72bb7e_1
+r-iterators-1.0.14-r41hc72bb7e_1
+r-iterators-1.0.14-r43hc72bb7e_2
+r-iterators-1.0.14-r42hc72bb7e_2

@@ -1,0 +1,8 @@
+cpp-opentelemetry-sdk-1.1.0-h3caef4a_3
+cpp-opentelemetry-sdk-1.1.0-ha77e48f_4
+cpp-opentelemetry-sdk-1.1.1-ha77e48f_0
+cpp-opentelemetry-sdk-1.1.1-h568589d_1
+cpp-opentelemetry-sdk-1.1.1-h568589d_2
+cpp-opentelemetry-sdk-1.1.1-h830ff55_3
+cpp-opentelemetry-sdk-1.2.0-h830ff55_0
+cpp-opentelemetry-sdk-1.2.0-h728dffb_1

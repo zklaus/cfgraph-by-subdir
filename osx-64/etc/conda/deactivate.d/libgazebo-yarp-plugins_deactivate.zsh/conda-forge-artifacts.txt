@@ -1,0 +1,14 @@
+libgazebo-yarp-plugins-4.6.0-h20f29ac_2
+libgazebo-yarp-plugins-4.6.0-h20f29ac_3
+libgazebo-yarp-plugins-4.7.0-h7ec7ba6_0
+libgazebo-yarp-plugins-4.7.0-h69a8886_1
+libgazebo-yarp-plugins-4.7.0-h2be5e9a_1
+libgazebo-yarp-plugins-4.8.0-h2be5e9a_0
+libgazebo-yarp-plugins-4.8.0-h69a8886_0
+libgazebo-yarp-plugins-4.8.0-h21c76a7_1
+libgazebo-yarp-plugins-4.8.0-hb11784b_2
+libgazebo-yarp-plugins-4.8.0-h46e0bcb_3
+libgazebo-yarp-plugins-4.8.0-h93872af_4
+libgazebo-yarp-plugins-4.8.0-had392f9_5
+libgazebo-yarp-plugins-4.9.0-he064ae2_0
+libgazebo-yarp-plugins-4.9.0-h00d1cd2_1

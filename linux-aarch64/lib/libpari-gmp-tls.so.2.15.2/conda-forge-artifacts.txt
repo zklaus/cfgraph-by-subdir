@@ -1,0 +1,2 @@
+pari-2.15.2-h66792b0_1_pthread
+pari-2.15.2-h66792b0_2_pthread

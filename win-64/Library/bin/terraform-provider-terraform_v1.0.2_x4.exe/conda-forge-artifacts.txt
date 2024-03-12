@@ -1,0 +1,3 @@
+terraform-provider-terraform-1.0.2-0
+terraform-provider-terraform-1.0.2-1
+terraform-provider-terraform-1.0.2-1001

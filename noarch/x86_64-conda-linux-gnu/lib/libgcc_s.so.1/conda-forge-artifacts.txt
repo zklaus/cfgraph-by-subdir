@@ -1,0 +1,12 @@
+libgcc-devel_linux-64-11.4.0-h922705a_103
+libgcc-devel_linux-64-11.4.0-hd4e5660_3
+libgcc-devel_linux-64-11.4.0-he81c25c_3
+libgcc-devel_linux-64-11.4.0-hbae42c2_3
+libgcc-devel_linux-64-12.3.0-h8bca6fd_103
+libgcc-devel_linux-64-12.3.0-h751c5dd_3
+libgcc-devel_linux-64-13.2.0-ha9c7c90_103
+libgcc-devel_linux-64-12.3.0-h8a9cdf8_3
+libgcc-devel_linux-64-12.3.0-h01640da_3
+libgcc-devel_linux-64-13.2.0-h4f3cb82_3
+libgcc-devel_linux-64-13.2.0-hfc8d5d1_3
+libgcc-devel_linux-64-13.2.0-he98c494_3

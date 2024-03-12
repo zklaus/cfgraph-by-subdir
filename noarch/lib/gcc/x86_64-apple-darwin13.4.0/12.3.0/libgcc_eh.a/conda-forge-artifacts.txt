@@ -1,0 +1,2 @@
+libgfortran-devel_osx-64-12.3.0-h0b6f5ec_0
+libgfortran-devel_osx-64-12.3.0-h0b6f5ec_1

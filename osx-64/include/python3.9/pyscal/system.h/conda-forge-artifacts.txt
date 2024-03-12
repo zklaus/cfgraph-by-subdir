@@ -1,0 +1,7 @@
+pyscal-2.10.15-py39ha1f3e3e_0
+pyscal-2.10.15-py39ha1f3e3e_1
+pyscal-2.10.16-py39h36a22a0_0
+pyscal-2.10.18-py39h6dc771e_0
+pyscal-2.10.18-py39h6dc771e_1
+pyscal-2.10.18-py39h6dc771e_2
+pyscal-2.10.18-py39hd83d8d7_3

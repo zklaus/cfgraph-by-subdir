@@ -1,0 +1,7 @@
+r-lotri-0.2.2-r40h02096d4_1
+r-lotri-0.2.2-r36h02096d4_1
+r-lotri-0.3.1-r40h6d2157b_0
+r-lotri-0.3.1-r36h6d2157b_0
+r-lotri-0.4.0-r40h6d2157b_0
+r-lotri-0.4.1-r40h6d2157b_0
+r-lotri-0.4.2-r40h6d2157b_0

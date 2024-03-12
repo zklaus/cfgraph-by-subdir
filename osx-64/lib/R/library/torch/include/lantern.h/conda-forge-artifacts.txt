@@ -1,0 +1,6 @@
+r-torch-0.10.0-r42h49197e3_0
+r-torch-0.10.0-r41h49197e3_0
+r-torch-0.11.0-r42hac7d2d5_0
+r-torch-0.11.0-r41hac7d2d5_0
+r-torch-0.11.0-r42hac7d2d5_1
+r-torch-0.11.0-r43hac7d2d5_1

@@ -1,0 +1,3 @@
+libgit2-1.3.0-hee63804_0
+libgit2-1.3.0-haabb1ae_1
+libgit2-1.3.0-hee63804_1

@@ -1,0 +1,3 @@
+openturns-1.18-py38h456bb38_2
+openturns-1.18-py39h9750241_2
+openturns-1.18-py310hf72f38b_2

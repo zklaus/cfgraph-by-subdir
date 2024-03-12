@@ -1,0 +1,4 @@
+msgpack-c-3.3.0-hac5445f_1
+msgpack-cxx-6.0.0-hb8f0cd6_1
+msgpack-cxx-6.1.0-hb8f0cd6_0
+msgpack-cxx-6.1.0-he84f5c7_1

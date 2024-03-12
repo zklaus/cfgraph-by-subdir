@@ -1,0 +1,11 @@
+r-randomizr-0.16.1-r351h6115d3f_0
+r-randomizr-0.16.1-r351h6115d3f_1000
+r-randomizr-0.18.0-r351hda5aaf8_0
+r-randomizr-0.18.0-r35hda5aaf8_1
+r-randomizr-0.18.0-r36hda5aaf8_1
+r-randomizr-0.20.0-r35hda5aaf8_0
+r-randomizr-0.20.0-r36hda5aaf8_0
+r-randomizr-0.20.0-r36hda5aaf8_1
+r-randomizr-0.20.0-r40hda5aaf8_1
+r-randomizr-0.20.0-r40h6d2157b_1
+r-randomizr-0.22.0-r40h6d2157b_0

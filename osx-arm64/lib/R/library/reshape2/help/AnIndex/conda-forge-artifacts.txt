@@ -1,0 +1,6 @@
+r-reshape2-1.4.4-r41h8ea1354_1
+r-reshape2-1.4.4-r40h8ea1354_1
+r-reshape2-1.4.4-r42h9a38a31_2
+r-reshape2-1.4.4-r41h9a38a31_2
+r-reshape2-1.4.4-r43he62749d_3
+r-reshape2-1.4.4-r42he62749d_3

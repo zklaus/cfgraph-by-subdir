@@ -1,0 +1,6 @@
+sasview-5.0.6-py39h819cc4c_0
+sasview-5.0.6-py310he53c7d2_0
+sasview-5.0.6-py38h796d415_0
+sasview-5.0.6-np123py39hbd775c9_1
+sasview-5.0.6-np123py38h9afee92_1
+sasview-5.0.6-np123py310h38f39d4_1

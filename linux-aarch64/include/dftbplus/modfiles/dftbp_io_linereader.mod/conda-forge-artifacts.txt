@@ -1,0 +1,12 @@
+dftbplus-22.2-nompi_h9f1953e_100
+dftbplus-22.2-mpi_mpich_h560b5e2_0
+dftbplus-22.2-mpi_openmpi_h56c124d_0
+dftbplus-22.2-nompi_h9f1953e_101
+dftbplus-22.2-mpi_openmpi_h56c124d_1
+dftbplus-22.2-mpi_mpich_h560b5e2_1
+dftbplus-22.2-nompi_hfede67b_102
+dftbplus-22.2-mpi_mpich_h939c57b_2
+dftbplus-22.2-mpi_openmpi_hf6f0681_2
+dftbplus-23.1-nompi_hfede67b_100
+dftbplus-23.1-mpi_openmpi_hf6f0681_0
+dftbplus-23.1-mpi_mpich_h939c57b_0

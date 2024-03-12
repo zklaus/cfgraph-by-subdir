@@ -1,0 +1,11 @@
+r-rvertnet-0.8.0-r36h6115d3f_0
+r-rvertnet-0.8.0-r35h6115d3f_0
+r-rvertnet-0.8.0-r40h6115d3f_1
+r-rvertnet-0.8.0-r36h6115d3f_1
+r-rvertnet-0.8.2-r36hc72bb7e_0
+r-rvertnet-0.8.2-r40hc72bb7e_0
+r-rvertnet-0.8.2-r41hc72bb7e_0
+r-rvertnet-0.8.2-r42hc72bb7e_1
+r-rvertnet-0.8.2-r41hc72bb7e_1
+r-rvertnet-0.8.2-r43hc72bb7e_2
+r-rvertnet-0.8.2-r42hc72bb7e_2

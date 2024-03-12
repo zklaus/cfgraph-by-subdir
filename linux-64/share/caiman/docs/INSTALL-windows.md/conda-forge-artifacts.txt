@@ -1,0 +1,10 @@
+caiman-1.6-py37hb3f55d8_0
+caiman-1.6-py36hb3f55d8_0
+caiman-1.6.1-py37hb3f55d8_0
+caiman-1.6.1-py36hb3f55d8_0
+caiman-1.6.2-py37hb3f55d8_0
+caiman-1.6.2-py36hb3f55d8_0
+caiman-1.6.3-py37hb3f55d8_0
+caiman-1.6.3-py36hb3f55d8_0
+caiman-1.6.4-py37hb3f55d8_0
+caiman-1.6.4-py36hb3f55d8_0

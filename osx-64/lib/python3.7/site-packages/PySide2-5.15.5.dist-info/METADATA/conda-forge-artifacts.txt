@@ -1,0 +1,2 @@
+pyside2-5.15.5-py37ha74224a_0
+pyside2-5.15.5-py37ha74224a_1

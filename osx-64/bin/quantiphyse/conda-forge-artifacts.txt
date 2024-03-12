@@ -1,0 +1,17 @@
+quantiphyse-0.9.7.post6-py39h6e9494a_0
+quantiphyse-0.9.7.post6-py38h50d1736_0
+quantiphyse-0.9.7.post6-py36h79c6626_0
+quantiphyse-0.9.7.post6-py37hf985489_0
+quantiphyse-0.9.7.post6-py39h6e9494a_1
+quantiphyse-0.9.7.post6-py37hf985489_1
+quantiphyse-0.9.7.post6-py38h50d1736_1
+quantiphyse-0.9.7.post6-py36h79c6626_1
+quantiphyse-0.9.7.post6-py39h6e9494a_3
+quantiphyse-0.9.7.post6-py37hf985489_3
+quantiphyse-0.9.7.post6-py36h79c6626_3
+quantiphyse-0.9.7.post6-py38h50d1736_3
+quantiphyse-0.9.8.post1-py36h79c6626_0
+quantiphyse-0.9.9.post1-py39h6e9494a_0
+quantiphyse-0.9.9.post1-py36h79c6626_0
+quantiphyse-0.9.9.post1-py38h50d1736_0
+quantiphyse-0.9.9.post1-py37hf985489_0

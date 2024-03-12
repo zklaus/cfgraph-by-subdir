@@ -1,0 +1,13 @@
+r-rrcov-1.6_1-r41h090b817_0
+r-rrcov-1.6_1-r40h090b817_0
+r-rrcov-1.6_2-r41h090b817_0
+r-rrcov-1.6_2-r40h090b817_0
+r-rrcov-1.7_0-r40h090b817_0
+r-rrcov-1.7_0-r41h090b817_0
+r-rrcov-1.7_1-r40hd95e14d_0
+r-rrcov-1.7_1-r41hd95e14d_0
+r-rrcov-1.7_1-r41hd95e14d_1
+r-rrcov-1.7_2-r41hd95e14d_0
+r-rrcov-1.7_3-r41hd95e14d_0
+r-rrcov-1.7_3-r41hd95e14d_1
+r-rrcov-1.7_4-r41hd95e14d_0

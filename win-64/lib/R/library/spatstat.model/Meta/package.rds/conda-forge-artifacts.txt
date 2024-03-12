@@ -1,0 +1,8 @@
+r-spatstat.model-3.0_2-r41h6d2157b_0
+r-spatstat.model-3.1_2-r41h6d2157b_0
+r-spatstat.model-3.2_1-r41h6d2157b_0
+r-spatstat.model-3.2_3-r41h6d2157b_0
+r-spatstat.model-3.2_4-r41h6d2157b_0
+r-spatstat.model-3.2_4-r41h6d2157b_1
+r-spatstat.model-3.2_6-r41h6d2157b_0
+r-spatstat.model-3.2_8-r41h6d2157b_0

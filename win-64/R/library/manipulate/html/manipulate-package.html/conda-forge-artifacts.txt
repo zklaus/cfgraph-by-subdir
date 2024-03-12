@@ -1,0 +1,2 @@
+r-manipulate-1.0.1-r3.3.2_0
+r-manipulate-1.0.1-r3.4.1_0

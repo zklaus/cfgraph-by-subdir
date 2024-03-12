@@ -1,0 +1,4 @@
+pari-2.15.2-h4a024fa_1_single
+pari-2.15.2-h4a024fa_2_single
+pari-2.15.3-h4a024fa_2_single
+pari-2.15.4-hb7747a4_2_single

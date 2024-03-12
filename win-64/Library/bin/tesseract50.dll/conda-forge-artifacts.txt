@@ -1,0 +1,2 @@
+tesseract-5.0.0-h17c68af_1
+tesseract-5.0.1-h17c68af_0

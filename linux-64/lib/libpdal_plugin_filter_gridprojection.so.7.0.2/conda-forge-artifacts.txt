@@ -1,0 +1,11 @@
+pdal-1.7.2-py35h082fce2_0
+pdal-1.7.2-py27h082fce2_0
+pdal-1.7.2-py36h082fce2_0
+pdal-1.7.2-py27h082fce2_1
+pdal-1.7.2-py36h082fce2_1
+pdal-1.7.2-py35h082fce2_1
+pdal-1.7.2-py35ha38bd43_2
+pdal-1.7.2-py27ha38bd43_2
+pdal-1.7.2-py36ha38bd43_2
+pdal-1.7.2-py36hfeb630d_3
+pdal-1.7.2-py27hfeb630d_3

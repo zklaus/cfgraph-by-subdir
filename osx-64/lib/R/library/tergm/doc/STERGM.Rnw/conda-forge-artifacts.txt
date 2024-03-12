@@ -1,0 +1,11 @@
+r-tergm-3.5.2-r351h46e59ec_0
+r-tergm-3.6.0-r35h159158b_0
+r-tergm-3.6.1-r35h159158b_0
+r-tergm-3.6.1-r36h159158b_1
+r-tergm-3.6.1-r35h159158b_1
+r-tergm-3.6.1-r40h17f1fa6_2
+r-tergm-3.6.1-r36h17f1fa6_2
+r-tergm-3.7.0-r40hb5ad454_0
+r-tergm-3.7.0-r36hb5ad454_0
+r-tergm-3.7.0-r40h28b5c78_0
+r-tergm-3.7.0-r41h28b5c78_0

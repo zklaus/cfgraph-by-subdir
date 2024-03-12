@@ -1,0 +1,6 @@
+libusb-1.0.24-hbaee505_1
+libusb-1.0.24-hbaee505_2
+libusb-1.0.24-hdb429d0_4
+libusb-1.0.24-hdb429d0_105
+libusb-1.0.25-hdb429d0_100
+libusb-1.0.26-hb041f25_100

@@ -1,0 +1,6 @@
+conda-workon-0.3.0-py27_0
+conda-workon-0.3.0-py34_0
+conda-workon-0.3.0-py35_0
+conda-workon-0.4.0-py27_0
+conda-workon-0.4.0-py35_0
+conda-workon-0.4.0-py36_0

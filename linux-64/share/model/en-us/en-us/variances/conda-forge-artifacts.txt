@@ -1,0 +1,2 @@
+pocketsphinx-0.8-h470a237_2
+pocketsphinx-0.8-h14c3975_1002

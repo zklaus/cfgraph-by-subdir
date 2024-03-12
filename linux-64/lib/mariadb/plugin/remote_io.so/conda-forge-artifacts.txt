@@ -1,0 +1,3 @@
+mariadb-connector-c-3.3.6-h59595ed_0
+mariadb-connector-c-3.3.7-h148a643_0
+mariadb-connector-c-3.3.8-h148a643_0

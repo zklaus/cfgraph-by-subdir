@@ -1,0 +1,9 @@
+libarrow-flight-sql-14.0.1-h8ec153b_0_cpu
+libarrow-flight-sql-14.0.1-h8ec153b_1_cpu
+libarrow-flight-sql-14.0.1-h2cc6c1c_2_cpu
+libarrow-flight-sql-14.0.1-h2cc6c1c_3_cpu
+libarrow-flight-sql-14.0.1-h8ec153b_4_cpu
+libarrow-flight-sql-14.0.1-h8ec153b_5_cpu
+libarrow-flight-sql-14.0.1-h2cc6c1c_6_cpu
+libarrow-flight-sql-14.0.1-h8ec153b_7_cpu
+libarrow-flight-sql-14.0.1-h2cc6c1c_8_cpu

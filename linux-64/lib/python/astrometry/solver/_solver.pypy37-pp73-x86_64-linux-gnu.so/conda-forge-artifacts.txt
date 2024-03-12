@@ -1,0 +1,12 @@
+astrometry-0.84-py37h9dcfd70_2
+astrometry-0.85-py37h9dcfd70_0
+astrometry-0.86-py37h9dcfd70_0
+astrometry-0.86-py37hf338bca_1
+astrometry-0.86-py37hca92f70_2
+astrometry-0.87-py37hca92f70_0
+astrometry-0.87-py37hca92f70_1
+astrometry-0.88-py37hca92f70_0
+astrometry-0.89-py37hca92f70_0
+astrometry-0.89-py37hcc40fe6_1
+astrometry-0.90-py37hcc40fe6_0
+astrometry-0.90-py37h274e8da_1

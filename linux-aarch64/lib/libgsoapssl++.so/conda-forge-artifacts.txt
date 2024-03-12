@@ -1,0 +1,14 @@
+gsoap-2.8.117-hbe024b6_0
+gsoap-2.8.117-h080e37f_0
+gsoap-2.8.118-h080e37f_0
+gsoap-2.8.118-hbe024b6_0
+gsoap-2.8.119-h080e37f_0
+gsoap-2.8.119-hbe024b6_0
+gsoap-2.8.120-h6af4a7d_0
+gsoap-2.8.120-hf52ca08_0
+gsoap-2.8.121-hf52ca08_0
+gsoap-2.8.121-h6af4a7d_0
+gsoap-2.8.122-h6af4a7d_0
+gsoap-2.8.122-hf52ca08_0
+gsoap-2.8.123-hf52ca08_0
+gsoap-2.8.123-h6af4a7d_0

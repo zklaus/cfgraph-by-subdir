@@ -1,0 +1,17 @@
+libignition-msgs8-8.0.0-h0401ffd_0
+libignition-msgs8-8.1.0-h0401ffd_0
+libignition-msgs8-8.1.0-h2e4e446_1
+libignition-msgs8-8.2.0-h2e4e446_0
+libignition-msgs8-8.2.0-hf96e4bc_1
+libignition-msgs8-8.4.0-hf96e4bc_1
+libignition-msgs8-8.5.0-h4f72c37_0
+libignition-msgs8-8.6.0-h6991e80_0
+libignition-msgs8-8.6.0-hd2c25e4_1
+libignition-msgs8-8.7.0-hd2c25e4_0
+libignition-msgs8-8.7.0-h4d60299_1
+libignition-msgs8-8.7.0-h5a1d2e4_1
+libignition-msgs8-8.7.0-h5c1fd9a_2
+libignition-msgs8-8.7.0-h9be83f1_2
+libignition-msgs8-8.7.0-h82b8a62_3
+libignition-msgs8-8.7.0-hfa2c317_4
+libignition-msgs8-8.7.0-h9a42f39_5

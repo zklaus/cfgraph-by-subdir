@@ -1,0 +1,15 @@
+jupyter_highlight_selected_word-0.2.0-py36h704843e_1002
+jupyter_highlight_selected_word-0.2.0-py37hd9ded2f_1002
+jupyter_highlight_selected_word-0.2.0-py37h4bcbb9b_1002
+jupyter_highlight_selected_word-0.2.0-py38h2063c64_1002
+jupyter_highlight_selected_word-0.2.0-py39ha65689a_1002
+jupyter_highlight_selected_word-0.2.0-py36h2e20a7f_1002
+jupyter_highlight_selected_word-0.2.0-py37h4bcbb9b_1004
+jupyter_highlight_selected_word-0.2.0-py38h2063c64_1004
+jupyter_highlight_selected_word-0.2.0-py37hd9ded2f_1004
+jupyter_highlight_selected_word-0.2.0-py39ha65689a_1004
+jupyter_highlight_selected_word-0.2.0-py310h4c7bcd0_1005
+jupyter_highlight_selected_word-0.2.0-py37hfd236b0_1005
+jupyter_highlight_selected_word-0.2.0-py37h3aee957_1005
+jupyter_highlight_selected_word-0.2.0-py38he3eb160_1005
+jupyter_highlight_selected_word-0.2.0-py39h4420490_1005

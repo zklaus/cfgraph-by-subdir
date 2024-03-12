@@ -1,0 +1,2 @@
+flit_install_py2-0.1-py27_0
+flit_install_py2-0.1-py27_1000

@@ -1,0 +1,4 @@
+ruby-2.6.6-h6fd65d8_0
+ruby-2.6.6-h0e6bad5_1
+ruby-2.6.6-h751cfdf_2
+ruby-2.6.6-ha4e8978_3

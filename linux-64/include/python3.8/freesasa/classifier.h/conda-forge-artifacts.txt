@@ -1,0 +1,5 @@
+freesasa-2.2.0.post3-py38h01eb140_0
+freesasa-2.2.0.post3-py38h01eb140_1
+freesasa-2.2.0.post3-py38h01eb140_2
+freesasa-2.2.0.post3-py38h01eb140_3
+freesasa-2.2.1-py38h01eb140_0

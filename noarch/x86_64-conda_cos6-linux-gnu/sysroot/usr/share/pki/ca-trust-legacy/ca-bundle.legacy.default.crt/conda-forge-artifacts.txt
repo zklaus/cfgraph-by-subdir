@@ -1,0 +1,4 @@
+ca-certificates-cos6-x86_64-2018.2.22-hdf0574f_102
+ca-certificates-cos6-x86_64-2018.2.22-ha826a6f_103
+ca-certificates-cos6-x86_64-2018.2.22-h9d98e8f_104
+ca-certificates-cos6-x86_64-2018.2.22-h9b0a68f_105

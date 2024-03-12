@@ -1,0 +1,7 @@
+graphbrain-0.3.2-py37h60d8a13_1
+graphbrain-0.3.2-py36h9de38fb_1
+graphbrain-0.4.3-py36hfa26744_0
+graphbrain-0.4.3-py37h271585c_0
+graphbrain-0.5.0-py37h271585c_0
+graphbrain-0.5.0-py36hfa26744_0
+graphbrain-0.5.0-py37h271585c_1

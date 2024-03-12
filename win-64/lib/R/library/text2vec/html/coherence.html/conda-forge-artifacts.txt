@@ -1,0 +1,6 @@
+r-text2vec-0.6-r36h796a38f_0
+r-text2vec-0.6-r36h796a38f_1
+r-text2vec-0.6-r40h796a38f_1
+r-text2vec-0.6-r40ha856d6a_1
+r-text2vec-0.6.1-r40ha856d6a_0
+r-text2vec-0.6.2-r40ha856d6a_0

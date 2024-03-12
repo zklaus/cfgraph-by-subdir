@@ -1,0 +1,4 @@
+scorec-2.2.2-mpi_openmpi_hdba7654_0
+scorec-2.2.2-mpi_mpich_hbc1d92b_0
+scorec-2.2.7-mpi_mpich_hfd14870_0
+scorec-2.2.7-mpi_openmpi_h342b2c5_0

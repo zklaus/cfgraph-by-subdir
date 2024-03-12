@@ -1,0 +1,11 @@
+graphite2-1.3.10-0
+graphite2-1.3.11-0
+graphite2-1.3.9-0
+graphite2-1.3.11-h7d4d677_0
+graphite2-1.3.12-h7d4d677_0
+graphite2-1.3.12-h7d4d677_1
+graphite2-1.3.12-h2098e52_1001
+graphite2-1.3.13-h7d4d677_0
+graphite2-1.3.13-h2098e52_1000
+graphite2-1.3.13-h12caacf_1001
+graphite2-1.3.13-h2e338ed_1001

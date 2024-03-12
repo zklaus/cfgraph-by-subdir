@@ -1,0 +1,5 @@
+spdlog-0.11.0-0
+spdlog-0.11.0-hdc96acc_1
+spdlog-0.11.0-he980bc4_1
+spdlog-0.11.0-he980bc4_1001
+spdlog-0.11.0-hdc96acc_1001

@@ -1,0 +1,16 @@
+stir-5.2.0-cpu_py38h0459bfa_0
+stir-5.2.0-cpu_py310h8a4a44a_0
+stir-5.2.0-cpu_py39h8105de2_0
+stir-5.2.0-cpu_py311h106d2bc_0
+stir-5.2.0-cpu_py38h8b8b2dd_1
+stir-5.2.0-cpu_py311h11116ab_1
+stir-5.2.0-cpu_py310hc78c840_1
+stir-5.2.0-cpu_py39h83891a5_1
+stir-5.2.0-cpu_py310hc78c840_2
+stir-5.2.0-cpu_py311h11116ab_2
+stir-5.2.0-cpu_py38h8b8b2dd_2
+stir-5.2.0-cpu_py39h83891a5_2
+stir-5.2.0-cpu_py38he716e9f_3
+stir-5.2.0-cpu_py311h8c4791e_3
+stir-5.2.0-cpu_py39h755d4d0_3
+stir-5.2.0-cpu_py310h902bec3_3

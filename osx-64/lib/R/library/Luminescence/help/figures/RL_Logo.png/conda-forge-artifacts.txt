@@ -1,0 +1,6 @@
+r-luminescence-0.9.7-r40h710217c_0
+r-luminescence-0.9.7-r36h710217c_0
+r-luminescence-0.9.8-r36h1019320_0
+r-luminescence-0.9.8-r40h1019320_0
+r-luminescence-0.9.9-r36h1019320_0
+r-luminescence-0.9.9-r40h1019320_0

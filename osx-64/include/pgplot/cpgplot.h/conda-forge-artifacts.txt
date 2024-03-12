@@ -1,0 +1,14 @@
+pgplot-5.2.2-0
+pgplot-5.2.2-1
+pgplot-5.2.2-2
+pgplot-5.2.2-hd376476_3
+pgplot-5.2.2-h32fafe9_1003
+pgplot-5.2.2-h3f0e000_1004
+pgplot-5.2.2-hca9b588_1004
+pgplot-5.2.2-h971d54c_1005
+pgplot-5.2.2-h971d54c_1006
+pgplot-5.2.2-ha010686_1007
+pgplot-5.2.2-hbb49c18_1007
+pgplot-5.2.2-h7ade4bd_1008
+pgplot-5.2.2-h375df2d_1008
+pgplot-5.2.2-h36c7cbc_1008

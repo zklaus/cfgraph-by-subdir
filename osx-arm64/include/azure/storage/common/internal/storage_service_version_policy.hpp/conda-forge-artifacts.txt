@@ -1,0 +1,10 @@
+azure-storage-common-cpp-12.3.3-hb39b7a0_1
+azure-storage-common-cpp-12.3.3-hbc313fe_1
+azure-storage-common-cpp-12.4.0-hbc313fe_0
+azure-storage-common-cpp-12.4.0-hb39b7a0_0
+azure-storage-common-cpp-12.5.0-h6bd6b84_0
+azure-storage-common-cpp-12.5.0-hc7fc863_0
+azure-storage-common-cpp-12.5.0-hc7fc863_1
+azure-storage-common-cpp-12.5.0-h6bd6b84_1
+azure-storage-common-cpp-12.5.0-hda24633_2
+azure-storage-common-cpp-12.5.0-h607ffeb_2

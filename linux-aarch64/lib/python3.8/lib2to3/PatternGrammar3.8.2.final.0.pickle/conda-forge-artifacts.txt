@@ -1,0 +1,5 @@
+python-3.8.2-hdc52509_4_cpython
+python-3.8.2-h89ca082_6_cpython
+python-3.8.2-h301c59b_6_cpython
+python-3.8.2-h89ca082_7_cpython
+python-3.8.2-h301c59b_7_cpython

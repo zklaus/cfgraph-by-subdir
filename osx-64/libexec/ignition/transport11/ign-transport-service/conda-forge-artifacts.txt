@@ -1,0 +1,3 @@
+libignition-transport11-11.1.0-hadffea5_0
+libignition-transport11-11.2.0-h502420b_0
+libignition-transport11-11.2.0-h219590c_1

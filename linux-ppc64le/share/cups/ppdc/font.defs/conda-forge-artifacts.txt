@@ -1,0 +1,3 @@
+libcups-2.2.12-hf318fec_0
+libcups-2.2.12-hd4bece1_1
+libcups-2.2.12-h9498048_2

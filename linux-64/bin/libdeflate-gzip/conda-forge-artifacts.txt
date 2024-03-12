@@ -1,0 +1,14 @@
+libdeflate-1.7-h7f98852_2
+libdeflate-1.7-h7f98852_3
+libdeflate-1.7-h7f98852_4
+libdeflate-1.7-h7f98852_5
+libdeflate-1.8-h7f98852_0
+libdeflate-1.9-h7f98852_0
+libdeflate-1.10-h7f98852_0
+libdeflate-1.12-h166bdaf_0
+libdeflate-1.13-h166bdaf_0
+libdeflate-1.14-h166bdaf_0
+libdeflate-1.16-h0b41bf4_0
+libdeflate-1.17-h0b41bf4_0
+libdeflate-1.18-h0b41bf4_0
+libdeflate-1.19-hd590300_0

@@ -1,0 +1,12 @@
+brial-0.8.5-py27_0
+brial-0.8.5-py27_1
+brial-0.8.5-py35_0
+brial-0.8.5-py35_1
+brial-0.8.5-py36_0
+brial-0.8.5-py36_1
+brial-0.8.7-py27_1
+brial-0.8.7-py27_2
+brial-0.8.7-py35_1
+brial-0.8.7-py35_2
+brial-0.8.7-py36_1
+brial-0.8.7-py36_2

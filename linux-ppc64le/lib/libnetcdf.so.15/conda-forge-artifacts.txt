@@ -1,0 +1,6 @@
+libnetcdf-4.7.3-nompi_h72280b8_100
+libnetcdf-4.7.3-mpi_mpich_h8b38316_0
+libnetcdf-4.7.3-mpi_openmpi_h14df457_0
+libnetcdf-4.7.3-nompi_h20974f0_101
+libnetcdf-4.7.3-mpi_openmpi_he470d2e_1
+libnetcdf-4.7.3-mpi_mpich_h3d13846_1

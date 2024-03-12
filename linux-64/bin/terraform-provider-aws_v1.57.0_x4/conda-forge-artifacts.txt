@@ -1,0 +1,1 @@
+terraform-provider-aws-1.57.0-h209b5c4_0

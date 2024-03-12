@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-1.13.0-h630e55e_0

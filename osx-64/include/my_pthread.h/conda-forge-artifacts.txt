@@ -1,0 +1,2 @@
+mysql-connector-c-6.1.6-0
+mysql-connector-c-6.1.6-hfc679d8_1

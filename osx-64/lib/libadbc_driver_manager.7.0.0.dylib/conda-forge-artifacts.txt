@@ -1,0 +1,4 @@
+libadbc-driver-manager-0.7.0-h67fa8e7_0
+libadbc-driver-manager-0.7.0-h67fa8e7_1
+libadbc-driver-manager-0.7.0-h67fa8e7_2
+libadbc-driver-manager-0.7.0-h67fa8e7_3

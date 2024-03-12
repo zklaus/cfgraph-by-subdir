@@ -1,0 +1,12 @@
+pyfai-base-2023.5.0-py310h0159728_1
+pyfai-base-2023.5.0-py38h9be4292_1
+pyfai-base-2023.5.0-py311hd315007_1
+pyfai-base-2023.5.0-py39ha6315c7_1
+pyfai-base-2023.8.0-py310h243fb84_0
+pyfai-base-2023.8.0-py311hd315007_0
+pyfai-base-2023.8.0-py39h9d01c57_0
+pyfai-base-2023.8.0-py38h699d38d_0
+pyfai-base-2023.9.0-py310h243fb84_0
+pyfai-base-2023.9.0-py38h699d38d_0
+pyfai-base-2023.9.0-py311hd315007_0
+pyfai-base-2023.9.0-py39h9d01c57_0

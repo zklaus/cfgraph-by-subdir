@@ -1,0 +1,4 @@
+cni-plugins-0.8.7-hb525aa0_0
+cni-plugins-0.8.7-hdeebcfe_1
+cni-plugins-0.9.0-hdeebcfe_0
+cni-plugins-0.9.1-hdeebcfe_0

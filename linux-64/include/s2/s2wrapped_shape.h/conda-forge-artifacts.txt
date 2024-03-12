@@ -1,0 +1,6 @@
+s2geometry-0.10.0-h26416b9_0
+s2geometry-0.10.0-haf5c9bc_0
+s2geometry-0.10.0-h26416b9_1
+s2geometry-0.10.0-haf5c9bc_1
+s2geometry-0.10.0-hb4b5528_2
+s2geometry-0.10.0-hdbec25b_3

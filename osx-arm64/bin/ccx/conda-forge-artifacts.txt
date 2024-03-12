@@ -1,0 +1,5 @@
+calculix-2.19-h2171a25_0
+calculix-2.20-h763a07c_0
+calculix-2.20-h075384d_0
+calculix-2.21-ha4a65ee_0
+calculix-2.21-h296d292_1

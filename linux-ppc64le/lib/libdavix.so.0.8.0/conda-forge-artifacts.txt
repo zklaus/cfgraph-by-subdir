@@ -1,0 +1,8 @@
+davix-0.8.0-h2fbb138_0
+davix-0.8.0-h06b8287_1
+davix-0.8.0-h90e3360_1
+davix-0.8.0-h085017f_1
+davix-0.8.0-h085017f_2
+davix-0.8.0-h90e3360_2
+davix-0.8.0-h89496b2_3
+davix-0.8.0-h65ff7fd_3

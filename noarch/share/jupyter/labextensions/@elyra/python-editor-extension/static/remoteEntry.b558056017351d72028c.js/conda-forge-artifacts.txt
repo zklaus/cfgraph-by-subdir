@@ -1,0 +1,2 @@
+elyra-3.10.0-pyhd8ed1ab_0
+elyra-python-editor-extension-3.10.0-pyhd8ed1ab_0

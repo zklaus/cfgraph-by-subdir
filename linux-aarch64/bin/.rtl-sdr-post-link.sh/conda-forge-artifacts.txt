@@ -1,0 +1,2 @@
+rtl-sdr-2.0.0-h31becfc_0
+rtl-sdr-2.0.1-h31becfc_0

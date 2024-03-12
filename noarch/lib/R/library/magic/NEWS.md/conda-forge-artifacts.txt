@@ -1,0 +1,8 @@
+r-magic-1.6_0-r41hc72bb7e_0
+r-magic-1.6_0-r40hc72bb7e_0
+r-magic-1.6_0-r42hc72bb7e_1
+r-magic-1.6_0-r41hc72bb7e_1
+r-magic-1.6_1-r42hc72bb7e_0
+r-magic-1.6_1-r41hc72bb7e_0
+r-magic-1.6_1-r43hc72bb7e_1
+r-magic-1.6_1-r42hc72bb7e_1

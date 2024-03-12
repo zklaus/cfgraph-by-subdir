@@ -1,0 +1,5 @@
+openjdk-10.0.2-zulu10.3+5_0
+openjdk-11.0.1-zulu11.2.3_0
+openjdk-11.0.1-zulu11.2.3_1001
+openjdk-10.0.2-1002
+openjdk-11.0.1-1002

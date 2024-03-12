@@ -1,0 +1,8 @@
+psychopy-2022.1.4-py39h2804cbe_0
+psychopy-2022.1.4-py38h10201cd_0
+psychopy-2022.2.5-py310hbe9552e_0
+psychopy-2022.2.5-py39h2804cbe_0
+psychopy-2022.2.5-py38h10201cd_0
+psychopy-2022.2.5-py310hbe9552e_1
+psychopy-2022.2.5-py39h2804cbe_1
+psychopy-2022.2.5-py38h10201cd_1

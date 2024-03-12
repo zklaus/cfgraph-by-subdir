@@ -1,0 +1,6 @@
+libfaiss-avx2-1.7.3-cuda112h1234567_0_cuda
+libfaiss-avx2-1.7.3-cuda111h1234567_0_cuda
+libfaiss-avx2-1.7.3-cuda110h1234567_0_cuda
+libfaiss-avx2-1.7.4-cuda112h1234567_0_cuda
+libfaiss-avx2-1.7.4-cuda110h1234567_0_cuda
+libfaiss-avx2-1.7.4-cuda111h1234567_0_cuda

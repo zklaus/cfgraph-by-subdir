@@ -1,0 +1,8 @@
+jupyter_bokeh-2.0.2-py_0
+jupyter_bokeh-2.0.3-py_0
+jupyter_bokeh-2.0.4-pyhd8ed1ab_0
+jupyter_bokeh-3.0.0-pyhd8ed1ab_0
+jupyter_bokeh-3.0.2-pyhd8ed1ab_0
+jupyter_bokeh-3.0.4-pyhd8ed1ab_0
+jupyter_bokeh-3.0.5-pyhd8ed1ab_0
+jupyter_bokeh-3.0.7-pyhd8ed1ab_0

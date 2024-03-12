@@ -1,0 +1,10 @@
+python-libarchive-c-2.7-py27_0
+python-libarchive-c-2.7-py35_0
+python-libarchive-c-2.7-py36_0
+python-libarchive-c-2.8-py27_0
+python-libarchive-c-2.8-py35_0
+python-libarchive-c-2.8-py36_0
+python-libarchive-c-2.8-py27_1000
+python-libarchive-c-2.8-py36_1000
+python-libarchive-c-2.8-py37_1000
+python-libarchive-c-2.8-py35_1000

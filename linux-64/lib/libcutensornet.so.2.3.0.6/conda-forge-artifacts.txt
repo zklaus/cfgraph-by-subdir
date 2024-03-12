@@ -1,0 +1,12 @@
+cutensornet-2.3.0-mpi_openmpi_h9f53280_2
+cutensornet-2.3.0-mpi_mpich_h9f53280_2
+cutensornet-2.3.0-mpi_openmpi_h75f36a4_2
+cutensornet-2.3.0-nompi_h9f53280_102
+cutensornet-2.3.0-mpi_mpich_h75f36a4_2
+cutensornet-2.3.0-nompi_h75f36a4_102
+cutensornet-2.3.0-mpi_openmpi_hedba195_2
+cutensornet-2.3.0-mpi_mpich_hedba195_2
+cutensornet-2.3.0-nompi_hedba195_102
+cutensornet-2.3.0-mpi_mpich_h3eae4d5_2
+cutensornet-2.3.0-mpi_openmpi_h3eae4d5_2
+cutensornet-2.3.0-nompi_h3eae4d5_102

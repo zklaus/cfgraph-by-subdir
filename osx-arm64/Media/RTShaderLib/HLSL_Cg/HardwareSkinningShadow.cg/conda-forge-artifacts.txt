@@ -1,0 +1,7 @@
+ogre-1.12.11-h0aef09b_0
+ogre-1.12.12-h0aef09b_0
+ogre-1.12.13-h0aef09b_0
+ogre-1.12.13-he6f17a6_1
+ogre-1.12.13-h148629e_2
+ogre-1.12.13-hd8c844f_3
+ogre-1.12.13-h9144a23_3

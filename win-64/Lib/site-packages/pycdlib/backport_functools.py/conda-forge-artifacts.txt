@@ -1,0 +1,12 @@
+pycdlib-1.12.0-py39hcbf5309_0
+pycdlib-1.12.0-py37h03978a9_0
+pycdlib-1.12.0-py38haa244fe_0
+pycdlib-1.12.0-py310h5588dad_1
+pycdlib-1.12.0-py311h1ea47a8_1
+pycdlib-1.12.0-py39hcbf5309_1
+pycdlib-1.12.0-py38haa244fe_1
+pycdlib-1.12.0-py311h1ea47a8_2
+pycdlib-1.12.0-py310h5588dad_2
+pycdlib-1.12.0-py312h2e8e312_2
+pycdlib-1.12.0-py38haa244fe_2
+pycdlib-1.12.0-py39hcbf5309_2

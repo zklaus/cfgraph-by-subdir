@@ -1,0 +1,4 @@
+libopencv-3.4.8-py38_7
+libopencv-3.4.8-py37_7
+libopencv-3.4.8-py36_7
+libopencv-3.4.8-py27_7

@@ -1,0 +1,3 @@
+libgit2-1.3.0-h98e466b_0
+libgit2-1.3.0-h98e466b_1
+libgit2-1.3.0-hecf4ec0_1

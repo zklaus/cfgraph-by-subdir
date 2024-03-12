@@ -1,0 +1,5 @@
+r-future.apply-0.2.0-r3.3.2_0
+r-future.apply-0.2.0-r3.4.1_0
+r-future.apply-1.0.0-r341_0
+r-future.apply-1.0.1-r351h6115d3f_0
+r-future.apply-1.0.1-r341h6115d3f_0

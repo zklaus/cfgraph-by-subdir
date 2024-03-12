@@ -1,0 +1,3 @@
+libuvc-0.0.6-h24e0fcd_0
+libuvc-0.0.6-h5d741db_1
+libuvc-0.0.6-hd0f70f7_2

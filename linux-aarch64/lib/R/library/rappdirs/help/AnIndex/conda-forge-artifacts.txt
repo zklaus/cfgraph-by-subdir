@@ -1,0 +1,14 @@
+r-rappdirs-0.3.1-r36hcdcec82_1003
+r-rappdirs-0.3.1-r36hcdcec82_1004
+r-rappdirs-0.3.1-r40hcdcec82_1004
+r-rappdirs-0.3.1-r36h96a179c_1004
+r-rappdirs-0.3.1-r40h96a179c_1004
+r-rappdirs-0.3.2-r40h96a179c_0
+r-rappdirs-0.3.2-r36h96a179c_0
+r-rappdirs-0.3.3-r40h96a179c_0
+r-rappdirs-0.3.3-r36h96a179c_0
+r-rappdirs-0.3.3-r41h96a179c_0
+r-rappdirs-0.3.3-r42h8e445f0_1
+r-rappdirs-0.3.3-r41h8e445f0_1
+r-rappdirs-0.3.3-r43h25e906a_2
+r-rappdirs-0.3.3-r42h25e906a_2

@@ -1,0 +1,5 @@
+faunus-2.10.1-py38hfed8444_0
+faunus-2.10.1-py39hfe2dc5d_0
+faunus-2.10.1-py39h015a779_0
+faunus-2.10.1-py39haea1ef0_0
+faunus-2.10.1-py38h1f076c8_0

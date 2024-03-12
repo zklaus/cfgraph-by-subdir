@@ -1,0 +1,2 @@
+libglib-2.66.7-h2d9e430_0
+libglib-2.66.7-hba309c5_1

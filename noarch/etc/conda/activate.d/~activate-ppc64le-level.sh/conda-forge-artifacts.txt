@@ -1,0 +1,8 @@
+ppc64le-microarch-level-8-0_ppc64le
+ppc64le-microarch-level-8-0_power8le
+ppc64le-microarch-level-9-0_power9le
+ppc64le-microarch-level-10-0_power10le
+ppc64le-microarch-level-8-1_power8le
+ppc64le-microarch-level-8-1_ppc64le
+ppc64le-microarch-level-9-1_power9le
+ppc64le-microarch-level-10-1_power10le

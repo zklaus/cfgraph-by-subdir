@@ -1,0 +1,10 @@
+geographiclib-cpp-1.51-h4bd325d_0
+geographiclib-cpp-1.51-h4bd325d_1
+geographiclib-cpp-1.51-h4bd325d_2
+geographiclib-cpp-1.52-h4bd325d_1
+geographiclib-cpp-2.0-h924138e_0
+geographiclib-cpp-2.1-h924138e_0
+geographiclib-cpp-2.1.1-h924138e_0
+geographiclib-cpp-2.1.2-hf52228f_0
+geographiclib-cpp-2.2-hf52228f_0
+geographiclib-cpp-2.3-h00ab1b0_0

@@ -1,0 +1,3 @@
+log4cpp-1.1.3-hbdafb3b_1002
+log4cpp-1.1.3-hbdafb3b_1003
+log4cpp-1.1.4-h13dd4ca_0

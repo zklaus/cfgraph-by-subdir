@@ -1,0 +1,15 @@
+r-princurve-2.1.3-r351h6115d3f_1000
+r-princurve-2.1.4-r351h796a38f_0
+r-princurve-2.1.4-r35h796a38f_1
+r-princurve-2.1.4-r36h796a38f_1
+r-princurve-2.1.4-r35h796a38f_2
+r-princurve-2.1.4-r36h796a38f_2
+r-princurve-2.1.4-r36h796a38f_3
+r-princurve-2.1.4-r40h796a38f_3
+r-princurve-2.1.5-r36h796a38f_0
+r-princurve-2.1.5-r40h796a38f_0
+r-princurve-2.1.6-r36ha856d6a_0
+r-princurve-2.1.6-r40ha856d6a_0
+r-princurve-2.1.6-r41ha856d6a_0
+r-princurve-2.1.6-r41ha856d6a_1
+r-princurve-2.1.6-r41ha856d6a_2

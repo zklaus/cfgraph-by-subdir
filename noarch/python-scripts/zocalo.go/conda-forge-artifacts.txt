@@ -1,0 +1,4 @@
+zocalo-0.6.0-py_0
+zocalo-0.6.1-py_0
+zocalo-0.6.2-py_0
+zocalo-0.6.3-pyh9f0ad1d_0

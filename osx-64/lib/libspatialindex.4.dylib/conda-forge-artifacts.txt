@@ -1,0 +1,7 @@
+libspatialindex-1.8.5-0
+libspatialindex-1.8.5-1
+libspatialindex-1.8.5-hfc679d8_1
+libspatialindex-1.8.5-hfc679d8_2
+libspatialindex-1.8.5-hfc679d8_3
+libspatialindex-1.8.5-h0a44026_1003
+libspatialindex-1.8.5-h6de7cb9_4

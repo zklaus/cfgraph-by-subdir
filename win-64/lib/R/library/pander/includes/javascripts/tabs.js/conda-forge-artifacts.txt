@@ -1,0 +1,13 @@
+r-pander-0.6.2-r351h6115d3f_1002
+r-pander-0.6.3-r351h6115d3f_0
+r-pander-0.6.3-r35h796a38f_1
+r-pander-0.6.3-r36h796a38f_1
+r-pander-0.6.3-r36h796a38f_2
+r-pander-0.6.3-r40h796a38f_2
+r-pander-0.6.3-r41ha856d6a_2
+r-pander-0.6.4-r41ha856d6a_0
+r-pander-0.6.4-r40ha856d6a_0
+r-pander-0.6.5-r40ha856d6a_0
+r-pander-0.6.5-r41ha856d6a_0
+r-pander-0.6.5-r41ha856d6a_1
+r-pander-0.6.5-r41ha856d6a_2

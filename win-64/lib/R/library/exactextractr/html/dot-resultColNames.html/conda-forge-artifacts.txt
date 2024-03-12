@@ -1,0 +1,12 @@
+r-exactextractr-0.6.1-r40hcf5744d_0
+r-exactextractr-0.7.0-r40hcf5744d_0
+r-exactextractr-0.7.1-r40hcf5744d_0
+r-exactextractr-0.7.2-r40h035b753_0
+r-exactextractr-0.7.2-r40h035b753_1
+r-exactextractr-0.7.2-r40ha93a7f0_2
+r-exactextractr-0.7.2-r40hdee245d_3
+r-exactextractr-0.8.0-r40hdee245d_0
+r-exactextractr-0.8.1-r40hdee245d_0
+r-exactextractr-0.8.2-r40hdee245d_0
+r-exactextractr-0.8.2-r40h842dfda_1
+r-exactextractr-0.8.2-r40hab6d670_2

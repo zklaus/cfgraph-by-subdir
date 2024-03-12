@@ -1,0 +1,2 @@
+webassets-0.12.1-py_1
+webassets-2.0-py_0

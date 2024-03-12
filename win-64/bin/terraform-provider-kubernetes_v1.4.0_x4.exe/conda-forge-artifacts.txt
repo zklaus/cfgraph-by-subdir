@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-1.4.0-h33c4730_1001

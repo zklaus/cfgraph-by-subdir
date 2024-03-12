@@ -1,0 +1,16 @@
+libavif-0.9.3-h4e544f5_0
+libavif-0.9.3-h4e544f5_1
+libavif-0.10.0-h4e544f5_0
+libavif-0.10.0-h4e544f5_1
+libavif-0.10.1-h4e544f5_0
+libavif-0.10.1-h4e544f5_1
+libavif-0.10.1-h2429a20_2
+libavif-0.11.0-h2429a20_0
+libavif-0.11.1-h2429a20_0
+libavif-0.11.1-hedada6d_1
+libavif-0.11.1-hb8409af_2
+libavif-1.0.1-hf507dd4_0
+libavif-1.0.1-hf507dd4_1
+libavif-1.0.1-h521e8da_2
+libavif-1.0.1-ha470574_3
+libavif-1.0.2-ha470574_0

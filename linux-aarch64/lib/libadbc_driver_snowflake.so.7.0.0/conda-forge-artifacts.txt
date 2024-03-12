@@ -1,0 +1,2 @@
+libadbc-driver-snowflake-0.7.0-h36651f1_2
+libadbc-driver-snowflake-0.7.0-h36651f1_3

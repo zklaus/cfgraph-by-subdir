@@ -1,0 +1,2 @@
+go-bindata-assetfs-1.0.0-h412194d_0
+go-bindata-assetfs-1.0.0-h412194d_1

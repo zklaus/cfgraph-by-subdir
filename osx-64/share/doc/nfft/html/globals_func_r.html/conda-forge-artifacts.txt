@@ -1,0 +1,9 @@
+nfft-3.4.1-0
+nfft-3.4.1-h1de35cc_1
+nfft-3.4.1-haf1bffa_1
+nfft-3.4.1-hcfe32e1_1001
+nfft-3.5.0-hc1580d4_0
+nfft-3.5.0-hc1580d4_1
+nfft-3.5.1-hc1580d4_0
+nfft-3.5.2-h47d2020_0
+nfft-3.5.2-h7d2e924_1

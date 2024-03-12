@@ -1,0 +1,2 @@
+otagrum-0.2-py27h15f1045_0
+otagrum-0.2-py36h15f1045_0

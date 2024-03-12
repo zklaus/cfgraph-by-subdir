@@ -1,0 +1,14 @@
+pari-2.11.1-pl526h80ae19e_2
+pari-2.11.2-pl526h80ae19e_0
+pari-2.11.4-pl5262hdc55233_0
+pari-2.11.4-hf9a3596_0
+pari-2.11.4-h03778fe_2
+pari-2.13.2-h03778fe_0
+pari-2.13.2-hd5a98f8_1_single
+pari-2.13.2-h11c2f49_1_pthread
+pari-2.13.2-h05482ea_1_pthread
+pari-2.13.2-hb9594c2_1_single
+pari-2.13.3-h05482ea_1_pthread
+pari-2.13.3-hd5a98f8_1_single
+pari-2.13.3-hb9594c2_1_single
+pari-2.13.3-h11c2f49_1_pthread

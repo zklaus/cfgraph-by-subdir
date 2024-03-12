@@ -1,0 +1,2 @@
+libadbc-driver-postgresql-0.5.0-h0f9b447_0
+libadbc-driver-postgresql-0.5.1-h0f9b447_0

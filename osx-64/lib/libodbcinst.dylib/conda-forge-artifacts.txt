@@ -1,0 +1,13 @@
+unixodbc-2.3.4-0
+unixodbc-2.3.4-1
+unixodbc-2.3.5-0
+unixodbc-2.3.5-h09ba92c_1
+unixodbc-2.3.7-h09ba92c_0
+unixodbc-2.3.7-hea208f4_1000
+unixodbc-2.3.7-h72f44dd_1000
+unixodbc-2.3.8-hcdbd15d_0
+unixodbc-2.3.9-hcdbd15d_0
+unixodbc-2.3.9-hd863c23_0
+unixodbc-2.3.10-h7b58acd_0
+unixodbc-2.3.12-he8a5cf4_0
+unixodbc-2.3.11-he8a5cf4_1

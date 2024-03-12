@@ -1,0 +1,7 @@
+pigz-2.3.4-vc14_0
+pigz-2.3.4-vc9_0
+pigz-2.3.4-h6b53678_1
+pigz-2.5-h4b92bb4_0
+pigz-2.6-h4b92bb4_0
+pigz-2.6-h4b92bb4_1
+pigz-2.8-h4b92bb4_0

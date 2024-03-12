@@ -1,0 +1,12 @@
+cudnn-8.8.0.121-hc9efd5c_0
+cudnn-8.8.0.121-h6252efc_0
+cudnn-8.8.0.121-h6252efc_1
+cudnn-8.8.0.121-hc9efd5c_1
+cudnn-8.8.0.121-h6252efc_2
+cudnn-8.8.0.121-h30cf0ba_2
+cudnn-8.8.0.121-h734afba_3
+cudnn-8.8.0.121-h6252efc_3
+cudnn-8.8.0.121-h30cf0ba_3
+cudnn-8.8.0.121-h6252efc_4
+cudnn-8.8.0.121-h734afba_4
+cudnn-8.8.0.121-h30cf0ba_4

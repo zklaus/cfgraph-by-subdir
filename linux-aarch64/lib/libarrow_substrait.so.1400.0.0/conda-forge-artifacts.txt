@@ -1,0 +1,2 @@
+libarrow-substrait-14.0.0-h318fca9_0_cpu
+libarrow-substrait-14.0.0-h59d4084_0_cuda

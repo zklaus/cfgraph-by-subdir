@@ -1,0 +1,2 @@
+imagemagick-7.0.6-pl5.22.2.1_0
+imagemagick-7.0.6-pl5.22.2.1_1

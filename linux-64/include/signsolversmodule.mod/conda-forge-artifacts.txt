@@ -1,0 +1,12 @@
+ntpoly-2.7.0-mpi_openmpi_haf9840c_0
+ntpoly-2.7.0-mpi_mpich_h3469437_0
+ntpoly-2.7.0-mpi_openmpi_haf9840c_1
+ntpoly-2.7.0-mpi_mpich_h3469437_1
+ntpoly-2.7.0-mpi_openmpi_haf9840c_2
+ntpoly-2.7.0-mpi_mpich_h3469437_2
+ntpoly-2.7.1-mpi_mpich_h3469437_0
+ntpoly-2.7.1-mpi_openmpi_haf9840c_0
+ntpoly-2.7.1-mpi_mpich_h1915c2a_1
+ntpoly-2.7.1-mpi_openmpi_h113680b_1
+ntpoly-3.0.0-mpi_openmpi_ha0c50f8_0
+ntpoly-3.0.0-mpi_mpich_h6754e38_0

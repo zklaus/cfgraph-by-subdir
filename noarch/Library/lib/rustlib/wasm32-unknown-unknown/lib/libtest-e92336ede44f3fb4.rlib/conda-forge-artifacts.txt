@@ -1,0 +1,1 @@
+rust-std-wasm32-unknown-unknown-1.72.1-win_0

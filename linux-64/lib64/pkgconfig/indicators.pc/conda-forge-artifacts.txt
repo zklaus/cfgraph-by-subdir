@@ -1,0 +1,6 @@
+indicators-1.7-hc9558a2_0
+indicators-1.8-hc9558a2_0
+indicators-1.9-hc9558a2_0
+indicators-2.0-h4bd325d_0
+indicators-2.1-h4bd325d_0
+indicators-2.2-h4bd325d_0

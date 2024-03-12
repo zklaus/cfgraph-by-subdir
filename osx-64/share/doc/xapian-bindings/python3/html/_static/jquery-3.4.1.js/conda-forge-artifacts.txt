@@ -1,0 +1,11 @@
+python-xapian-1.4.15-py37h7475705_1
+python-xapian-1.4.15-py36h7475705_1
+python-xapian-1.4.15-py37ha1b3eb9_3
+python-xapian-1.4.15-py36ha1b3eb9_3
+python-xapian-1.4.15-py38ha1b3eb9_3
+python-xapian-1.4.15-py37ha1b3eb9_4
+python-xapian-1.4.15-py38ha1b3eb9_4
+python-xapian-1.4.15-py36ha1b3eb9_4
+python-xapian-1.4.15-py36h863e41a_5
+python-xapian-1.4.15-py38ha0d09dd_5
+python-xapian-1.4.15-py37ha1cc60f_5

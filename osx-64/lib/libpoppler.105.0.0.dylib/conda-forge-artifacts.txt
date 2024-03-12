@@ -1,0 +1,6 @@
+poppler-20.12.0-he0132bb_0
+poppler-20.12.1-hca97e1b_0
+poppler-20.12.1-hca97e1b_1
+poppler-20.12.1-he0eef0f_2
+poppler-20.12.1-h19fa4f2_3
+poppler-20.12.1-h24eb75e_3

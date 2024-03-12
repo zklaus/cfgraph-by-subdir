@@ -1,0 +1,8 @@
+fish-2.7.0-0
+fish-2.7.1-0
+fish-2.7.1-hf095aba_0
+fish-2.7.1-h9a0d4bd_1000
+fish-3.0.0-h9a0d4bd_1000
+fish-3.0.0-hf095aba_0
+fish-3.0.1-h9a0d4bd_0
+fish-3.0.2-h9a0d4bd_0

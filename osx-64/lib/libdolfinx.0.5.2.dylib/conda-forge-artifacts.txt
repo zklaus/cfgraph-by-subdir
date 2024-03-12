@@ -1,0 +1,12 @@
+fenics-libdolfinx-0.5.2-h6e592bb_100
+fenics-libdolfinx-0.5.2-hfec8e75_0
+fenics-libdolfinx-0.5.2-hdfd5a71_0
+fenics-libdolfinx-0.5.2-h67684fb_100
+fenics-libdolfinx-0.5.2-h18b5e1a_1
+fenics-libdolfinx-0.5.2-h1b5ac1a_101
+fenics-libdolfinx-0.5.2-h8ed3f2a_101
+fenics-libdolfinx-0.5.2-he9e7609_1
+fenics-libdolfinx-0.5.2-hd2a3a69_2
+fenics-libdolfinx-0.5.2-hfa28801_2
+fenics-libdolfinx-0.5.2-hfdf354a_102
+fenics-libdolfinx-0.5.2-h245ff80_102

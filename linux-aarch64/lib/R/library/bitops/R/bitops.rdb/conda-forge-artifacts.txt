@@ -1,0 +1,12 @@
+r-bitops-1.0_6-r36hcdcec82_1003
+r-bitops-1.0_6-r36hcdcec82_1004
+r-bitops-1.0_6-r40hcdcec82_1004
+r-bitops-1.0_7-r40h96a179c_0
+r-bitops-1.0_7-r36h96a179c_0
+r-bitops-1.0_7-r41h96a179c_0
+r-bitops-1.0_7-r40hc7730c6_0
+r-bitops-1.0_7-r41hc7730c6_0
+r-bitops-1.0_7-r42h8e445f0_1
+r-bitops-1.0_7-r41h8e445f0_1
+r-bitops-1.0_7-r43h25e906a_2
+r-bitops-1.0_7-r42h25e906a_2

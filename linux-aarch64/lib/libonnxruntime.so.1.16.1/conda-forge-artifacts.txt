@@ -1,0 +1,4 @@
+onnxruntime-cpp-1.16.1-hf2f9ffb_0_cpu
+onnxruntime-novec-cpp-1.16.1-hee86030_0_cpu
+onnxruntime-cpp-1.16.1-h79b4b3c_0_cuda
+onnxruntime-novec-cpp-1.16.1-habcaeeb_0_cuda

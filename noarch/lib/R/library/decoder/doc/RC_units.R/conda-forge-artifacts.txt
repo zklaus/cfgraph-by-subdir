@@ -1,0 +1,4 @@
+r-decoder-1.1.12-r351h6115d3f_1000
+r-decoder-1.1.13-r351h6115d3f_0
+r-decoder-1.1.13-r36h6115d3f_1
+r-decoder-1.1.13-r35h6115d3f_1

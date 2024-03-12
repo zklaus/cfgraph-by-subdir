@@ -1,0 +1,3 @@
+xeus-sqlite-0.6.0-hde83e83_0
+xeus-sqlite-0.6.0-hde83e83_1
+xeus-sqlite-0.6.0-h0a549db_2

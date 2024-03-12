@@ -1,0 +1,8 @@
+google-cloud-cpp-2.0.0-h0a1e7b9_0
+google-cloud-cpp-2.0.0-h4716945_0
+google-cloud-cpp-2.0.0-h82e1b79_0
+google-cloud-cpp-2.0.0-hc3e2eae_0
+google-cloud-cpp-2.0.1-h0a1e7b9_0
+google-cloud-cpp-2.0.1-h4716945_0
+google-cloud-cpp-2.0.1-hc3e2eae_0
+google-cloud-cpp-2.0.1-h82e1b79_0

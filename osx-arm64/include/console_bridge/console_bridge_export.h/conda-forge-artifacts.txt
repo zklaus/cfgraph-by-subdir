@@ -1,0 +1,2 @@
+console_bridge-1.0.2-h3e96240_0
+console_bridge-1.0.2-h3e96240_1

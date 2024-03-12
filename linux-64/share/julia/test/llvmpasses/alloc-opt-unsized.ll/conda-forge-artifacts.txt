@@ -1,0 +1,10 @@
+julia-1.8.3-h00c5a2e_0
+julia-1.8.4-h783901f_0
+julia-1.8.5-h783901f_0
+julia-1.9.0-hfacc78c_0
+julia-1.9.1-hb81c242_0
+julia-1.9.2-hb81c242_0
+julia-1.9.2-h06b7c97_1
+julia-1.9.3-h06b7c97_0
+julia-1.9.3-h764f291_1
+julia-1.9.4-h764f291_0

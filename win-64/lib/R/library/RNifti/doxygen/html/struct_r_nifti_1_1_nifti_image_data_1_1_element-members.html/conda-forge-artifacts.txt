@@ -1,0 +1,5 @@
+r-rnifti-0.11.0-r351h796a38f_0
+r-rnifti-0.11.0-r36h796a38f_1
+r-rnifti-0.11.0-r35h796a38f_1
+r-rnifti-0.11.1-r35h796a38f_0
+r-rnifti-0.11.1-r36h796a38f_0

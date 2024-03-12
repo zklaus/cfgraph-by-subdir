@@ -1,0 +1,4 @@
+pygeos-0.10-py39he81bf5d_0
+pygeos-0.10-py38hb0f82a3_0
+pygeos-0.10.1-py38hb0f82a3_0
+pygeos-0.10.1-py39he81bf5d_0

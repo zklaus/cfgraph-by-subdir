@@ -1,0 +1,2 @@
+numpy-1.16.3-py27h8ce9d87_0
+numpy-1.16.4-py27hcee8f07_0

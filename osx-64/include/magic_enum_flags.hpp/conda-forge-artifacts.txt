@@ -1,0 +1,4 @@
+magic_enum-0.9.2-h1c7c39f_0
+magic_enum-0.9.3-h1c7c39f_0
+magic_enum-0.9.4-he51d815_0
+magic_enum-0.9.5-he51d815_0

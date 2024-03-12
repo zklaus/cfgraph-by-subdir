@@ -1,0 +1,4 @@
+azure-storage-files-shares-cpp-12.5.0-h91493d7_0
+azure-storage-files-shares-cpp-12.6.1-h91493d7_0
+azure-storage-files-shares-cpp-12.7.0-h91493d7_0
+azure-storage-files-shares-cpp-12.8.0-h91493d7_0

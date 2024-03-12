@@ -1,0 +1,15 @@
+versioneer-0.16-py27_0
+versioneer-0.16-py34_0
+versioneer-0.16-py35_0
+versioneer-0.17-py27_0
+versioneer-0.17-py34_0
+versioneer-0.17-py35_0
+versioneer-0.18-py27_0
+versioneer-0.18-py35_0
+versioneer-0.18-py36_0
+arm_pyart-1.12.1-py310h2873277_0
+arm_pyart-1.12.1-py38hbdcd294_0
+arm_pyart-1.12.1-py39h5d4886f_0
+arm_pyart-1.12.1-py38hbdcd294_1
+arm_pyart-1.12.1-py310h2873277_1
+arm_pyart-1.12.1-py39h5d4886f_1

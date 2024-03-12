@@ -1,0 +1,8 @@
+pybind11-2.2.4-py27h1bb5118_1001
+pybind11-2.3.0-py27h1bb5118_0
+pybind11-2.3.0-py27h1bb5118_1
+pybind11-2.3.0-py27h1bb5118_2
+pybind11-2.4.0-py27h1bb5118_0
+pybind11-2.4.1-py27h1bb5118_0
+pybind11-2.4.2-py27h1bb5118_0
+pybind11-2.4.3-py27h1bb5118_0

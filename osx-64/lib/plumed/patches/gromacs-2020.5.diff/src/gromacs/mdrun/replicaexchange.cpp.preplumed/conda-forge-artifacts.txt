@@ -1,0 +1,7 @@
+plumed-2.7.1-h792c0db_0
+plumed-2.7.1-mpi_mpich_h3c03127_1
+plumed-2.7.1-mpi_openmpi_h52db2b2_1
+plumed-2.7.1-nompi_hdda4007_1
+plumed-2.7.1-nompi_hdda4007_2
+plumed-2.7.1-mpi_openmpi_h52db2b2_2
+plumed-2.7.1-mpi_mpich_h3c03127_2

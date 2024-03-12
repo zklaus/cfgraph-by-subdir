@@ -1,0 +1,12 @@
+vtk-9.2.5-osmesa_py310hd424f78_100
+vtk-9.2.5-qt_py310hc895abb_200
+vtk-9.2.5-egl_py310h2544fed_0
+vtk-9.2.5-osmesa_py310h4a27d42_101
+vtk-9.2.5-egl_py310hb837978_1
+vtk-9.2.5-qt_py310hda9caab_201
+vtk-9.2.5-osmesa_py310h4f1aa42_102
+vtk-9.2.5-egl_py310he64b892_2
+vtk-9.2.5-qt_py310hbbaa62d_202
+vtk-9.2.5-osmesa_py310h7ec9714_103
+vtk-9.2.5-egl_py310h24f58fe_3
+vtk-9.2.5-qt_py310h8908f42_203

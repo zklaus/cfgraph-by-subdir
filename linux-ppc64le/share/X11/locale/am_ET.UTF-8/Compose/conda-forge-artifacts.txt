@@ -1,0 +1,16 @@
+xorg-libx11-1.6.7-h14c3975_1000
+xorg-libx11-1.6.8-h6eb9509_0
+xorg-libx11-1.6.9-h6eb9509_0
+xorg-libx11-1.6.10-h6eb9509_0
+xorg-libx11-1.6.11-h6eb9509_0
+xorg-libx11-1.6.12-h6eb9509_0
+xorg-libx11-1.7.0-h339bb43_0
+xorg-libx11-1.7.0-h4e0d66e_0
+xorg-libx11-1.7.1-h4e0d66e_0
+xorg-libx11-1.6.12-h339bb43_0
+xorg-libx11-1.7.2-h4e0d66e_0
+xorg-libx11-1.8.4-h4194056_0
+xorg-libx11-1.8.4-hb0c8264_1
+xorg-libx11-1.8.5-hb0c8264_0
+xorg-libx11-1.8.6-hb0c8264_0
+xorg-libx11-1.8.7-hb0c8264_0

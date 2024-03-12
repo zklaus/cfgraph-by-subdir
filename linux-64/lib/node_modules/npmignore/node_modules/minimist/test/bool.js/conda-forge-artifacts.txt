@@ -1,0 +1,12 @@
+npmignore-0.3.0-h5556789_0
+npmignore-0.3.0-h7e777a6_0
+npmignore-0.3.0-h3b247e2_0
+npmignore-0.3.0-h3b247e2_1
+npmignore-0.3.0-he2f69ee_1
+npmignore-0.3.0-h5556789_1
+npmignore-0.3.0-h92b4e83_2
+npmignore-0.3.0-he2f69ee_2
+npmignore-0.3.0-h92b4e83_3
+npmignore-0.3.0-he2f69ee_3
+npmignore-0.3.1-he2f69ee_0
+npmignore-0.3.1-h92b4e83_0

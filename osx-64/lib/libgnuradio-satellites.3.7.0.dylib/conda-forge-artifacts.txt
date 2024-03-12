@@ -1,0 +1,15 @@
+gnuradio-satellites-3.7.0-py39h4dc7599_0
+gnuradio-satellites-3.7.0-py37h70b79d7_0
+gnuradio-satellites-3.7.0-py38h065b08c_0
+gnuradio-satellites-3.7.0-py36h0706dd1_0
+gnuradio-satellites-3.7.0-py36h636b2c8_0
+gnuradio-satellites-3.7.0-py38h8d8656a_0
+gnuradio-satellites-3.7.0-py37hd60940f_0
+gnuradio-satellites-3.7.0-py36h2e33cf4_1
+gnuradio-satellites-3.7.0-py37h3231da4_1
+gnuradio-satellites-3.7.0-py39h5b4e04b_1
+gnuradio-satellites-3.7.0-py38h76eb2ce_1
+gnuradio-satellites-3.7.0-py37h3231da4_2
+gnuradio-satellites-3.7.0-py39h5b4e04b_2
+gnuradio-satellites-3.7.0-py36h2e33cf4_2
+gnuradio-satellites-3.7.0-py38h76eb2ce_2

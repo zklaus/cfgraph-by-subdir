@@ -1,0 +1,6 @@
+libedit-3.1-0
+libedit-3.1.20170329-0
+libedit-3.1.20170329-haf1bffa_0
+libedit-3.1.20170329-haf1bffa_1
+libedit-3.1.20170329-hcfe32e1_1001
+libedit-3.1.20191231-hed1e85f_0

@@ -1,0 +1,10 @@
+xtensor-io-0.12.2-hc1cc398_0
+xtensor-io-0.12.3-hc1cc398_0
+xtensor-io-0.12.4-h940c156_0
+xtensor-io-0.12.4-h940c156_1
+xtensor-io-0.12.5-h940c156_1
+xtensor-io-0.12.6-h940c156_0
+xtensor-io-0.12.7-h940c156_0
+xtensor-io-0.12.8-h940c156_0
+xtensor-io-0.12.9-h940c156_0
+xtensor-io-0.13.0-h940c156_0

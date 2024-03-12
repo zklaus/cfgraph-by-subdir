@@ -1,0 +1,2 @@
+tesseract-4.1.0-h82d57dc_1
+tesseract-4.1.0-h328755b_2

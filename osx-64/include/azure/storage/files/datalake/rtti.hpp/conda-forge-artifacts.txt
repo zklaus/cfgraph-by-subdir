@@ -1,0 +1,5 @@
+azure-storage-files-datalake-cpp-12.6.0-h1c7c39f_0
+azure-storage-files-datalake-cpp-12.7.0-h1c7c39f_0
+azure-storage-files-datalake-cpp-12.7.0-h1c7c39f_1
+azure-storage-files-datalake-cpp-12.8.0-h1c7c39f_0
+azure-storage-files-datalake-cpp-12.9.0-he51d815_0

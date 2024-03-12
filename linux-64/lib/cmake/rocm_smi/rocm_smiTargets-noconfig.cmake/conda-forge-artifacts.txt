@@ -1,0 +1,2 @@
+rocm-smi-5.6.0-h59595ed_0
+rocm-smi-5.6.0-h59595ed_1

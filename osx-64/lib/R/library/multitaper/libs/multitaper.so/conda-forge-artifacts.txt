@@ -1,0 +1,9 @@
+r-multitaper-1.0_13-r3.3.2_0
+r-multitaper-1.0_13-r3.4.1_0
+r-multitaper-1.0_13-r341ha44fe06_1
+r-multitaper-1.0_13-r351hdc02c5d_1001
+r-multitaper-1.0_13-r351ha44fe06_1
+r-multitaper-1.0_14-r35haf69682_0
+r-multitaper-1.0_14-r35haf69682_1
+r-multitaper-1.0_14-r35h85e41a7_2
+r-multitaper-1.0_14-r35haf69682_2

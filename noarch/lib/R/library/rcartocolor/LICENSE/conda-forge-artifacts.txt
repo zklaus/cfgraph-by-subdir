@@ -1,0 +1,8 @@
+r-rcartocolor-2.0.0-r41h785f33e_0
+r-rcartocolor-2.0.0-r40h785f33e_0
+r-rcartocolor-2.0.0-r42h785f33e_1
+r-rcartocolor-2.0.0-r41h785f33e_1
+r-rcartocolor-2.1.1-r41h785f33e_0
+r-rcartocolor-2.1.1-r42h785f33e_0
+r-rcartocolor-2.1.1-r42h785f33e_1
+r-rcartocolor-2.1.1-r43h785f33e_1

@@ -1,0 +1,17 @@
+r-furrr-0.2.0-r40h142f84f_0
+r-furrr-0.2.0-r36h142f84f_0
+r-furrr-0.2.1-r40h142f84f_0
+r-furrr-0.2.1-r36h142f84f_0
+r-furrr-0.2.2-r40hc72bb7e_0
+r-furrr-0.2.2-r36hc72bb7e_0
+r-furrr-0.2.2-r41hc72bb7e_0
+r-furrr-0.2.3-r41hc72bb7e_0
+r-furrr-0.2.3-r40hc72bb7e_0
+r-furrr-0.3.0-r40hc72bb7e_0
+r-furrr-0.3.0-r41hc72bb7e_0
+r-furrr-0.3.1-r40hc72bb7e_0
+r-furrr-0.3.1-r41hc72bb7e_0
+r-furrr-0.3.1-r41hc72bb7e_1
+r-furrr-0.3.1-r42hc72bb7e_1
+r-furrr-0.3.1-r42hc72bb7e_2
+r-furrr-0.3.1-r43hc72bb7e_2

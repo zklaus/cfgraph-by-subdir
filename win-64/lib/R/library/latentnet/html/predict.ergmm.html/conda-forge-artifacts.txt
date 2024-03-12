@@ -1,0 +1,2 @@
+r-latentnet-2.10.5-r40h88fb03e_0
+r-latentnet-2.10.6-r40h88fb03e_0

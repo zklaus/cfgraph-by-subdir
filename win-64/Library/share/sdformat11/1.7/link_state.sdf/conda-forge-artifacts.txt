@@ -1,0 +1,10 @@
+libsdformat11-11.0.0-h0e60522_0
+libsdformat11-11.1.0-h0e60522_0
+libsdformat11-11.2.0-h0e60522_0
+libsdformat11-11.2.0-h2f10cfe_1
+libsdformat11-11.2.1-h2f10cfe_0
+libsdformat11-11.2.2-h2f10cfe_0
+libsdformat11-11.3.0-h2f10cfe_0
+libsdformat11-11.3.0-hbbae46c_1
+libsdformat11-11.3.0-hdc9ada9_2
+libsdformat11-11.3.0-hdc9ada9_3

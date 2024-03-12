@@ -1,0 +1,11 @@
+freecad-0.18-py37h2019aba_0
+freecad-0.18-py37h2019aba_1
+freecad-0.18.1-py37h2019aba_0
+freecad-0.18.1-py37h2019aba_1
+freecad-0.18.2-py37h2019aba_0
+freecad-0.18.3-py37h206906e_1
+freecad-0.18.3-py37ha28476b_2
+freecad-0.18.4-py37ha28476b_0
+freecad-0.18.4-py37ha28476b_1
+freecad-0.19.alpha2-py37h43b4559_0
+freecad-0.19.alpha2-py38hdf78897_0

@@ -1,0 +1,4 @@
+gimagereader-qt-3.3.1-he4987ce_0
+gimagereader-qt-3.3.1-h4d87c30_1
+gimagereader-qt-3.3.1-h505bfab_2
+gimagereader-qt-3.3.1-h3e8205a_3

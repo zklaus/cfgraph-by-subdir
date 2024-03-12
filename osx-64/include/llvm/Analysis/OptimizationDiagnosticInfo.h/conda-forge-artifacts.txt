@@ -1,0 +1,16 @@
+llvmdev-3.9.0-2
+llvmdev-3.9.1-0
+llvmdev-3.9.1-cling_4
+llvmdev-3.9.1-default_4
+llvmdev-4.0.0-cling_0
+llvmdev-4.0.0-default_0
+llvmdev-5.0.0-default_1
+llvmdev-5.0.0-h04f5b5a_1001
+llvmdev-5.0.0-h2d50403_1
+llvm-4.0.1-1
+llvmdev-5.0.0-ha1b3eb9_1002
+llvmdev-5.0.0-ha1b3eb9_1003
+llvmdev-5.0.0-h879752b_1004
+llvmdev-5.0.0-h9a9d8cb_1005
+llvmdev-5.0.0-h926bf3e_1005
+llvmdev-5.0.0-hb8565cd_1006

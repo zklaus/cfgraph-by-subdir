@@ -1,0 +1,8 @@
+python-duckdb-0.9.1-py311hb755f60_0
+python-duckdb-0.9.1-py39h3d6467e_0
+python-duckdb-0.9.1-py310hc6cd4ac_0
+python-duckdb-0.9.1-py38h17151c0_0
+python-duckdb-0.9.2-py310hc6cd4ac_0
+python-duckdb-0.9.2-py311hb755f60_0
+python-duckdb-0.9.2-py38h17151c0_0
+python-duckdb-0.9.2-py39h3d6467e_0

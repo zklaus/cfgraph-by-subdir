@@ -1,0 +1,2 @@
+glib-2.66.1-h680cd38_0
+libglib-2.66.1-h0dae87d_1

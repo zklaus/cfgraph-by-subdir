@@ -1,0 +1,16 @@
+fairscale-0.4.10-cpu_py38ha4a52a9_0
+fairscale-0.4.10-cpu_py39h8f71871_0
+fairscale-0.4.10-cpu_py310h15feddf_0
+fairscale-0.4.11-cpu_py310h15feddf_0
+fairscale-0.4.11-cpu_py38ha4a52a9_0
+fairscale-0.4.11-cpu_py39h8f71871_0
+fairscale-0.4.13-cpu_py39h8f71871_0
+fairscale-0.4.13-cpu_py310h15feddf_0
+fairscale-0.4.13-cpu_py38ha4a52a9_0
+fairscale-0.4.13-cpu_py310h5e8ae94_0
+fairscale-0.4.13-cpu_py39h923d442_0
+fairscale-0.4.13-cpu_py38hc154aa7_0
+fairscale-0.4.13-cpu_py39h599cae7_1
+fairscale-0.4.13-cpu_py38hbf20e48_1
+fairscale-0.4.13-cpu_py310hddede33_1
+fairscale-0.4.13-cpu_py311h595a514_1

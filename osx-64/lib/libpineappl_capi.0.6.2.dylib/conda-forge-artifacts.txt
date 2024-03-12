@@ -1,0 +1,6 @@
+pineappl-0.6.2-py38h51dbebd_0
+pineappl-0.6.2-py312h6e28e45_0
+pineappl-0.6.2-py311h5e0f0e4_0
+pineappl-0.6.2-py39ha488fb6_0
+pineappl-0.6.2-py39h3f9c672_0
+pineappl-0.6.2-py310h0e083fb_0

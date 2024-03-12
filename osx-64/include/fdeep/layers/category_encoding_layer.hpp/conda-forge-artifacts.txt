@@ -1,0 +1,8 @@
+frugally-deep-0.15.20-hf0c8a7f_0
+frugally-deep-0.15.21-he965462_0
+frugally-deep-0.15.22-he965462_0
+frugally-deep-0.15.23-he965462_0
+frugally-deep-0.15.24-he965462_0
+frugally-deep-0.15.25-h73e2aa4_0
+frugally-deep-0.15.26-h93d8f39_0
+frugally-deep-0.15.27-h93d8f39_0

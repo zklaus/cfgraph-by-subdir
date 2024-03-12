@@ -1,0 +1,9 @@
+easydev-0.9.32-py27_0
+easydev-0.9.32-py35_0
+easydev-0.9.32-py36_0
+easydev-0.9.34-py27_0
+easydev-0.9.34-py35_0
+easydev-0.9.34-py36_0
+easydev-0.9.35-py27_0
+easydev-0.9.35-py35_0
+easydev-0.9.35-py36_0

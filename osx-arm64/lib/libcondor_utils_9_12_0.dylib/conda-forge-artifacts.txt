@@ -1,0 +1,4 @@
+libcondor_utils-9.12.0-hdefd274_0
+libcondor_utils-9.12.0-hdefd274_1
+libcondor_utils-9.12.0-hdefd274_2
+libcondor_utils-9.12.0-hbc95ad5_3

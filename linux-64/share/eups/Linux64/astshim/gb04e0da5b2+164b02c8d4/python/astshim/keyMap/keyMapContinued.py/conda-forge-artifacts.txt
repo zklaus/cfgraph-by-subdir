@@ -1,0 +1,4 @@
+stackvana-afw-0.2022.20-py38had682cd_0
+stackvana-afw-0.2022.20-py38had682cd_1
+stackvana-afw-0.2022.21-py38had682cd_1
+stackvana-afw-0.2022.22-py310hff52083_2

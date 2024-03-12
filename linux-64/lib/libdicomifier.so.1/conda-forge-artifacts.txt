@@ -1,0 +1,6 @@
+dicomifier-1.4.0-py36hdd35d3e_0
+dicomifier-1.4.0-py37hf49c51b_0
+dicomifier-1.4.0-py38h1a93df8_0
+dicomifier-1.4.0-py37hdbc9f2f_1
+dicomifier-1.4.0-py36hcedd3d9_1
+dicomifier-1.4.0-py38hf3f2333_1

@@ -1,0 +1,2 @@
+daal-devel-2019.5-281
+daal-devel-2020.2-h57928b3_256

@@ -1,0 +1,4 @@
+libadbc-driver-flightsql-0.7.0-hfa38cd2_0
+libadbc-driver-flightsql-0.7.0-hfa38cd2_1
+libadbc-driver-flightsql-0.7.0-hfa38cd2_2
+libadbc-driver-flightsql-0.7.0-hfa38cd2_3

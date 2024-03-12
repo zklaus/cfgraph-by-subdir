@@ -1,0 +1,14 @@
+simple-dftd3-0.3.0-ha4d556f_0
+simple-dftd3-0.4.0-ha4d556f_0
+simple-dftd3-0.4.1-ha4d556f_0
+simple-dftd3-0.4.1-ha4d556f_1
+simple-dftd3-0.4.2-ha4d556f_0
+simple-dftd3-0.4.2-ha4d556f_1
+simple-dftd3-0.5.0-ha4d556f_0
+simple-dftd3-0.5.0-h04473d4_1
+simple-dftd3-0.5.0-h04473d4_2
+simple-dftd3-0.5.1-h04473d4_0
+simple-dftd3-0.6.0-ha4173f5_0
+simple-dftd3-0.7.0-ha2da783_0
+simple-dftd3-0.7.0-ha2da783_1
+simple-dftd3-0.7.0-ha2da783_2

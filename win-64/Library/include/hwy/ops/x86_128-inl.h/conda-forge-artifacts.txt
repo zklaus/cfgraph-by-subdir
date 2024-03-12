@@ -1,0 +1,11 @@
+libhwy-0.15.0-h2d74725_0
+libhwy-0.15.0-h2d74725_1
+libhwy-0.17.0-h91493d7_0
+libhwy-1.0.0-h91493d7_0
+libhwy-1.0.1-h91493d7_0
+libhwy-1.0.2-h91493d7_0
+libhwy-1.0.2-h91493d7_1
+libhwy-1.0.3-h91493d7_0
+libhwy-1.0.5-h91493d7_0
+libhwy-1.0.6-h91493d7_0
+libhwy-1.0.7-h91493d7_0

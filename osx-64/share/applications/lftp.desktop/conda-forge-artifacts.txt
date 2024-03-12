@@ -1,0 +1,5 @@
+lftp-4.8.4-ha2ad6a7_1
+lftp-4.8.4-h4c51d99_1001
+lftp-4.9.2-h6cca6e0_0
+lftp-4.9.2-h7ba908e_1
+lftp-4.9.2-he143b9f_1

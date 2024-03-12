@@ -1,0 +1,2 @@
+imagemagick-7.0.10_59-pl5262heed41fb_0
+imagemagick-7.0.10_60-pl5262h6797231_0

@@ -1,0 +1,4 @@
+pugixml-1.11.4-h2f0025b_1
+pugixml-1.12.1-h2f0025b_1
+pugixml-1.13-h2f0025b_1
+pugixml-1.14-h2f0025b_0

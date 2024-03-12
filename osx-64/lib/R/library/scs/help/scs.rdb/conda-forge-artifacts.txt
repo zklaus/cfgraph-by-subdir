@@ -1,0 +1,10 @@
+r-scs-3.0_0-r41hc2c5f09_0
+r-scs-3.0_0-r40hc2c5f09_0
+r-scs-3.0_1-r41hce01bf1_0
+r-scs-3.0_1-r40hce01bf1_0
+r-scs-3.0_1-r42hce01bf1_1
+r-scs-3.0_1-r41hce01bf1_1
+r-scs-3.2.4-r42hce01bf1_0
+r-scs-3.2.4-r41hce01bf1_0
+r-scs-3.2.4-r42hc46c21c_1
+r-scs-3.2.4-r43hc46c21c_1

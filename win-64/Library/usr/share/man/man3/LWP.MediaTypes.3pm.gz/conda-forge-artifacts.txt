@@ -1,0 +1,1 @@
+m2-perl-lwp-mediatypes-6.02-3

@@ -1,0 +1,10 @@
+zstd-1.3.8-h4a5956a_1002
+zstd-1.3.8-h738b7fd_1003
+zstd-1.4.0-h738b7fd_0
+zstd-1.4.3-h738b7fd_0
+zstd-1.4.4-h738b7fd_0
+zstd-1.4.4-h738b7fd_1
+zstd-1.4.4-h738b7fd_2
+zstd-1.4.4-h1dc757f_3
+zstd-1.4.5-h1dc757f_0
+zstd-1.4.5-h1dc757f_1

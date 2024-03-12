@@ -1,0 +1,7 @@
+srwpy-4.0.0b1-py39h840bb9f_0
+srwpy-4.0.0b1-py38h940360d_0
+srwpy-4.0.0b1-py310h9e9d8ca_0
+srwpy-4.0.0b1-py38h940360d_1
+srwpy-4.0.0b1-py39h840bb9f_1
+srwpy-4.0.0b1-py311hdf8f085_1
+srwpy-4.0.0b1-py310h9e9d8ca_1

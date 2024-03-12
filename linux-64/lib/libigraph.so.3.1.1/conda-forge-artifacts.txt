@@ -1,0 +1,3 @@
+igraph-0.10.6-h97b68dd_0
+igraph-0.10.6-h27e60f0_1
+igraph-0.10.6-h27e60f0_2

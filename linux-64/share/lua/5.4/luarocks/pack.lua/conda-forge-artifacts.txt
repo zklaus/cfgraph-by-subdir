@@ -1,0 +1,5 @@
+luarocks-3.7.0-lua54h7f98852_0
+luarocks-3.8.0-lua54h7f98852_0
+luarocks-3.9.0-lua54h166bdaf_0
+luarocks-3.9.1-lua54h166bdaf_0
+luarocks-3.9.2-lua54h0b41bf4_0

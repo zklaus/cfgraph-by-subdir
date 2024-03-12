@@ -1,0 +1,5 @@
+ngspice-lib-32-h8c06526_3
+ngspice-lib-32-h8c06526_4
+ngspice-lib-32-h8c06526_5
+ngspice-lib-32-h8c06526_6
+ngspice-lib-36-h7a24507_6

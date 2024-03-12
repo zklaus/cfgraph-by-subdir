@@ -1,0 +1,13 @@
+r-rfast-1.9.9-r36h796a38f_0
+r-rfast-1.9.9-r40h796a38f_0
+r-rfast-1.9.9-r40hb8e368e_1
+r-rfast-1.9.9-r36hb8e368e_1
+r-rfast-2.0.0-r36hb8e368e_0
+r-rfast-2.0.0-r40hb8e368e_0
+r-rfast-2.0.1-r40hb8e368e_0
+r-rfast-2.0.1-r36hb8e368e_0
+r-rfast-2.0.3-r36h399f8d5_0
+r-rfast-2.0.3-r40h399f8d5_0
+r-rfast-2.0.4-r40h399f8d5_0
+r-rfast-2.0.5-r40h399f8d5_0
+r-rfast-2.0.6-r40h399f8d5_0

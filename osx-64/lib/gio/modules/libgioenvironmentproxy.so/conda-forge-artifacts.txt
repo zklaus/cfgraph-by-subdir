@@ -1,0 +1,5 @@
+glib-networking-2.72.1-hff4773f_0
+glib-networking-2.72.1-h3ae9fd1_1
+glib-networking-2.72.1-hff4773f_1
+glib-networking-2.72.2-h2e19333_0
+glib-networking-2.72.2-he3a2f11_0

@@ -1,0 +1,2 @@
+libignition-gazebo6-6.0.0-h806ed17_1
+libignition-gazebo6-6.0.0-h806ed17_2

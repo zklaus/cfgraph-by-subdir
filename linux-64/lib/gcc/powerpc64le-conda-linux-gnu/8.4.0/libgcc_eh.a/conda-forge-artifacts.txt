@@ -1,0 +1,12 @@
+libgcc-devel_linux-ppc64le-8.4.0-hbb93445_14
+libgcc-devel_linux-ppc64le-8.4.0-hbb93445_15
+libgcc-devel_linux-ppc64le-8.4.0-hbb93445_16
+gcc_impl_linux-ppc64le-8.4.0-h610be87_16
+libgcc-devel_linux-ppc64le-8.4.0-hbb93445_17
+gcc_impl_linux-ppc64le-8.4.0-h6b55dda_17
+libgcc-devel_linux-ppc64le-8.4.0-hd50f79a_18
+gcc_impl_linux-ppc64le-8.4.0-h4ff2a5e_18
+libgcc-devel_linux-ppc64le-8.4.0-hd50f79a_19
+gcc_impl_linux-ppc64le-8.4.0-h4ff2a5e_19
+gcc_bootstrap_linux-ppc64le-8.4.0-he1cd95b_32
+gcc_bootstrap_linux-ppc64le-8.4.0-he1cd95b_33

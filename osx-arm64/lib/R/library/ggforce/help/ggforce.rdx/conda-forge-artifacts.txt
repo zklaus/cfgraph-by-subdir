@@ -1,0 +1,10 @@
+r-ggforce-0.3.3-r40h39468a4_0
+r-ggforce-0.3.3-r41h39468a4_0
+r-ggforce-0.3.4-r41h9a38a31_0
+r-ggforce-0.3.4-r40h9a38a31_0
+r-ggforce-0.4.0-r41h9a38a31_0
+r-ggforce-0.4.1-r41h9a38a31_0
+r-ggforce-0.4.1-r42h9a38a31_1
+r-ggforce-0.4.1-r41h9a38a31_1
+r-ggforce-0.4.1-r42he62749d_2
+r-ggforce-0.4.1-r43he62749d_2

@@ -1,0 +1,6 @@
+qgis-3.12.1-py36h77e4444_2
+qgis-3.12.1-py37ha595202_2
+qgis-3.12.1-py38h907d0db_2
+qgis-3.12.1-py38hbaf734a_3
+qgis-3.12.1-py37h6be11e2_3
+qgis-3.12.1-py36hbaa793b_3

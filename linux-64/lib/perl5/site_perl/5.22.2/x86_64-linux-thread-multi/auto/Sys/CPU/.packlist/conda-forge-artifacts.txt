@@ -1,0 +1,3 @@
+perl-sys-cpu-0.61-pl522h470a237_0
+perl-sys-cpu-0.61-pl522_0
+perl-sys-cpu-0.61-pl522h470a237_1

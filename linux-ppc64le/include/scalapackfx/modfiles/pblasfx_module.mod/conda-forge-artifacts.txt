@@ -1,0 +1,14 @@
+scalapackfx-1.0.1-mpi_openmpi_h1bf489e_1
+scalapackfx-1.0.1-mpi_mpich_h5014a0d_1
+scalapackfx-1.0.1-mpi_openmpi_h1bf489e_2
+scalapackfx-1.0.1-mpi_mpich_h5014a0d_2
+scalapackfx-1.0.1-mpi_mpich_hef51f88_2
+scalapackfx-1.0.1-mpi_openmpi_h770fb8b_2
+scalapackfx-1.0.2-mpi_openmpi_h770fb8b_0
+scalapackfx-1.0.2-mpi_mpich_hef51f88_0
+scalapackfx-1.0.2-mpi_mpich_h1356955_1
+scalapackfx-1.0.2-mpi_openmpi_hb2a9a05_1
+scalapackfx-1.1-mpi_mpich_h1356955_0
+scalapackfx-1.1-mpi_openmpi_hb2a9a05_0
+scalapackfx-1.2-mpi_mpich_h8e33bad_0
+scalapackfx-1.2-mpi_openmpi_ha65e3af_0

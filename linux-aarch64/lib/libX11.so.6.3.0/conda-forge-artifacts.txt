@@ -1,0 +1,7 @@
+xorg-libx11-1.6.7-hda93590_1000
+xorg-libx11-1.6.8-h6dd45c4_0
+xorg-libx11-1.6.9-h6dd45c4_0
+xorg-libx11-1.6.10-h6dd45c4_0
+xorg-libx11-1.6.11-h6dd45c4_0
+xorg-libx11-1.6.12-h6dd45c4_0
+xorg-libx11-1.6.12-hfd2af3c_0

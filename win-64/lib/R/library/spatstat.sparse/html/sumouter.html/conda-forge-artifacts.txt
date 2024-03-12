@@ -1,0 +1,8 @@
+r-spatstat.sparse-1.2_0-r36h6d2157b_0
+r-spatstat.sparse-1.2_0-r40h6d2157b_0
+r-spatstat.sparse-1.2_1-r40h6d2157b_0
+r-spatstat.sparse-1.2_1-r36h6d2157b_0
+r-spatstat.sparse-2.0_0-r36h6d2157b_0
+r-spatstat.sparse-2.0_0-r40h6d2157b_0
+r-spatstat.sparse-2.1_0-r40h6d2157b_0
+r-spatstat.sparse-2.1_1-r40h6d2157b_0

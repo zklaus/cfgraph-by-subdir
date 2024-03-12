@@ -1,0 +1,3 @@
+libsoup-3.2.0-had0b2b9_0
+libsoup-3.2.1-had0b2b9_0
+libsoup-3.2.2-had0b2b9_0

@@ -1,0 +1,15 @@
+skopeo-1.2.0-h163f07b_0
+skopeo-1.2.2-h77c71de_0
+skopeo-1.4.0-he8a0662_0
+skopeo-1.5.0-he8a0662_0
+skopeo-1.5.0-he8a0662_1
+skopeo-1.5.2-he8a0662_0
+skopeo-1.6.0-he8a0662_0
+skopeo-1.6.1-he8a0662_0
+skopeo-1.6.1-h1ddc68e_0
+skopeo-1.11.2-he5cbd37_0
+skopeo-1.12.0-he5cbd37_0
+skopeo-1.13.0-h6d78a85_0
+skopeo-1.13.1-h6d78a85_0
+skopeo-1.13.2-h6d78a85_0
+skopeo-1.13.3-h6d78a85_0

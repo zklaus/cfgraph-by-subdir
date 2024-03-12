@@ -1,0 +1,6 @@
+superlu_dist-6.2.0-h30a399d_2
+superlu_dist-6.2.0-h687fe17_3
+superlu_dist-6.2.0-h6e2dc38_4
+superlu_dist-6.2.0-hebbde40_4
+superlu_dist-6.2.0-hebbde40_5
+superlu_dist-6.2.0-h2bcb12d_5

@@ -1,0 +1,6 @@
+r-mnormt-2.0.2-r40h946febc_0
+r-mnormt-2.0.2-r41h946febc_0
+r-mnormt-2.1.0-r40h05a4fa7_0
+r-mnormt-2.1.0-r41h05a4fa7_0
+r-mnormt-2.1.0-r42h505ec0b_1
+r-mnormt-2.1.0-r41h505ec0b_1

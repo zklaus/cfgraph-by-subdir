@@ -1,0 +1,10 @@
+armadillo-8.500.0-blas_openblashea831ea_202
+armadillo-8.600.0-blas_openblashea831ea_202
+armadillo-9.200.4-blas_openblash30542ba_202
+armadillo-9.200.4-blas_openblash7ecf0c2_1202
+armadillo-9.200.4-blas_openblash7ecf0c2_1203
+armadillo-9.200.4-h9248f42_1204
+armadillo-9.200.4-h3133f9d_1205
+armadillo-9.200.4-h3133f9d_1206
+armadillo-9.200.6-h3133f9d_0
+armadillo-9.200.7-h3133f9d_0

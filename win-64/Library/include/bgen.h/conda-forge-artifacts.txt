@@ -1,0 +1,10 @@
+bgen-1.1.4-vc14_0
+bgen-2.0.0-vc14_0
+bgen-2.0.3-ha1d4ad9_0
+bgen-2.0.4-ha1d4ad9_0
+bgen-2.0.4-ha1d4ad9_1
+bgen-2.1.0-ha1d4ad9_0
+bgen-3.0.2-ha1d4ad9_0
+bgen-3.0.2-h839c97c_1
+bgen-3.0.3-hcbb8235_0
+bgen-3.0.3-h4698528_1

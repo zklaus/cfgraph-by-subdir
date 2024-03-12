@@ -1,0 +1,4 @@
+vscode-jupyter-2020.12.1-py36hcd7ae9b_0
+vscode-jupyter-2020.12.1-py36h144987d_1
+vscode-jupyter-2020.12.1-py36h144987d_2
+vscode-jupyter-2020.12.1-py36h144987d_3

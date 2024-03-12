@@ -1,0 +1,6 @@
+r-corpcor-1.6.8-r3.3.2_0
+r-corpcor-1.6.8-r3.4.1_0
+r-corpcor-1.6.9-r3.3.2_0
+r-corpcor-1.6.9-r3.4.1_0
+r-corpcor-1.6.9-r341h6115d3f_1
+r-corpcor-1.6.9-r351h6115d3f_1

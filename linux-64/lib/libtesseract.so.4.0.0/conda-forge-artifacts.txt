@@ -1,0 +1,3 @@
+tesseract-4.0.0-hcaeae25_0
+tesseract-4.0.0-hfc285a1_1000
+tesseract-4.0.0-h47f2187_1001

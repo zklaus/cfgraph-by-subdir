@@ -1,0 +1,4 @@
+cgal-4.10-py35_vc14_0
+cgal-4.10-py35_vc14_1
+cgal-4.10-py36_vc14_0
+cgal-4.10-py36_vc14_1

@@ -1,0 +1,2 @@
+libadbc-driver-sqlite-0.5.0-hd8b3c58_0
+libadbc-driver-sqlite-0.5.1-hd8b3c58_0

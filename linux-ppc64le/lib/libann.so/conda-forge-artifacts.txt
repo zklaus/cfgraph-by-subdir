@@ -1,0 +1,12 @@
+cctbx-base-2022.1-py38hf9d6e8c_0
+cctbx-base-2022.1-py310hd0843d5_0
+cctbx-base-2022.1-py37h3c6856c_0
+cctbx-base-2022.1-py39h07baf8a_0
+cctbx-base-2022.2-py37h2f70e64_0
+cctbx-base-2022.2-py38hea6b72c_0
+cctbx-base-2022.2-py310h494e3c4_0
+cctbx-base-2022.2-py39hc248d1a_0
+cctbx-base-2022.3-py39hc248d1a_0
+cctbx-base-2022.3-py310h494e3c4_0
+cctbx-base-2022.3-py37h4bb952e_0
+cctbx-base-2022.3-py38h9b7ee03_0

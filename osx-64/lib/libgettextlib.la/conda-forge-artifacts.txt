@@ -1,0 +1,4 @@
+gettext-0.19.7-0
+gettext-0.19.7-1
+gettext-0.19.8.1-0
+gettext-0.19.8.1-h1f1d5ed_1

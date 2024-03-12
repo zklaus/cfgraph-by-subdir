@@ -1,0 +1,7 @@
+spdlog-1.10.0-h924138e_0
+spdlog-1.10.0-hf88bb37_1
+spdlog-1.11.0-hf88bb37_0
+spdlog-1.11.0-h9b3ece8_1
+spdlog-1.12.0-h5743cc6_0
+spdlog-1.12.0-hd2e6256_1
+spdlog-1.12.0-hd2e6256_2

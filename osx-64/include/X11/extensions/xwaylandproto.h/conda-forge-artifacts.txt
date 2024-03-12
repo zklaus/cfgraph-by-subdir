@@ -1,0 +1,5 @@
+xorg-xorgproto-2022.2-hb7f2c08_0
+xorg-xorgproto-2022.2-h0dc2134_1
+xorg-xorgproto-2023.1-h0dc2134_0
+xorg-xorgproto-2023.2-h0dc2134_0
+xorg-xorgproto-2023.2-h10d778d_0

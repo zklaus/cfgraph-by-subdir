@@ -1,0 +1,8 @@
+libxrender-cos7-x86_64-0.9.10-hdf0574f_1102
+libxrender-cos6-x86_64-0.9.10-hdf0574f_1102
+libxrender-cos7-x86_64-0.9.10-ha826a6f_1103
+libxrender-cos6-x86_64-0.9.10-ha826a6f_1103
+libxrender-cos6-x86_64-0.9.10-h9d98e8f_1104
+libxrender-cos7-x86_64-0.9.10-h9d98e8f_1104
+libxrender-cos6-x86_64-0.9.10-h9b0a68f_1105
+libxrender-cos7-x86_64-0.9.10-h9b0a68f_1105

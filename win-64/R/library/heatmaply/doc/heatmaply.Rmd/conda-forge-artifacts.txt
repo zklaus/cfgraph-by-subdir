@@ -1,0 +1,6 @@
+r-heatmaply-0.14.1-r3.3.2_0
+r-heatmaply-0.14.1-r3.4.1_0
+r-heatmaply-0.15.0-r341_0
+r-heatmaply-0.15.2-r341_0
+r-heatmaply-0.15.2-r341h6115d3f_1
+r-heatmaply-0.15.2-r351h6115d3f_1

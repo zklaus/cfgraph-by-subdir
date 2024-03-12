@@ -1,0 +1,8 @@
+muq-0.4.2-py37hb10bbd8_0
+muq-0.4.2-py39h84bee5a_0
+muq-0.4.2-py38he055f32_0
+muq-0.4.2-py310h4214b2c_0
+muq-0.4.2-py38h3898e07_1
+muq-0.4.2-py37h1266fea_1
+muq-0.4.2-py39h723f325_1
+muq-0.4.2-py310h357aa3a_1

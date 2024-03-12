@@ -1,0 +1,11 @@
+r-cffr-0.2.2-r40h6addd8b_0
+r-cffr-0.2.2-r41h6addd8b_0
+r-cffr-0.2.3-r41h6addd8b_0
+r-cffr-0.2.3-r40h6addd8b_0
+r-cffr-0.3.0-r40h6addd8b_0
+r-cffr-0.3.0-r41h6addd8b_0
+r-cffr-0.3.0-r41h6addd8b_1
+r-cffr-0.4.0-r41h6addd8b_0
+r-cffr-0.4.1-r41h6addd8b_0
+r-cffr-0.5.0-r41h6addd8b_0
+r-cffr-0.5.0-r41h6addd8b_1

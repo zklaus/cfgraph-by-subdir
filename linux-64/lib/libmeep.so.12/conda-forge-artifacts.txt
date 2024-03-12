@@ -1,0 +1,3 @@
+pymeep-1.7.0-py36hda9ffc6_2
+pymeep-1.7.0-py27hda9ffc6_2
+pymeep-1.7.0-py37hda9ffc6_2

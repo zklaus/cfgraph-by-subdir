@@ -1,0 +1,16 @@
+zstd-static-1.4.5-hc88da5d_2
+zstd-static-1.4.8-h9f76cd9_0
+zstd-static-1.4.8-h9f76cd9_1
+zstd-static-1.4.9-h9f76cd9_0
+zstd-static-1.5.0-hbdafb3b_0
+zstd-static-1.5.1-hbdafb3b_0
+zstd-static-1.5.2-hbdafb3b_0
+zstd-static-1.5.2-h9a09cb3_1
+zstd-static-1.5.2-h9a09cb3_2
+zstd-static-1.5.2-h9a09cb3_3
+zstd-static-1.5.2-h2e04ded_4
+zstd-static-1.5.2-he23bcac_4
+zstd-static-1.5.2-h7ea286d_5
+zstd-static-1.5.2-h7ea286d_6
+zstd-static-1.5.2-h92bcb94_7
+zstd-static-1.5.5-h92bcb94_0

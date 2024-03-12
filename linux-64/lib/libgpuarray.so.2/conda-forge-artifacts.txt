@@ -1,0 +1,17 @@
+libgpuarray-0.6.2-np111py27_0
+libgpuarray-0.6.2-np111py35_0
+libgpuarray-0.6.2-np111py36_0
+libgpuarray-0.6.2-np112py27_0
+libgpuarray-0.6.2-np112py35_0
+libgpuarray-0.6.2-np112py36_0
+libgpuarray-0.6.5-np111py27_0
+libgpuarray-0.6.5-np111py35_0
+libgpuarray-0.6.5-np111py36_0
+libgpuarray-0.6.5-np112py27_0
+libgpuarray-0.6.5-np112py35_0
+libgpuarray-0.6.5-np112py36_0
+libgpuarray-0.6.5-np113py27_0
+libgpuarray-0.6.5-np113py35_0
+libgpuarray-0.6.5-np113py36_0
+libgpuarray-0.6.8-0
+libgpuarray-0.6.9-0

@@ -1,0 +1,3 @@
+libaugeas-static-1.12.0-h0d85af4_0
+libaugeas-static-1.12.0-h0dc2134_1
+libaugeas-static-1.12.0-h10d778d_2

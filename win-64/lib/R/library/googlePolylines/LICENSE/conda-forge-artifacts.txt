@@ -1,0 +1,9 @@
+r-googlepolylines-0.8.0-r36h096a1c2_0
+r-googlepolylines-0.8.0-r40h096a1c2_0
+r-googlepolylines-0.8.1-r36ha856d6a_0
+r-googlepolylines-0.8.1-r40ha856d6a_0
+r-googlepolylines-0.8.2-r40ha856d6a_0
+r-googlepolylines-0.8.2-r41ha856d6a_0
+r-googlepolylines-0.8.2-r41ha856d6a_1
+r-googlepolylines-0.8.3-r41ha856d6a_0
+r-googlepolylines-0.8.3-r41ha856d6a_1

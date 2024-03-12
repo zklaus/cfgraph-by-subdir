@@ -1,0 +1,5 @@
+pyside2-2.0.0.dev0-py36_vc14_0
+pyside2-2.0.0.dev0-py36_vc14_1
+pyside2-2.0.0.dev0-py36_vc14_2
+pyside2-2.0.0.dev0-py36_vc14_3
+pyside2-2.0.0.dev0-py36_vc14_4

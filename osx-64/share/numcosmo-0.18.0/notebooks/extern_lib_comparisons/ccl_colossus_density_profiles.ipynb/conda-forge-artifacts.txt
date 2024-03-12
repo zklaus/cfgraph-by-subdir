@@ -1,0 +1,12 @@
+numcosmo-0.18.0-py38had6e763_8
+numcosmo-0.18.0-py39h5bd838f_8
+numcosmo-0.18.0-py39h68faa1a_8
+numcosmo-0.18.0-py38he37f84a_8
+numcosmo-0.18.0-py311h5031833_8
+numcosmo-0.18.0-py310hafdbf2e_8
+numcosmo-0.18.0-py310h0b3d633_9
+numcosmo-0.18.0-py39hd580f44_9
+numcosmo-0.18.0-py38ha7fc829_9
+numcosmo-0.18.0-py38had3c704_9
+numcosmo-0.18.0-py311h8f64f77_9
+numcosmo-0.18.0-py39hf41e431_9

@@ -1,0 +1,14 @@
+r-uwot-0.1.8-r36hc5da6b9_0
+r-uwot-0.1.8-r35hc5da6b9_0
+r-uwot-0.1.8-r36hc5da6b9_1
+r-uwot-0.1.8-r40hc5da6b9_1
+r-uwot-0.1.9-r40h1019320_0
+r-uwot-0.1.9-r36h1019320_0
+r-uwot-0.1.10-r40h815b84a_0
+r-uwot-0.1.10-r36h815b84a_0
+r-uwot-0.1.10-r40h9951f98_0
+r-uwot-0.1.10-r41h9951f98_0
+r-uwot-0.1.11-r40h9951f98_0
+r-uwot-0.1.11-r41h9951f98_0
+r-uwot-0.1.11-r41h8619c4b_0
+r-uwot-0.1.11-r40h8619c4b_0

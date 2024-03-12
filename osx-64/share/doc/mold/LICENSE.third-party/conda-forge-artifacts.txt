@@ -1,0 +1,9 @@
+mold-2.1.0-hc277f81_0
+mold-2.1.0-hc277f81_1
+mold-2.1.0-hc277f81_2
+mold-2.2.0-hc277f81_0
+mold-2.3.0-hfccc6aa_0
+mold-2.3.1-hede0982_0
+mold-2.3.2-hfccc6aa_0
+mold-2.3.3-hfccc6aa_0
+mold-2.4.0-hfccc6aa_0

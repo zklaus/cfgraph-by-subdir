@@ -1,0 +1,2 @@
+xorg-compositeproto-0.4.2-0
+xorg-compositeproto-0.4.2-h7f98852_1001

@@ -1,0 +1,1 @@
+java-org.apache.arrow.arrow-jdbc-with-dependencies-0.15.1-0

@@ -1,0 +1,1 @@
+terraform-provider-docker-2.7.2-hac98541_1

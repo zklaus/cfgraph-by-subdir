@@ -1,0 +1,6 @@
+hunspell-1.7.0-h1b1dcc2_0
+hunspell-1.7.0-h7363e74_1000
+hunspell-1.7.0-h2df5d5c_1001
+hunspell-1.7.2-hd13336e_0
+hunspell-1.7.2-hb4f780e_0
+hunspell-1.7.2-hb4f780e_1

@@ -1,0 +1,13 @@
+easybuild-easyconfigs-3.9.3-py27_0
+easybuild-easyconfigs-4.6.0-py310hff52083_1
+easybuild-easyconfigs-4.6.1-py310hff52083_0
+easybuild-easyconfigs-4.6.2-py310hff52083_0
+easybuild-easyconfigs-4.7.0-py310hff52083_0
+easybuild-easyconfigs-4.7.1-py310hff52083_0
+easybuild-easyconfigs-4.7.2-py310hff52083_0
+easybuild-easyconfigs-4.8.0-py310hff52083_0
+easybuild-easyconfigs-4.8.1-py310hff52083_0
+easybuild-easyconfigs-4.8.1-py310hff52083_1
+easybuild-easyconfigs-4.8.1-py311h38be061_1
+easybuild-easyconfigs-4.8.2-py310hff52083_0
+easybuild-easyconfigs-4.8.2-py311h38be061_0

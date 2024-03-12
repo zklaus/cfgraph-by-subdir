@@ -1,0 +1,15 @@
+libsentencepiece-0.1.96-h150bc78_3
+libsentencepiece-0.1.96-h150bc78_4
+libsentencepiece-0.1.97-h150bc78_0
+libsentencepiece-0.1.97-h493ac8d_1
+libsentencepiece-0.1.97-h934831e_2
+libsentencepiece-0.1.97-h5c8095a_2
+libsentencepiece-0.1.97-h5c8095a_3
+libsentencepiece-0.1.97-h27e76d3_3
+libsentencepiece-0.1.99-h27e76d3_0
+libsentencepiece-0.1.99-h5c8095a_0
+libsentencepiece-0.1.99-h5c8095a_1
+libsentencepiece-0.1.99-h0eef08d_1
+libsentencepiece-0.1.99-h29d65cb_2
+libsentencepiece-0.1.99-hd75628c_4
+libsentencepiece-0.1.99-ha269934_5

@@ -1,0 +1,4 @@
+sigtool-0.1.2-h278a7c5_1
+sigtool-0.1.2-ha097898_1
+sigtool-0.1.3-h278a7c5_0
+sigtool-0.1.3-ha097898_0

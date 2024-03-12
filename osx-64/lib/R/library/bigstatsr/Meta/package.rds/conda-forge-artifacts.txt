@@ -1,0 +1,12 @@
+r-bigstatsr-1.5.1-r40he5a6823_0
+r-bigstatsr-1.5.1-r36he5a6823_0
+r-bigstatsr-1.5.1-r41he5a6823_0
+r-bigstatsr-1.5.5-r41h7190c71_0
+r-bigstatsr-1.5.5-r40h7190c71_0
+r-bigstatsr-1.5.6-r40h7190c71_0
+r-bigstatsr-1.5.6-r41h7190c71_0
+r-bigstatsr-1.5.12-r41hf5e6a41_0
+r-bigstatsr-1.5.12-r42hf5e6a41_1
+r-bigstatsr-1.5.12-r41hf5e6a41_1
+r-bigstatsr-1.5.12-r43he9b8800_2
+r-bigstatsr-1.5.12-r42he9b8800_2

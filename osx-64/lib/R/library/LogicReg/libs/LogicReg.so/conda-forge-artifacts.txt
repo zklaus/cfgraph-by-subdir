@@ -1,0 +1,8 @@
+r-logicreg-1.5.10-r351h364d78e_0
+r-logicreg-1.5.10-r351hfffe0aa_1000
+r-logicreg-1.5.12-r35haf69682_0
+r-logicreg-1.5.12-r35haf69682_1
+r-logicreg-1.5.12-r35haf69682_2
+r-logicreg-1.5.12-r35h85e41a7_2
+r-logicreg-1.6.1-r35h384270c_0
+r-logicreg-1.6.2-r35h384270c_0

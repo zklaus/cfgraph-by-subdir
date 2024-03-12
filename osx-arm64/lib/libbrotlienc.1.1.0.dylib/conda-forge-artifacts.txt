@@ -1,0 +1,2 @@
+libbrotlienc-1.1.0-hb547adb_0
+libbrotlienc-1.1.0-hb547adb_1

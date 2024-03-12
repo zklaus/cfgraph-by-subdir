@@ -1,0 +1,6 @@
+libjxl-0.8.0-h4fa9cc5_0
+libjxl-0.8.1-h4fa9cc5_0
+libjxl-0.8.1-h4fa9cc5_1
+libjxl-0.8.2-h61ac3be_0
+libjxl-0.8.2-h61ac3be_1
+libjxl-0.8.2-h61ac3be_2

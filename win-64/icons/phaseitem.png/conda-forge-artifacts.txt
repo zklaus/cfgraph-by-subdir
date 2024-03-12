@@ -1,0 +1,6 @@
+diffpy.pdfgui-1.4.0.post1-py38haa244fe_0
+diffpy.pdfgui-1.4.0.post1-py39hcbf5309_0
+diffpy.pdfgui-1.4.0.post1-py310h5588dad_0
+diffpy.pdfgui-1.4.2-py37h57928b3_6
+diffpy.pdfgui-1.4.2-py38h57928b3_6
+diffpy.pdfgui-1.4.2-py39h57928b3_6

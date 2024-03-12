@@ -1,0 +1,3 @@
+stir-4.1.1-py38h4a1efea_3
+stir-4.1.1-py39h47373e2_3
+stir-4.1.1-py37hb3b4854_3

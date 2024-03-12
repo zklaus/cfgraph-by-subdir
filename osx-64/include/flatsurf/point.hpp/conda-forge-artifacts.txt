@@ -1,0 +1,7 @@
+libflatsurf-3.12.0-hd7327c1_0
+libflatsurf-3.12.0-h6ce21c9_1
+libflatsurf-3.12.0-h2c4caf1_2
+libflatsurf-3.13.0-h2c4caf1_0
+libflatsurf-3.13.1-h2c4caf1_0
+libflatsurf-3.13.2-h2c4caf1_0
+libflatsurf-3.13.3-h2c4caf1_0

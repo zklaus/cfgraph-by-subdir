@@ -1,0 +1,11 @@
+r-lamw-1.3.3-r40ha856d6a_0
+r-lamw-1.3.3-r36ha856d6a_0
+r-lamw-2.0.0-r40ha856d6a_0
+r-lamw-2.0.0-r36ha856d6a_0
+r-lamw-2.1.0-r40ha856d6a_0
+r-lamw-2.1.0-r36ha856d6a_0
+r-lamw-2.1.0-r41ha856d6a_0
+r-lamw-2.1.2-r41ha856d6a_0
+r-lamw-2.1.2-r41ha856d6a_1
+r-lamw-2.2.0-r41ha856d6a_0
+r-lamw-2.2.1-r41ha856d6a_0

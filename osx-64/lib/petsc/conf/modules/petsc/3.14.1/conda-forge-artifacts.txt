@@ -1,0 +1,8 @@
+petsc-3.14.1-ha8609f8_0
+petsc-3.14.1-h2988a7a_0
+petsc-3.14.1-h51ae96d_0
+petsc-3.14.1-h9e78047_0
+petsc-3.14.1-h9ae2652_0
+petsc-3.14.1-h0a0404d_0
+petsc-3.14.1-h0507c66_0
+petsc-3.14.1-h3d4a8d6_0

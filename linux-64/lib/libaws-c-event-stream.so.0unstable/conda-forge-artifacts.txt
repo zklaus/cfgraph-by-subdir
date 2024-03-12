@@ -1,0 +1,12 @@
+aws-sdk-cpp-1.7.160-h1f8afcc_1
+aws-sdk-cpp-1.7.164-h1f8afcc_0
+aws-sdk-cpp-1.7.164-hc831370_0
+aws-sdk-cpp-1.7.164-hc831370_1
+aws-sdk-cpp-1.7.164-hba45d7a_2
+aws-c-event-stream-0.1.6-he1b5a44_0
+aws-c-event-stream-0.1.6-he1b5a44_1
+aws-c-event-stream-0.1.6-h5c12ed4_2
+aws-c-event-stream-0.1.6-h72b8ae1_3
+aws-c-event-stream-0.1.6-h40cadec_4
+aws-c-event-stream-0.1.6-h84e28f3_5
+aws-c-event-stream-0.1.6-had2084c_6

@@ -1,0 +1,11 @@
+r-dplr-1.7.0-r36h17f1fa6_0
+r-dplr-1.7.0-r35h17f1fa6_0
+r-dplr-1.7.1-r35h17f1fa6_0
+r-dplr-1.7.1-r36h17f1fa6_0
+r-dplr-1.7.1-r40h17f1fa6_1
+r-dplr-1.7.1-r36h17f1fa6_1
+r-dplr-1.7.2-r36hf6ff476_0
+r-dplr-1.7.2-r40hf6ff476_0
+r-dplr-1.7.2-r40h28b5c78_1
+r-dplr-1.7.2-r36h28b5c78_1
+r-dplr-1.7.2-r41h28b5c78_1

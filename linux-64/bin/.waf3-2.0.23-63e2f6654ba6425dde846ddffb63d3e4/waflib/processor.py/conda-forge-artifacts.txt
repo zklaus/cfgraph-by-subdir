@@ -1,0 +1,6 @@
+pyinstaller-5.0-py39hd08d98e_0
+pyinstaller-5.0-py310ha400145_0
+pyinstaller-5.0.1-py39hd08d98e_0
+pyinstaller-5.0.1-py310ha400145_0
+pyinstaller-5.1-py39hd08d98e_0
+pyinstaller-5.1-py310ha400145_0

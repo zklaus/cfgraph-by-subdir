@@ -1,0 +1,7 @@
+mumps-include-5.2.1-7
+mumps-include-5.2.1-8
+mumps-include-5.2.1-9
+mumps-include-5.2.1-h8af1aa0_10
+mumps-include-5.2.1-h8af1aa0_11
+mumps-include-5.2.1-h8af1aa0_12
+mumps-include-5.2.1-h8af1aa0_13

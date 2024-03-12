@@ -1,0 +1,7 @@
+qt6-main-6.4.0-h4be6a9e_2
+qt6-main-6.4.0-h4be6a9e_3
+qt6-3d-6.4.1-hd2b27f6_1
+qt6-3d-6.4.1-hde51eb9_2
+qt6-3d-6.4.1-hde51eb9_3
+qt6-3d-6.4.2-hde51eb9_0
+qt6-3d-6.4.3-hde51eb9_0

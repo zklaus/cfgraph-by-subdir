@@ -1,0 +1,8 @@
+emacs-28.1-hfd0599e_0
+emacs-28.1-h1d28d37_1
+emacs-28.1-h1d28d37_2
+emacs-28.2-hc02544d_0
+emacs-28.2-heb4d79e_1
+emacs-28.2-h03f78ba_2
+emacs-28.2-hff79ea8_3
+emacs-28.2-hff79ea8_4

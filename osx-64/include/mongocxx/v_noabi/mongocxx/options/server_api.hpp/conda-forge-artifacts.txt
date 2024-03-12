@@ -1,0 +1,5 @@
+libmongocxx-3.7.0-ha8422f1_0
+libmongocxx-3.7.1-ha8422f1_0
+libmongocxx-3.7.2-h007348e_0
+libmongocxx-3.7.2-he965462_1
+libmongocxx-3.9.0-h29e9bf1_0

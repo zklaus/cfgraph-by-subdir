@@ -1,0 +1,8 @@
+gnuradio-qtgui-3.9.7.0-py310h7d729e7_0
+gnuradio-qtgui-3.9.7.0-py37h4dd01cb_0
+gnuradio-qtgui-3.9.7.0-py39hee30e7d_0
+gnuradio-qtgui-3.9.7.0-py38hfb5e656_0
+gnuradio-qtgui-3.9.7.0-py310he471fc1_1
+gnuradio-qtgui-3.9.7.0-py38h3c907dc_1
+gnuradio-qtgui-3.9.7.0-py37h044e31b_1
+gnuradio-qtgui-3.9.7.0-py39h2e449e6_1

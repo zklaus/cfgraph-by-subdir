@@ -1,0 +1,12 @@
+r-uptasticsearch-0.4.0-r35h6115d3f_0
+r-uptasticsearch-0.4.0-r36h6115d3f_0
+r-uptasticsearch-0.4.0-r36h6115d3f_1
+r-uptasticsearch-0.4.0-r35h6115d3f_1
+r-uptasticsearch-0.4.0-r40h6115d3f_2
+r-uptasticsearch-0.4.0-r36h6115d3f_2
+r-uptasticsearch-0.4.0-r40hc72bb7e_2
+r-uptasticsearch-0.4.0-r41hc72bb7e_2
+r-uptasticsearch-0.4.0-r42hc72bb7e_3
+r-uptasticsearch-0.4.0-r41hc72bb7e_3
+r-uptasticsearch-0.4.0-r42hc72bb7e_4
+r-uptasticsearch-0.4.0-r43hc72bb7e_4

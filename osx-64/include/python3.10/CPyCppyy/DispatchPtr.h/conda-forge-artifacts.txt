@@ -1,0 +1,9 @@
+cpycppyy-1.12.8-py310h2fea185_1
+cpycppyy-1.12.9-py310h6be76da_0
+cpycppyy-1.12.10-py310h6be76da_0
+cpycppyy-1.12.11-py310habb735a_0
+cpycppyy-1.12.12-py310ha23aa8a_0
+cpycppyy-1.12.13-py310hdde1902_0
+cpycppyy-1.12.12-py310ha697434_1
+cpycppyy-1.12.12-py310ha23aa8a_2
+cpycppyy-1.12.13-py310ha697434_1

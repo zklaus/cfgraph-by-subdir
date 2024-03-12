@@ -1,0 +1,8 @@
+nwchem-7.0.2-py36h29ba56b_1
+nwchem-7.0.2-py39hd99b644_1
+nwchem-7.0.2-py37h95520db_1
+nwchem-7.0.2-py38hd9bfa34_1
+nwchem-7.0.2-py37h95520db_2
+nwchem-7.0.2-py39hd99b644_2
+nwchem-7.0.2-py38hd9bfa34_2
+nwchem-7.0.2-py36h29ba56b_2

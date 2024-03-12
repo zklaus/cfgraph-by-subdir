@@ -1,0 +1,6 @@
+r-spatialtools-1.0.4-r40h399f8d5_0
+r-spatialtools-1.0.4-r36h399f8d5_0
+r-spatialtools-1.0.4-r41h399f8d5_0
+r-spatialtools-1.0.4-r41h78deb2a_1
+r-spatialtools-1.0.4-r41h78deb2a_2
+r-spatialtools-1.0.5-r41h78deb2a_0

@@ -1,0 +1,12 @@
+numpy-1.23.4-py311h7d6c6bb_1
+numpy-1.23.5-py311h7d6c6bb_0
+numpy-1.24.0-py311h7c3b11d_0
+numpy-1.24.1-py311h7c3b11d_0
+manifpy-0.0.4-py311h07ea991_12
+numpy-1.24.1-py311h71ac5a4_0
+numpy-1.24.2-py311h71ac5a4_0
+numpy-1.24.3-py311h69ead2a_0
+numpy-1.25.0-py311h69ead2a_0
+numpy-1.24.4-py311h69ead2a_0
+numpy-1.25.1-py311h69ead2a_0
+numpy-1.25.2-py311h69ead2a_0

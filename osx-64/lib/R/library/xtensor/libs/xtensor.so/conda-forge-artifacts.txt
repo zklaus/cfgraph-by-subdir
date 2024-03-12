@@ -1,0 +1,8 @@
+r-xtensor-0.9.0-r351h04f5b5a_1000
+r-xtensor-0.10.0-r351h04f5b5a_0
+r-xtensor-0.10.1-r351h770b8ee_0
+r-xtensor-0.11.0-r351h770b8ee_0
+r-xtensor-0.11.1-r35h770b8ee_0
+r-xtensor-0.11.1-r35h770b8ee_1
+r-xtensor-0.12.0-r35ha1b3eb9_0
+r-xtensor-0.12.1-r35ha1b3eb9_0

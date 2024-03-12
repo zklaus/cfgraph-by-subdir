@@ -1,0 +1,3 @@
+r-torch-0.10.0-r41ha856d6a_0
+r-torch-0.11.0-r41ha856d6a_0
+r-torch-0.11.0-r41ha856d6a_1

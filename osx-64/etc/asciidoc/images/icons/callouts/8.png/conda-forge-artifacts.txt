@@ -1,0 +1,3 @@
+asciidoc-8.6.10-py27hbc14f71_0
+asciidoc-8.6.10-py27hbc14f71_1000
+asciidoc-8.6.10-py27hbc14f71_1001

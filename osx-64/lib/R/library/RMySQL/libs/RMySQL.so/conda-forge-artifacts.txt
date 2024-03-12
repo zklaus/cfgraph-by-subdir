@@ -1,0 +1,14 @@
+r-rmysql-0.10.11-r3.3.2_0
+r-rmysql-0.10.11-r3.4.1_0
+r-rmysql-0.10.13-r3.3.2_0
+r-rmysql-0.10.13-r3.4.1_0
+r-rmysql-0.10.13-r341h2ebe85e_1
+r-rmysql-0.10.13-r341h2ebe85e_2
+r-rmysql-0.10.13-r351h2ebe85e_2
+r-rmysql-0.10.13-r341h2ebe85e_1002
+r-rmysql-0.10.13-r351h2ebe85e_1002
+r-rmysql-0.10.17-r351h159158b_0
+r-rmysql-0.10.17-r35h159158b_1
+r-rmysql-0.10.18-r35h17f1fa6_0
+r-rmysql-0.10.19-r35h17f1fa6_0
+r-rmysql-0.10.20-r35h17f1fa6_0

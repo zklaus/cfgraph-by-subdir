@@ -1,0 +1,7 @@
+libredwg-0.8.2337-py36h7ec2d77_0
+libredwg-0.8.2337-py37h7ec2d77_0
+libredwg-0.8.2337-py27h7ec2d77_0
+libredwg-0.8.2337-py37h7ec2d77_1
+libredwg-0.8.2337-py38h7ec2d77_1
+libredwg-0.8.2337-py36h7ec2d77_1
+libredwg-0.8.2337-py27h7ec2d77_1

@@ -1,0 +1,15 @@
+opencv-3.3.0-py27_blas_openblas_200
+opencv-3.3.0-py27_blas_openblas_201
+opencv-3.3.0-py27_blas_openblas_202
+opencv-3.3.0-py27_blas_openblas_203
+opencv-3.3.0-py27_blas_openblas_204
+opencv-3.3.0-py35_blas_openblas_200
+opencv-3.3.0-py35_blas_openblas_201
+opencv-3.3.0-py35_blas_openblas_202
+opencv-3.3.0-py35_blas_openblas_203
+opencv-3.3.0-py35_blas_openblas_204
+opencv-3.3.0-py36_blas_openblas_200
+opencv-3.3.0-py36_blas_openblas_201
+opencv-3.3.0-py36_blas_openblas_202
+opencv-3.3.0-py36_blas_openblas_203
+opencv-3.3.0-py36_blas_openblas_204

@@ -1,0 +1,9 @@
+sqlite-3.26.0-h1a3e907_1000
+sqlite-3.26.0-h1a3e907_1001
+sqlite-3.28.0-hb527c52_0
+sqlite-3.28.0-h283c62a_1
+sqlite-3.29.0-h283c62a_0
+sqlite-3.29.0-h283c62a_1
+sqlite-3.30.0-h283c62a_0
+sqlite-3.30.1-h283c62a_0
+sqlite-3.32.3-h283c62a_0

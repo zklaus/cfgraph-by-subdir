@@ -1,0 +1,9 @@
+pyinterp-0.2.0-py36h09b5482_1
+pyinterp-0.2.0-py38h09b5482_1
+pyinterp-0.2.0-py37h09b5482_1
+pyinterp-0.2.1-py38h94b9d3e_1
+pyinterp-0.2.1-py36h94b9d3e_1
+pyinterp-0.2.1-py37h94b9d3e_1
+pyinterp-0.2.1-py37h382f16e_2
+pyinterp-0.2.1-py38h382f16e_2
+pyinterp-0.2.1-py36h382f16e_2

@@ -1,0 +1,2 @@
+cargo-patch-0.3.1-hb44ead1_0
+cargo-patch-0.3.2-hb44ead1_0

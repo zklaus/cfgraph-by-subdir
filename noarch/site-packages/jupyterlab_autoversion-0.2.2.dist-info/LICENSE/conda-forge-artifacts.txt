@@ -1,0 +1,1 @@
+jupyterlab_autoversion-0.2.2-pyhd8ed1ab_0

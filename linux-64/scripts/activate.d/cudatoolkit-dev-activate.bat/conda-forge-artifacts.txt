@@ -1,0 +1,6 @@
+cudatoolkit-dev-9.2-py37_0
+cudatoolkit-dev-9.2-py37_1
+cudatoolkit-dev-9.2-py36_2
+cudatoolkit-dev-10.0-py36_0
+cudatoolkit-dev-10.0-1
+cudatoolkit-dev-10.0-2

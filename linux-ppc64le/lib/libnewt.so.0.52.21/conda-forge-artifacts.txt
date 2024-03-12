@@ -1,0 +1,7 @@
+newt-0.52.21-py310h3854833_7
+newt-0.52.21-py39h3c7ea95_7
+newt-0.52.21-py38hf3b98fc_7
+newt-0.52.21-py38hf3b98fc_8
+newt-0.52.21-py311h4e97d28_8
+newt-0.52.21-py39h3c7ea95_8
+newt-0.52.21-py310h3854833_8

@@ -1,0 +1,9 @@
+r-spatialwidget-0.2.2-r36h796a38f_0
+r-spatialwidget-0.2.2-r35h796a38f_0
+r-spatialwidget-0.2.2-r35h796a38f_1
+r-spatialwidget-0.2.2-r36h796a38f_1
+r-spatialwidget-0.2.2-r36h796a38f_2
+r-spatialwidget-0.2.2-r40h796a38f_2
+r-spatialwidget-0.2.3-r40h796a38f_0
+r-spatialwidget-0.2.3-r36h796a38f_0
+r-spatialwidget-0.2.3-r40ha856d6a_0

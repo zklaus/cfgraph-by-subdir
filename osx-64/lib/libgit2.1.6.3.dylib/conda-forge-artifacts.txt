@@ -1,0 +1,2 @@
+libgit2-1.6.3-h805edec_0
+libgit2-1.6.3-he7c0d8b_1

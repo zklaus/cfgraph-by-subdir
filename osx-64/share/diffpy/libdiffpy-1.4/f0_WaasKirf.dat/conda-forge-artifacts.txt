@@ -1,0 +1,6 @@
+libdiffpy-1.4.0-hec56b86_0
+libdiffpy-1.4.0-h0731449_1
+libdiffpy-1.4.0-h855b5bd_2
+libdiffpy-1.4.0-h940c156_3
+libdiffpy-1.4.0-h42dc885_4
+libdiffpy-1.4.0-h606167a_5

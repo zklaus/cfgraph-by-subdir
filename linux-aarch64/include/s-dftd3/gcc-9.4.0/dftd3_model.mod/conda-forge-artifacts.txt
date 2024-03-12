@@ -1,0 +1,6 @@
+simple-dftd3-0.4.2-ha4d556f_0
+simple-dftd3-0.4.2-ha4d556f_1
+simple-dftd3-0.5.0-ha4d556f_0
+simple-dftd3-0.5.0-h04473d4_1
+simple-dftd3-0.5.0-h04473d4_2
+simple-dftd3-0.5.1-h04473d4_0

@@ -1,0 +1,4 @@
+terraform-provider-clc-0.1.0-0
+terraform-provider-clc-0.1.0-h209b5c4_1
+terraform-provider-clc-0.1.0-h209b5c4_1001
+terraform-provider-clc-0.1.0-h630e55e_1001

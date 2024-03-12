@@ -1,0 +1,12 @@
+awscli-local-0.5-py_0
+awscli-local-0.7-pyh9f0ad1d_0
+awscli-local-0.9-pyh9f0ad1d_0
+awscli-local-0.10-pyhd3deb0d_0
+awscli-local-0.11-pyhd3deb0d_0
+awscli-local-0.12-pyhd3deb0d_0
+awscli-local-0.13-pyhd3deb0d_0
+awscli-local-0.18-pyhd8ed1ab_0
+awscli-local-0.19-pyhd8ed1ab_0
+awscli-local-0.20-pyhd8ed1ab_0
+awscli-local-0.21-pyhd8ed1ab_0
+awscli-local-0.21.1-pyhd8ed1ab_0

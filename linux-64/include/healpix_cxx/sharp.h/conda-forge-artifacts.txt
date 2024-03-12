@@ -1,0 +1,14 @@
+healpix_cxx-3.31-0
+healpix_cxx-3.31-1
+healpix_cxx-3.31-h26a2512_2
+healpix_cxx-3.31-h26a2512_3
+healpix_cxx-3.31-h26a2512_4
+healpix_cxx-3.31-h26a2512_0
+healpix_cxx-3.31-h1c2f66e_1000
+healpix_cxx-3.31-h589c746_1001
+healpix_cxx-3.31-h589c746_1002
+healpix_cxx-3.31-h673b59b_1003
+healpix_cxx-3.31-h589c746_1003
+healpix_cxx-3.31-h268b298_1005
+healpix_cxx-3.31-h268b298_1006
+healpix_cxx-3.31-h268b298_1007

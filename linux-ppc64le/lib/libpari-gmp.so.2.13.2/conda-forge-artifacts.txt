@@ -1,0 +1,3 @@
+pari-2.13.2-hc26e4a5_0
+pari-2.13.2-h117c51f_1_single
+pari-2.13.2-hd6fc6fa_1_single

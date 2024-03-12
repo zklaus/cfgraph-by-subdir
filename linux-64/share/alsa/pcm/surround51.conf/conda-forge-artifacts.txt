@@ -1,0 +1,14 @@
+alsa-lib-1.1.5-0
+alsa-lib-1.1.5-h470a237_0
+alsa-lib-1.1.5-h14c3975_1000
+alsa-lib-1.1.5-h516909a_1001
+alsa-lib-1.1.5-h516909a_1002
+alsa-lib-1.2.3-h516909a_0
+alsa-lib-1.2.6.1-h7f98852_0
+alsa-lib-1.2.3.2-h166bdaf_0
+alsa-lib-1.2.7-h166bdaf_0
+alsa-lib-1.2.7.1-h166bdaf_0
+alsa-lib-1.2.7.2-h166bdaf_0
+alsa-lib-1.2.8-h166bdaf_0
+alsa-lib-1.2.9-hd590300_0
+alsa-lib-1.2.10-hd590300_0

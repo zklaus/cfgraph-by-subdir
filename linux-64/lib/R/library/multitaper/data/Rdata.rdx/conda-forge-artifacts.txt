@@ -1,0 +1,16 @@
+r-multitaper-1.0_15-r36h31ca83e_0
+r-multitaper-1.0_15-r40h31ca83e_0
+r-multitaper-1.0_15-r36h580db52_1
+r-multitaper-1.0_15-r36h31ca83e_1
+r-multitaper-1.0_15-r40h31ca83e_1
+r-multitaper-1.0_15-r40h580db52_1
+r-multitaper-1.0_15-r41h859d828_1
+r-multitaper-1.0_15-r40h859d828_1
+r-multitaper-1.0_15-r41h8da6f51_2
+r-multitaper-1.0_15-r42h8da6f51_2
+r-multitaper-1.0_15-r42h61816a4_3
+r-multitaper-1.0_15-r43h61816a4_3
+r-multitaper-1.0_16-r43h61816a4_0
+r-multitaper-1.0_16-r42h61816a4_0
+r-multitaper-1.0_17-r42h61816a4_0
+r-multitaper-1.0_17-r43h61816a4_0

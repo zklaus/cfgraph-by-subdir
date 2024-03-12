@@ -1,0 +1,12 @@
+dicomifier-2.0.2-py39hcbad3ae_0
+dicomifier-2.0.2-py37h87bcb8d_0
+dicomifier-2.0.2-py38h669ddfb_0
+dicomifier-2.0.2-py36hdf741c8_0
+dicomifier-2.0.2-py38h669ddfb_1
+dicomifier-2.0.2-py36hdf741c8_1
+dicomifier-2.0.2-py38hc9f9228_1
+dicomifier-2.0.2-py37h3af0844_1
+dicomifier-2.0.2-py36he48a0c2_1
+dicomifier-2.0.2-py39h04e7fed_1
+dicomifier-2.0.2-py37h87bcb8d_1
+dicomifier-2.0.2-py39hcbad3ae_1

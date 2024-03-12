@@ -1,0 +1,11 @@
+openconnect-sso-0.8.0-py39h6e9494a_0
+openconnect-sso-0.8.0-py37hf985489_0
+openconnect-sso-0.8.0-py38h50d1736_0
+openconnect-sso-0.8.0-py37hf985489_1
+openconnect-sso-0.8.0-py310h2ec42d9_1
+openconnect-sso-0.8.0-py39h6e9494a_1
+openconnect-sso-0.8.0-py38h50d1736_1
+openconnect-sso-0.8.0-py38h50d1736_2
+openconnect-sso-0.8.0-py39h6e9494a_2
+openconnect-sso-0.8.0-py310h2ec42d9_2
+openconnect-sso-0.8.0-py311h6eed73b_2

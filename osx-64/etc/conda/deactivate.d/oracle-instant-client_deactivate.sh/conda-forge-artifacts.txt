@@ -1,0 +1,2 @@
+oracle-instant-client-19.8.0.0.0-h694c41f_2
+oracle-instant-client-19.8.0.0.0-h694c41f_3

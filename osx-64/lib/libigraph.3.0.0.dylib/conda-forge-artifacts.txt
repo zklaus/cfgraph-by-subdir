@@ -1,0 +1,10 @@
+igraph-0.10.0-h6560ca6_1
+igraph-0.10.1-h6560ca6_1
+igraph-0.10.1-h6560ca6_2
+igraph-0.10.1-h6560ca6_3
+igraph-0.10.2-h6560ca6_0
+igraph-0.10.3-h020c493_0
+igraph-0.10.3-h020c493_1
+igraph-0.10.3-h020c493_2
+igraph-0.10.4-h020c493_2
+igraph-0.10.4-h6ee3a0d_3

@@ -1,0 +1,10 @@
+scitokens-cpp-0.7.0-h0255ffa_0
+scitokens-cpp-0.7.0-hf3971a6_0
+scitokens-cpp-0.7.1-h0255ffa_0
+scitokens-cpp-0.7.1-hf3971a6_0
+scitokens-cpp-0.7.2-hf3971a6_0
+scitokens-cpp-0.7.2-h0255ffa_0
+scitokens-cpp-0.7.3-haea88ab_0
+scitokens-cpp-1.0.0-haea88ab_0
+scitokens-cpp-1.0.1-haea88ab_0
+scitokens-cpp-1.0.2-haea88ab_0

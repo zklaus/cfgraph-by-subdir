@@ -1,0 +1,7 @@
+flatbuffers-1.10.0-hf484d3e_1002
+flatbuffers-1.11.0-he1b5a44_0
+flatbuffers-1.12.0-he1b5a44_0
+flatbuffers-1.12.0-h58526e2_0
+flatbuffers-1.12.1-h9c3ff4c_0
+flatbuffers-2.0.0-h9c3ff4c_0
+flatbuffers-2.0.6-h27087fc_0

@@ -1,0 +1,4 @@
+mahotas-1.4.13-py310h1cdf563_2
+mahotas-1.4.13-py39h6b13a34_2
+mahotas-1.4.13-py38hefb543e_2
+mahotas-1.4.13-py311h9e438b8_2

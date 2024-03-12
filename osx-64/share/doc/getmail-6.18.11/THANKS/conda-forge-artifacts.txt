@@ -1,0 +1,6 @@
+getmail6-6.18.11-py39h43b90dd_0
+getmail6-6.18.11-py38h50d1736_0
+getmail6-6.18.11-py38h25b0044_0
+getmail6-6.18.11-py39h6e9494a_0
+getmail6-6.18.11-py311h6eed73b_0
+getmail6-6.18.11-py310h2ec42d9_0

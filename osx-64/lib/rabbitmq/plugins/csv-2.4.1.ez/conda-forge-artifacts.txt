@@ -1,0 +1,5 @@
+rabbitmq-server-3.11.11-h694c41f_0
+rabbitmq-server-3.11.12-h694c41f_0
+rabbitmq-server-3.11.13-h694c41f_0
+rabbitmq-server-3.11.14-h694c41f_0
+rabbitmq-server-3.11.16-h694c41f_0

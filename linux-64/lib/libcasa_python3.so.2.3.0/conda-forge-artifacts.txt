@@ -1,0 +1,9 @@
+casacore-2.3.0-py35_0
+casacore-2.3.0-py35_1
+casacore-2.3.0-py35_2
+casacore-2.3.0-py36_0
+casacore-2.3.0-py36_1
+casacore-2.3.0-py36_2
+casacore-2.3.1a1-0h05be37c0
+casacore-2.3.1a1-py35_1
+casacore-2.3.1a1-py36_1

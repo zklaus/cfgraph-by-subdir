@@ -1,0 +1,6 @@
+r-rtriangle-1.6_0.10-r41h6d2157b_0
+r-rtriangle-1.6_0.10-r40h6d2157b_0
+r-rtriangle-1.6_0.10-r41h6d2157b_1
+r-rtriangle-1.6_0.11-r41h6d2157b_0
+r-rtriangle-1.6_0.12-r41h6d2157b_0
+r-rtriangle-1.6_0.12-r41h6d2157b_1

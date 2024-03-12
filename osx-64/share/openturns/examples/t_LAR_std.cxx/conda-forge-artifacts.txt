@@ -1,0 +1,6 @@
+openturns-1.7-py27_blas_openblas_200
+openturns-1.7-py27_blas_openblas_201
+openturns-1.7-py27_blas_openblas_203
+openturns-1.7-py27_blas_openblas_204
+openturns-1.7-py34_blas_openblas_201
+openturns-1.7-py35_blas_openblas_201

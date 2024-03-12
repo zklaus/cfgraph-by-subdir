@@ -1,0 +1,3 @@
+jsonnetfmt-0.19.1-hd02998f_0
+jsonnetfmt-0.19.1-hd02998f_1
+jsonnetfmt-0.20.0-hd02998f_0

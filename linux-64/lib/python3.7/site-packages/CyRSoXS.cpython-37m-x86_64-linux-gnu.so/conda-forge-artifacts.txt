@@ -1,0 +1,12 @@
+cyrsoxs-1.1.5.0-py37h79309f1_0
+cyrsoxs-1.1.5.0-py37h7b021dd_0
+cyrsoxs-1.1.5.0-py37h75e2fa4_0
+cyrsoxs-1.1.5.0-py37hc531b73_0
+cyrsoxs-1.1.5.0-py37h98588d1_1
+cyrsoxs-1.1.5.0-py37h3907bf7_1
+cyrsoxs-1.1.5.0-py37h0bd3d33_1
+cyrsoxs-1.1.5.0-py37h7a86738_1
+cyrsoxs-1.1.5.1-py37h3907bf7_0
+cyrsoxs-1.1.5.1-py37h98588d1_0
+cyrsoxs-1.1.5.1-py37h0bd3d33_0
+cyrsoxs-1.1.5.1-py37h7a86738_0

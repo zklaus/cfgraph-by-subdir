@@ -1,0 +1,17 @@
+libflint-2.7.0-h22aa849_0
+libflint-2.7.1-h22aa849_0
+libflint-2.7.1-hb6e54e6_nontl_1
+libflint-2.7.1-h5984483_ntl_101
+libflint-2.7.1-h5984483_ntl_102
+libflint-2.7.1-hb6e54e6_nontl_2
+libflint-2.7.1-hd3cc997_ntl_102
+libflint-2.8.0-h2542f27_nontl_0
+libflint-2.8.0-hd3cc997_ntl_100
+libflint-2.8.4-h2542f27_nontl_0
+libflint-2.8.4-hd3cc997_ntl_100
+libflint-2.9.0-h0967914_ntl_100
+libflint-2.9.0-hb95b551_nontl_0
+libflint-2.9.0-hfd2f71f_ntl_100
+libflint-2.9.0-h0dd01bd_nontl_0
+libflint-3.0.0-h9b54b3d_nontl_0
+libflint-3.0.0-h5d15de0_ntl_100

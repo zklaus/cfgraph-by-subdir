@@ -1,0 +1,3 @@
+aruco-3.1.2-h6de7cb9_0
+aruco-3.1.2-opencv_41
+aruco-3.1.2-opencv_34

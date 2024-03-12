@@ -1,0 +1,8 @@
+wannier90-3.1.0-h93aa766_1
+wannier90-3.1.0-h9364cfa_2
+wannier90-3.1.0-h93aa766_2
+qe-6.7.0-hca67c41_2
+qe-7.1-h91349fd_2
+qe-7.2-hea519da_0
+qe-7.2-hea519da_1
+qe-7.2-hea519da_2

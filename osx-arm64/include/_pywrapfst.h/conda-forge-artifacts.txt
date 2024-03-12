@@ -1,0 +1,9 @@
+pynini-2.1.5-py39haaf3ac1_5
+pynini-2.1.5-py311hd6ee22a_5
+pynini-2.1.5-py310h2887b22_5
+pynini-2.1.5-py38h9dc3d6a_5
+pynini-2.1.5-py311he4fd1f5_6
+pynini-2.1.5-py39hbd775c9_6
+pynini-2.1.5-py38h9afee92_6
+pynini-2.1.5-py312h389731b_6
+pynini-2.1.5-py310h38f39d4_6

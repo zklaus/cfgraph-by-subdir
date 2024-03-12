@@ -1,0 +1,4 @@
+fossil-pikchr-2.20-h0b41bf4_1
+fossil-pikchr-2.21-h0b41bf4_0
+fossil-pikchr-2.22-hd590300_0
+fossil-pikchr-2.23-hd590300_0

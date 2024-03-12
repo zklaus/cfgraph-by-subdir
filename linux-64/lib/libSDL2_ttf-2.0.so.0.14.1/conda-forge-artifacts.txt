@@ -1,0 +1,2 @@
+sdl2_ttf-2.0.15-h7d98c4e_0
+sdl2_ttf-2.0.15-h2eed4a9_2

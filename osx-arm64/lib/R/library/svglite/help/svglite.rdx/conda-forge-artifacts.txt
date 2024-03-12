@@ -1,0 +1,12 @@
+r-svglite-2.0.0-r41h8ea1354_0
+r-svglite-2.0.0-r40h8ea1354_0
+r-svglite-2.1.0-r40h8ea1354_0
+r-svglite-2.1.0-r41h8ea1354_0
+r-svglite-2.1.0-r42h9a38a31_1
+r-svglite-2.1.0-r41h9a38a31_1
+r-svglite-2.1.1-r41h1b3e3b4_0
+r-svglite-2.1.1-r42h1b3e3b4_0
+r-svglite-2.1.1-r43hfa92ce8_1
+r-svglite-2.1.1-r42hfa92ce8_1
+r-svglite-2.1.2-r43h321ff43_0
+r-svglite-2.1.2-r42h321ff43_0

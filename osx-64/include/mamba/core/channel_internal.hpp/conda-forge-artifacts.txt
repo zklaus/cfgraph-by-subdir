@@ -1,0 +1,16 @@
+libmamba-0.15.0-h13b4098_0
+libmamba-0.15.1-h13b4098_0
+libmamba-0.15.2-h13b4098_0
+libmamba-0.15.3-h13b4098_0
+micromamba-0.18.0-0
+libmamba-0.18.0-h9ce2d19_0
+libmamba-0.18.0-h9ce2d19_1
+libmamba-0.18.1-h9ce2d19_0
+libmamba-0.18.1-h9ce2d19_1
+libmamba-0.18.2-h9ce2d19_0
+libmamba-0.19.0-h9ce2d19_0
+libmamba-0.19.1-h9ce2d19_0
+libmamba-0.20.0-h9ce2d19_0
+libmamba-0.21.0-h9ce2d19_0
+libmamba-0.21.1-h9ce2d19_0
+libmamba-0.21.2-h9ce2d19_0

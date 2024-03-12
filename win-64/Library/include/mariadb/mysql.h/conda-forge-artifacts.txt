@@ -1,0 +1,7 @@
+mariadb-connector-c-3.3.5-heb0366b_0
+mariadb-connector-c-3.3.5-heb0366b_1
+mariadb-connector-c-3.3.5-h63175ca_2
+mariadb-connector-c-3.3.6-heb0366b_0
+mariadb-connector-c-3.3.6-h63175ca_0
+mariadb-connector-c-3.3.7-hccdfaae_0
+mariadb-connector-c-3.3.8-hccdfaae_0

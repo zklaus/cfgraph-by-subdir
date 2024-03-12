@@ -1,0 +1,7 @@
+r-qpdf-1.1-r351h6115d3f_0
+r-qpdf-1.1-r35h796a38f_1
+r-qpdf-1.1-r36h796a38f_1
+r-qpdf-1.1-r40h796a38f_2
+r-qpdf-1.1-r36h796a38f_2
+r-qpdf-1.1-r40ha856d6a_2
+r-qpdf-1.2.0-r40ha856d6a_0

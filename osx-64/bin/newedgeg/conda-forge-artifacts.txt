@@ -1,0 +1,13 @@
+nauty-2.6r7-0
+nauty-2.6r7-h470a237_0
+nauty-2.6r7-h1de35cc_1000
+nauty-2.6.7-h1de35cc_1000
+nauty-2.6.7-h470a237_0
+nauty-2.6.7-h01d97ff_1001
+nauty-2.6.11-h0b31af3_0
+nauty-2.6.11-h0b31af3_1
+nauty-2.7.1-haf1e3a3_0
+nauty-2.7.1-h9a43bea_0
+nauty-2.7.1-h0d85af4_1
+nauty-2.7.1-h0d85af4_2
+nauty-2.7.2-h0d85af4_0

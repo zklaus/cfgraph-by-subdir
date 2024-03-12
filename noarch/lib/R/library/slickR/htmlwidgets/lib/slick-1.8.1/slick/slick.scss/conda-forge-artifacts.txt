@@ -1,0 +1,13 @@
+r-slickr-0.4.9-r35h6115d3f_0
+r-slickr-0.4.9-r36h6115d3f_0
+r-slickr-0.4.9-r36h6115d3f_1
+r-slickr-0.4.9-r40h6115d3f_1
+r-slickr-0.5.0-r36hc72bb7e_0
+r-slickr-0.5.0-r40hc72bb7e_0
+r-slickr-0.5.0-r41hc72bb7e_0
+r-slickr-0.5.0-r42hc72bb7e_1
+r-slickr-0.5.0-r41hc72bb7e_1
+r-slickr-0.6.0-r42h785f33e_0
+r-slickr-0.6.0-r41h785f33e_0
+r-slickr-0.6.0-r43h785f33e_1
+r-slickr-0.6.0-r42h785f33e_1

@@ -1,0 +1,2 @@
+sqlitecpp-3.2.0-hbafbf79_0
+sqlitecpp-3.3.0-hbafbf79_0

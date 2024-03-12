@@ -1,0 +1,3 @@
+trilinos-12.12.1-hd1137e9_1004
+trilinos-12.12.1-hdd030ab_1005
+trilinos-12.12.1-hc7a5374_1006

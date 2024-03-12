@@ -1,0 +1,6 @@
+g2clib-1.7.0-he8f165f_0
+g2clib-1.7.0-he8f165f_1
+g2clib-1.7.0-hb1a489c_2
+g2clib-1.7.0-h48f9dc5_3
+nceplibs-g2c-1.7.0-h48f9dc5_4
+nceplibs-g2c-1.8.0-h016f3c3_4

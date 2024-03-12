@@ -1,0 +1,9 @@
+pyxtensor-0.1.4-py39h45ac560_1
+pyxtensor-0.1.4-py39h1a9c180_1
+pyxtensor-0.2.0-py39h1a9c180_1
+pyxtensor-0.2.0-py39h1a9c180_0
+pyxtensor-0.3.0-py39h1a9c180_0
+pyxtensor-0.3.1-py39h1a9c180_0
+pyxtensor-0.3.1-py39h1a9c180_1
+pyxtensor-0.3.1-py39hf939315_2
+pyxtensor-0.3.1-py39hf939315_3

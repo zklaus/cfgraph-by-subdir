@@ -1,0 +1,4 @@
+pyagrum-1.8.2-py39h40cae4c_0
+pyagrum-1.8.2-py311h320fe9a_0
+pyagrum-1.8.2-py310h7cbd5c2_0
+pyagrum-1.8.2-py38h01efb38_0

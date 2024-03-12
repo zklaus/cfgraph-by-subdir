@@ -1,0 +1,11 @@
+libintervalxt-3.2.0-h3d2fe97_0
+libintervalxt-3.2.0-h862018f_1
+libintervalxt-3.2.0-h6462330_2
+libintervalxt-3.2.0-h0a4da51_3
+libintervalxt-3.2.0-h85f0e5a_4
+libintervalxt-3.3.0-h85f0e5a_0
+libintervalxt-3.3.1-he06da31_0
+libintervalxt-3.3.1-h5320877_1
+libintervalxt-3.3.1-h654ffd6_2
+libintervalxt-3.3.1-h080c39d_3
+libintervalxt-3.3.2-h080c39d_0

@@ -1,0 +1,3 @@
+phreeqc4rkt-3.6.2.1-h91493d7_1
+phreeqc4rkt-3.6.2.2-h91493d7_0
+phreeqc4rkt-3.6.2.2-h91493d7_1

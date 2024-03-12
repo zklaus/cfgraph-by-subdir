@@ -1,0 +1,7 @@
+r-scrypt-0.1.3-r41ha856d6a_0
+r-scrypt-0.1.3-r40ha856d6a_0
+r-scrypt-0.1.4-r41ha856d6a_0
+r-scrypt-0.1.4-r40ha856d6a_0
+r-scrypt-0.1.4-r41ha856d6a_1
+r-scrypt-0.1.6-r41ha856d6a_0
+r-scrypt-0.1.6-r41ha856d6a_1

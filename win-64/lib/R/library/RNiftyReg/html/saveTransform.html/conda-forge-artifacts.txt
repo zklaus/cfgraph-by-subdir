@@ -1,0 +1,3 @@
+r-rniftyreg-2.7.0-r36h796a38f_0
+r-rniftyreg-2.7.0-r40h796a38f_0
+r-rniftyreg-2.7.0-r40ha856d6a_0

@@ -1,0 +1,8 @@
+green-2.12.1-py37_1000
+green-2.13.0-py37_0
+green-2.13.1-py37_0
+green-2.13.1-py37hc8dfbb8_1
+green-2.13.1-py37hc8dfbb8_2
+green-3.2.4-py37h03978a9_0
+green-3.4.0-py37h03978a9_2
+green-3.4.1-py37h03978a9_0

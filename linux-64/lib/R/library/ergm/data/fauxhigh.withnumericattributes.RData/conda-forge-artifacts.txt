@@ -1,0 +1,9 @@
+r-ergm-3.8.0-r341hc070d10_0
+r-ergm-3.8.0-r351hc070d10_0
+r-ergm-3.8.0-r351h96ca727_1000
+r-ergm-3.9.4-r351h96ca727_0
+r-ergm-3.10.4-r35hcdcec82_0
+r-ergm-3.10.4-r36hcdcec82_1
+r-ergm-3.10.4-r35hcdcec82_1
+r-ergm-3.10.4-r40hcdcec82_2
+r-ergm-3.10.4-r36hcdcec82_2

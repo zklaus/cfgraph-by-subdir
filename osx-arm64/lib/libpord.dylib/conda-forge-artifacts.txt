@@ -1,0 +1,6 @@
+mumps-mpi-5.2.1-h51c74a9_11
+mumps-mpi-5.2.1-hfd295ca_11
+mumps-mpi-5.2.1-h2806e7f_12
+mumps-mpi-5.2.1-h4777832_12
+mumps-mpi-5.2.1-hb11fb38_13
+mumps-mpi-5.2.1-h00b355f_13

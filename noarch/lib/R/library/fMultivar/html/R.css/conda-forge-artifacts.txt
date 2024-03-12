@@ -1,0 +1,13 @@
+r-fmultivar-3042.80.1-r40hc72bb7e_0
+r-fmultivar-3042.80.1-r36hc72bb7e_0
+r-fmultivar-3042.80.1-r41hc72bb7e_0
+r-fmultivar-3042.80.2-r41hc72bb7e_0
+r-fmultivar-3042.80.2-r40hc72bb7e_0
+r-fmultivar-4021.83-r40hc72bb7e_0
+r-fmultivar-4021.83-r41hc72bb7e_0
+r-fmultivar-4021.83-r41hc72bb7e_1
+r-fmultivar-4021.83-r42hc72bb7e_1
+r-fmultivar-4021.83-r43hc72bb7e_2
+r-fmultivar-4021.83-r42hc72bb7e_2
+r-fmultivar-4031.84-r43hc72bb7e_0
+r-fmultivar-4031.84-r42hc72bb7e_0

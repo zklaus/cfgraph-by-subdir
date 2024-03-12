@@ -1,0 +1,11 @@
+libnetcdf-4.7.4-nompi_hac287bf_104
+libnetcdf-4.7.4-mpi_openmpi_h31e122f_4
+libnetcdf-4.7.4-mpi_mpich_h3c5f974_4
+libnetcdf-4.7.4-mpi_openmpi_h31e122f_5
+libnetcdf-4.7.4-mpi_mpich_h3c5f974_5
+libnetcdf-4.7.4-nompi_hac287bf_105
+libnetcdf-4.7.4-mpi_mpich_h7850917_6
+libnetcdf-4.7.4-nompi_h4c46861_106
+libnetcdf-4.7.4-mpi_openmpi_ha7a9810_6
+libnetcdf-4.7.4-nompi_h294d634_107
+libnetcdf-4.7.4-mpi_openmpi_hcdf6d85_7

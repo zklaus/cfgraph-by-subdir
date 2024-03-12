@@ -1,0 +1,3 @@
+graphicsmagick-1.3.36-hc3d8c12_0
+graphicsmagick-1.3.36-hc3d8c12_1
+graphicsmagick-1.3.36-hc3d8c12_2

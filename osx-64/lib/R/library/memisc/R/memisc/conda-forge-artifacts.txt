@@ -1,0 +1,8 @@
+r-memisc-0.99.31.3-r41h815d134_0
+r-memisc-0.99.31.3-r42h815d134_0
+r-memisc-0.99.31.3-r42h815d134_1
+r-memisc-0.99.31.3-r41h815d134_1
+r-memisc-0.99.31.6-r41h815d134_0
+r-memisc-0.99.31.6-r42h815d134_0
+r-memisc-0.99.31.6-r42h6dc245f_1
+r-memisc-0.99.31.6-r43h6dc245f_1

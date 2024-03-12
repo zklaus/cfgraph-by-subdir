@@ -1,0 +1,2 @@
+xmlstarlet-1.6.1-h43aa7cd_0
+xmlstarlet-1.6.1-h20bfa82_1

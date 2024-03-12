@@ -1,0 +1,11 @@
+gemmi-0.6.3-py310h2ae4ed4_0
+gemmi-0.6.3-py39h445be9b_0
+gemmi-0.6.3-py39h6d03484_0
+gemmi-0.6.3-py38hdd78f75_0
+gemmi-0.6.3-py311h2f14e55_0
+gemmi-0.6.3-py312hf1aaa0c_1
+gemmi-0.6.3-py39h4f0f57b_1
+gemmi-0.6.3-py310hc218492_1
+gemmi-0.6.3-py39h2fa21df_1
+gemmi-0.6.3-py311h0c2eab9_1
+gemmi-0.6.3-py38hdf9820e_1

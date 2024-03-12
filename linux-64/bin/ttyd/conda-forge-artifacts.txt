@@ -1,0 +1,11 @@
+ttyd-1.5.2-h2b5582c_0
+ttyd-1.5.2-h2b5582c_1
+ttyd-1.6.0-h2b5582c_0
+ttyd-1.6.1-h8f1dccf_0
+ttyd-1.6.3-h166a629_0
+ttyd-1.6.3-ha635f65_1
+ttyd-1.6.3-hc5eb070_2
+ttyd-1.7.2-hc5eb070_0
+ttyd-1.7.2-h5fd5823_1
+ttyd-1.7.2-h821b6a9_1
+ttyd-1.7.4-h78d4dd0_0

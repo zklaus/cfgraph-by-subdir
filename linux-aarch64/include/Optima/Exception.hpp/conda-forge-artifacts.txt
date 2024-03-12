@@ -1,0 +1,17 @@
+optima-0.3.3-py38h33d134c_1
+optima-0.3.3-py310h3fd111c_1
+optima-0.3.3-py39h26b2ba4_1
+optima-0.3.3-py39hea52dc2_1
+optima-0.3.3-py38h319b4e7_1
+optima-0.3.3-py311hda44f1a_1
+optima-0.4.0-py38h7d99765_0
+optima-0.4.0-py310he6763e1_0
+optima-0.4.0-py311hda44f1a_0
+optima-0.4.0-py39h2269e6d_0
+optima-0.4.0-py38hbd72c0e_0
+optima-0.4.0-py39h3438f3e_0
+optima-0.4.0-py39h3438f3e_1
+optima-0.4.0-py38h7d99765_1
+optima-0.4.0-py311hda44f1a_1
+optima-0.4.0-py310he6763e1_1
+optima-0.4.0-py39h2269e6d_1

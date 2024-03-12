@@ -1,0 +1,3 @@
+geographiclib-cpp-2.1-h06f31f1_0
+geographiclib-cpp-2.1.1-h06f31f1_0
+geographiclib-cpp-2.1.2-he01d56d_0

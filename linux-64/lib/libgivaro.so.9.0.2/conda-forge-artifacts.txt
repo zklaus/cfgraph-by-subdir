@@ -1,0 +1,3 @@
+givaro-4.0.4-0
+givaro-4.0.4-h0eace8b_1
+givaro-4.0.4-he08cec2_1001

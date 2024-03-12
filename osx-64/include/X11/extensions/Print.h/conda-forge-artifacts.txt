@@ -1,0 +1,4 @@
+xorg-printproto-1.0.5-0
+xorg-printproto-1.0.5-h470a237_1
+xorg-printproto-1.0.5-h1de35cc_1001
+xorg-printproto-1.0.5-h10d778d_1001

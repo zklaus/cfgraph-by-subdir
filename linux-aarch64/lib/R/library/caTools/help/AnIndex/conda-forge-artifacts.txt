@@ -1,0 +1,14 @@
+r-catools-1.18.0-r36h0357c0b_0
+r-catools-1.18.0-r40h0357c0b_1
+r-catools-1.18.0-r36h0357c0b_1
+r-catools-1.18.1-r40hecdc70b_0
+r-catools-1.18.1-r36hecdc70b_0
+r-catools-1.18.2-r40hecdc70b_0
+r-catools-1.18.2-r36hecdc70b_0
+r-catools-1.18.2-r41hecdc70b_0
+r-catools-1.18.2-r41hf13958e_0
+r-catools-1.18.2-r40hf13958e_0
+r-catools-1.18.2-r41h526691d_1
+r-catools-1.18.2-r42h526691d_1
+r-catools-1.18.2-r42h93f32a7_2
+r-catools-1.18.2-r43h93f32a7_2

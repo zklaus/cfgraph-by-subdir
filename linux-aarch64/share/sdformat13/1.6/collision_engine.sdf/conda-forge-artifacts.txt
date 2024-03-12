@@ -1,0 +1,14 @@
+libsdformat13-13.4.0-h8631bfc_0
+libsdformat13-13.4.0-haf50710_0
+libsdformat13-13.4.1-haf50710_0
+libsdformat13-13.4.1-h8631bfc_0
+libsdformat13-13.5.0-hd887eac_0
+libsdformat13-13.5.0-ha569b42_0
+libsdformat13-13.5.0-ha569b42_1
+libsdformat13-13.5.0-hd887eac_1
+libsdformat13-13.6.0-ha569b42_0
+libsdformat13-13.6.0-hd887eac_0
+libsdformat13-13.6.0-ha569b42_1
+libsdformat13-13.6.0-hd887eac_1
+libsdformat13-13.6.0-ha569b42_2
+libsdformat13-13.6.0-hd887eac_2

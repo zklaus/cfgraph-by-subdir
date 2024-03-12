@@ -1,0 +1,8 @@
+muparserx-4.0.8-h5aaa8d0_0
+muparserx-4.0.11-h5aaa8d0_0
+muparserx-4.0.12-h5aaa8d0_0
+muparserx-4.0.12-hc10ee43_1
+muparserx-4.0.8-hc10ee43_1
+muparserx-4.0.8-hc10ee43_2
+muparserx-4.0.8-hc10ee43_3
+muparserx-4.0.12-hc10ee43_2

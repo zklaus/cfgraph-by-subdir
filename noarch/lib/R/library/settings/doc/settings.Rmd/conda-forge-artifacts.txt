@@ -1,0 +1,5 @@
+r-settings-0.2.4-r351h6115d3f_1001
+r-settings-0.2.4-r35h6115d3f_1002
+r-settings-0.2.4-r36h6115d3f_1002
+r-settings-0.2.4-r36h6115d3f_1003
+r-settings-0.2.4-r40h6115d3f_1003

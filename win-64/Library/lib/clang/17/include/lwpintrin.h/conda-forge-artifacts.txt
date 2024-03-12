@@ -1,0 +1,15 @@
+dpcpp_impl_win-64-2023.2.0-h3338d26_49496
+dpcpp_impl_win-64-2023.2.0-h3055adc_49497
+dpcpp_impl_win-64-2023.2.0-h3055adc_49498
+dpcpp_impl_win-64-2023.2.0-h3055adc_49499
+dpcpp_impl_win-64-2023.2.0-h3055adc_49500
+dpcpp_impl_win-64-2023.2.0-h3055adc_49501
+clang-17-17.0.1-default_heb8d277_0
+clang-17-17.0.2-default_heb8d277_0
+clang-17-17.0.3-default_heb8d277_0
+clang-17-17.0.4-default_heb8d277_0
+clang-17-17.0.4-default_heb8d277_1
+clang-17-17.0.5-default_heb8d277_0
+dpcpp_impl_win-64-2024.0.0-h3055adc_49840
+clang-17-17.0.6-default_heb8d277_0
+clang-17-17.0.6-default_hde6756a_1

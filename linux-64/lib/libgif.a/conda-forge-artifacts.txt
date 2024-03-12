@@ -1,0 +1,9 @@
+giflib-5.1.2-0
+giflib-5.1.2-1
+giflib-5.1.4-0
+giflib-5.1.4-h470a237_0
+giflib-5.1.4-h470a237_1
+giflib-5.1.4-h14c3975_1001
+giflib-5.1.7-h516909a_0
+giflib-5.1.7-h516909a_1
+giflib-5.1.9-h516909a_0

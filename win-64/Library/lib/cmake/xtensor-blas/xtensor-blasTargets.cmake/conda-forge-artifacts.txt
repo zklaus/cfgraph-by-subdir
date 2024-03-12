@@ -1,0 +1,10 @@
+xtensor-blas-0.17.0-hd41736c_0
+xtensor-blas-0.17.1-hd41736c_0
+xtensor-blas-0.17.2-hd41736c_0
+xtensor-blas-0.17.2-hb711573_1
+xtensor-blas-0.18.0-hb711573_0
+xtensor-blas-0.19.0-hb711573_0
+xtensor-blas-0.19.0-hb711573_1
+xtensor-blas-0.19.1-h5362a0b_0
+xtensor-blas-0.19.2-h5362a0b_0
+xtensor-blas-0.20.0-h5362a0b_0

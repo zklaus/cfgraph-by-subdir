@@ -1,0 +1,10 @@
+r-statmod-1.4.36-r41hc2a6685_0
+r-statmod-1.4.36-r40hc2a6685_0
+r-statmod-1.4.37-r40hbf698ba_0
+r-statmod-1.4.37-r41hbf698ba_0
+r-statmod-1.4.37-r42hcd742af_1
+r-statmod-1.4.37-r41hcd742af_1
+r-statmod-1.5.0-r41hcd742af_0
+r-statmod-1.5.0-r42hcd742af_0
+r-statmod-1.5.0-r42hcda9433_1
+r-statmod-1.5.0-r43hcda9433_1

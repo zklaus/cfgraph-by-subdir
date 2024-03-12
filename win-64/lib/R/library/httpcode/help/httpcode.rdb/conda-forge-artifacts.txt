@@ -1,0 +1,11 @@
+r-httpcode-0.2.0-r351_1000
+r-httpcode-0.2.0-r35_1001
+r-httpcode-0.2.0-r36_1001
+r-httpcode-0.3.0-r35_0
+r-httpcode-0.3.0-r36_0
+r-httpcode-0.3.0-r36_1
+r-httpcode-0.3.0-r40_1
+r-httpcode-0.3.0-r40h57928b3_1
+r-httpcode-0.3.0-r41h57928b3_1
+r-httpcode-0.3.0-r41h57928b3_2
+r-httpcode-0.3.0-r41h57928b3_3

@@ -1,0 +1,3 @@
+bitmagic-7.12.3-h57928b3_0
+bitmagic-7.12.3-h57928b3_1
+bitmagic-7.13.4-h57928b3_0

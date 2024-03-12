@@ -1,0 +1,11 @@
+libadbc-driver-sqlite-0.2.0-h3f100fc_0
+libadbc-driver-sqlite-0.3.0-h3f100fc_0
+libadbc-driver-sqlite-0.4.0-hd8b3c58_0
+libadbc-driver-sqlite-0.5.0-hd8b3c58_0
+libadbc-driver-sqlite-0.5.1-hd8b3c58_0
+libadbc-driver-sqlite-0.6.0-hd8b3c58_0
+libadbc-driver-sqlite-0.7.0-hd8b3c58_0
+libadbc-driver-sqlite-0.7.0-hd8b3c58_1
+libadbc-driver-sqlite-0.7.0-hd8b3c58_2
+libadbc-driver-sqlite-0.7.0-hd8b3c58_3
+libadbc-driver-sqlite-0.8.0-h5af900a_0

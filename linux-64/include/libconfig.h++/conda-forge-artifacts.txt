@@ -1,0 +1,3 @@
+libconfig-1.5-0
+libconfig-1.7.2-h9c3ff4c_0
+libconfig-1.7.2-he870fd5_1

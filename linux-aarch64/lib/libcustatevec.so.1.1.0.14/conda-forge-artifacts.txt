@@ -1,0 +1,2 @@
+cuquantum-22.07.1.14-h1212f3d_0
+custatevec-1.1.0-h1212f3d_1

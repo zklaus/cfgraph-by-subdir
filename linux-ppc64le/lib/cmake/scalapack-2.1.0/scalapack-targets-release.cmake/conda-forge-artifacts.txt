@@ -1,0 +1,6 @@
+scalapack-2.1.0-h11bec1d_0
+scalapack-2.1.0-hb27407b_0
+scalapack-2.2.0-h24755e3_0
+scalapack-2.2.0-hfdc0940_0
+scalapack-2.2.0-h24755e3_1
+scalapack-2.2.0-hfdc0940_1

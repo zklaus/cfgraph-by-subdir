@@ -1,0 +1,10 @@
+gobject-introspection-1.51.1-0
+gobject-introspection-1.51.3-py27_0
+gobject-introspection-1.51.3-py35_0
+gobject-introspection-1.51.3-py36_0
+gobject-introspection-1.55.0-py27_0
+gobject-introspection-1.55.0-py35_0
+gobject-introspection-1.55.0-py36_0
+gobject-introspection-1.55.0-py36h3a3fb3b_0
+gobject-introspection-1.55.0-py27h3a3fb3b_0
+gobject-introspection-1.55.0-py35h3a3fb3b_0

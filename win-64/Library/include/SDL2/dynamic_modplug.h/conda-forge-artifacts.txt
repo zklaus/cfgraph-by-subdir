@@ -1,0 +1,6 @@
+sdl2_mixer-2.0.1-0
+sdl2_mixer-2.0.1-vc10_0
+sdl2_mixer-2.0.1-vc14_0
+sdl2_mixer-2.0.1-vc9_0
+sdl2_mixer-2.0.1-hc56fc5f_1
+sdl2_mixer-2.0.1-h6538335_1

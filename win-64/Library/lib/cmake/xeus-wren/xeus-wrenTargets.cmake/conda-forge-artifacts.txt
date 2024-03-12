@@ -1,0 +1,7 @@
+xeus-wren-0.1.2-h04899b1_0
+xeus-wren-0.2.0-h04899b1_0
+xeus-wren-0.3.2-h04899b1_0
+xeus-wren-0.3.2-h04899b1_1
+xeus-wren-0.3.2-h04899b1_2
+xeus-wren-0.3.3-h04899b1_2
+xeus-wren-0.4.0-h91493d7_0

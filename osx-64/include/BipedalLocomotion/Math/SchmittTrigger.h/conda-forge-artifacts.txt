@@ -1,0 +1,12 @@
+libbipedal-locomotion-framework-0.13.0-hab5a9c3_0
+libbipedal-locomotion-framework-0.13.0-h8fb4d81_1
+libbipedal-locomotion-framework-0.14.0-h8fb4d81_0
+libbipedal-locomotion-framework-0.14.1-h8fb4d81_0
+libbipedal-locomotion-framework-0.14.1-he059b18_1
+libbipedal-locomotion-framework-0.14.1-h501c35c_3
+libbipedal-locomotion-framework-0.15.0-h501c35c_0
+libbipedal-locomotion-framework-0.15.0-ha26cbf4_1
+libbipedal-locomotion-framework-0.15.0-hf4bb571_2
+libbipedal-locomotion-framework-0.15.0-hf4bb571_3
+libbipedal-locomotion-framework-0.15.0-hf4bb571_4
+libbipedal-locomotion-framework-0.16.0-hf4bb571_0

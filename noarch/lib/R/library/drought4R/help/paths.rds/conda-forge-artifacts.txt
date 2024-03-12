@@ -1,0 +1,12 @@
+r-drought4r-0.2.0-r36ha770c72_0
+r-drought4r-0.2.0-r40ha770c72_0
+r-drought4r-0.2.0-r41ha770c72_0
+r-drought4r-0.2.0-r41ha770c72_1
+r-drought4r-0.2.0-r42ha770c72_1
+r-drought4r-0.2.0-r43ha770c72_2
+r-drought4r-0.2.0-r42ha770c72_2
+r-drought4r-0.3.1-r42ha770c72_0
+r-drought4r-0.3.1-r41ha770c72_0
+r-drought4r-0.3.1-r43ha770c72_0
+r-drought4r-0.3.1-r40ha770c72_0
+r-drought4r-0.3.1-r36ha770c72_0

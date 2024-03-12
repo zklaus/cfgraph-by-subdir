@@ -1,0 +1,6 @@
+gnupg-2.3.1-hf94adaa_0
+gnupg-2.3.2-h7853c96_0
+gnupg-2.3.3-h7853c96_0
+gnupg-2.3.6-h001bf7b_0
+gnupg-2.4.2-h1cac74d_0
+gnupg-2.4.2-h1cac74d_1

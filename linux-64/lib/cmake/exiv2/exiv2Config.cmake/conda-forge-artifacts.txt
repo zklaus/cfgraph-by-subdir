@@ -1,0 +1,10 @@
+exiv2-v0.27.2-had08079_0
+exiv2-v0.27.3-had08079_0
+exiv2-v0.27.3-had08079_1
+exiv2-v0.27.3-h2a9cd03_2
+exiv2-v0.27.3-h860f454_2
+exiv2-v0.27.3-h848de5d_3
+exiv2-0.27.3-h848de5d_3
+exiv2-0.27.5-h848de5d_0
+exiv2-0.27.6-hb9a316c_0
+exiv2-0.27.6-hb9a316c_1

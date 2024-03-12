@@ -1,0 +1,8 @@
+r-tangram-0.8.1-r41hc72bb7e_0
+r-tangram-0.8.1-r40hc72bb7e_0
+r-tangram-0.8.1-r42hc72bb7e_1
+r-tangram-0.8.1-r41hc72bb7e_1
+r-tangram-0.8.2-r41hc72bb7e_0
+r-tangram-0.8.2-r42hc72bb7e_0
+r-tangram-0.8.2-r43hc72bb7e_1
+r-tangram-0.8.2-r42hc72bb7e_1

@@ -1,0 +1,8 @@
+onnxruntime-cpp-1.15.1-h1ede69c_0
+onnxruntime-novec-cpp-1.15.1-h28ef8fe_0
+onnxruntime-cpp-1.15.1-h1ede69c_1
+onnxruntime-novec-cpp-1.15.1-h28ef8fe_1
+onnxruntime-cpp-1.15.1-h27bfe5e_2_cpu
+onnxruntime-novec-cpp-1.15.1-h6533e37_2_cpu
+onnxruntime-novec-cpp-1.15.1-h6533e37_3_cpu
+onnxruntime-cpp-1.15.1-h27bfe5e_3_cpu

@@ -1,0 +1,13 @@
+pyside2-5.13.1-py27h9cca949_0
+pyside2-5.13.1-py27h9cca949_1
+pyside2-5.13.1-py27h9cca949_2
+pyside2-5.13.1-py27ha8f7116_2
+pyside2-5.13.1-py27h2815f34_3
+pyside2-5.13.1-py27h2815f34_4
+pyside2-5.13.1-py27ha8f7116_5
+pyside2-5.13.1-py27ha8f7116_6
+pyside2-5.13.1-py27ha8f7116_7
+pyside2-5.13.1-py27ha8f7116_8
+pyside2-5.13.2-py27ha8f7116_0
+pyside2-5.13.2-py27ha8f7116_1
+pyside2-5.13.2-py27ha8f7116_2

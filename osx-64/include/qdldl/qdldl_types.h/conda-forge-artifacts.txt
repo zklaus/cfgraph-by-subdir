@@ -1,0 +1,10 @@
+libosqp-0.6.0-h046ec9c_0
+libosqp-0.6.2-h046ec9c_0
+libosqp-0.6.2-h046ec9c_1
+libosqp-0.6.2-he49afe7_2
+libosqp-0.6.2-he49afe7_3
+libqdldl-0.1.5-he49afe7_0
+libqdldl-0.1.6-hb486fe8_0
+libqdldl-0.1.6-hf0c8a7f_1
+libqdldl-0.1.5-hf0c8a7f_1
+libqdldl-0.1.7-hf0c8a7f_0

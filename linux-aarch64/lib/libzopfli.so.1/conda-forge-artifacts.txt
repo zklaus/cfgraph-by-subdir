@@ -1,0 +1,2 @@
+libzopfli-1.0.3-he1b5a44_0
+libzopfli-1.0.3-h01db608_0

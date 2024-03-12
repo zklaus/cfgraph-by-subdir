@@ -1,0 +1,2 @@
+xeus-python-0.15.11-py312h8f0b210_0
+xeus-python-0.15.11-py39hd16970a_0

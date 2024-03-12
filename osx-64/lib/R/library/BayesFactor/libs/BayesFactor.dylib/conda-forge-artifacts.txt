@@ -1,0 +1,16 @@
+r-bayesfactor-0.9.12_4.2-r36hc5da6b9_1002
+r-bayesfactor-0.9.12_4.2-r40hc5da6b9_1002
+r-bayesfactor-0.9.12_4.2-r40h9951f98_1002
+r-bayesfactor-0.9.12_4.2-r41h9951f98_1002
+r-bayesfactor-0.9.12_4.3-r40h9951f98_0
+r-bayesfactor-0.9.12_4.3-r41h9951f98_0
+r-bayesfactor-0.9.12_4.4-r40h8619c4b_0
+r-bayesfactor-0.9.12_4.4-r41h8619c4b_0
+r-bayesfactor-0.9.12_4.4-r42h49197e3_1
+r-bayesfactor-0.9.12_4.4-r41h49197e3_1
+r-bayesfactor-0.9.12_4.4-r43hac7d2d5_2
+r-bayesfactor-0.9.12_4.4-r42hac7d2d5_2
+r-bayesfactor-0.9.12_4.5-r42hac7d2d5_0
+r-bayesfactor-0.9.12_4.5-r43hac7d2d5_0
+r-bayesfactor-0.9.12_4.6-r43h64b2c41_0
+r-bayesfactor-0.9.12_4.6-r42h64b2c41_0

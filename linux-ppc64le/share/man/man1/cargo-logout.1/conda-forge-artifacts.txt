@@ -1,0 +1,11 @@
+rust-1.70.0-hb12b0c0_0
+rust-1.71.0-hb12b0c0_0
+rust-1.71.1-hb12b0c0_0
+rust-1.72.0-hb12b0c0_0
+rust-1.72.0-hb12b0c0_1
+rust-1.72.0-hb12b0c0_2
+rust-1.72.1-hb12b0c0_0
+rust-1.73.0-hb12b0c0_0
+rust-1.73.0-hb12b0c0_1
+rust-1.73.0-hb12b0c0_2
+rust-1.74.0-hb12b0c0_0

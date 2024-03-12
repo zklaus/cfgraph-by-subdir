@@ -1,0 +1,17 @@
+mathics3-1.1.0-py37he6e4e01_0
+mathics3-1.1.0-py38h1130bcf_0
+mathics3-1.1.0-py36h7b4949f_0
+mathics3-1.1.0-py37he6e4e01_1
+mathics3-1.1.0-py38h1130bcf_1
+mathics3-1.1.0-py39h4059872_1
+mathics3-1.1.0-py36h7b4949f_1
+mathics3-1.1.0-py39hcbf5805_2
+mathics3-1.1.0-py38h5406a74_2
+mathics3-1.1.0-py37hf967b71_2
+mathics3-1.1.0-py36h903dffd_2
+mathics3-1.1.0-py36h20b66c6_2
+mathics3-1.1.1-py36h903dffd_0
+mathics3-1.1.1-py39hcbf5805_0
+mathics3-1.1.1-py38h5406a74_0
+mathics3-1.1.1-py37hf967b71_0
+mathics3-1.1.1-py36h20b66c6_0

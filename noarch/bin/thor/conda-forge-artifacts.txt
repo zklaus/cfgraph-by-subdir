@@ -1,0 +1,4 @@
+rb-thor-0.20.3-hc42de5b_0
+rb-thor-0.20.3-hd4c1694_0
+rb-thor-1.0.1-hd4c1694_0
+rb-thor-1.0.1-hc42de5b_0

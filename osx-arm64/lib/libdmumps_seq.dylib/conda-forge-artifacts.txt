@@ -1,0 +1,3 @@
+mumps-seq-5.2.1-h0066fe1_11
+mumps-seq-5.2.1-h105e241_12
+mumps-seq-5.2.1-h91c970a_13

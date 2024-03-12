@@ -1,0 +1,6 @@
+pari-2.15.2-hee76a8e_2_pthread
+pari-2.15.2-h4234407_2_single
+pari-2.15.3-hee76a8e_2_pthread
+pari-2.15.3-h4234407_2_single
+pari-2.15.4-haeeeed7_2_pthread
+pari-2.15.4-hfe26314_2_single

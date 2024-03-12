@@ -1,0 +1,2 @@
+fontconfig-2.14.1-hc2a2eb6_0
+fontconfig-2.14.2-h14ed4e7_0

@@ -1,0 +1,2 @@
+intel-opencl-clang-11.0.0-h4bd325d_2
+intel-opencl-clang-10.0.0-h4bd325d_2

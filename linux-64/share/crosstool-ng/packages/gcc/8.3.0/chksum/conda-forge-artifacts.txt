@@ -1,0 +1,2 @@
+crosstool-ng-1.24.0.37_g3f461da1-h46ee950_0
+crosstool-ng-1.24.0.39_gde1ec7f7-h46ee950_0

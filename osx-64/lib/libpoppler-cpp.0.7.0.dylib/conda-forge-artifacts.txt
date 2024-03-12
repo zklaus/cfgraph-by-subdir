@@ -1,0 +1,14 @@
+poppler-0.74.0-hb974355_0
+poppler-0.75.0-hd5eb092_0
+poppler-0.76.0-hd5eb092_0
+poppler-0.76.1-hd5eb092_0
+poppler-0.77.0-hd5eb092_0
+poppler-0.79.0-hd5eb092_0
+poppler-0.80.0-h66b6897_0
+poppler-0.81.0-h66b6897_0
+poppler-0.82.0-h16886b5_0
+poppler-0.82.0-hac18326_1
+poppler-0.83.0-hac18326_0
+poppler-0.84.0-hac18326_0
+poppler-0.87.0-hac18326_0
+poppler-0.87.0-h3232a60_1

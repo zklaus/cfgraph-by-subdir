@@ -1,0 +1,10 @@
+caiman-1.8.1-py37hb3f55d8_0
+caiman-1.8.1-py36hb3f55d8_0
+caiman-1.8.2-py37h0da4684_0
+caiman-1.8.2-py36h830a2c2_0
+caiman-1.8.3-py37h0da4684_0
+caiman-1.8.3-py36h830a2c2_0
+caiman-1.8.5-py37h9fdb41a_0
+caiman-1.8.5-py36h7c3b610_0
+caiman-1.8.7-py37hdc94413_0
+caiman-1.8.7-py36h284efc9_0

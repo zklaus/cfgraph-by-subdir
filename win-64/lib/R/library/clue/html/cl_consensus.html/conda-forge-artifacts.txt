@@ -1,0 +1,12 @@
+r-clue-0.3_54-r351h301d43c_1002
+r-clue-0.3_56-r351h301d43c_0
+r-clue-0.3_57-r351h301d43c_0
+r-clue-0.3_57-r35h301d43c_1
+r-clue-0.3_57-r36h301d43c_1
+r-clue-0.3_57-r36h301d43c_2
+r-clue-0.3_57-r40h301d43c_2
+r-clue-0.3_58-r36hcd874cb_0
+r-clue-0.3_58-r40hcd874cb_0
+r-clue-0.3_59-r40hcd874cb_0
+r-clue-0.3_59-r36hcd874cb_0
+r-clue-0.3_60-r40h6d2157b_0

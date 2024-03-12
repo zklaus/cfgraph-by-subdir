@@ -1,0 +1,2 @@
+morfessor-2.0.4-py_1
+morfessor-2.0.6-py_1

@@ -1,0 +1,6 @@
+r-rfast-2.0.8-r42h323961b_0
+r-rfast-2.0.8-r43h323961b_0
+r-rfast-2.0.9-r43ha6a328c_0
+r-rfast-2.0.9-r42ha6a328c_0
+r-rfast-2.1.0-r42ha6a328c_0
+r-rfast-2.1.0-r43ha6a328c_0

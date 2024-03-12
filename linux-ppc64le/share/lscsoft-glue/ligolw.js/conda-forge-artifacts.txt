@@ -1,0 +1,8 @@
+lscsoft-glue-3.0.1-py37h6642d69_0
+lscsoft-glue-3.0.1-py310hc4440c3_0
+lscsoft-glue-3.0.1-py38h98b8a6f_0
+lscsoft-glue-3.0.1-py39ha810350_0
+lscsoft-glue-3.0.1-py311ha1eaebe_1
+lscsoft-glue-3.0.1-py310h93ff066_1
+lscsoft-glue-3.0.1-py38h6e87771_1
+lscsoft-glue-3.0.1-py39h9ca6cee_1

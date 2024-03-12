@@ -1,0 +1,15 @@
+dotnet-sdk-5.0.201-ha205975_0
+dotnet-sdk-5.0.202-ha205975_0
+dotnet-sdk-5.0.202-ha205975_1
+dotnet-sdk-5.0.202-ha205975_2
+dotnet-sdk-5.0.202-ha205975_3
+dotnet-sdk-5.0.203-ha205975_0
+dotnet-sdk-5.0.301-ha205975_0
+dotnet-sdk-5.0.301-ha205975_1
+dotnet-sdk-5.0.400-ha205975_0
+dotnet-sdk-5.0.401-ha205975_0
+dotnet-sdk-5.0.403-ha205975_0
+dotnet-sdk-5.0.404-ha205975_0
+dotnet-sdk-5.0.405-ha205975_0
+dotnet-sdk-5.0.406-h17d86ac_0
+dotnet-sdk-5.0.407-h17d86ac_0

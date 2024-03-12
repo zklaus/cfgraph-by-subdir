@@ -1,0 +1,16 @@
+gmattensor-0.7.4-py39hbc6ce65_0
+gmattensor-0.7.5-hc021e02_0
+gmattensor-0.7.5-hc021e02_1
+gmattensor-0.8.0-h3e96240_0
+gmattensor-0.9.0-hf86a087_0
+gmattensor-0.9.0-hf86a087_1
+gmattensor-0.10.0-hf86a087_0
+gmattensor-0.10.1-hf86a087_0
+gmattensor-0.10.1-hf86a087_1
+gmattensor-0.10.2-hf86a087_0
+gmattensor-0.10.2-hffc8910_1
+gmattensor-0.10.3-hffc8910_0
+gmattensor-0.10.3-hffc8910_1
+gmattensor-0.10.4-hffc8910_0
+gmattensor-0.10.4-hffc8910_1
+gmattensor-0.10.6-hffc8910_0

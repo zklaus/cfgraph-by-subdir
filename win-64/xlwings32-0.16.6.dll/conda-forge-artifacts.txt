@@ -1,0 +1,4 @@
+xlwings-0.16.6-py38_0
+xlwings-0.16.6-py36_0
+xlwings-0.16.6-py27_0
+xlwings-0.16.6-py37_0

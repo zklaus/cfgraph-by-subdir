@@ -1,0 +1,8 @@
+photospline-2.0.6-py38he721148_0
+photospline-2.0.6-py36hd33e0b8_0
+photospline-2.0.6-py37h340f27a_0
+photospline-2.0.6-py39h67c1b08_0
+photospline-2.0.6-py36h4a0cdad_0
+photospline-2.0.6-py37he14f7d3_0
+photospline-2.0.6-py39ha407319_0
+photospline-2.0.6-py38h3d86ac2_0

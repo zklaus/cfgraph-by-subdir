@@ -1,0 +1,9 @@
+r-keras-2.1.6-r351h6115d3f_1000
+r-keras-2.2.4-r351h6115d3f_0
+r-keras-2.2.4.1-r351h6115d3f_0
+r-keras-2.2.4.1-r36h6115d3f_1
+r-keras-2.2.4.1-r35h6115d3f_1
+r-keras-2.2.5.0-r35h6115d3f_0
+r-keras-2.2.5.0-r36h6115d3f_0
+r-keras-2.2.5.0-r40h6115d3f_1
+r-keras-2.2.5.0-r36h6115d3f_1

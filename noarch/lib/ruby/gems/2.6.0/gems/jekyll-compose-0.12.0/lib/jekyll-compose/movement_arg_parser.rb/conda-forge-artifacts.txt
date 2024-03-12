@@ -1,0 +1,1 @@
+rb-jekyll-compose-0.12.0-hc42de5b_0

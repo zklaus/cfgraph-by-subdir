@@ -1,0 +1,9 @@
+snappy-1.1.7-hb209c28_1002
+snappy-1.1.7-hb209c28_1003
+snappy-1.1.8-hb209c28_1
+snappy-1.1.8-hb209c28_2
+snappy-1.1.8-hb209c28_3
+snappy-1.1.9-h1dd1344_0
+snappy-1.1.9-h1dd1344_1
+snappy-1.1.9-h1dd1344_2
+snappy-1.1.10-h1824d08_0

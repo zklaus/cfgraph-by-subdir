@@ -1,0 +1,10 @@
+onnxruntime-cpp-1.12.0-h3e85d83_1
+onnxruntime-novec-cpp-1.12.0-h6f82be3_1
+onnxruntime-novec-cpp-1.12.1-h6f82be3_0
+onnxruntime-cpp-1.12.1-h3e85d83_0
+onnxruntime-cpp-1.12.1-h3e85d83_1
+onnxruntime-novec-cpp-1.12.1-h6f82be3_1
+onnxruntime-novec-cpp-1.13.1-h6f82be3_0
+onnxruntime-cpp-1.13.1-h3e85d83_0
+onnxruntime-novec-cpp-1.13.1-h6f82be3_1
+onnxruntime-cpp-1.13.1-h3e85d83_1

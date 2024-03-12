@@ -1,0 +1,4 @@
+opencv-3.4.7-py37h633f180_0
+opencv-3.4.7-py36h633f180_0
+opencv-3.4.7-py37he19f8a2_1
+opencv-3.4.7-py36he19f8a2_1

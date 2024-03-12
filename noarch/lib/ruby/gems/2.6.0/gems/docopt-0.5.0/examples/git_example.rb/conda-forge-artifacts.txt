@@ -1,0 +1,1 @@
+rb-docopt-0.5.0-hc42de5b_0

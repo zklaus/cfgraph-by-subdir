@@ -1,0 +1,13 @@
+subversion-1.13.0-h9087336_0
+subversion-1.13.0-hec5602d_1
+subversion-1.14.0-hec5602d_0
+subversion-1.14.0-h8f12fb8_1
+subversion-1.14.0-ha077fb3_1
+subversion-1.14.0-h500d5e4_2
+subversion-1.14.1-hb9ee1ea_0
+subversion-1.14.1-pl5321h90d7f3d_1
+subversion-1.14.2-pl5321h2c0cc23_0
+subversion-1.14.2-pl5321hc7dd170_1
+subversion-1.14.2-pl5321hcea2a8b_2
+subversion-1.14.2-pl5321h886d438_3
+subversion-1.14.2-pl5321hcea2a8b_3

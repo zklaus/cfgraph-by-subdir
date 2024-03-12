@@ -1,0 +1,5 @@
+go-sqlcmd-0.7.0-ha8f183a_0
+go-sqlcmd-0.8.0-ha8f183a_0
+go-sqlcmd-0.8.1-ha8f183a_0
+go-sqlcmd-0.9.3-ha8f183a_0
+go-sqlcmd-0.10.0-ha8f183a_0

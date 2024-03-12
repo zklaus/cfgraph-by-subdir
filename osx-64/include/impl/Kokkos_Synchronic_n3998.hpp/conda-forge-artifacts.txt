@@ -1,0 +1,7 @@
+pytrilinos-12.10.1-py27_0
+pytrilinos-12.10.1-py27_1
+trilinos-12.10.1-0
+pytrilinos-12.10.1-py27h7127e17_2
+trilinos-12.10.1-h485e6cb_1
+trilinos-12.10.1-hc9a798d_1
+pytrilinos-12.10.1-py27h1cf269a_2

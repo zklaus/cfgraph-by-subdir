@@ -1,0 +1,8 @@
+libheif-1.16.2-lgpl_h87a4516_0
+libheif-1.16.2-gpl_h5efc605_100
+libheif-1.16.2-gpl_h703c3a6_101
+libheif-1.16.2-lgpl_ha03c656_1
+libheif-1.16.2-lgpl_h5ef7f92_2
+libheif-1.16.2-gpl_ha89e045_102
+libheif-1.16.2-lgpl_hfdc3276_3
+libheif-1.16.2-gpl_h1981033_103

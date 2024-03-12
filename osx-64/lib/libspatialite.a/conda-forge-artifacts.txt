@@ -1,0 +1,11 @@
+libspatialite-4.3.0a-10
+libspatialite-4.3.0a-11
+libspatialite-4.3.0a-12
+libspatialite-4.3.0a-18
+libspatialite-4.3.0a-19
+libspatialite-4.3.0a-4
+libspatialite-4.3.0a-5
+libspatialite-4.3.0a-6
+libspatialite-4.3.0a-7
+libspatialite-4.3.0a-8
+libspatialite-4.3.0a-9

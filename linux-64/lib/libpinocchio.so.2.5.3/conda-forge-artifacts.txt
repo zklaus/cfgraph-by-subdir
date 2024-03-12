@@ -1,0 +1,8 @@
+pinocchio-2.5.3-py37h781df8e_0
+pinocchio-2.5.3-py36h0fc30dd_0
+pinocchio-2.5.3-py37ha828af1_0
+pinocchio-2.5.3-py39hf44a470_0
+pinocchio-2.5.3-py39he624fa7_0
+pinocchio-2.5.3-py38hd0b3ebc_0
+pinocchio-2.5.3-py38ha65b770_0
+pinocchio-2.5.3-py36h1e3c62c_0

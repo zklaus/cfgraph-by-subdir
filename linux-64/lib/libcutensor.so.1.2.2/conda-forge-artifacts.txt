@@ -1,0 +1,16 @@
+cutensor-1.2.2.5-h01f27c4_0
+cutensor-1.2.2.5-hc0a50b0_0
+cutensor-1.2.2.5-hc0a50b0_1
+cutensor-1.2.2.5-h01f27c4_1
+cutensor-1.2.2.5-h1a5f58c_2
+cutensor-1.2.2.5-h8b44402_2
+cutensor-1.2.2.5-h96e36e3_2
+cutensor-1.2.2.5-h8b44402_3
+cutensor-1.2.2.5-h1a5f58c_3
+cutensor-1.2.2.5-h96e36e3_3
+cutensor-1.2.2.5-h96e36e3_4
+cutensor-1.2.2.5-h1a5f58c_4
+cutensor-1.2.2.5-h8b44402_4
+cutensor-1.2.2.5-h96e36e3_5
+cutensor-1.2.2.5-h1a5f58c_5
+cutensor-1.2.2.5-h8b44402_5

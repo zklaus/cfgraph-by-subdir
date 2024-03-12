@@ -1,0 +1,1 @@
+terraform-provider-gitlab-2.8.0-h918b63b_0

@@ -1,0 +1,8 @@
+rabbitmq-server-3.9.9-ha770c72_0
+rabbitmq-server-3.9.10-ha770c72_0
+rabbitmq-server-3.9.11-ha770c72_0
+rabbitmq-server-3.9.12-ha770c72_0
+rabbitmq-server-3.9.13-ha770c72_0
+rabbitmq-server-3.9.14-ha770c72_0
+rabbitmq-server-3.9.15-ha770c72_0
+rabbitmq-server-3.10.2-ha770c72_0

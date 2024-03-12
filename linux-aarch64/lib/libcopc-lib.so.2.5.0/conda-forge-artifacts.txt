@@ -1,0 +1,4 @@
+copc-lib-2.5.0-py37h020193f_0
+copc-lib-2.5.0-py310h9ceb0a0_0
+copc-lib-2.5.0-py38hbcd4e1f_0
+copc-lib-2.5.0-py39h110580c_0

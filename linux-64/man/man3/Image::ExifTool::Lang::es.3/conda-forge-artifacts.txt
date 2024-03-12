@@ -1,0 +1,5 @@
+exiftool-11.96-pl526_0
+exiftool-11.99-pl526_0
+exiftool-12.30-pl5262ha770c72_0
+exiftool-12.30-pl5321ha770c72_1
+exiftool-12.42-pl5321ha770c72_0

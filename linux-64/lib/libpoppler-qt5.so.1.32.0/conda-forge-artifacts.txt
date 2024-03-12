@@ -1,0 +1,5 @@
+poppler-qt-23.07.0-hedeba34_0
+poppler-qt-23.08.0-hedeba34_0
+poppler-qt-23.08.0-h06469b4_1
+poppler-qt-23.08.0-hb56bd21_2
+poppler-qt-23.08.0-hb56bd21_3

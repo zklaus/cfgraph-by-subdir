@@ -1,0 +1,9 @@
+r-diptest-0.75_7-r3.3.2_0
+r-diptest-0.75_7-r3.4.1_0
+r-diptest-0.75_7-r351hc070d10_1
+r-diptest-0.75_7-r341hc070d10_1
+r-diptest-0.75_7-r351h96ca727_1001
+r-diptest-0.75_7-r36hcdcec82_1002
+r-diptest-0.75_7-r35hcdcec82_1002
+r-diptest-0.75_7-r36hcdcec82_1003
+r-diptest-0.75_7-r40hcdcec82_1003

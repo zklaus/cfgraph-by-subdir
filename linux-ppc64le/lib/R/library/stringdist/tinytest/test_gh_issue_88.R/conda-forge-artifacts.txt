@@ -1,0 +1,14 @@
+r-stringdist-0.9.7-r41h2be38b1_0
+r-stringdist-0.9.7-r40h2be38b1_0
+r-stringdist-0.9.8-r41h2be38b1_0
+r-stringdist-0.9.8-r40h2be38b1_0
+r-stringdist-0.9.8-r40h2be38b1_1
+r-stringdist-0.9.8-r41h2be38b1_1
+r-stringdist-0.9.8-r42hfb29466_2
+r-stringdist-0.9.8-r41hfb29466_2
+r-stringdist-0.9.9-r41hfb29466_0
+r-stringdist-0.9.9-r42hfb29466_0
+r-stringdist-0.9.10-r41hfb29466_0
+r-stringdist-0.9.10-r42hfb29466_0
+r-stringdist-0.9.10-r42h94388fc_1
+r-stringdist-0.9.10-r43h94388fc_1

@@ -1,0 +1,3 @@
+superlu_dist-6.3.1-h40bd63f_0
+superlu_dist-6.3.1-h7df07b8_1
+superlu_dist-6.3.1-hfdb8677_1

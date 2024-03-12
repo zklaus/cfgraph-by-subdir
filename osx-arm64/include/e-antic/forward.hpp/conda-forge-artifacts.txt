@@ -1,0 +1,12 @@
+libeantic-1.1.0-hda9e108_0
+libeantic-1.1.0-h1dbaf39_1
+libeantic-1.1.0-h6a566a6_2
+libeantic-1.1.1-h6a566a6_0
+libeantic-1.2.0-h6a566a6_0
+libeantic-1.2.1-hf4d1de7_0
+libeantic-1.2.1-h029192a_1
+libeantic-1.2.1-ha615754_2
+libeantic-1.2.1-ha3cddbd_3
+libeantic-1.2.2-ha3cddbd_0
+libeantic-1.3.0-ha3cddbd_0
+libeantic-1.3.0-h7630d97_1

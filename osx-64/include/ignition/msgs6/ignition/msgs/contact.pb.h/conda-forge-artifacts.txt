@@ -1,0 +1,15 @@
+libignition-msgs6-6.0.0-hbddb0d8_0
+libignition-msgs6-6.0.0-h5a7739b_1
+libignition-msgs6-6.0.0-h5a7739b_2
+libignition-msgs6-6.1.0-h7744e35_0
+libignition-msgs6-6.1.0-h40f13bb_1
+libignition-msgs6-6.2.0-h40f13bb_0
+libignition-msgs6-6.2.0-hf2f16fe_1
+libignition-msgs6-6.2.0-hf2f16fe_2
+libignition-msgs6-6.2.0-hf2f16fe_3
+libignition-msgs6-6.4.0-hefdb7e8_0
+libignition-msgs6-6.4.0-h541510c_1
+libignition-msgs6-6.5.0-hb39fc5e_0
+libignition-msgs6-6.5.0-hb39fc5e_1
+libignition-msgs6-6.5.0-hfb7e794_2
+libignition-msgs6-6.5.0-h08ae71b_3

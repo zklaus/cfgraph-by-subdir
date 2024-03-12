@@ -1,0 +1,6 @@
+fairseq-0.10.1-py38h4c96930_0
+fairseq-0.10.1-py37h08fd248_0
+fairseq-0.10.1-py36he38d939_0
+fairseq-0.10.2-py37h08fd248_0
+fairseq-0.10.2-py38h4c96930_0
+fairseq-0.10.2-py36he38d939_0

@@ -1,0 +1,9 @@
+r-bibtex-0.4.2.2-r36hcdcec82_0
+r-bibtex-0.4.2.2-r36hcdcec82_1
+r-bibtex-0.4.2.2-r40hcdcec82_1
+r-bibtex-0.4.2.3-r36h6ddfea1_0
+r-bibtex-0.4.2.3-r40h6ddfea1_0
+r-bibtex-0.4.2.3-r40h96a179c_0
+r-bibtex-0.4.2.3-r41h96a179c_0
+r-bibtex-0.4.2.3-r41hc7730c6_1
+r-bibtex-0.4.2.3-r42hc7730c6_1

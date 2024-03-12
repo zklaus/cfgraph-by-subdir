@@ -1,0 +1,2 @@
+trexio-2.3.0-nompi_h638a216_100
+trexio-2.3.0-mpi_openmpi_h92ead01_0

@@ -1,0 +1,2 @@
+terraform-provider-aws-1.33.0-h81701ea_0
+terraform-provider-aws-1.33.0-h81701ea_1000

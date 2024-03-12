@@ -1,0 +1,4 @@
+magics-4.9.0-hef10196_1
+magics-4.9.1-hef10196_0
+magics-4.9.1-had18357_1
+magics-4.9.1-h9d4519d_2

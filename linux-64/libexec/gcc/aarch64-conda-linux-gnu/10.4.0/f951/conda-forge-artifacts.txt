@@ -1,0 +1,8 @@
+gfortran_impl_linux-aarch64-10.4.0-hc3dc291_16
+gcc_bootstrap_linux-aarch64-10.4.0-hcdf83c7_10
+gfortran_impl_linux-aarch64-10.4.0-hc3dc291_17
+gfortran_impl_linux-aarch64-10.4.0-h4ed7168_18
+gcc_bootstrap_linux-aarch64-10.4.0-hb777ada_11
+gfortran_impl_linux-aarch64-10.4.0-h4ed7168_19
+gcc_bootstrap_linux-aarch64-10.4.0-hb777ada_12
+gcc_bootstrap_linux-aarch64-10.4.0-hb777ada_13

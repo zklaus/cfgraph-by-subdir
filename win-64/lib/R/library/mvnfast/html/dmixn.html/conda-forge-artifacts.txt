@@ -1,0 +1,10 @@
+r-mvnfast-0.2.5-r35h796a38f_0
+r-mvnfast-0.2.5-r36h796a38f_0
+r-mvnfast-0.2.5-r35haf2acee_1
+r-mvnfast-0.2.5-r36haf2acee_1
+r-mvnfast-0.2.5-r36hb8e368e_2
+r-mvnfast-0.2.5-r40hb8e368e_2
+r-mvnfast-0.2.5.1-r36hf144a93_0
+r-mvnfast-0.2.5.1-r40hf144a93_0
+r-mvnfast-0.2.7-r40h399f8d5_0
+r-mvnfast-0.2.7-r36h399f8d5_0

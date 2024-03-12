@@ -1,0 +1,3 @@
+libcf-1.0.2-py35h426daee_5
+libcf-1.0.2-py36h426daee_5
+libcf-1.0.2-py27h426daee_5

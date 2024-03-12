@@ -1,0 +1,4 @@
+soqt6-1.6.1-h886dd84_0
+soqt-1.6.1-h57e8e15_0
+soqt-1.6.1-hf7a74aa_1
+soqt6-1.6.1-ha861fcb_1

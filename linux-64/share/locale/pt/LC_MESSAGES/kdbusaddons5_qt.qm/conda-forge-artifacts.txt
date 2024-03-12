@@ -1,0 +1,13 @@
+kdbusaddons-5.64.0-h73816c6_0
+kdbusaddons-5.65.0-h73816c6_0
+kdbusaddons-5.66.0-h73816c6_0
+kdbusaddons-5.67.0-h73816c6_0
+kdbusaddons-5.68.0-h73816c6_0
+kdbusaddons-5.69.0-h73816c6_0
+kdbusaddons-5.70.0-h73816c6_0
+kdbusaddons-5.71.0-h73816c6_0
+kdbusaddons-5.72.0-h73816c6_0
+kdbusaddons-5.73.0-h73816c6_0
+kdbusaddons-5.74.0-h73816c6_0
+kdbusaddons-5.75.0-h73816c6_0
+kdbusaddons-5.76.0-h7ccc76a_0

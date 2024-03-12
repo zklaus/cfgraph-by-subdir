@@ -1,0 +1,2 @@
+freeimage-3.17.0-0
+freeimage-3.18.0-h4a8c4bd_0

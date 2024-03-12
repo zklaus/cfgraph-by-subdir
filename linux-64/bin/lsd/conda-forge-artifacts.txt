@@ -1,0 +1,5 @@
+lsdeluxe-0.21.0-h64666c3_0
+lsdeluxe-0.22.0-h64666c3_0
+lsdeluxe-0.23.0-h64666c3_0
+lsdeluxe-0.23.1-h64666c3_0
+lsdeluxe-1.0.0-h1ffa460_0

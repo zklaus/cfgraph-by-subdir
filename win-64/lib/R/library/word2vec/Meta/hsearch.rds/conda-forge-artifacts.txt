@@ -1,0 +1,5 @@
+r-word2vec-0.3.4-r40ha856d6a_0
+r-word2vec-0.3.4-r41ha856d6a_0
+r-word2vec-0.3.4-r41ha856d6a_1
+r-word2vec-0.3.4-r41ha856d6a_2
+r-word2vec-0.4.0-r41ha856d6a_0

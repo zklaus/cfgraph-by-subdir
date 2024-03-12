@@ -1,0 +1,8 @@
+lue-0.3.6-py38h679ab4d_0
+lue-0.3.6-py38hed3b6f7_1
+lue-0.3.7-py38h3c8360d_0
+lue-0.3.7-py38h26a344c_1
+lue-0.3.7-py38h26a344c_2
+lue-0.3.7-py38h26a344c_3
+lue-0.3.7-py38h161f678_4
+lue-0.3.7-py38hd0182d7_5

@@ -1,0 +1,3 @@
+libgit2-1.3.0-h6435b5b_0
+libgit2-1.3.0-h6435b5b_1
+libgit2-1.3.0-h4d4437b_1

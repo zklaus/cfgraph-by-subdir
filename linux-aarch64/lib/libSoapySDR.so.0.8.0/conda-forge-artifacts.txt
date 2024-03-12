@@ -1,0 +1,6 @@
+soapysdr-0.8.0-py36h72e8208_0
+soapysdr-0.8.0-py37h7ed3beb_0
+soapysdr-0.8.0-py36h28cc557_0
+soapysdr-0.8.0-py37hbc413c5_0
+soapysdr-0.8.0-py38he922c84_0
+soapysdr-0.8.0-py39hb300cb6_0

@@ -1,0 +1,9 @@
+python-htcondor-10.8.0-py312h35bc130_1
+python-htcondor-10.0.7-py312h35bc130_1
+python-htcondor-23.0.0-py312h35bc130_0
+python-htcondor-23.1.0-py312h35bc130_0
+python-htcondor-23.0.1-py312h35bc130_0
+python-htcondor-9.0.19-py312had9a684_1
+python-htcondor-9.0.20-py312had9a684_0
+python-htcondor-23.1.0-py312h4f6598f_1
+python-htcondor-23.2.0-py312h4f6598f_0

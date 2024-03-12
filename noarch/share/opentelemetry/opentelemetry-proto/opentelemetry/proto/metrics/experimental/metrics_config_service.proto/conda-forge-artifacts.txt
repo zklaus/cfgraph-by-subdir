@@ -1,0 +1,2 @@
+proto-opentelemetry-proto-0.11.0-hd8ed1ab_0
+proto-opentelemetry-proto-0.12.0-hd8ed1ab_0

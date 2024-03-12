@@ -1,0 +1,15 @@
+suitesparse-5.7.2-hc5ea220_0
+suitesparse-5.10.1-ha39a387_0
+suitesparse-5.10.1-h7cd81ec_1
+superlu_dist-6.2.0-h40bd63f_5
+superlu_dist-6.3.1-h40bd63f_0
+superlu_dist-6.3.1-h7df07b8_1
+superlu_dist-6.3.1-hfdb8677_1
+superlu_dist-6.4.0-hfdb8677_0
+superlu_dist-6.4.0-h7df07b8_0
+superlu_dist-7.1.1-hfdb8677_0
+superlu_dist-7.1.1-h7df07b8_0
+superlu_dist-7.1.1-h7df07b8_1
+superlu_dist-7.1.1-hfdb8677_1
+superlu_dist-7.2.0-hfdb8677_0
+superlu_dist-7.2.0-h7df07b8_0

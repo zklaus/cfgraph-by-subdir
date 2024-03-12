@@ -1,0 +1,17 @@
+r-clvalid-0.6_6-r36h6115d3f_0
+r-clvalid-0.6_6-r35h6115d3f_0
+r-clvalid-0.6_6-r36h6115d3f_1
+r-clvalid-0.6_6-r40h6115d3f_1
+r-clvalid-0.6_7-r36h6115d3f_0
+r-clvalid-0.6_7-r40h6115d3f_0
+r-clvalid-0.6_8-r36h6115d3f_0
+r-clvalid-0.6_8-r40h6115d3f_0
+r-clvalid-0.6_9-r36h6115d3f_0
+r-clvalid-0.6_9-r40h6115d3f_0
+r-clvalid-0.7-r40hc72bb7e_0
+r-clvalid-0.7-r36hc72bb7e_0
+r-clvalid-0.7-r41hc72bb7e_0
+r-clvalid-0.7-r41hc72bb7e_1
+r-clvalid-0.7-r42hc72bb7e_1
+r-clvalid-0.7-r42hc72bb7e_2
+r-clvalid-0.7-r43hc72bb7e_2

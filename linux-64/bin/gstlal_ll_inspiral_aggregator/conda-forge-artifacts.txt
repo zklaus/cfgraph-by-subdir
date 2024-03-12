@@ -1,0 +1,5 @@
+gstlal-ugly-1.6.6-py27hc50d86c_0
+gstlal-ugly-1.6.6-py27hbd9e1a9_1
+gstlal-inspiral-1.7.1-py27ha4c2109_0
+gstlal-inspiral-1.7.2-py27ha4c2109_0
+gstlal-inspiral-1.7.3-py27ha4c2109_0

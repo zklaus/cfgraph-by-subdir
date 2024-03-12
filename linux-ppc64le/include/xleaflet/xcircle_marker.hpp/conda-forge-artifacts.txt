@@ -1,0 +1,4 @@
+xleaflet-0.13.1-h2acdbc0_1
+xleaflet-0.15.0-h2acdbc0_0
+xleaflet-0.16.0-h2acdbc0_0
+xleaflet-0.16.0-h06f31f1_1

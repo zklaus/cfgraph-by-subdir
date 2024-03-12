@@ -1,0 +1,6 @@
+lcalc-1.23-hab5a3d0_1004
+lcalc-1.23-h850fa7c_1004
+lcalc-1.23-hb014e48_1005
+lcalc-1.23-h4e3e9a1_1006
+lcalc-2.0.5-h4e3e9a1_0
+lcalc-2.0.5-h3264cc0_1

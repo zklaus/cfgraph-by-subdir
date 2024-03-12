@@ -1,0 +1,17 @@
+libarrow-flight-sql-14.0.1-h00a9172_0_cuda
+libarrow-flight-sql-14.0.1-ha892b55_0_cpu
+libarrow-flight-sql-14.0.1-h00a9172_1_cuda
+libarrow-flight-sql-14.0.1-ha892b55_1_cpu
+libarrow-flight-sql-14.0.1-h00a9172_2_cuda
+libarrow-flight-sql-14.0.1-ha892b55_2_cpu
+libarrow-flight-sql-14.0.1-ha892b55_3_cpu
+libarrow-flight-sql-14.0.1-h00a9172_3_cuda
+libarrow-flight-sql-14.0.1-ha892b55_4_cpu
+libarrow-flight-sql-14.0.1-h00a9172_4_cuda
+libarrow-flight-sql-14.0.1-ha892b55_5_cpu
+libarrow-flight-sql-14.0.1-h00a9172_5_cuda
+libarrow-flight-sql-14.0.1-ha892b55_6_cpu
+libarrow-flight-sql-14.0.1-h00a9172_6_cuda
+libarrow-flight-sql-14.0.1-h00a9172_7_cuda
+libarrow-flight-sql-14.0.1-ha892b55_7_cpu
+libarrow-flight-sql-14.0.1-h00a9172_8_cuda

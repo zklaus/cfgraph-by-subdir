@@ -1,0 +1,4 @@
+easybuild-easyconfigs-4.6.0-py310h2ec42d9_1
+easybuild-easyconfigs-4.6.1-py310h2ec42d9_0
+easybuild-easyconfigs-4.6.2-py310h2ec42d9_0
+easybuild-easyconfigs-4.7.0-py310h2ec42d9_0

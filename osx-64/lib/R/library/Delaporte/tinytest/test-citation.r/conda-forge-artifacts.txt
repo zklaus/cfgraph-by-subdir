@@ -1,0 +1,12 @@
+r-delaporte-8.0.2-r40h30cbcce_0
+r-delaporte-8.0.2-r41h30cbcce_0
+r-delaporte-8.0.3-r41h63324e3_0
+r-delaporte-8.0.3-r40h63324e3_0
+r-delaporte-8.0.3-r42h63324e3_1
+r-delaporte-8.0.3-r41h63324e3_1
+r-delaporte-8.1.0-r41h6cdd908_0
+r-delaporte-8.1.0-r42h6cdd908_0
+r-delaporte-8.1.0-r43he780007_1
+r-delaporte-8.1.0-r42he780007_1
+r-delaporte-8.1.1-r42he780007_0
+r-delaporte-8.1.1-r43he780007_0

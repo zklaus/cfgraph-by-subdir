@@ -1,0 +1,1 @@
+terraform-provider-ignition-1.0.0-0

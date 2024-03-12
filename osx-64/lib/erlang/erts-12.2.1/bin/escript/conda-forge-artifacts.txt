@@ -1,0 +1,4 @@
+erlang-24.2.1-pl5321hd632bb8_0
+erlang-24.2.1-pl5321h4ebe6b3_0
+erlang-24.2.2-pl5321h37eb3dd_0
+erlang-24.2.2-pl5321h91513c9_0

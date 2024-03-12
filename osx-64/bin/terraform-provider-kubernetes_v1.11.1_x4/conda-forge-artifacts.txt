@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-1.11.1-ha8a90a3_0

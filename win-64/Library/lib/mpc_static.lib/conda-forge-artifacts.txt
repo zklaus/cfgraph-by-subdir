@@ -1,0 +1,10 @@
+mpc-1.0.3-vc14_1
+mpc-1.0.3-vc14_2
+mpc-1.0.3-vc14_3
+mpc-1.0.3-vc14_4
+mpc-1.1.0-vc14_4
+mpc-1.1.0-hc30fa7e_6
+mpc-1.1.0-h9e20aa4_1006
+mpc-1.1.0-h7edee0f_1007
+mpc-1.1.0-h7edee0f_1008
+mpc-1.1.0-h7edee0f_1009

@@ -1,0 +1,17 @@
+pari-2.11.4-h1cd4dcc_0
+pari-2.11.4-h1cd4dcc_1
+pari-2.13.2-h1cd4dcc_0
+pari-2.13.2-ha6c72c4_1_single
+pari-2.13.2-h95ccf47_1_pthread
+pari-2.13.2-hb7e482d_1_pthread
+pari-2.13.2-h01530d1_1_single
+pari-2.13.3-h95ccf47_1_pthread
+pari-2.13.3-ha6c72c4_1_single
+pari-2.13.3-h01530d1_1_single
+pari-2.13.3-hb7e482d_1_pthread
+pari-2.15.2-hee76a8e_2_pthread
+pari-2.15.2-h4234407_2_single
+pari-2.15.3-hee76a8e_2_pthread
+pari-2.15.3-h4234407_2_single
+pari-2.15.4-haeeeed7_2_pthread
+pari-2.15.4-hfe26314_2_single

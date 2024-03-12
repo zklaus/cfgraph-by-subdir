@@ -1,0 +1,11 @@
+pygame-2.1.3.dev8-py39h62f8cdd_1
+pygame-2.1.3-py39h62f8cdd_0
+pygame-2.2.0-py39h62f8cdd_0
+pygame-2.2.0-py39hf30ffc7_1
+pygame-2.3.0-py39hf30ffc7_0
+pygame-2.4.0-py39h91db508_0
+pygame-2.5.0-py39h91db508_0
+pygame-2.5.1-py39h91db508_0
+pygame-2.5.2-py39h91db508_0
+pygame-2.5.2-py39hb83dceb_1
+pygame-2.5.2-py39hb83dceb_2

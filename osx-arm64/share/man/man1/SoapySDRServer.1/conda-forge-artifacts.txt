@@ -1,0 +1,1 @@
+soapysdr-module-remote-0.5.2-h4306ade_2

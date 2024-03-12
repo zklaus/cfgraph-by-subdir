@@ -1,0 +1,17 @@
+lalinspiral-3.0.0-py39h61f6d21_0
+lalinspiral-3.0.0-py38ha9ea16e_0
+lalinspiral-3.0.0-py310h1497e9a_0
+lalinspiral-3.0.2-py38h971d552_0
+lalinspiral-3.0.2-py39h94aca2f_0
+lalinspiral-3.0.2-py310h3658f69_0
+lalinspiral-3.0.2-py38h971d552_1
+lalinspiral-3.0.2-py310h3658f69_1
+lalinspiral-3.0.2-py39h94aca2f_1
+lalinspiral-3.0.2-py311heec17e0_2
+lalinspiral-3.0.2-py38h971d552_2
+lalinspiral-3.0.2-py310h3658f69_2
+lalinspiral-3.0.2-py39h94aca2f_2
+lalinspiral-3.0.2-py38h971d552_3
+lalinspiral-3.0.2-py39h94aca2f_3
+lalinspiral-3.0.2-py310h3658f69_3
+lalinspiral-3.0.2-py311heec17e0_3

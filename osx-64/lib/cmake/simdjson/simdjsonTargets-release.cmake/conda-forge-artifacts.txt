@@ -1,0 +1,8 @@
+simdjson-3.2.2-h1c7c39f_1
+simdjson-3.2.3-h1c7c39f_1
+simdjson-3.3.0-h1c7c39f_0
+simdjson-3.4.0-he51d815_0
+simdjson-3.5.0-he51d815_0
+simdjson-3.6.0-he51d815_0
+simdjson-3.6.1-he51d815_0
+simdjson-3.6.2-he51d815_0

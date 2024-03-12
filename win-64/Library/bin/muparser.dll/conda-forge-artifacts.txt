@@ -1,0 +1,11 @@
+muparser-2.2.5-2
+muparser-2.2.5-vc10_2
+muparser-2.2.5-vc14_2
+muparser-2.2.5-vc9_2
+muparser-2.2.6.1-he025d50_0
+muparser-2.2.6.1-he025d50_1
+muparser-2.3.0-ha925a31_0
+muparser-2.3.1-ha925a31_0
+muparser-2.3.2-ha925a31_0
+muparser-2.3.2-h0e60522_1
+muparser-2.3.4-h63175ca_0

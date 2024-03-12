@@ -1,0 +1,2 @@
+einsums-0.3-mkl_h67be55b_0
+einsums-0.3-openblas_h9383f81_0

@@ -1,0 +1,1 @@
+pyagrum-1.5.2-py39h2ad29b5_0

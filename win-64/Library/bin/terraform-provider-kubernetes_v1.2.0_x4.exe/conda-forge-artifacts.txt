@@ -1,0 +1,2 @@
+terraform-provider-kubernetes-1.2.0-0
+terraform-provider-kubernetes-1.2.0-1000

@@ -1,0 +1,4 @@
+openmp-4.0.0-vc14_0
+openmp-5.0.0-vc14_0
+openmp-5.0.0-vc14_1
+openmp-6.0.0-vc14_0

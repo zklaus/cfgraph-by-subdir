@@ -1,0 +1,12 @@
+spfft-1.0.2-hdcc3a94_0
+spfft-1.0.2-h6936a13_0
+spfft-1.0.2-hdcc3a94_1
+spfft-1.0.2-h6936a13_1
+spfft-1.0.3-hdcc3a94_0
+spfft-1.0.3-h6936a13_0
+spfft-1.0.4-hdcc3a94_0
+spfft-1.0.4-h6936a13_0
+spfft-1.0.5-h691ce0c_0
+spfft-1.0.5-haff0a80_0
+spfft-1.0.6-haff0a80_0
+spfft-1.0.6-h691ce0c_0

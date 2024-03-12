@@ -1,0 +1,14 @@
+opencv-4.1.0-py36hce2de41_0
+opencv-4.1.0-py37hce2de41_0
+opencv-4.1.0-py36hce2de41_1
+opencv-4.1.0-py37hce2de41_1
+opencv-4.1.0-py37h384278d_2
+opencv-4.1.0-py36h384278d_2
+opencv-4.1.0-py37h384278d_3
+opencv-4.1.0-py36h384278d_3
+opencv-4.1.0-py37hb4945ee_4
+opencv-4.1.0-py36hb4945ee_4
+opencv-4.1.0-py36hb4945ee_5
+opencv-4.1.0-py37hb4945ee_5
+opencv-4.1.0-py36hb4945ee_6
+opencv-4.1.0-py37hb4945ee_6

@@ -1,0 +1,5 @@
+aria2-1.36.0-h84cad9e_2
+aria2-1.36.0-h60ae3c3_3
+aria2-1.36.0-h504a9d1_4
+aria2-1.37.0-h48f368d_0
+aria2-1.37.0-he5a3eb3_1

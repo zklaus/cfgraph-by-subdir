@@ -1,0 +1,8 @@
+xeus-python-0.13.9-py310hb049908_0
+xeus-python-0.13.9-py38hf019b87_0
+xeus-python-0.13.9-py37ha5f7dc1_0
+xeus-python-0.13.9-py39haa5cecf_0
+xeus-python-0.13.9-py39haa5cecf_1
+xeus-python-0.13.9-py37ha5f7dc1_1
+xeus-python-0.13.9-py310hb049908_1
+xeus-python-0.13.9-py38hf019b87_1

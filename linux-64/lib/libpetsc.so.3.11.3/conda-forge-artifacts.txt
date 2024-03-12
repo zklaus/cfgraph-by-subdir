@@ -1,0 +1,8 @@
+petsc-3.11.3-h624fa55_0
+petsc-3.11.3-h45d86e8_0
+petsc-3.11.3-h624fa55_1
+petsc-3.11.3-h45d86e8_1
+petsc-3.11.3-h6ac6acf_2
+petsc-3.11.3-hf3069c2_2
+petsc-3.11.3-h6ac6acf_3
+petsc-3.11.3-hf3069c2_3

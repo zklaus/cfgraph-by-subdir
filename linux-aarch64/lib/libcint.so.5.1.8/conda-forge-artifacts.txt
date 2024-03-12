@@ -1,0 +1,3 @@
+libcint-5.1.8-h6f75f1f_0
+libcint-5.1.8-h16515ec_0
+libcint-5.1.8-h3b1f3d0_0

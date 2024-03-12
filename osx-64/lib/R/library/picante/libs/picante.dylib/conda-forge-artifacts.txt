@@ -1,0 +1,12 @@
+r-picante-1.8-r36h159158b_1
+r-picante-1.8.1-r36h17f1fa6_0
+r-picante-1.8.1-r40h17f1fa6_1
+r-picante-1.8.1-r36h17f1fa6_1
+r-picante-1.8.2-r40h17f1fa6_0
+r-picante-1.8.2-r36h17f1fa6_0
+r-picante-1.8.2-r41h28b5c78_0
+r-picante-1.8.2-r40h28b5c78_0
+r-picante-1.8.2-r41h815d134_1
+r-picante-1.8.2-r42h815d134_1
+r-picante-1.8.2-r42h6dc245f_2
+r-picante-1.8.2-r43h6dc245f_2

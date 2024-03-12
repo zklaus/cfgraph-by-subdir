@@ -1,0 +1,13 @@
+pycraf-1.0.0-py37ha1b3eb9_0
+pycraf-1.0.0-py36ha1b3eb9_0
+pycraf-1.0.1-py37ha1b3eb9_0
+pycraf-1.0.1-py36ha1b3eb9_0
+pycraf-1.0.2-py36h863e41a_0
+pycraf-1.0.2-py37ha1cc60f_0
+pycraf-1.0.3-py36h863e41a_0
+pycraf-1.0.3-py37ha1cc60f_0
+pycraf-1.0.4-py36heabc43c_0
+pycraf-1.0.4-py37h33780ca_0
+pycraf-1.1.0-py37h5e312ef_0
+pycraf-1.1.0-py36heb28341_0
+pycraf-1.1.1-py37h326c9ff_0

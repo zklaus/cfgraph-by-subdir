@@ -1,0 +1,6 @@
+xeus-python-0.8.4-py36hdb11119_0
+xeus-python-0.8.4-py38hbf85e49_0
+xeus-python-0.8.4-py37h99015e2_0
+xeus-python-0.8.4-py37h99015e2_1
+xeus-python-0.8.4-py38hbf85e49_1
+xeus-python-0.8.4-py36hdb11119_1

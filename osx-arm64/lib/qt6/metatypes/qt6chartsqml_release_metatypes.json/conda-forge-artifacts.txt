@@ -1,0 +1,7 @@
+qt6-charts-6.5.0-h7ea286d_0
+qt6-charts-6.5.0-h7ea286d_1
+qt6-charts-6.5.1-h8dd5bc4_0
+qt6-charts-6.5.2-h8dd5bc4_0
+qt6-charts-6.5.3-h463b476_0
+qt6-charts-6.6.0-h463b476_0
+qt6-charts-6.6.1-h6629f32_0

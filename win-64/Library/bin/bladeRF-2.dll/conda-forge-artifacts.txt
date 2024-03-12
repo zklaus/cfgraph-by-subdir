@@ -1,0 +1,3 @@
+libbladerf2-2021.10-h8ffe710_0
+libbladerf2-2022.11-hcfcfb64_0
+libbladerf2-2023.02-hcfcfb64_0

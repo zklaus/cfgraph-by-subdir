@@ -1,0 +1,9 @@
+dcmtk-3.6.7-ha0e7638_0
+dcmtk-3.6.7-he1a42fa_1
+dcmtk-3.6.7-ha0e7638_1
+dcmtk-3.6.7-he1a42fa_2
+dcmtk-3.6.7-ha0e7638_2
+dcmtk-3.6.7-heca80e8_3
+dcmtk-3.6.7-h63e84fa_3
+dcmtk-3.6.7-he56de54_4
+dcmtk-3.6.7-h93481db_5

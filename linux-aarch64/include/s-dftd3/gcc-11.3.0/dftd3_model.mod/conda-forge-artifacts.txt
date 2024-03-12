@@ -1,0 +1,3 @@
+simple-dftd3-0.7.0-ha2da783_0
+simple-dftd3-0.7.0-ha2da783_1
+simple-dftd3-0.7.0-ha2da783_2

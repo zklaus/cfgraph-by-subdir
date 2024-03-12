@@ -1,0 +1,3 @@
+r-sjstats-0.14.2_3-r341_0
+r-sjstats-0.14.3-r341_0
+r-sjstats-0.15.0-r341_0

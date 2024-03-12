@@ -1,0 +1,6 @@
+winreg-4.1.2-h57928b3_0
+winreg-5.0.1-h57928b3_0
+winreg-5.1.0-h57928b3_0
+winreg-5.1.1-h57928b3_0
+winreg-6.0.0-h57928b3_0
+winreg-6.1.0-h57928b3_0

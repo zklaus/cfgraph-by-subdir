@@ -1,0 +1,2 @@
+pyagrum-0.13.2-py36hb8a7f35_1
+pyagrum-0.13.2-py27hb8a7f35_1

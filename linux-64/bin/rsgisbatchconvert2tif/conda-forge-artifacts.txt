@@ -1,0 +1,3 @@
+rsgislib-4.1.95-py36h8024a43_1
+rsgislib-4.1.95-py37h4d04483_1
+rsgislib-4.1.95-py38hdaa798b_1

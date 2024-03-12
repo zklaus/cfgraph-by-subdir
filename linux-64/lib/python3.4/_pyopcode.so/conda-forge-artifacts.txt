@@ -1,0 +1,8 @@
+pyopcode-0.2.0-np110py34_0
+pyopcode-0.2.0-np111py34_0
+pyopcode-0.3.3-np110py34_0
+pyopcode-0.3.3-np110py34_1
+pyopcode-0.3.3-np110py34_2
+pyopcode-0.3.3-np111py34_0
+pyopcode-0.3.3-np111py34_1
+pyopcode-0.3.3-np111py34_2

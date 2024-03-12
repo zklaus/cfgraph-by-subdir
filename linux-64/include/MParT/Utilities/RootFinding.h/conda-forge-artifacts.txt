@@ -1,0 +1,6 @@
+mpart-2.2.0-py38h01999da_0
+mpart-2.2.0-py311h17fe140_0
+mpart-2.2.0-py310h8d4cdd2_0
+mpart-2.2.0-py312hd1e73ef_0
+mpart-2.2.0-py39h32d718f_0
+mpart-2.2.0-py39hfeb2cd2_0

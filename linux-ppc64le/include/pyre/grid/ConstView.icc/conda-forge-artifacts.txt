@@ -1,0 +1,8 @@
+pyre-1.9.9-py37h761690d_3
+pyre-1.9.9-py36h9af5095_3
+pyre-1.9.9-py38hb5f096e_3
+pyre-1.9.9-py39hae22bd0_3
+pyre-1.9.9-py39had50986_4
+pyre-1.9.9-py38ha35a538_4
+pyre-1.9.9-py37hc9b93fd_4
+pyre-1.9.9-py36h08d3667_4

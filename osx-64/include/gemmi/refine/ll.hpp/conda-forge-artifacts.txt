@@ -1,0 +1,12 @@
+gemmi-0.6.0-py310h2bfb868_0
+gemmi-0.6.0-py39had167e2_0
+gemmi-0.6.0-py311h4c819dc_0
+gemmi-0.6.0-py39h3d6f5fc_0
+gemmi-0.6.0-py38hc86dbf9_0
+gemmi-0.6.0-py38h8c0d2ee_0
+gemmi-0.6.0-py311h4c819dc_1
+gemmi-0.6.0-py38h8c0d2ee_1
+gemmi-0.6.0-py39had167e2_1
+gemmi-0.6.0-py38hc86dbf9_1
+gemmi-0.6.0-py39h3d6f5fc_1
+gemmi-0.6.0-py310h2bfb868_1

@@ -1,0 +1,2 @@
+terraform-provider-google-3.66.1-h520bb56_0
+terraform-provider-google-3.66.1-h520bb56_1

@@ -1,0 +1,17 @@
+python-3.8.10-h3bd6a85_0_cpython
+python-3.8.10-h4f4e160_1_cpython
+python-3.8.10-h9f07fca_2_cpython
+python-3.8.12-h9f07fca_0_cpython
+python-3.8.12-h9f07fca_1_cpython
+python-3.8.12-h47f6e27_1_cpython
+python-3.8.12-h9f07fca_2_cpython
+python-3.8.12-h47f6e27_2_cpython
+python-3.8.13-h92ab765_0_cpython
+python-3.8.13-h023d47c_0_cpython
+python-3.8.14-hb580693_0_cpython
+python-3.8.14-hac3cb69_0_cpython
+python-3.8.15-hb580693_0_cpython
+python-3.8.15-hac3cb69_0_cpython
+python-3.8.15-ha43d526_1_cpython
+python-3.8.17-ha43d526_0_cpython
+python-3.8.18-hbbe8eec_0_cpython

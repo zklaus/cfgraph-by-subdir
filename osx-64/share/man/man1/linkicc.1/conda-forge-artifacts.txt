@@ -1,0 +1,12 @@
+lcms2-2.11-h174193d_0
+lcms2-2.11-hdc706ca_1
+lcms2-2.11-h11f7e16_1
+lcms2-2.12-h577c468_0
+lcms2-2.13.1-h90f4b2a_0
+lcms2-2.14-h90f4b2a_0
+lcms2-2.14-h29502cd_1
+lcms2-2.15-h29502cd_0
+lcms2-2.15-h2dcdeff_1
+lcms2-2.15-ha53face_2
+lcms2-2.15-hd6ba6f3_3
+lcms2-2.16-ha2f27b4_0

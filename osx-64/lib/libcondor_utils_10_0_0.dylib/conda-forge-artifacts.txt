@@ -1,0 +1,3 @@
+libcondor_utils-10.0.0-hfc382b2_0
+libcondor_utils-10.0.0-h0b3daa4_2
+libcondor_utils-10.0.0-h7bdc19b_2

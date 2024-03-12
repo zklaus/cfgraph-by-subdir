@@ -1,0 +1,9 @@
+sdl2_image-2.6.2-hc3f3f05_0
+sdl2_image-2.6.2-hc3f3f05_1
+sdl2_image-2.6.2-hc3f3f05_2
+sdl2_image-2.6.2-hb71b326_3
+sdl2_image-2.6.3-hb71b326_0
+sdl2_image-2.6.3-h252eba2_1
+sdl2_image-2.6.3-h04cbb99_2
+sdl2_image-2.6.3-ha1c14ff_3
+sdl2_image-2.6.3-h5848f73_4

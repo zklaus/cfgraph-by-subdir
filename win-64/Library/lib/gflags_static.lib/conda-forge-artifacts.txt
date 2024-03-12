@@ -1,0 +1,16 @@
+gflags-2.2.0-vc14_1
+gflags-2.2.0-vc9_1
+gflags-2.2.1-vc14_0
+gflags-2.2.1-vc9_0
+gflags-2.2.1-h2880e7c_0
+gflags-2.2.1-he025d50_0
+gflags-2.2.1-h2880e7c_1
+gflags-2.2.1-he025d50_1
+gflags-2.2.1-h2880e7c_1001
+gflags-2.2.1-he025d50_1001
+gflags-2.2.2-h2880e7c_1000
+gflags-2.2.2-he025d50_1000
+gflags-2.2.2-h2880e7c_1001
+gflags-2.2.2-he025d50_1001
+gflags-2.2.2-he025d50_1002
+gflags-2.2.2-h2880e7c_1002

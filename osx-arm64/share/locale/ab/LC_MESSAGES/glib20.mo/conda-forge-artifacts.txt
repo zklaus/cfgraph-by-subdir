@@ -1,0 +1,10 @@
+libglib-2.74.0-h14ed1c1_0
+libglib-2.74.1-h14ed1c1_0
+libglib-2.74.1-h4646484_1
+libglib-2.76.1-h4646484_0
+libglib-2.76.2-h24e9cb9_0
+libglib-2.76.3-h24e9cb9_0
+libglib-2.76.4-h24e9cb9_0
+libglib-2.78.0-h24e9cb9_0
+libglib-2.78.1-hd9b11f9_0
+libglib-2.78.1-hb438215_1

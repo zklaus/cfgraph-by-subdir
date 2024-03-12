@@ -1,0 +1,3 @@
+kdenlive-19.08.3-h643dea3_0
+kdenlive-19.08.3-hf7d6179_1
+kdenlive-19.08.3-h800c903_3

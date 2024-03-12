@@ -1,0 +1,8 @@
+sqlite-3.26.0-h67949de_1000
+sqlite-3.28.0-ha210b8d_0
+sqlite-3.28.0-hd61ad8c_1
+sqlite-3.29.0-hd61ad8c_0
+sqlite-3.29.0-hd61ad8c_1
+sqlite-3.30.0-hd61ad8c_0
+sqlite-3.30.1-hd61ad8c_0
+sqlite-3.32.3-hd61ad8c_0

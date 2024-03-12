@@ -1,0 +1,6 @@
+plumed-2.7.3-nompi_hc114c32_100
+plumed-2.7.3-mpi_mpich_h85f196e_0
+plumed-2.7.3-mpi_openmpi_hbe91807_0
+plumed-2.8.0-mpi_openmpi_h4b8123d_0
+plumed-2.8.0-nompi_h80597af_100
+plumed-2.8.0-mpi_mpich_h8f48b83_0

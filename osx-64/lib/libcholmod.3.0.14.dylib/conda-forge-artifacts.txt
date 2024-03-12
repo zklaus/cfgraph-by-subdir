@@ -1,0 +1,4 @@
+suitesparse-5.7.2-h0e59142_0
+suitesparse-5.7.2-hbcae1ed_0
+suitesparse-5.10.1-h68a9093_0
+suitesparse-5.10.1-h7aff33d_1

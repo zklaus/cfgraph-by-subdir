@@ -1,0 +1,13 @@
+otagrum-0.2-py37hfb29eb7_5
+otagrum-0.2-py38hfb29eb7_5
+otagrum-0.2-py27hfb29eb7_5
+otagrum-0.2-py36hfb29eb7_5
+otagrum-0.2-py36h8068428_6
+otagrum-0.2-py38hc86320a_6
+otagrum-0.2-py37hc53b890_6
+otagrum-0.2-py37h570ac47_6
+otagrum-0.2-py36h0130604_6
+otagrum-0.2-py38hc84c608_6
+otagrum-0.2-py38hc84c608_7
+otagrum-0.2-py36h0130604_7
+otagrum-0.2-py37h570ac47_7

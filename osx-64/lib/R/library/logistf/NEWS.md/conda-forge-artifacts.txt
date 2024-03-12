@@ -1,0 +1,10 @@
+r-logistf-1.24.1-r40h28b5c78_0
+r-logistf-1.24.1-r41h28b5c78_0
+r-logistf-1.24.1-r42h815d134_1
+r-logistf-1.24.1-r41h815d134_1
+r-logistf-1.25.0-r42h6dc245f_0
+r-logistf-1.25.0-r41h6dc245f_0
+r-logistf-1.25.0-r42h6dc245f_1
+r-logistf-1.25.0-r43h6dc245f_1
+r-logistf-1.26.0-r42h6dc245f_0
+r-logistf-1.26.0-r43h6dc245f_0

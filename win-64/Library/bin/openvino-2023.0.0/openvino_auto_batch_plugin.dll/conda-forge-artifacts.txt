@@ -1,0 +1,1 @@
+libopenvino-auto-batch-plugin-2023.0.0-h63175ca_0

@@ -1,0 +1,9 @@
+r-covr-3.6.0-r41ha856d6a_0
+r-covr-3.6.0-r40ha856d6a_0
+r-covr-3.6.1-r40ha856d6a_0
+r-covr-3.6.1-r41ha856d6a_0
+r-covr-3.6.1-r41ha856d6a_1
+r-covr-3.6.2-r41ha856d6a_0
+r-covr-3.6.2-r41ha856d6a_1
+r-covr-3.6.3-r41ha856d6a_0
+r-covr-3.6.4-r41ha856d6a_0

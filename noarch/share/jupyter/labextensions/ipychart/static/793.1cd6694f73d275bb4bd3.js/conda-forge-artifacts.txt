@@ -1,0 +1,2 @@
+ipychart-0.3.1-pyh6c4a22f_0
+ipychart-0.3.2-pyh6c4a22f_0

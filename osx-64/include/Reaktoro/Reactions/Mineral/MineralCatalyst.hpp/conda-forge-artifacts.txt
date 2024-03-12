@@ -1,0 +1,7 @@
+reaktoro-2.0.0rc1-py39h444ec3a_0
+reaktoro-2.0.0rc2-py39h444ec3a_0
+reaktoro-2.0.0rc2-py38h7cc52ea_0
+reaktoro-2.0.0rc2-py36h5c36c29_0
+reaktoro-2.0.0rc2-py39h8f373a1_0
+reaktoro-2.0.0rc2-py37h27f2d6f_0
+reaktoro-2.0.0rc2-py37h1fdc09f_0

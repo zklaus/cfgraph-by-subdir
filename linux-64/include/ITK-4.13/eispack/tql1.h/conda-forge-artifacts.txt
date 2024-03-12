@@ -1,0 +1,8 @@
+libitk-4.13.0-0
+libitk-4.13.2-ha8ba706_0
+libitk-4.13.2-hec9e5f2_1
+libitk-4.13.2-h8f2a977_2
+libitk-4.13.2-h8f2a977_3
+libitk-4.13.2-h8f2a977_4
+libitk-4.13.2-h8f2a977_5
+libitk-4.13.2-h8f2a977_6

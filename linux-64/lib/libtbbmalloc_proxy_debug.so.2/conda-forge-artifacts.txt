@@ -1,0 +1,17 @@
+tbb-2018.0.3-0
+tbb-devel-2018.0.4-h2d50403_0
+tbb-devel-2018.0.5-h2d50403_0
+tbb-devel-2019.0-h2d50403_0
+tbb-devel-2019.1-h2d50403_0
+tbb-devel-2019.1-h6bb024c_1000
+tbb-devel-2019.2-h2d50403_0
+tbb-devel-2019.2-h6bb024c_1000
+tbb-devel-2019.3-h2d50403_0
+tbb-devel-2019.3-h6bb024c_1000
+tbb-devel-2019.4-h6bb024c_0
+tbb-devel-2019.5-hc9558a2_0
+tbb-devel-2019.6-hc9558a2_0
+tbb-devel-2019.7-hc9558a2_0
+tbb-devel-2019.8-hc9558a2_0
+tbb-devel-2019.9-hc9558a2_0
+tbb-devel-2019.9-hc9558a2_1

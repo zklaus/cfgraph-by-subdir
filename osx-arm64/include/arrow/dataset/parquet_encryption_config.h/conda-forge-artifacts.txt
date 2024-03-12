@@ -1,0 +1,10 @@
+libarrow-14.0.0-h3e40753_0_cpu
+libarrow-14.0.1-h3e40753_0_cpu
+libarrow-14.0.1-h7bb5718_1_cpu
+libarrow-14.0.1-ha4caa07_2_cpu
+libarrow-14.0.1-h8dffd16_3_cpu
+libarrow-14.0.1-h63c4d5d_4_cpu
+libarrow-14.0.1-ha9356e4_5_cpu
+libarrow-14.0.1-ha6ab924_6_cpu
+libarrow-14.0.1-hff95c9e_7_cpu
+libarrow-14.0.1-hff95c9e_8_cpu

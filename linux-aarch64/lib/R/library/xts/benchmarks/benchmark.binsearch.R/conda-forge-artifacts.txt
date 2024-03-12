@@ -1,0 +1,3 @@
+r-xts-0.12_0-r36hcdcec82_0
+r-xts-0.12_0-r36hcdcec82_1
+r-xts-0.12_0-r40hcdcec82_1

@@ -1,0 +1,2 @@
+django-configurations-2.0-py_1
+django-configurations-2.1-py_0

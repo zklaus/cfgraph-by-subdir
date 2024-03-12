@@ -1,0 +1,10 @@
+dpcpp_impl_win-64-2022.2.0-hbc6686b_9553
+dpcpp_impl_win-64-2023.0.0-h3338d26_25922
+dpcpp_impl_win-64-2023.0.0-h3338d26_25923
+dpcpp_impl_win-64-2023.1.0-h3338d26_46319
+dpcpp_impl_win-64-2023.2.0-h3338d26_49496
+dpcpp_impl_win-64-2023.2.0-h3055adc_49497
+dpcpp_impl_win-64-2023.2.0-h3055adc_49498
+dpcpp_impl_win-64-2023.2.0-h3055adc_49499
+dpcpp_impl_win-64-2023.2.0-h3055adc_49500
+dpcpp_impl_win-64-2023.2.0-h3055adc_49501

@@ -1,0 +1,1 @@
+hpp-manipulation-urdf-4.12.0-h8cbb357_0

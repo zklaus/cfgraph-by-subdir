@@ -1,0 +1,11 @@
+spglib-1.16.3-py37ha757849_0
+spglib-1.16.3-py37hb1e94ed_0
+spglib-1.16.3-py310h96516ba_0
+spglib-1.16.3-py38h6c62de6_0
+spglib-1.16.3-py39hce5d2b2_0
+spglib-1.16.3-py39h3ec6ae7_1
+spglib-1.16.3-py39hd257fcd_1
+spglib-1.16.3-py37hda87dfa_1
+spglib-1.16.3-py38hdf7fcb0_1
+spglib-1.16.3-py38h71d37f0_1
+spglib-1.16.3-py310hde88566_1

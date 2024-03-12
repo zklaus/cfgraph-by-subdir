@@ -1,0 +1,8 @@
+r-gsw-1.0_6-r41h7f98852_0
+r-gsw-1.0_6-r40h7f98852_0
+r-gsw-1.0_6-r42h166bdaf_1
+r-gsw-1.0_6-r41h166bdaf_1
+r-gsw-1.1_1-r42h166bdaf_0
+r-gsw-1.1_1-r41h166bdaf_0
+r-gsw-1.1_1-r42hd590300_1
+r-gsw-1.1_1-r43hd590300_1

@@ -1,0 +1,12 @@
+cgal-cpp-5.1-h298cac0_0
+cgal-cpp-5.1-h97e3cd8_0
+cgal-cpp-5.1.1-ha90411c_0
+cgal-cpp-5.1.1-h84c2d3d_0
+cgal-cpp-5.2-he5edf05_0
+cgal-cpp-5.2-h92e1061_0
+cgal-cpp-5.2.1-h8a2ae54_0
+cgal-cpp-5.2.2-h8a2ae54_0
+cgal-cpp-5.2.2-h8a2ae54_1
+cgal-cpp-5.2.3-h8a2ae54_0
+cgal-cpp-5.3-h8a2ae54_0
+cgal-cpp-5.3.1-h8a2ae54_0

@@ -1,0 +1,2 @@
+freecad-0.19.alpha2-py37h43b4559_0
+freecad-0.19.alpha2-py38hdf78897_0

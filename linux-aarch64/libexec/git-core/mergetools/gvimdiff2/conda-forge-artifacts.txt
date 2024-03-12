@@ -1,0 +1,16 @@
+git-2.20.1-pl526hd34311f_1001
+git-2.20.1-pl526h2882143_1002
+git-2.21.0-pl526h2882143_0
+git-2.22.0-pl526hce37bd2_0
+git-2.23.0-pl526hce37bd2_0
+git-2.23.0-pl526hce37bd2_1
+git-2.23.0-pl526hce37bd2_2
+git-2.24.0-pl526hce37bd2_0
+git-2.24.0-pl526hce37bd2_1
+git-2.25.0-pl526hce37bd2_0
+git-2.26.0-pl526hf241897_0
+git-2.26.1-pl526h5e3e691_0
+git-2.26.2-pl526h5e3e691_0
+git-2.27.0-pl526h5e3e691_0
+git-2.28.0-pl526h5e3e691_0
+git-2.28.0-pl526h5e3e691_1

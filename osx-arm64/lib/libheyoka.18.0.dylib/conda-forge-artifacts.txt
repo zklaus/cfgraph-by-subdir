@@ -1,0 +1,12 @@
+heyoka-0.18.0-h6abc470_0
+heyoka-0.18.0-hb46efc8_0
+heyoka-0.18.0-h8eaf3c6_0
+heyoka-0.18.0-h08b0c6d_0
+heyoka-0.18.0-h66e14a8_1
+heyoka-0.18.0-h04fe9b6_1
+heyoka-0.18.0-h21fd4ee_1
+heyoka-0.18.0-hfa364d6_1
+heyoka-0.18.0-h44b8083_2
+heyoka-0.18.0-h9c5409a_2
+heyoka-0.18.0-h385336c_2
+heyoka-0.18.0-h156d22f_2

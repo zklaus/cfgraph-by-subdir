@@ -1,0 +1,4 @@
+pyagrum-0.19.1-py39ha3b3222_0
+pyagrum-0.19.1-py38hb77cc89_0
+pyagrum-0.19.1-py36h84a794e_0
+pyagrum-0.19.1-py37h7d02bce_0

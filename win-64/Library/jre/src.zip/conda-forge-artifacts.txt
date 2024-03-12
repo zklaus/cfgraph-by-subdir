@@ -1,0 +1,14 @@
+openjdk-7.0.161-zulu7.21.0.3_0
+openjdk-8.0.144-zulu8.23.0.3_0
+openjdk-8.0.144-zulu8.23.0.3_1
+openjdk-8.0.144-zulu8.23.0.3_2
+openjdk-8.0.192-1002
+openjdk-8.0.192-1003
+openjdk-8.0.192-1004
+openjdk-8.0.192-1005
+openjdk-8.0.265-0
+openjdk-8.0.282-h57928b3_0
+openjdk-8.0.302-h57928b3_0
+openjdk-8.0.312-h57928b3_0
+openjdk-8.0.332-h57928b3_0
+openjdk-8.0.382-h57928b3_0

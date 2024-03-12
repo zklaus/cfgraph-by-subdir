@@ -1,0 +1,4 @@
+xeus-python-0.13.7-py310hb34e5f0_0
+xeus-python-0.13.7-py38h9f61dbb_0
+xeus-python-0.13.7-py39h800c839_0
+xeus-python-0.13.7-py37h81e1585_0

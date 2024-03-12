@@ -1,0 +1,6 @@
+hstcal-2.7.4-hce312e5_2
+hstcal-2.7.4-h03baf83_3
+hstcal-2.7.4-hd3d5252_4
+hstcal-2.7.5-hd3d5252_0
+hstcal-2.7.6-hac0ab78_0
+hstcal-2.7.6-h7eb3d3c_1

@@ -1,0 +1,9 @@
+igraph-0.10.0-hefb87a8_1
+igraph-0.10.1-hefb87a8_1
+igraph-0.10.1-hefb87a8_2
+igraph-0.10.2-hefb87a8_0
+igraph-0.10.3-h30d218e_0
+igraph-0.10.3-h30d218e_1
+igraph-0.10.3-h30d218e_2
+igraph-0.10.4-h30d218e_2
+igraph-0.10.4-h5cd7623_3

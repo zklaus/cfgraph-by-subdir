@@ -1,0 +1,2 @@
+libfaiss-1.7.4-hba6d9cf_0_cpu
+libfaiss-1.7.4-cuda112h33bf9e0_0_cuda

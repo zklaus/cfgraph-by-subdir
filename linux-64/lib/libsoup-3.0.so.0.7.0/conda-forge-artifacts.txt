@@ -1,0 +1,4 @@
+libsoup-3.4.1-h6a603f4_0
+libsoup-3.4.2-h6a603f4_0
+libsoup-3.4.2-hb337396_1
+libsoup-3.4.3-hb337396_0

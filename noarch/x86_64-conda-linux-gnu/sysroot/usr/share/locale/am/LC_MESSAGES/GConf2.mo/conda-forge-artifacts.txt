@@ -1,0 +1,6 @@
+gconf2-cos7-x86_64-3.2.6-ha826a6f_1103
+gconf2-cos6-x86_64-2.28.0-ha826a6f_1103
+gconf2-cos7-x86_64-3.2.6-h9d98e8f_1104
+gconf2-cos6-x86_64-2.28.0-h9d98e8f_1104
+gconf2-cos6-x86_64-2.28.0-h9b0a68f_1105
+gconf2-cos7-x86_64-3.2.6-h9b0a68f_1105

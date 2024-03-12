@@ -1,0 +1,16 @@
+r-scattermore-0.7-r40hcfec24a_0
+r-scattermore-0.7-r36hcfec24a_0
+r-scattermore-0.7-r41hcfec24a_0
+r-scattermore-0.8-r40hcfec24a_0
+r-scattermore-0.8-r41hcfec24a_0
+r-scattermore-0.8-r41h06615bd_0
+r-scattermore-0.8-r40h06615bd_0
+r-scattermore-0.8-r41h06615bd_1
+r-scattermore-0.8-r42h06615bd_1
+r-scattermore-1.0-r41ha503ecb_0
+r-scattermore-1.0-r42ha503ecb_0
+r-scattermore-1.1-r42ha503ecb_0
+r-scattermore-1.1-r41ha503ecb_0
+r-scattermore-1.2-r42ha503ecb_0
+r-scattermore-1.2-r43ha503ecb_1
+r-scattermore-1.2-r42ha503ecb_1

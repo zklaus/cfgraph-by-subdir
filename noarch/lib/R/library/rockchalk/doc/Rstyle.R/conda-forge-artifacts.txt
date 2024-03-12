@@ -1,0 +1,12 @@
+r-rockchalk-1.8.144-r40hc72bb7e_0
+r-rockchalk-1.8.144-r41hc72bb7e_0
+r-rockchalk-1.8.151-r41hc72bb7e_0
+r-rockchalk-1.8.151-r40hc72bb7e_0
+r-rockchalk-1.8.152-r41hc72bb7e_0
+r-rockchalk-1.8.152-r40hc72bb7e_0
+r-rockchalk-1.8.157-r40hc72bb7e_0
+r-rockchalk-1.8.157-r41hc72bb7e_0
+r-rockchalk-1.8.157-r41hc72bb7e_1
+r-rockchalk-1.8.157-r42hc72bb7e_1
+r-rockchalk-1.8.157-r42hc72bb7e_2
+r-rockchalk-1.8.157-r43hc72bb7e_2

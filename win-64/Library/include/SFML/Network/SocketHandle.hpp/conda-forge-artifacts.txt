@@ -1,0 +1,5 @@
+sfml-2.5.1-hfd180a1_0
+sfml-2.5.1-hfd180a1_1
+sfml-2.5.1-hfd180a1_2
+sfml-2.5.1-hfd180a1_3
+sfml-2.5.1-h33bf180_3

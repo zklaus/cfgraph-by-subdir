@@ -1,0 +1,8 @@
+openfisca-core-35.7.6-pyh6c4a22f_0
+openfisca-core-35.7.6-pyh6c4a22f_1
+openfisca-core-35.7.6-pyh6c4a22f_2
+openfisca-core-35.7.6-pyh6c4a22f_3
+openfisca-core-35.7.6-pyh6c4a22f_4
+openfisca-core-35.7.7-pyh6c4a22f_0
+openfisca-core-35.7.8-pyh6c4a22f_0
+openfisca-core-35.8.0-pyh6c4a22f_0

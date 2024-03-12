@@ -1,0 +1,3 @@
+libgoogle-cloud-2.8.0-h1afb7bd_0
+libgoogle-cloud-2.8.0-h4c322bf_1
+libgoogle-cloud-2.8.0-h03f5b3f_2

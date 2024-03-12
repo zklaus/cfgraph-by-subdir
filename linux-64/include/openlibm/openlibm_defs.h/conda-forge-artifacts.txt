@@ -1,0 +1,6 @@
+openlibm-0.7.1-h7f98852_0
+openlibm-0.8.0-h7f98852_0
+openlibm-0.7.4-h7f98852_0
+openlibm-0.7.5-h7f98852_0
+openlibm-0.8.1-h7f98852_0
+openlibm-0.8.1-hd590300_1

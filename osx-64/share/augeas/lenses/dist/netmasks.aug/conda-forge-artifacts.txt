@@ -1,0 +1,3 @@
+libaugeas-1.12.0-h82b30ae_0
+libaugeas-1.12.0-hc2e16e4_1
+libaugeas-1.12.0-h8b1a53a_2

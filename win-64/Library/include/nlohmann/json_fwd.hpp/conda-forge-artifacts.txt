@@ -1,0 +1,14 @@
+qgis-3.8.0-py36h6e90414_0
+qgis-3.8.0-py37h6e90414_0
+qgis-3.8.0-py37h1277873_1
+qgis-3.8.0-py36h1277873_1
+qgis-3.8.1-py36ha4c2302_0
+qgis-3.8.1-py37ha4c2302_0
+qgis-3.8.1-py36h585a031_1
+qgis-3.8.1-py37h585a031_1
+qgis-3.8.2-py36h8a62342_0
+qgis-3.8.2-py37h8a62342_0
+qgis-3.8.3-py36h8a62342_0
+qgis-3.8.3-py37h8a62342_0
+nlohmann_json-3.11.1-h39d44d4_0
+nlohmann_json-3.11.2-h39d44d4_0

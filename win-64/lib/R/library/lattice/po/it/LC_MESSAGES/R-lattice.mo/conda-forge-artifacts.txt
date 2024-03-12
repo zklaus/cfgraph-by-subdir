@@ -1,0 +1,11 @@
+r-lattice-0.20_44-r40h6d2157b_0
+r-lattice-0.20_44-r36h6d2157b_0
+r-lattice-0.20_44-r41h6d2157b_0
+r-lattice-0.20_45-r41h6d2157b_0
+r-lattice-0.20_45-r40h6d2157b_0
+r-lattice-0.20_45-r41h6d2157b_1
+r-lattice-0.21_8-r41h6d2157b_0
+r-lattice-0.21_8-r41h6d2157b_1
+r-lattice-0.21_9-r41h6d2157b_0
+r-lattice-0.22_4-r41h6d2157b_0
+r-lattice-0.22_5-r41h6d2157b_0

@@ -1,0 +1,17 @@
+kanapy-2.0.0-py36h605e78d_0
+kanapy-2.0.0-py38h1fd1430_0
+kanapy-2.0.0-py37h2527ec5_0
+kanapy-2.0.0-py39h1a9c180_0
+kanapy-2.0.0-py36h4ea7e17_0
+kanapy-2.0.0-py37h160330d_0
+kanapy-2.0.0-py37h160330d_1
+kanapy-2.0.0-py310h91b1402_1
+kanapy-2.0.0-py38h1fd1430_1
+kanapy-2.0.0-py39h1a9c180_1
+kanapy-2.0.0-py37h2527ec5_1
+kanapy-2.0.0-py38h875ae46_2
+kanapy-2.0.0-py39hf939315_2
+kanapy-2.0.0-py310hbf28c38_2
+kanapy-2.0.0-py39h2865249_2
+kanapy-2.0.0-py37h7cecad7_2
+kanapy-2.0.0-py38h43d8883_2

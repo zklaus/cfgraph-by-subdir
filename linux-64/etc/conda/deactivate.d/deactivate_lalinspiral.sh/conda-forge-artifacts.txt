@@ -1,0 +1,8 @@
+lalinspiral-2.0.1-py39h3811e60_0
+lalinspiral-2.0.1-py38h497a2fe_0
+lalinspiral-2.0.1-py37h5e8e339_0
+lalinspiral-2.0.1-py36h8f6f2f9_0
+lalinspiral-2.0.1-py39h3811e60_1
+lalinspiral-2.0.1-py38h497a2fe_1
+lalinspiral-2.0.1-py37h5e8e339_1
+lalinspiral-2.0.1-py36h8f6f2f9_1

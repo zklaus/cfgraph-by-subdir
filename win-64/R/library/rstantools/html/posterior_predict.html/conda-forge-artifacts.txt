@@ -1,0 +1,8 @@
+r-rstantools-1.4.0-r3.3.2_0
+r-rstantools-1.4.0-r3.4.1_0
+r-rstantools-1.5.0-r3.3.2_0
+r-rstantools-1.5.0-r3.4.1_0
+r-rstantools-1.5.1-r341_0
+r-rstantools-1.5.1-r351_0
+r-rstantools-1.5.1-r341_1000
+r-rstantools-1.5.1-r351_1000

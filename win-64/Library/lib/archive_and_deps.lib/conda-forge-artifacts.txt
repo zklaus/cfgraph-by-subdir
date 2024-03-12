@@ -1,0 +1,8 @@
+_libarchive_static_for_cph-3.3.3-h886e0f6_0
+_libarchive_static_for_cph-3.3.3-hfe4db18_0
+_libarchive_static_for_cph-3.3.3-hf548691_1
+_libarchive_static_for_cph-3.3.3-h9696bfa_2
+_libarchive_static_for_cph-3.3.3-h48f6ca5_3
+_libarchive_static_for_cph-3.3.3-h9696bfa_3
+_libarchive_static_for_cph-3.3.3-h116e298_4
+_libarchive_static_for_cph-3.3.3-h3e6e3f0_5

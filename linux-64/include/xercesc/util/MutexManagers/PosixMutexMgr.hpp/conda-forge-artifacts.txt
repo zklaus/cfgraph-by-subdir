@@ -1,0 +1,13 @@
+xerces-c-3.1.4-0
+xerces-c-3.1.4-1
+xerces-c-3.1.4-2
+xerces-c-3.1.4-3
+xerces-c-3.2.0-0
+xerces-c-3.2.1-0
+xerces-c-3.2.1-h5d6a6da_1
+xerces-c-3.2.1-h5d6a6da_2
+xerces-c-3.2.0-h5d6a6da_2
+xerces-c-3.2.1-h5d6a6da_3
+xerces-c-3.2.1-hac72e42_1003
+xerces-c-3.2.2-h5d6a6da_0
+xerces-c-3.2.2-h5d6a6da_1

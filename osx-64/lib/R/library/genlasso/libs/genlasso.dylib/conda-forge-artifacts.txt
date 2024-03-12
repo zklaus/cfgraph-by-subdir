@@ -1,0 +1,13 @@
+r-genlasso-1.4-r36h159158b_1
+r-genlasso-1.4-r36h17f1fa6_2
+r-genlasso-1.4-r40h17f1fa6_2
+r-genlasso-1.5-r36h17f1fa6_0
+r-genlasso-1.5-r40h17f1fa6_0
+r-genlasso-1.5-r41h28b5c78_0
+r-genlasso-1.5-r40h28b5c78_0
+r-genlasso-1.6.1-r41h815d134_0
+r-genlasso-1.6.1-r40h815d134_0
+r-genlasso-1.6.1-r41h815d134_1
+r-genlasso-1.6.1-r42h815d134_1
+r-genlasso-1.6.1-r42h6dc245f_2
+r-genlasso-1.6.1-r43h6dc245f_2

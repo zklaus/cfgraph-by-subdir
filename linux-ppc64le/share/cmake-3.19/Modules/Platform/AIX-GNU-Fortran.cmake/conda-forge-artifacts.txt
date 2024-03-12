@@ -1,0 +1,8 @@
+cmake-3.19.1-hc6267a1_0
+cmake-3.19.2-h9466b3d_0
+cmake-3.19.3-h9466b3d_0
+cmake-3.19.4-h9466b3d_0
+cmake-3.19.4-hc431c6f_1
+cmake-3.19.5-hc431c6f_0
+cmake-3.19.6-hc431c6f_0
+cmake-3.19.7-hc431c6f_0

@@ -1,0 +1,2 @@
+gsoap-2.8.122-had7b918_0
+gsoap-2.8.122-h7d01bbe_0

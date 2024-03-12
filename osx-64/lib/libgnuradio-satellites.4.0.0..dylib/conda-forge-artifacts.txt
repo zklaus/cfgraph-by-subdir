@@ -1,0 +1,8 @@
+gnuradio-satellites-4.0.0-py36h8823a1b_0
+gnuradio-satellites-4.0.0-py39h1b50398_0
+gnuradio-satellites-4.0.0-py37hef28b48_0
+gnuradio-satellites-4.0.0-py38hae04575_0
+gnuradio-satellites-4.0.0-py38h462f101_1
+gnuradio-satellites-4.0.0-py37hccc080b_1
+gnuradio-satellites-4.0.0-py39h0946bba_1
+gnuradio-satellites-4.0.0-py36hcd0fa69_1

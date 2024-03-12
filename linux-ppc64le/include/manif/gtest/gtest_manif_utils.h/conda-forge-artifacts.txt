@@ -1,0 +1,12 @@
+manif-0.0.4-h3b9df90_6
+manif-0.0.4-hbbae597_7
+manif-0.0.4-hbbae597_8
+manif-0.0.4-hbbae597_9
+manif-0.0.4-hbbae597_10
+manif-0.0.4-h883269e_11
+manif-0.0.4-h883269e_12
+manif-0.0.4-h883269e_13
+manif-0.0.4-h46f38da_13
+manif-0.0.4-h46f38da_14
+manif-0.0.4-h46f38da_15
+manif-0.0.4-h46f38da_16

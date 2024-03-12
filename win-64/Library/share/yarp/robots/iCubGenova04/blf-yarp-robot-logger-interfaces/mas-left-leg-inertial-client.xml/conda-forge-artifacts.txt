@@ -1,0 +1,4 @@
+libbipedal-locomotion-framework-0.15.0-h7181940_2
+libbipedal-locomotion-framework-0.15.0-h7181940_3
+libbipedal-locomotion-framework-0.15.0-h7181940_4
+libbipedal-locomotion-framework-0.16.0-h7181940_0

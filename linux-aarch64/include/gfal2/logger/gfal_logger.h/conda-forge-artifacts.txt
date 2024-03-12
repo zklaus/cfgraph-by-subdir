@@ -1,0 +1,17 @@
+gfal2-2.18.2-h24cbb39_1
+gfal2-2.19.0-h5b52bfc_0
+gfal2-2.19.0-h68db98b_1
+gfal2-2.19.0-h4e8e17d_2
+gfal2-2.19.1-h4e8e17d_0
+gfal2-2.19.2-h4e8e17d_0
+gfal2-2.20.0-h800c28a_0
+gfal2-2.20.0-h32dea9a_1
+gfal2-2.20.1-h32dea9a_0
+gfal2-2.20.2-h32dea9a_0
+gfal2-2.20.3-hc28b9ba_1
+gfal2-2.20.4-h19bd88d_0
+gfal2-2.20.5-h19bd88d_0
+gfal2-2.20.5-he11e5a5_1
+gfal2-2.21.0-he11e5a5_0
+gfal2-2.21.1-he11e5a5_0
+gfal2-2.21.3-h128cf46_0

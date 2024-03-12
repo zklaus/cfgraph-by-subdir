@@ -1,0 +1,5 @@
+xorg-randrproto-1.5.0-0
+xorg-randrproto-1.5.0-h14c3975_1001
+xorg-randrproto-1.5.0-h470a237_1
+xorg-randrproto-1.5.0-h516909a_1001
+xorg-randrproto-1.5.0-h7f98852_1001

@@ -1,0 +1,10 @@
+r-data.table-1.14.4-r42h8e445f0_0
+r-data.table-1.14.4-r41h8e445f0_0
+r-data.table-1.14.6-r41h8e445f0_0
+r-data.table-1.14.6-r42h8e445f0_0
+r-data.table-1.14.8-r41h4fed366_0
+r-data.table-1.14.8-r42h4fed366_0
+r-data.table-1.14.8-r43h25e906a_1
+r-data.table-1.14.8-r42h25e906a_1
+r-data.table-1.14.8-r43hb4ebc13_2
+r-data.table-1.14.8-r42hb4ebc13_2

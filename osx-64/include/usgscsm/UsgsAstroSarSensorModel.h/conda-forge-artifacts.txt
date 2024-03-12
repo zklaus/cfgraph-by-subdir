@@ -1,0 +1,8 @@
+usgscsm-1.5.0-h9a9d8cb_0
+usgscsm-1.5.1-h65a07b1_0
+usgscsm-1.5.2-h940c156_0
+usgscsm-1.6.0-h4dcc89e_0
+usgscsm-1.6.0-hb8565cd_1
+usgscsm-1.6.0-h1c7c39f_1
+usgscsm-1.7.0-h1c7c39f_0
+usgscsm-1.7.0-h1c7c39f_1

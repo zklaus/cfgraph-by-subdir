@@ -1,0 +1,10 @@
+libarrow-flight-sql-14.0.0-h660fe36_0_cpu
+libarrow-flight-sql-14.0.1-h660fe36_0_cpu
+libarrow-flight-sql-14.0.1-h660fe36_1_cpu
+libarrow-flight-sql-14.0.1-h660fe36_2_cpu
+libarrow-flight-sql-14.0.1-h660fe36_3_cpu
+libarrow-flight-sql-14.0.1-h660fe36_4_cpu
+libarrow-flight-sql-14.0.1-h660fe36_5_cpu
+libarrow-flight-sql-14.0.1-h660fe36_6_cpu
+libarrow-flight-sql-14.0.1-h660fe36_7_cpu
+libarrow-flight-sql-14.0.1-h660fe36_8_cpu

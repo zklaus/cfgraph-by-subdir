@@ -1,0 +1,7 @@
+warpx-23.10-py39h4bd8707_0
+pyamrex-23.10-py39h32e6231_4
+pyamrex-23.10-py39h32e6231_5
+pyamrex-23.10-nompi_py39h78e433d_106
+pyamrex-23.10-nompi_py39h78e433d_107
+pyamrex-23.10-nompi_py39h4fd4105_108
+pyamrex-23.11-nompi_py39h4fd4105_100

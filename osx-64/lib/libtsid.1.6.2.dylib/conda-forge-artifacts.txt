@@ -1,0 +1,12 @@
+tsid-1.6.2-py38haec3cf1_0
+tsid-1.6.2-py37h82b7aec_0
+tsid-1.6.2-py39hab4d109_0
+tsid-1.6.2-py310hcce4f06_0
+tsid-1.6.2-py38h1bb6529_1
+tsid-1.6.2-py310h682d0b7_1
+tsid-1.6.2-py39h6e7d334_1
+tsid-1.6.2-py37h60471e5_1
+tsid-1.6.2-py310h682d0b7_2
+tsid-1.6.2-py38h1bb6529_2
+tsid-1.6.2-py39h6e7d334_2
+tsid-1.6.2-py311h7547616_2

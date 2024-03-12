@@ -1,0 +1,12 @@
+r-nparcomp-2.6-r351_1000
+r-nparcomp-3.0-r35h6115d3f_0
+r-nparcomp-3.0-r35h6115d3f_1
+r-nparcomp-3.0-r36h6115d3f_1
+r-nparcomp-3.0-r40h6115d3f_2
+r-nparcomp-3.0-r36h6115d3f_2
+r-nparcomp-3.0-r40hc72bb7e_2
+r-nparcomp-3.0-r41hc72bb7e_2
+r-nparcomp-3.0-r41hc72bb7e_3
+r-nparcomp-3.0-r42hc72bb7e_3
+r-nparcomp-3.0-r43hc72bb7e_4
+r-nparcomp-3.0-r42hc72bb7e_4

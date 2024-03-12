@@ -1,0 +1,16 @@
+pyside2-5.15.8-py311h3bb4fbd_0
+pyside2-5.15.8-py39h3a6ea8f_0
+pyside2-5.15.8-py38hcc8277a_0
+pyside2-5.15.8-py310hf249406_0
+pyside2-5.15.8-py39ha83ab21_1
+pyside2-5.15.8-py311h31dd401_1
+pyside2-5.15.8-py38h4d287bb_1
+pyside2-5.15.8-py310h67fc692_1
+pyside2-5.15.8-py311h31dd401_2
+pyside2-5.15.8-py310h67fc692_2
+pyside2-5.15.8-py39ha83ab21_2
+pyside2-5.15.8-py38h4d287bb_2
+pyside2-5.15.8-py310h9cb3b2d_3
+pyside2-5.15.8-py39h7abbca9_3
+pyside2-5.15.8-py38h5de8360_3
+pyside2-5.15.8-py311h06ab33e_3

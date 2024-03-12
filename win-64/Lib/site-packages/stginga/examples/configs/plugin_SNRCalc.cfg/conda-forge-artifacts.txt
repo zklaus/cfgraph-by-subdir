@@ -1,0 +1,15 @@
+stginga-1.4.0-py311h1ea47a8_0
+stginga-1.4.0-py39hcbf5309_0
+stginga-1.4.0-py310h5588dad_0
+stginga-1.4.0-py38haa244fe_0
+stginga-1.4.0-py310h5588dad_1
+stginga-1.4.0-py312h2e8e312_1
+stginga-1.4.0-py39hcbf5309_1
+stginga-1.4.0-py311h1ea47a8_1
+stginga-1.4.0-py38haa244fe_1
+stginga-1.4.0-py38haa244fe_2
+stginga-1.4.0-py39hcbf5309_2
+stginga-1.4.0-py39h0d475fb_2
+stginga-1.4.0-py312h2e8e312_2
+stginga-1.4.0-py311h1ea47a8_2
+stginga-1.4.0-py310h5588dad_2

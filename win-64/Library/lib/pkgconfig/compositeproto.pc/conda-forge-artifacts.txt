@@ -1,0 +1,5 @@
+xorg-compositeproto-0.4.2-0
+xorg-compositeproto-0.4.2-hbaa294b_1
+xorg-compositeproto-0.4.2-hcb389fa_1
+xorg-compositeproto-0.4.2-h301d43c_1001
+xorg-compositeproto-0.4.2-hcd874cb_1001

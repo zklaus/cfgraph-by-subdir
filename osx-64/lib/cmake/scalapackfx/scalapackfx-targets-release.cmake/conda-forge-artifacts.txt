@@ -1,0 +1,6 @@
+scalapackfx-1.0.2-mpi_openmpi_h72eb8ee_1
+scalapackfx-1.0.2-mpi_mpich_h18e04ad_1
+scalapackfx-1.1-mpi_mpich_h9d3032b_0
+scalapackfx-1.1-mpi_openmpi_ha8ac90a_0
+scalapackfx-1.2-mpi_openmpi_h7edfa36_0
+scalapackfx-1.2-mpi_mpich_h7611258_0

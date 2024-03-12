@@ -1,0 +1,6 @@
+slepc-3.12.1-h3b701d2_0
+slepc-3.12.1-h5318d2d_0
+slepc-3.12.1-hb9850fa_1
+slepc-3.12.1-hed0870e_1
+slepc-3.12.1-h76dbdef_2
+slepc-3.12.1-h1f9ac5a_2

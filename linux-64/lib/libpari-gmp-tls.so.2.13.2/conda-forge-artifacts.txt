@@ -1,0 +1,2 @@
+pari-2.13.2-h82e6b41_1_pthread
+pari-2.13.2-he2feae2_1_pthread

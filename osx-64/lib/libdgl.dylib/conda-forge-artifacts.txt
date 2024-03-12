@@ -1,0 +1,15 @@
+dgl-1.1.0-py311h6ffe03c_1
+dgl-1.1.0-py310h4eb5565_1
+dgl-1.1.0-py39ha2f15f5_1
+dgl-1.1.1-py311h6ffe03c_0
+dgl-1.1.1-py39ha2f15f5_0
+dgl-1.1.1-py310h4eb5565_0
+dgl-1.1.2-py310h4eb5565_0
+dgl-1.1.2-py39ha2f15f5_0
+dgl-1.1.2-py311h6ffe03c_0
+dgl-1.1.2-py311h276ec39_1
+dgl-1.1.2-py39h71c3237_1
+dgl-1.1.2-py310hc491629_1
+dgl-1.1.2-py311h276ec39_2
+dgl-1.1.2-py310hc491629_2
+dgl-1.1.2-py39h71c3237_2

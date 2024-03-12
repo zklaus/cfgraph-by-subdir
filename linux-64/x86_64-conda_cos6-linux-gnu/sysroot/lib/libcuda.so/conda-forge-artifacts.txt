@@ -1,0 +1,3 @@
+nvcc_linux-64-9.2-hceaac93_0
+nvcc_linux-64-10.0-h7053e78_0
+nvcc_linux-64-10.1-h3d80acd_0

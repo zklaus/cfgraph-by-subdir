@@ -1,0 +1,15 @@
+r-vim-4.8.0-r351h6115d3f_0
+r-vim-4.8.0-r35h796a38f_1
+r-vim-4.8.0-r36h796a38f_1
+r-vim-5.1.0-r35h796a38f_0
+r-vim-5.1.0-r36h796a38f_0
+r-vim-5.1.1-r35h796a38f_0
+r-vim-5.1.1-r36h796a38f_0
+r-vim-5.1.1-r40h796a38f_1
+r-vim-5.1.1-r36h796a38f_1
+r-vim-6.0.0-r40h796a38f_0
+r-vim-6.0.0-r36h796a38f_0
+r-vim-6.1.0-r36ha856d6a_0
+r-vim-6.1.0-r40ha856d6a_0
+r-vim-6.1.1-r40ha856d6a_0
+r-vim-6.2.2-r40ha856d6a_0

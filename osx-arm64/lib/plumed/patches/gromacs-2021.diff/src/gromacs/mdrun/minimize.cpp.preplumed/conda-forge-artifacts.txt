@@ -1,0 +1,6 @@
+plumed-2.7.1-hc5fa402_0
+plumed-2.7.1-nompi_hc3d2076_1
+plumed-2.7.1-nompi_hc3d2076_2
+plumed-2.7.2-nompi_hd1df752_0
+plumed-2.7.2-nompi_h26e5bd4_1
+plumed-2.7.2-nompi_h26e5bd4_102

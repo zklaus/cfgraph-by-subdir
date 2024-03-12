@@ -1,0 +1,15 @@
+photospline-2.1.0-py37h3a135fb_0
+photospline-2.1.0-py310h74b11d9_0
+photospline-2.1.0-py38h479bf5c_0
+photospline-2.1.0-py39h54e01fa_1
+photospline-2.1.0-py310h74b11d9_1
+photospline-2.1.0-py37h3a135fb_1
+photospline-2.1.0-py38h479bf5c_1
+photospline-2.1.0-py310hebf8f23_2
+photospline-2.1.0-py39h4eaf011_2
+photospline-2.1.0-py38h8beda05_2
+photospline-2.1.0-py311h135732f_2
+photospline-2.1.0-py310h9d35755_3
+photospline-2.1.0-py38hac45e9b_3
+photospline-2.1.0-py311hc61d246_3
+photospline-2.1.0-py39h5e8af96_3

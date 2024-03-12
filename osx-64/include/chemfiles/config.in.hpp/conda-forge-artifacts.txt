@@ -1,0 +1,13 @@
+chemfiles-lib-0.6.2-0
+chemfiles-lib-0.7.1-0
+chemfiles-lib-0.7.2-0
+chemfiles-lib-0.7.3-0
+chemfiles-lib-0.7.4-0
+chemfiles-lib-0.7.4-1
+chemfiles-lib-0.8.0-hfc679d8_2
+chemfiles-lib-0.8.1-hfc679d8_1
+chemfiles-lib-0.8.1-h0a44026_2
+chemfiles-lib-0.9.0-h0a44026_0
+chemfiles-lib-0.9.1-h0a44026_0
+chemfiles-lib-0.9.1-h6de7cb9_1
+chemfiles-lib-0.9.1-h6de7cb9_2

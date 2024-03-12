@@ -1,0 +1,4 @@
+george-0.3.1-py36h0c41493_1004
+george-0.3.1-py39hb6c7cbd_1004
+george-0.3.1-py38h96e4b51_1004
+george-0.3.1-py37hf6f59ca_1004

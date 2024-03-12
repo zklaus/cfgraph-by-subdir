@@ -1,0 +1,17 @@
+glib-networking-2.64.3-hcdb4288_0
+glib-networking-2.64.3-hcdb4288_1
+glib-networking-2.66.0-hcdb4288_0
+glib-networking-2.66.0-he12a1b3_1
+glib-networking-2.68.0-hb031cd7_0
+glib-networking-2.68.1-hb031cd7_0
+glib-networking-2.68.2-hb031cd7_0
+glib-networking-2.68.2-hbceff75_0
+glib-networking-2.68.3-hbceff75_0
+glib-networking-2.70.1-h3cf747a_0
+glib-networking-2.72.1-hf605b43_0
+glib-networking-2.72.1-h6605ff3_1
+glib-networking-2.72.1-hf605b43_1
+glib-networking-2.72.2-h6605ff3_0
+glib-networking-2.72.2-hf605b43_0
+glib-networking-2.76.1-h8eaaec1_0
+glib-networking-2.78.0-h8eaaec1_0

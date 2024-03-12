@@ -1,0 +1,9 @@
+r-minqa-1.2.4-r35h5b3a9a7_1003
+r-minqa-1.2.4-r36h5b3a9a7_1003
+r-minqa-1.2.4-r36h5b3a9a7_1004
+r-minqa-1.2.4-r35h5b3a9a7_1004
+r-minqa-1.2.4-r36h5b3a9a7_1005
+r-minqa-1.2.4-r40h5b3a9a7_1005
+r-minqa-1.2.4-r36h7ff5ea2_1006
+r-minqa-1.2.4-r40h7ff5ea2_1006
+r-minqa-1.2.4-r40h96779af_1006

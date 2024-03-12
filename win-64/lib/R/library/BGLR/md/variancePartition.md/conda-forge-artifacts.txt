@@ -1,0 +1,6 @@
+r-bglr-1.0.9-r41h6d2157b_0
+r-bglr-1.0.9-r40h6d2157b_0
+r-bglr-1.1.0-r41h6d2157b_0
+r-bglr-1.1.0-r40h6d2157b_0
+r-bglr-1.1.0-r41h6d2157b_1
+r-bglr-1.1.0-r41h6d2157b_2

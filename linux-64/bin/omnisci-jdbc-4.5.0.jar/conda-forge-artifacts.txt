@@ -1,0 +1,2 @@
+mapd-core-cpu-4.5.0-h7b9b601_0
+mapd-core-cpu-4.5.0-h7b9b601_1

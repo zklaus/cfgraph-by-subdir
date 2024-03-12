@@ -1,0 +1,9 @@
+pugixml-1.10-hb209c28_1
+pugixml-1.11-h3b9df90_0
+pugixml-1.11.1-h3b9df90_0
+pugixml-1.11.2-h3b9df90_0
+pugixml-1.11.4-h3b9df90_0
+pugixml-1.11.4-h46f38da_1
+pugixml-1.12.1-h46f38da_1
+pugixml-1.13-h46f38da_1
+pugixml-1.14-h46f38da_0

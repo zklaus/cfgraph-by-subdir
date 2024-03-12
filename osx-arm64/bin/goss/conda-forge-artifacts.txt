@@ -1,0 +1,3 @@
+pygoss-0.4.2-py38h9dc3d6a_2
+pygoss-0.4.2-py310h2887b22_2
+pygoss-0.4.2-py39haaf3ac1_2

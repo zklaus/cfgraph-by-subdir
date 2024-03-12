@@ -1,0 +1,15 @@
+arrow-cpp-0.14.1-py37h6b969ab_0
+arrow-cpp-0.14.1-py27h6b969ab_0
+arrow-cpp-0.14.1-py36h6b969ab_0
+arrow-cpp-0.14.1-py27h6b969ab_1
+arrow-cpp-0.14.1-py37h6b969ab_1
+arrow-cpp-0.14.1-py36h6b969ab_1
+arrow-cpp-0.14.1-py36hb2cae1d_2
+arrow-cpp-0.14.1-py27hb2cae1d_2
+arrow-cpp-0.14.1-py37hb2cae1d_2
+arrow-cpp-0.14.1-py37hb2cae1d_3
+arrow-cpp-0.14.1-py36hb2cae1d_3
+arrow-cpp-0.14.1-py27hb2cae1d_3
+arrow-cpp-0.14.1-py27h5ac5442_4
+arrow-cpp-0.14.1-py36h5ac5442_4
+arrow-cpp-0.14.1-py37h5ac5442_4

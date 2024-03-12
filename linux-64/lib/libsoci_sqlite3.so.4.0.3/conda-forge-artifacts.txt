@@ -1,0 +1,5 @@
+soci-sqlite-4.0.3-h72f4c9c_0
+soci-sqlite-4.0.3-h72f4c9c_1
+soci-sqlite-4.0.3-h2ced083_2
+soci-sqlite-4.0.3-h2ced083_3
+soci-sqlite-4.0.3-hd6463f3_4

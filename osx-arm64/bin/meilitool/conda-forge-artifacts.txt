@@ -1,0 +1,2 @@
+meilisearch-1.5.0-hb9e0d3b_0
+meilisearch-1.5.0-h5ef7bb8_1

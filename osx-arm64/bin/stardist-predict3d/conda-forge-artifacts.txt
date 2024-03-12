@@ -1,0 +1,10 @@
+stardist-0.8.3-py39h05717ae_0
+stardist-0.8.3-py38ha3abf1e_0
+stardist-0.8.3-py310h07e7c9c_0
+stardist-0.8.5-py310h38ea566_0
+stardist-0.8.5-py39h5f7a72f_0
+stardist-0.8.5-py38hf31decc_0
+stardist-0.8.5-py311h04190be_1
+stardist-0.8.5-py38hf31decc_1
+stardist-0.8.5-py39h5f7a72f_1
+stardist-0.8.5-py310h38ea566_1

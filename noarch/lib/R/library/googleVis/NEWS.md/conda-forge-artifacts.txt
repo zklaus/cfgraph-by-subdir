@@ -1,0 +1,12 @@
+r-googlevis-0.6.11-r40hc72bb7e_0
+r-googlevis-0.6.11-r41hc72bb7e_0
+r-googlevis-0.6.12-r41hc72bb7e_0
+r-googlevis-0.6.12-r40hc72bb7e_0
+r-googlevis-0.7.0-r40hc72bb7e_0
+r-googlevis-0.7.0-r41hc72bb7e_0
+r-googlevis-0.7.0-r42hc72bb7e_1
+r-googlevis-0.7.0-r41hc72bb7e_1
+r-googlevis-0.7.1-r42hc72bb7e_0
+r-googlevis-0.7.1-r41hc72bb7e_0
+r-googlevis-0.7.1-r43hc72bb7e_1
+r-googlevis-0.7.1-r42hc72bb7e_1

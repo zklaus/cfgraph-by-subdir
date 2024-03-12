@@ -1,0 +1,17 @@
+libstdcxx-ng-8.4.0-hca8aa85_14
+libstdcxx-ng-8.4.0-hca8aa85_15
+libstdcxx-ng-8.4.0-h7a64470_17
+libstdcxx-ng-8.4.0-h1ed1776_18
+libstdcxx-ng-8.4.0-h1ed1776_19
+libstdcxx-ng-8.5.0-h4adfc28_8
+libstdcxx-ng-8.5.0-h4adfc28_9
+libstdcxx-ng-8.5.0-h4adfc28_10
+libstdcxx-ng-8.5.0-h4adfc28_11
+libstdcxx-ng-8.5.0-h4adfc28_12
+libstdcxx-ng-8.5.0-h4adfc28_13
+libstdcxx-ng-8.5.0-h4adfc28_14
+libstdcxx-ng-8.5.0-h4adfc28_15
+libstdcxx-ng-8.5.0-h4adfc28_16
+libstdcxx-ng-8.5.0-h4adfc28_17
+libstdcxx-ng-8.5.0-h523c4f1_18
+libstdcxx-ng-8.5.0-h523c4f1_19

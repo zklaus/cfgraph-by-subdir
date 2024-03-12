@@ -1,0 +1,13 @@
+r-smvar-1.3.3-r351_1001
+r-smvar-1.3.3-r36_1002
+r-smvar-1.3.3-r35_1002
+r-smvar-1.3.3-r36_1003
+r-smvar-1.3.3-r40_1003
+r-smvar-1.3.3-r40ha770c72_1003
+r-smvar-1.3.3-r41ha770c72_1003
+r-smvar-1.3.4-r40ha770c72_0
+r-smvar-1.3.4-r41ha770c72_0
+r-smvar-1.3.4-r41ha770c72_1
+r-smvar-1.3.4-r42ha770c72_1
+r-smvar-1.3.4-r42ha770c72_2
+r-smvar-1.3.4-r43ha770c72_2

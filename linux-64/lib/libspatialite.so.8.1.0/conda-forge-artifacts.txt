@@ -1,0 +1,4 @@
+libspatialite-5.1.0-h090f1da_0
+libspatialite-5.1.0-h090f1da_1
+libspatialite-5.1.0-h7385560_2
+libspatialite-5.1.0-h72606ae_3

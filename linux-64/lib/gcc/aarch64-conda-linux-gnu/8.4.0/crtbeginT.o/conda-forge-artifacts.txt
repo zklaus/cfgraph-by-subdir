@@ -1,0 +1,8 @@
+libgcc-devel_linux-aarch64-8.4.0-h2a042e8_14
+libgcc-devel_linux-aarch64-8.4.0-h2a042e8_15
+libgcc-devel_linux-aarch64-8.4.0-h2a042e8_16
+libgcc-devel_linux-aarch64-8.4.0-h2a042e8_17
+libgcc-devel_linux-aarch64-8.4.0-hec14154_18
+libgcc-devel_linux-aarch64-8.4.0-hec14154_19
+gcc_bootstrap_linux-aarch64-8.4.0-hdec9fc2_32
+gcc_bootstrap_linux-aarch64-8.4.0-hdec9fc2_33

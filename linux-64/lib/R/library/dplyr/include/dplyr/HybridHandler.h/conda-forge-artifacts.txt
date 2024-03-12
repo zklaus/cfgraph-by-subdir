@@ -1,0 +1,10 @@
+r-dplyr-0.7.0-r3.3.2_0
+r-dplyr-0.7.0-r3.4.1_0
+r-dplyr-0.7.4-r3.3.2_0
+r-dplyr-0.7.4-r3.4.1_0
+r-dplyr-0.7.6-r341h9d2a408_0
+r-dplyr-0.7.6-r351h9d2a408_1
+r-dplyr-0.7.6-r341h9d2a408_1
+r-dplyr-0.7.6-r351h29659fb_1001
+r-dplyr-0.7.8-r351h9d2a408_0
+r-dplyr-0.7.8-r351h29659fb_1000

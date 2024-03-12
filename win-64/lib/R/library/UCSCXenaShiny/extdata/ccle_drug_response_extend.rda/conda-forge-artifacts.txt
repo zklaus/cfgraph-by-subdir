@@ -1,0 +1,12 @@
+r-ucscxenashiny-1.1.1-r41h6addd8b_0
+r-ucscxenashiny-1.1.1-r40h6addd8b_0
+r-ucscxenashiny-1.1.2-r41h6addd8b_0
+r-ucscxenashiny-1.1.2-r40h6addd8b_0
+r-ucscxenashiny-1.1.5-r40h6addd8b_0
+r-ucscxenashiny-1.1.5-r41h6addd8b_0
+r-ucscxenashiny-1.1.8-r41h6addd8b_0
+r-ucscxenashiny-1.1.8-r40h6addd8b_0
+r-ucscxenashiny-1.1.8-r41h6addd8b_1
+r-ucscxenashiny-1.1.9-r41h6addd8b_0
+r-ucscxenashiny-1.1.10-r41h6addd8b_0
+r-ucscxenashiny-1.1.10-r41h6addd8b_1

@@ -1,0 +1,3 @@
+singular-4.1.2.p1-h787fc11_0
+singular-4.1.2.p1-hdd094a0_1
+singular-4.1.2.p1-hdd094a0_2

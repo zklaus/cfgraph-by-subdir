@@ -1,0 +1,3 @@
+spdlog-1.12.0-h274a6aa_0
+spdlog-1.12.0-h6b8df57_1
+spdlog-1.12.0-h6b8df57_2

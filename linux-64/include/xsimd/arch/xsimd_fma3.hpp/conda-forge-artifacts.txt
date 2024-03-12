@@ -1,0 +1,7 @@
+xsimd-8.0.0-h4bd325d_0
+xsimd-8.0.1-h4bd325d_0
+xsimd-8.0.2-h4bd325d_0
+xsimd-8.0.3-h4bd325d_0
+xsimd-8.0.3-h4bd325d_1
+xsimd-8.0.4-h4bd325d_0
+xsimd-8.0.5-h4bd325d_0

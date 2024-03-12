@@ -1,0 +1,9 @@
+libiconv-1.15-0
+libiconv-1.15-h470a237_1
+libiconv-1.15-h470a237_2
+libiconv-1.15-h470a237_3
+libiconv-1.15-h14c3975_1003
+libiconv-1.15-h470a237_4
+libiconv-1.15-h14c3975_1004
+libiconv-1.15-h516909a_1005
+libiconv-1.15-h516909a_1006

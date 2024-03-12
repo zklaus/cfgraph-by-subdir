@@ -1,0 +1,11 @@
+code-aster-14.7.9-np121py38h420f7d8_0
+code-aster-14.7.9-np121py38h420f7d8_1
+code-aster-14.7.9-np121py39h7e13ee2_1
+code-aster-14.7.9-np121py38h420f7d8_2
+code-aster-14.7.9-np121py39h7e13ee2_2
+code-aster-14.8.0-np121py38hb9814a8_0
+code-aster-14.8.0-np121py39h50367c7_0
+code-aster-14.8.0-np122py39h50367c7_1
+code-aster-14.8.0-np122py38hb9814a8_1
+code-aster-14.8.0-np122py38hb9814a8_2
+code-aster-14.8.0-np122py39h50367c7_2

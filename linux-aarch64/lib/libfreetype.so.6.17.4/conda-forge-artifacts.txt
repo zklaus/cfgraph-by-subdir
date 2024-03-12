@@ -1,0 +1,4 @@
+freetype-2.10.4-he06d7ca_0
+freetype-2.10.4-h75e8696_0
+freetype-2.10.4-hdf53a3c_1
+freetype-2.10.4-hbbbf32d_2

@@ -1,0 +1,17 @@
+pycgtool-2.0.0b3-py37hcc03f2d_0
+pycgtool-2.0.0b3-py36h68aa20f_0
+pycgtool-2.0.0b3-py38h294d835_0
+pycgtool-2.0.0b3-py39hb82d6ee_0
+pycgtool-2.0.0b4-py37hcc03f2d_0
+pycgtool-2.0.0b4-py38h294d835_0
+pycgtool-2.0.0b4-py39hb82d6ee_0
+pycgtool-2.0.0b4-py37hcc03f2d_1
+pycgtool-2.0.0b4-py38h294d835_1
+pycgtool-2.0.0b4-py39hb82d6ee_1
+pycgtool-2.0.0-py38h294d835_0
+pycgtool-2.0.0-py37hcc03f2d_0
+pycgtool-2.0.0-py39hb82d6ee_0
+pycgtool-2.0.0-py39ha55989b_1
+pycgtool-2.0.0-py38h91455d4_1
+pycgtool-2.0.0-py39ha55989b_2
+pycgtool-2.0.0-py38h91455d4_2

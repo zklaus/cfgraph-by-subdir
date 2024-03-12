@@ -1,0 +1,5 @@
+spglib-2.1.0-py311h4ab9d54_0
+spglib-2.1.0-py39h063cfa0_0
+spglib-2.1.0-py38h668feba_0
+spglib-2.1.0-py39h1660894_0
+spglib-2.1.0-py310h19912d8_0

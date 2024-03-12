@@ -1,0 +1,11 @@
+qt6-main-6.4.0-he608ae7_0
+qt6-main-6.4.0-he608ae7_1
+qt6-main-6.4.0-he608ae7_2
+qt6-main-6.4.0-he608ae7_3
+qt6-3d-6.4.1-h0ea7e44_0
+qt6-3d-6.4.1-hef61a30_1
+qt6-3d-6.4.1-hef61a30_2
+qt6-3d-6.4.1-hef61a30_3
+qt6-3d-6.4.1-hef61a30_4
+qt6-3d-6.4.2-hef61a30_0
+qt6-3d-6.4.3-hef61a30_0

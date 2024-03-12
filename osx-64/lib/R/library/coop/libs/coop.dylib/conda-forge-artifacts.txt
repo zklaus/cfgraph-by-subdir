@@ -1,0 +1,13 @@
+r-coop-0.6_2-r36h159158b_1
+r-coop-0.6_2-r36h17f1fa6_2
+r-coop-0.6_2-r40h17f1fa6_2
+r-coop-0.6_2-r41h28b5c78_2
+r-coop-0.6_2-r40h28b5c78_2
+r-coop-0.6_2-r41hc2c5f09_3
+r-coop-0.6_2-r40hc2c5f09_3
+r-coop-0.6_3-r41hf27e4f0_0
+r-coop-0.6_3-r40hf27e4f0_0
+r-coop-0.6_3-r41h40f944a_1
+r-coop-0.6_3-r42h40f944a_1
+r-coop-0.6_3-r43h9c380c6_2
+r-coop-0.6_3-r42h9c380c6_2

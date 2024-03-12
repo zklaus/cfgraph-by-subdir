@@ -1,0 +1,12 @@
+r-algdesign-1.1_7.3-r36h159158b_1003
+r-algdesign-1.2.0-r36h17f1fa6_0
+r-algdesign-1.2.0-r36h17f1fa6_1
+r-algdesign-1.2.0-r40h17f1fa6_1
+r-algdesign-1.2.0-r41h28b5c78_1
+r-algdesign-1.2.0-r40h28b5c78_1
+r-algdesign-1.2.1-r40h67d6963_0
+r-algdesign-1.2.1-r41h67d6963_0
+r-algdesign-1.2.1-r41h815d134_1
+r-algdesign-1.2.1-r42h815d134_1
+r-algdesign-1.2.1-r43h6dc245f_2
+r-algdesign-1.2.1-r42h6dc245f_2

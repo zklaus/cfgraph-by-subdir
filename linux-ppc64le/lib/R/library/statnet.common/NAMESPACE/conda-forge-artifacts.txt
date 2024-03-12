@@ -1,0 +1,14 @@
+r-statnet.common-4.5.0-r41h2be38b1_0
+r-statnet.common-4.5.0-r40h2be38b1_0
+r-statnet.common-4.6.0-r40h497a943_0
+r-statnet.common-4.6.0-r41h497a943_0
+r-statnet.common-4.7.0-r40h497a943_0
+r-statnet.common-4.7.0-r41h497a943_0
+r-statnet.common-4.7.0-r42hfb29466_1
+r-statnet.common-4.7.0-r41hfb29466_1
+r-statnet.common-4.8.0-r41h32b52d2_0
+r-statnet.common-4.8.0-r42h32b52d2_0
+r-statnet.common-4.9.0-r41h94388fc_0
+r-statnet.common-4.9.0-r42h94388fc_0
+r-statnet.common-4.9.0-r42h94388fc_1
+r-statnet.common-4.9.0-r43h94388fc_1

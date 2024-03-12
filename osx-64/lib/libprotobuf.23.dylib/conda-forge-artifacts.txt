@@ -1,0 +1,5 @@
+libprotobuf-3.12.1-hd174df1_0
+libprotobuf-3.12.3-hd174df1_0
+libprotobuf-3.12.3-hd174df1_1
+libprotobuf-3.12.3-hab81aa3_2
+libprotobuf-3.12.4-hab81aa3_0

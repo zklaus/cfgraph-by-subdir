@@ -1,0 +1,12 @@
+fairscale-0.4.10-cpu_py310h7f64cb5_0
+fairscale-0.4.10-cpu_py38hf7c278c_0
+fairscale-0.4.10-cpu_py39hfa47230_0
+fairscale-0.4.11-cpu_py38hf7c278c_0
+fairscale-0.4.11-cpu_py39hfa47230_0
+fairscale-0.4.11-cpu_py310h7f64cb5_0
+fairscale-0.4.13-cpu_py38hf7c278c_0
+fairscale-0.4.13-cpu_py310h7f64cb5_0
+fairscale-0.4.13-cpu_py39hfa47230_0
+fairscale-0.4.13-cpu_py39hbf7e791_0
+fairscale-0.4.13-cpu_py38h97fcce6_0
+fairscale-0.4.13-cpu_py310hf2dcc44_0

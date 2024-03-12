@@ -1,0 +1,4 @@
+mpfr-4.1.0-h7bbf4ef_0
+mpfr-4.1.0-h7bbf4ef_1
+mpfr-4.2.0-h0749c68_0
+mpfr-4.2.1-haad2271_0

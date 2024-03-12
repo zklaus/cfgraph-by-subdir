@@ -1,0 +1,15 @@
+pynac-0.7.26-py38h4c16d61_2
+pynac-0.7.26-py36h4c16d61_2
+pynac-0.7.26-py38h13ba653_3
+pynac-0.7.26-py37he2766b6_3
+pynac-0.7.26-py36h230c364_3
+pynac-0.7.26-py38h0a8e962_4
+pynac-0.7.26-py37h15c04ee_4
+pynac-0.7.26-py36h288c906_4
+pynac-0.7.26-py37h15c04ee_5
+pynac-0.7.26-py36h288c906_5
+pynac-0.7.26-py38h0a8e962_5
+pynac-0.7.26-py37he2766b6_6
+pynac-0.7.26-py39h15ab5cf_6
+pynac-0.7.26-py36h230c364_6
+pynac-0.7.26-py38h13ba653_6

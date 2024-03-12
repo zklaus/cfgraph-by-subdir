@@ -1,0 +1,2 @@
+soapysdr-module-netsdr-0.2.0-hd00649d_0
+soapysdr-module-netsdr-0.2.0-hd00649d_1

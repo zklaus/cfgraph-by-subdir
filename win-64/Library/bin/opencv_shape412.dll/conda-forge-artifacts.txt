@@ -1,0 +1,6 @@
+libopencv-4.1.2-h7e61296_0
+libopencv-4.1.2-ha2bd0f3_0
+libopencv-4.1.2-h4a1da10_1
+libopencv-4.1.2-py37_2
+libopencv-4.1.2-py36_2
+libopencv-4.1.2-py38_2

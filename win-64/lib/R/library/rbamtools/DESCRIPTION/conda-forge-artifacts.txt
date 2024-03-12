@@ -1,0 +1,9 @@
+r-rbamtools-2.16.11-r351h6115d3f_0
+r-rbamtools-2.16.11-r351h6115d3f_1000
+r-rbamtools-2.16.11.2-r351h6115d3f_0
+r-rbamtools-2.16.11.2-r35h796a38f_1
+r-rbamtools-2.16.11.2-r36h796a38f_1
+r-rbamtools-2.16.17-r36h796a38f_0
+r-rbamtools-2.16.17-r35h796a38f_0
+r-rbamtools-2.16.17-r40h796a38f_1
+r-rbamtools-2.16.17-r36h796a38f_1

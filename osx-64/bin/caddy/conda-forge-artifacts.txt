@@ -1,0 +1,6 @@
+caddy-2.6.4-h694c41f_0
+caddy-2.6.4-h694c41f_1
+caddy-2.7.3-h694c41f_0
+caddy-2.7.4-h694c41f_0
+caddy-2.7.4-h694c41f_1
+caddy-2.7.5-h694c41f_0

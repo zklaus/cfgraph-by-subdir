@@ -1,0 +1,3 @@
+gifsicle-1.92-h0b31af3_0
+gifsicle-1.93-h0d85af4_0
+gifsicle-1.94-h0dc2134_0

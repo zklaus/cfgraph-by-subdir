@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-1.9.0-h33c4730_0

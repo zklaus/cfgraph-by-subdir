@@ -1,0 +1,5 @@
+xorg-libxcomposite-0.4.5-h0b31af3_0
+xorg-libxcomposite-0.4.5-hbcf498f_0
+xorg-libxcomposite-0.4.5-h0d85af4_0
+xorg-libxcomposite-0.4.5-hb7f2c08_1
+xorg-libxcomposite-0.4.6-hb7f2c08_1

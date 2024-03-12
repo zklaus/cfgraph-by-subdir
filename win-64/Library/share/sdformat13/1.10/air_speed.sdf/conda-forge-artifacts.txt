@@ -1,0 +1,8 @@
+libsdformat13-13.3.0-h31f35ab_0
+libsdformat13-13.4.0-h31f35ab_0
+libsdformat13-13.4.1-h31f35ab_0
+libsdformat13-13.5.0-h31f35ab_0
+libsdformat13-13.5.0-h31f35ab_1
+libsdformat13-13.6.0-h31f35ab_0
+libsdformat13-13.6.0-h31f35ab_1
+libsdformat13-13.6.0-h31f35ab_2

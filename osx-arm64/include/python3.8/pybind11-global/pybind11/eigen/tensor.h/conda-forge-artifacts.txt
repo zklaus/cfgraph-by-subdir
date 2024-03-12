@@ -1,0 +1,7 @@
+pybind11-global-2.10.2-py38h9dc3d6a_0
+pybind11-global-2.10.3-py38h9dc3d6a_0
+pybind11-global-2.10.4-py38h9dc3d6a_0
+pybind11-global-2.11.0-py38h9afee92_0
+pybind11-global-2.11.1-py38h9afee92_0
+pybind11-global-2.11.1-py38h9afee92_1
+pybind11-global-2.11.1-py38h9afee92_2

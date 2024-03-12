@@ -1,0 +1,6 @@
+armadillo-12.6.2-h9e47889_0
+armadillo-12.6.3-h9e47889_0
+armadillo-12.6.4-h9e47889_0
+armadillo-12.6.4-h131a092_1
+armadillo-12.6.5-h131a092_0
+armadillo-12.6.6-h131a092_0

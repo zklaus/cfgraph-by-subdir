@@ -1,0 +1,9 @@
+libarrow-12.0.0-hc1d00d8_0_cuda
+libarrow-12.0.0-h6e79272_1_cuda
+libarrow-12.0.0-he5b84aa_2_cuda
+libarrow-12.0.0-he12189f_3_cuda
+libarrow-12.0.0-he12189f_4_cuda
+libarrow-12.0.0-hd573807_7_cuda
+libarrow-12.0.0-hb56d620_8_cuda
+libarrow-12.0.0-h7bc9c71_9_cuda
+libarrow-12.0.0-h71705c3_9_cuda

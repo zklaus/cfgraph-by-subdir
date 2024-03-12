@@ -1,0 +1,9 @@
+ruby-3.1.0-ha4e8978_0
+ruby-3.1.0-h7a0a435_1
+ruby-3.1.0-h6c26aca_1
+ruby-3.1.1-h41c096d_0
+ruby-3.1.1-hf3f6e89_0
+ruby-3.1.2-h41c096d_0
+ruby-3.1.2-hf3f6e89_0
+ruby-3.1.2-h0b95f8f_1
+ruby-3.2.2-h0b95f8f_0

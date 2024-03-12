@@ -1,0 +1,2 @@
+kaleido-core-0.2.0-h8ffe710_0
+kaleido-core-0.2.1-h8ffe710_0

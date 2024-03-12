@@ -1,0 +1,8 @@
+fribidi-1.0.5-h470a237_0
+fribidi-1.0.5-h1de35cc_1000
+fribidi-1.0.5-h01d97ff_1001
+fribidi-1.0.5-h01d97ff_1002
+fribidi-1.0.5-h0b31af3_1003
+fribidi-1.0.9-h0b31af3_0
+fribidi-1.0.10-h0b31af3_0
+fribidi-1.0.10-hbcb3906_0

@@ -1,0 +1,8 @@
+r-alakazam-0.2.8-r3.3.2_0
+r-alakazam-0.2.8-r3.4.1_0
+r-alakazam-0.2.11-r341h466af19_0
+r-alakazam-0.2.11-r351h466af19_0
+r-alakazam-0.2.11-r351h466af19_1000
+r-alakazam-0.2.11-r351h9d2a408_0
+r-alakazam-0.3.0-r35hf99fc2c_0
+r-alakazam-0.3.0-r35hf99fc2c_1

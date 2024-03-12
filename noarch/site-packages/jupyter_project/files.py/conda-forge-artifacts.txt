@@ -1,0 +1,5 @@
+jupyter-project-0.1.0-py_0
+jupyter-project-0.2.0-py_0
+jupyter-project-0.3.0-py_0
+jupyter-project-1.0.0-py_0
+jupyter-project-1.0.1-py_0

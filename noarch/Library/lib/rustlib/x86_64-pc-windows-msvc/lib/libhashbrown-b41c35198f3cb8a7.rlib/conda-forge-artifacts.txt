@@ -1,0 +1,2 @@
+rust-std-x86_64-pc-windows-msvc-1.67.1-h69312b4_0
+rust-std-x86_64-pc-windows-msvc-1.67.1-h69312b4_1

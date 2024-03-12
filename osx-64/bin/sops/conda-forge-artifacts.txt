@@ -1,0 +1,10 @@
+go-sops-3.5.0-hb3e731d_0
+go-sops-3.6.0-h822c3ff_0
+go-sops-3.6.1-h822c3ff_0
+go-sops-3.6.1-hbcb3906_1
+go-sops-3.7.0-h0d85af4_0
+go-sops-3.7.1-h0d85af4_0
+go-sops-3.7.2-h5eb16cf_0
+go-sops-3.7.3-hb7f2c08_0
+go-sops-3.8.0-h0dc2134_0
+go-sops-3.8.1-h10d778d_0

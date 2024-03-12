@@ -1,0 +1,13 @@
+r-svglite-2.0.0-r40h03ef668_0
+r-svglite-2.0.0-r36h03ef668_0
+r-svglite-2.0.0-r41h03ef668_0
+r-svglite-2.1.0-r41h03ef668_0
+r-svglite-2.1.0-r40h03ef668_0
+r-svglite-2.1.0-r42h7525677_1
+r-svglite-2.1.0-r41h7525677_1
+r-svglite-2.1.1-r42he8f5e61_0
+r-svglite-2.1.1-r41he8f5e61_0
+r-svglite-2.1.1-r42h329214f_1
+r-svglite-2.1.1-r43h329214f_1
+r-svglite-2.1.2-r43h329214f_0
+r-svglite-2.1.2-r42h329214f_0

@@ -1,0 +1,1 @@
+libnvjpeg-static-12.0.0.28-ha3edaa6_0

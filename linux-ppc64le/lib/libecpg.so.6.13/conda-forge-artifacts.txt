@@ -1,0 +1,13 @@
+libpq-13.1-h475683a_1
+libpq-13.1-h475683a_2
+libpq-13.2-h475683a_2
+libpq-13.2-he9d5e3e_3
+libpq-13.3-he9d5e3e_0
+libpq-13.3-he9d5e3e_1
+libpq-13.3-he9d5e3e_2
+libpq-13.3-he9d5e3e_3
+libpq-13.5-he9d5e3e_0
+libpq-13.5-h3e31190_1
+libpq-13.5-he9d5e3e_1
+libpq-13.8-h9fbd2da_0
+libpq-13.8-h8203483_0

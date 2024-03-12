@@ -1,0 +1,4 @@
+omniscidb-cpu-4.8.0-he906d42_0
+omniscidb-cpu-4.8.1-h3436df8_0
+omniscidb-cpu-5.0.0-he8eb5b7_0
+omniscidb-cpu-5.0.0-hd4ca5d7_1

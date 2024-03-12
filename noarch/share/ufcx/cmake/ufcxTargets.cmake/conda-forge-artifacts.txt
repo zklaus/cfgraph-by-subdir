@@ -1,0 +1,6 @@
+fenics-ufcx-0.4.2-hb871ab6_0
+fenics-ufcx-0.4.2-hb871ab6_1
+fenics-ufcx-0.5.0-hb871ab6_0
+fenics-ufcx-0.5.0-hb871ab6_1
+fenics-ufcx-0.6.0-h56297ac_0
+fenics-ufcx-0.7.0-h4af843d_0

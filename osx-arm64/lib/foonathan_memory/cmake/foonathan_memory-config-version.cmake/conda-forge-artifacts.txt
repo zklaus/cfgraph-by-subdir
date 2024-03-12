@@ -1,0 +1,3 @@
+foonathan-memory-0.7.1-hbdafb3b_0
+foonathan-memory-0.7.2-h2e04ded_0
+foonathan-memory-0.7.2-hb7217d7_1

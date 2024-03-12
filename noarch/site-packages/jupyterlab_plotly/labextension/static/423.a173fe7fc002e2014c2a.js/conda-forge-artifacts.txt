@@ -1,0 +1,4 @@
+plotly-5.13.0-pyhd8ed1ab_0
+plotly-5.13.1-pyhd8ed1ab_0
+plotly-5.14.0-pyhd8ed1ab_0
+plotly-5.14.1-pyhd8ed1ab_0

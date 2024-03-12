@@ -1,0 +1,6 @@
+libmbd-0.12.6-nompi_he3bfcca_100
+libmbd-0.12.6-mpi_openmpi_h7e1ca97_0
+libmbd-0.12.6-mpi_mpich_h0c4d7e2_0
+libmbd-0.12.7-nompi_h1c91774_100
+libmbd-0.12.7-mpi_mpich_h7611258_0
+libmbd-0.12.7-mpi_openmpi_h7edfa36_0

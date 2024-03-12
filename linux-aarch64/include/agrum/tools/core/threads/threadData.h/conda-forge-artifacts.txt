@@ -1,0 +1,5 @@
+pyagrum-1.10.0-py39hcb202da_0
+pyagrum-1.10.0-py310h747f15b_0
+pyagrum-1.10.0-py311h63b17a8_0
+pyagrum-1.10.0-py38h19c8847_0
+pyagrum-1.10.0-py312h9d38af5_0

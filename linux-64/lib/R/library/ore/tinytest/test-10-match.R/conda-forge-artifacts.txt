@@ -1,0 +1,12 @@
+r-ore-1.7.0-r41hcfec24a_0
+r-ore-1.7.0-r40hcfec24a_0
+r-ore-1.7.1.1-r40hcfec24a_0
+r-ore-1.7.1.1-r41hcfec24a_0
+r-ore-1.7.1.1-r41h06615bd_1
+r-ore-1.7.1.1-r42h06615bd_1
+r-ore-1.7.2.1-r41h06615bd_0
+r-ore-1.7.2.1-r42h06615bd_0
+r-ore-1.7.3.1-r41h133d619_0
+r-ore-1.7.3.1-r42h133d619_0
+r-ore-1.7.3.1-r42h57805ef_1
+r-ore-1.7.3.1-r43h57805ef_1

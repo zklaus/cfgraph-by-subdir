@@ -1,0 +1,9 @@
+r-rgeos-0.3_26-r3.4.1_0
+r-rgeos-0.3_28-r341_0
+r-rgeos-0.3_28-r341h5bad187_1
+r-rgeos-0.3_28-r341h5bad187_2
+r-rgeos-0.3_28-r351h5bad187_2
+r-rgeos-0.4_1-r341h5bad187_0
+r-rgeos-0.4_1-r351h5bad187_0
+r-rgeos-0.4_2-r341h5bad187_0
+r-rgeos-0.4_2-r351h5bad187_0

@@ -1,0 +1,6 @@
+libhwloc-2.0.3-h130b219_1
+libhwloc-2.1.0-h130b219_0
+libhwloc-2.3.0-h130b219_0
+libhwloc-2.3.0-hc79adcb_1
+libhwloc-2.4.0-h7d09cbc_0
+libhwloc-2.4.1-h7d09cbc_0

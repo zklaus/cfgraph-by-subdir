@@ -1,0 +1,5 @@
+ca-certificates-cos7-aarch64-2018.2.22-h1341992_2
+ca-certificates-cos7-aarch64-2019.2.32-hdf0574f_102
+ca-certificates-cos7-aarch64-2019.2.32-ha826a6f_103
+ca-certificates-cos7-aarch64-2019.2.32-h9d98e8f_104
+ca-certificates-cos7-aarch64-2020.2.41-h9b0a68f_105

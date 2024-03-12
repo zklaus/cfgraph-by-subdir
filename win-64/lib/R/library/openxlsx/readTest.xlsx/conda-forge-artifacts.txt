@@ -1,0 +1,4 @@
+r-openxlsx-4.1.0-r351h6115d3f_1000
+r-openxlsx-4.1.0.1-r35h796a38f_0
+r-openxlsx-4.1.0.1-r35h796a38f_1
+r-openxlsx-4.1.0.1-r36h796a38f_1

@@ -1,0 +1,15 @@
+cis_interface-0.6.1-py35hd4e1552_0
+cis_interface-0.6.1-py36hd4e1552_0
+cis_interface-0.7.10-py36h0fa9743_1000
+cis_interface-0.7.10-py37h0fa9743_1000
+cis_interface-0.7.10-py36h9e35f6b_1001
+cis_interface-0.7.10-py37h9e35f6b_1001
+cis_interface-0.7.10-py37h436ce2f_1002
+cis_interface-0.7.10-py38h436ce2f_1002
+cis_interface-0.7.10-py36h436ce2f_1002
+cis_interface-0.7.10-py37h3a8f65c_1003
+cis_interface-0.7.10-py36h51c0b76_1003
+cis_interface-0.7.10-py38had6df4e_1003
+cis_interface-0.7.10-py37hf3a330b_1004
+cis_interface-0.7.10-py38h89dbc38_1004
+cis_interface-0.7.10-py36h0152f4a_1004

@@ -1,0 +1,17 @@
+wxwidgets-3.2.0-hfb22cc3_1
+wxwidgets-3.2.0-h80aa064_2
+wxwidgets-3.2.1-hde9b9c7_0
+wxwidgets-3.2.1-h96daef2_1
+wxwidgets-3.2.1-haf2b257_2
+wxwidgets-3.2.1-h36d26ea_3
+wxwidgets-3.2.1-h36d26ea_4
+wxwidgets-3.2.2-h36d26ea_0
+wxwidgets-3.2.2.1-h36d26ea_0
+wxwidgets-3.2.2.1-h8ef34f9_1
+wxwidgets-3.2.2.1-h254b04c_2
+wxwidgets-3.2.2.1-h254b04c_3
+wxwidgets-3.2.2.1-h2c48a6d_4
+wxwidgets-3.2.2.1-h38c6e64_5
+wxwidgets-3.2.3-h553ca1f_0
+wxwidgets-3.2.4-h553ca1f_0
+wxwidgets-3.2.4-h5e6ad94_1

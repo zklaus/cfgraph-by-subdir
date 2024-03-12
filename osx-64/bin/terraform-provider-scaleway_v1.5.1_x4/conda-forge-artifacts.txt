@@ -1,0 +1,2 @@
+terraform-provider-scaleway-1.5.1-h81701ea_1
+terraform-provider-scaleway-1.5.1-h81701ea_1001

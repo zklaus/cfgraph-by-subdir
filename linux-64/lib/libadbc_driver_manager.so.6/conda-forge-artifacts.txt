@@ -1,0 +1,1 @@
+libadbc-driver-manager-0.6.0-h00ab1b0_0

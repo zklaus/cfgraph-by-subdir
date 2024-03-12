@@ -1,0 +1,10 @@
+r-tabulizer-0.2.2-r36h6115d3f_0
+r-tabulizer-0.2.2-r35h6115d3f_0
+r-tabulizer-0.2.2-r36h6115d3f_1
+r-tabulizer-0.2.2-r40h6115d3f_1
+r-tabulizer-0.2.2-r40h785f33e_1
+r-tabulizer-0.2.2-r41h785f33e_1
+r-tabulizer-0.2.2-r41h785f33e_2
+r-tabulizer-0.2.2-r42h785f33e_2
+r-tabulizer-0.2.2-r42h785f33e_3
+r-tabulizer-0.2.2-r43h785f33e_3

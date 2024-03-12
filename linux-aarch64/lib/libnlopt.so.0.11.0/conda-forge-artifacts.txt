@@ -1,0 +1,15 @@
+nlopt-2.7.0-py36h0912a49_0
+nlopt-2.7.0-py37h20d56fc_0
+nlopt-2.7.0-py38h676cd61_0
+nlopt-2.7.0-py39h407c234_0
+nlopt-2.7.0-py36hdcba40d_1
+nlopt-2.7.0-py37h1389722_1
+nlopt-2.7.0-py38hcadc3c9_1
+nlopt-2.7.0-py39hcfcb4ca_1
+nlopt-2.7.0-py36hb4ef3dd_1
+nlopt-2.7.0-py37hdacf1b8_1
+nlopt-2.7.0-py38hcc6bbb9_1
+nlopt-2.7.0-py310h1a281fa_2
+nlopt-2.7.0-py39h98d256d_2
+nlopt-2.7.0-py38h581b31a_2
+nlopt-2.7.0-py37h335b040_2

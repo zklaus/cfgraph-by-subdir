@@ -1,0 +1,5 @@
+suitesparse-5.6.0-h717dc36_0
+suitesparse-5.7.2-h717dc36_0
+suitesparse-5.7.2-h7a0d4b7_0
+suitesparse-5.10.1-hd8046ac_0
+suitesparse-5.10.1-h9e50725_1

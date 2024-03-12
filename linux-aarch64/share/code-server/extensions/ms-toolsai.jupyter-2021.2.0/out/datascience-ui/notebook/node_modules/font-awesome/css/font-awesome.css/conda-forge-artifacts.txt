@@ -1,0 +1,12 @@
+vscode-jupyter-2021.02.1-py37h1d834f3_3
+vscode-jupyter-2021.02.1-py39hb442f2f_3
+vscode-jupyter-2021.02.1-py36h2dd4d79_3
+vscode-jupyter-2021.02.1-py36ha18ea0a_3
+vscode-jupyter-2021.02.1-py37hf825241_3
+vscode-jupyter-2021.02.1-py38h4d89211_3
+vscode-jupyter-2021.02.1-py36hcae0fc4_4
+vscode-jupyter-2021.02.1-py36h90d456b_4
+vscode-jupyter-2021.02.1-py39hbd5773b_4
+vscode-jupyter-2021.02.1-py37h6191671_4
+vscode-jupyter-2021.02.1-py38h9f6381c_4
+vscode-jupyter-2021.02.1-py37h237f8a2_4

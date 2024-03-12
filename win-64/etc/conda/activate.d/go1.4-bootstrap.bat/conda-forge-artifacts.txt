@@ -1,0 +1,3 @@
+go1.4-bootstrap_win-64-20171003-h41a7c8f_1001
+go1.4-bootstrap_win-64-20171003-h41a7c8f_1002
+go1.4-bootstrap_win-64-20171003-h301d43c_1003

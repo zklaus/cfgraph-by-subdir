@@ -1,0 +1,7 @@
+simple-dftd3-0.4.2-hc15285d_0
+simple-dftd3-0.4.2-hc15285d_1
+simple-dftd3-0.5.0-hc15285d_0
+simple-dftd3-0.5.0-hc15285d_1
+simple-dftd3-0.5.0-hc15285d_2
+simple-dftd3-0.5.1-hc15285d_0
+simple-dftd3-0.6.0-h8cf6c9e_0

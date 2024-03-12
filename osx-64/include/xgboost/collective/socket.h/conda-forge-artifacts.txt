@@ -1,0 +1,14 @@
+libxgboost-1.7.0-cpu_h0c1cf5f_0
+libxgboost-1.7.1-cpu_h0c1cf5f_0
+libxgboost-1.7.4-cpu_h0c1cf5f_0
+libxgboost-1.7.4-cpu_h4cd8c17_1
+libxgboost-1.7.4-cpu_h4cd8c17_2
+libxgboost-1.7.4-cpu_h4cd8c17_3
+libxgboost-1.7.4-cpu_h72f100a_4
+libxgboost-1.7.6-cpu_h72f100a_0
+libxgboost-1.7.6-cpu_h72f100a_1
+libxgboost-1.7.6-cpu_h72f100a_2
+libxgboost-1.7.6-cpu_h2b4cd7c_3
+libxgboost-1.7.6-cpu_h2b4cd7c_4
+libxgboost-1.7.6-cpu_h2b4cd7c_5
+libxgboost-1.7.6-cpu_h2b4cd7c_6

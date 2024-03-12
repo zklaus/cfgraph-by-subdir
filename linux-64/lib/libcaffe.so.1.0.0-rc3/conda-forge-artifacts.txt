@@ -1,0 +1,2 @@
+caffe-1.0.0rc4-py27_blas_openblas_202
+caffe-1.0.0rc4-py27_blas_openblas_203

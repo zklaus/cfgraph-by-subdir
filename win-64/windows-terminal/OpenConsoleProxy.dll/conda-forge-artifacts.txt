@@ -1,0 +1,2 @@
+windows-terminal-1.17.11461-h57928b3_0
+windows-terminal-1.18.2822.0-h57928b3_0

@@ -1,0 +1,5 @@
+libdiffpy-1.3.4-0
+libdiffpy-1.3.4-1
+libdiffpy-1.3.4-h23d14b6_1
+libdiffpy-1.3.4-h519b457_1001
+libdiffpy-1.3.4-h9b6f368_1

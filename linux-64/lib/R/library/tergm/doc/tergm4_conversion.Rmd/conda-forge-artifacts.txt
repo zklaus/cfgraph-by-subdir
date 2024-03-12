@@ -1,0 +1,14 @@
+r-tergm-4.0.1-r41hcfec24a_0
+r-tergm-4.0.1-r40hcfec24a_0
+r-tergm-4.0.2-r40hcfec24a_0
+r-tergm-4.0.2-r41hcfec24a_0
+r-tergm-4.1.0-r40h06615bd_0
+r-tergm-4.1.0-r41h06615bd_0
+r-tergm-4.1.0-r42h06615bd_1
+r-tergm-4.1.0-r41h06615bd_1
+r-tergm-4.1.1-r42h06615bd_0
+r-tergm-4.1.1-r41h06615bd_0
+r-tergm-4.2.0-r41h57805ef_0
+r-tergm-4.2.0-r42h57805ef_0
+r-tergm-4.2.0-r43h57805ef_1
+r-tergm-4.2.0-r42h57805ef_1

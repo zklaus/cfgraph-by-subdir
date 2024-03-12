@@ -1,0 +1,6 @@
+git-credential-manager-2.0.785-ha3cccfb_0
+git-credential-manager-2.0.866-h28f7a50_0
+git-credential-manager-2.0.877-h28f7a50_0
+git-credential-manager-2.0.886-hf1bc24a_0
+git-credential-manager-2.0.931-hf1bc24a_0
+git-credential-manager-2.0.935-hf1bc24a_0

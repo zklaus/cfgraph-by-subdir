@@ -1,0 +1,2 @@
+terraform-provider-openstack-1.23.0-h3eaf7b7_0
+terraform-provider-openstack-1.23.0-ha8a90a3_0

@@ -1,0 +1,15 @@
+r-rcppeigen-0.3.3.7.0-r35h796a38f_0
+r-rcppeigen-0.3.3.7.0-r36h796a38f_0
+r-rcppeigen-0.3.3.7.0-r36h796a38f_1
+r-rcppeigen-0.3.3.7.0-r40h796a38f_1
+r-rcppeigen-0.3.3.7.0-r40hb8e368e_2
+r-rcppeigen-0.3.3.7.0-r36hb8e368e_2
+r-rcppeigen-0.3.3.9.1-r40h399f8d5_0
+r-rcppeigen-0.3.3.9.1-r36h399f8d5_0
+r-rcppeigen-0.3.3.9.1-r41h399f8d5_0
+r-rcppeigen-0.3.3.9.2-r41h399f8d5_0
+r-rcppeigen-0.3.3.9.2-r40h399f8d5_0
+r-rcppeigen-0.3.3.9.2-r41h78deb2a_1
+r-rcppeigen-0.3.3.9.3-r41h78deb2a_0
+r-rcppeigen-0.3.3.9.3-r41h78deb2a_1
+r-rcppeigen-0.3.3.9.4-r41h78deb2a_0

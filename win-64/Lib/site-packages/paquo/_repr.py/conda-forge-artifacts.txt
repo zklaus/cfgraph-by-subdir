@@ -1,0 +1,15 @@
+paquo-0.4.2-py37h03978a9_0
+paquo-0.4.2-py38haa244fe_0
+paquo-0.4.2-py39hcbf5309_0
+paquo-0.4.2-py39hcbf5309_1
+paquo-0.4.2-py38haa244fe_1
+paquo-0.4.2-py310h5588dad_1
+paquo-0.4.2-py37h03978a9_1
+paquo-0.5.0-py38haa244fe_0
+paquo-0.5.0-py39hcbf5309_0
+paquo-0.5.0-py37h03978a9_0
+paquo-0.5.0-py310h5588dad_0
+paquo-0.5.1-py39hcbf5309_0
+paquo-0.5.1-py310h5588dad_0
+paquo-0.5.1-py37h03978a9_0
+paquo-0.5.1-py38haa244fe_0

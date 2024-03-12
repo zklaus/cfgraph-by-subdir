@@ -1,0 +1,13 @@
+gama-2.02-hfc679d8_0
+gama-2.02-hf484d3e_1000
+gama-2.03-hf484d3e_0
+gama-2.06-hf484d3e_0
+gama-2.09-he1b5a44_0
+gama-2.10-he1b5a44_0
+gama-2.11-he1b5a44_0
+gama-2.12-h9c3ff4c_0
+gama-2.13-h9c3ff4c_0
+gama-2.14-h9c3ff4c_0
+gama-2.15-h9c3ff4c_0
+gama-2.18-h27087fc_0
+gama-2.19-h27087fc_0

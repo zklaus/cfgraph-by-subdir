@@ -1,0 +1,10 @@
+tesseract-4.1.0-h82d57dc_1
+tesseract-4.1.0-h328755b_2
+tesseract-4.1.1-h328755b_0
+tesseract-4.1.1-h328755b_1
+tesseract-4.1.1-h1fd39ab_3
+tesseract-4.1.1-had67df9_4
+tesseract-4.1.1-h8c00e3c_4
+tesseract-4.1.1-h17c68af_5
+tesseract-4.1.1-h17c68af_6
+tesseract-4.1.3-h17c68af_6

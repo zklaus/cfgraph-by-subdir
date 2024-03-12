@@ -1,0 +1,3 @@
+xapian-core-1.4.15-he513fc3_3
+xapian-core-1.4.16-he513fc3_0
+xapian-core-1.4.17-he513fc3_0

@@ -1,0 +1,2 @@
+erlang-24.0.1-hb6651ff_0
+erlang-24.0.2-hb6651ff_0

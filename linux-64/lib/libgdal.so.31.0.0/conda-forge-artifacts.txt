@@ -1,0 +1,12 @@
+libgdal-3.5.0-h56144a5_0
+libgdal-3.5.0-h3886835_0
+libgdal-3.5.0-hd0aedcd_1
+libgdal-3.5.0-h844f3f6_1
+libgdal-3.5.0-h1f7a3f3_2
+libgdal-3.5.0-hd131f80_2
+libgdal-3.5.0-he21a14a_3
+libgdal-3.5.0-h31d7bda_3
+libgdal-3.5.0-hc0ebe42_4
+libgdal-3.5.0-h59d0e54_4
+libgdal-3.5.0-h32640fd_5
+libgdal-3.5.0-h0c20829_5

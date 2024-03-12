@@ -1,0 +1,2 @@
+qtserialport-5.9.8-h279c94e_0
+qtserialport-5.9.8-h73816c6_1

@@ -1,0 +1,1 @@
+spglib-1.16.0-py36hda16e5c_2

@@ -1,0 +1,2 @@
+rust-1.67.1-hec6ff21_0
+rust-1.67.1-hec6ff21_1

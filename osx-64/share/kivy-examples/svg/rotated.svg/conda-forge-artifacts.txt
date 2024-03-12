@@ -1,0 +1,15 @@
+kivy-2.2.0-py310h1febe59_0
+kivy-2.2.0-py38h49b6527_0
+kivy-2.2.0-py39h24f15de_0
+kivy-2.2.0-py39h43c9484_0
+kivy-2.2.0-py38hdcd28e2_0
+kivy-2.2.1-py39hca78260_0
+kivy-2.2.1-py310h783e21a_0
+kivy-2.2.1-py38h9915f8e_0
+kivy-2.2.1-py38he8a4dd9_0
+kivy-2.2.1-py39h2f6f0cd_0
+kivy-2.2.1-py310h783e21a_1
+kivy-2.2.1-py39hca78260_1
+kivy-2.2.1-py38h9915f8e_1
+kivy-2.2.1-py311hd7c6e05_1
+kivy-2.2.1-py39h2f6f0cd_1

@@ -1,0 +1,14 @@
+r-xts-0.12_0-r36hcdcec82_0
+r-xts-0.12_0-r35hcdcec82_0
+r-xts-0.12_0-r36hcdcec82_1
+r-xts-0.12_0-r40hcdcec82_1
+r-xts-0.12.1-r36hcdcec82_0
+r-xts-0.12.1-r40hcdcec82_0
+r-xts-0.12.1-r40hcfec24a_0
+r-xts-0.12.1-r41hcfec24a_0
+r-xts-0.12.1-r40h06615bd_0
+r-xts-0.12.1-r41h06615bd_0
+r-xts-0.12.1-r41h06615bd_1
+r-xts-0.12.1-r42h06615bd_1
+r-xts-0.12.2-r41h06615bd_0
+r-xts-0.12.2-r42h06615bd_0

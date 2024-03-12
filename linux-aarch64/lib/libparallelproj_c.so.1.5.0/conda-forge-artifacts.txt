@@ -1,0 +1,11 @@
+libparallelproj-1.5.0-cpu_h3cca40e_0
+libparallelproj-1.5.0-cpu_h3cca40e_1
+libparallelproj-1.5.0-cuda120_h37f0215_201
+libparallelproj-1.5.0-cuda112_h74649c0_201
+libparallelproj-1.5.0-cpu_h3cca40e_2
+libparallelproj-1.5.0-cuda120_h37f0215_202
+libparallelproj-1.5.0-cuda112_h74649c0_202
+libparallelproj-1.5.0-cpu_h3cca40e_3
+libparallelproj-1.5.0-cuda120_h37f0215_203
+libparallelproj-1.5.0-cuda112_h74649c0_203
+libparallelproj-1.5.0-cuda118_h362d83c_203

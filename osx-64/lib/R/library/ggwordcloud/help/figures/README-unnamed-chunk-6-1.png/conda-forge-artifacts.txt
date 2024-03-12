@@ -1,0 +1,4 @@
+r-ggwordcloud-0.6.0-r42h64b2c41_0
+r-ggwordcloud-0.6.0-r43h64b2c41_0
+r-ggwordcloud-0.6.1-r42h64b2c41_0
+r-ggwordcloud-0.6.1-r43h64b2c41_0

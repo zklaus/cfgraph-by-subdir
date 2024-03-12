@@ -1,0 +1,16 @@
+qgis-3.28.5-py311hb40b483_0
+qgis-3.28.5-py310h835cd63_0
+qgis-3.28.5-py39h2ed804e_0
+qgis-3.28.5-py38hdaa2f3e_0
+qgis-3.28.5-py310hf77006b_1
+qgis-3.28.5-py311he6c8fa6_1
+qgis-3.28.5-py38h7707a32_1
+qgis-3.28.5-py39h194d92a_1
+qgis-3.28.5-py310h946066b_1
+qgis-3.28.5-py39h0644a60_1
+qgis-3.28.5-py311he86ea7d_1
+qgis-3.28.5-py38h48b8b6b_1
+qgis-3.28.5-py310hce184a8_2
+qgis-3.28.5-py311h8461407_2
+qgis-3.28.5-py39h0a4acbe_2
+qgis-3.28.5-py38hdeae43e_2

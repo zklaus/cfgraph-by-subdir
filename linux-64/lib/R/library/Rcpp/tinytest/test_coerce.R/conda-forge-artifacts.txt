@@ -1,0 +1,6 @@
+r-rcpp-1.0.10-r42h38f115c_0
+r-rcpp-1.0.10-r41h38f115c_0
+r-rcpp-1.0.10-r43ha503ecb_1
+r-rcpp-1.0.10-r42ha503ecb_1
+r-rcpp-1.0.11-r43h7df8631_0
+r-rcpp-1.0.11-r42h7df8631_0

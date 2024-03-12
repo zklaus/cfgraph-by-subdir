@@ -1,0 +1,16 @@
+r-svglite-1.2.2-r35h796a38f_1
+r-svglite-1.2.2-r35h796a38f_2
+r-svglite-1.2.2-r36h796a38f_2
+r-svglite-1.2.2-r36h796a38f_3
+r-svglite-1.2.2-r35h796a38f_3
+r-svglite-1.2.3-r35h796a38f_0
+r-svglite-1.2.3-r36h796a38f_0
+r-svglite-2.0.0-r36ha856d6a_0
+r-svglite-2.0.0-r40ha856d6a_0
+r-svglite-2.0.0-r41ha856d6a_0
+r-svglite-2.1.0-r41ha856d6a_0
+r-svglite-2.1.0-r40ha856d6a_0
+r-svglite-2.1.0-r41ha856d6a_1
+r-svglite-2.1.1-r41ha856d6a_0
+r-svglite-2.1.1-r41ha856d6a_1
+r-svglite-2.1.2-r41ha856d6a_0

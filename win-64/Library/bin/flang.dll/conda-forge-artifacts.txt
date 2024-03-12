@@ -1,0 +1,11 @@
+libflang-5.0.0-vc14_1
+libflang-5.0.0-vc14_20180101
+libflang-5.0.0-vc14_20180207
+libflang-5.0.0-vc14_20180208
+libflang-5.0.0-h6538335_20180525
+libopenblas-0.3.6-h29e5d5d_2
+libopenblas-0.3.6-h29e5d5d_3
+libopenblas-0.3.6-h29e5d5d_4
+libopenblas-0.3.6-h29e5d5d_5
+libflang-11.0.1-h0e60522_20200126
+libflang-11.0.1-h0e60522_20210131

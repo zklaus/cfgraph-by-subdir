@@ -1,0 +1,6 @@
+nauty-2.6.11-h516909a_1
+nauty-2.7.1-h516909a_0
+nauty-2.7.1-hb9de7d4_0
+nauty-2.7.1-hf897c2e_1
+nauty-2.7.1-hf897c2e_2
+nauty-2.7.2-hf897c2e_0

@@ -1,0 +1,13 @@
+r-lsei-1.2_0-r35h8933c1f_1003
+r-lsei-1.2_0-r36h8933c1f_1003
+r-lsei-1.2_0-r36h8933c1f_1004
+r-lsei-1.2_0-r35h8933c1f_1004
+r-lsei-1.2_0-r40h8933c1f_1005
+r-lsei-1.2_0-r36h8933c1f_1005
+r-lsei-1.2_0.1-r36h8933c1f_0
+r-lsei-1.2_0.1-r40h8933c1f_0
+r-lsei-1.3_0-r36h8933c1f_0
+r-lsei-1.3_0-r40h8933c1f_0
+r-lsei-1.3_0-r36h8933c1f_1
+r-lsei-1.3_0-r40h8933c1f_1
+r-lsei-1.3_0-r40hd5c7e75_1

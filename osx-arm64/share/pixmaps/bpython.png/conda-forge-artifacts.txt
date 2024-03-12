@@ -1,0 +1,17 @@
+bpython-0.23-py311h267d04e_2
+bpython-0.23-py38h10201cd_2
+bpython-0.23-py310hbe9552e_2
+bpython-0.23-py39h2804cbe_2
+bpython-0.24-py310hbe9552e_0
+bpython-0.24-py311h267d04e_0
+bpython-0.24-py39h2804cbe_0
+bpython-0.24-py38h10201cd_0
+bpython-0.24-py38h10201cd_1
+bpython-0.24-py311h267d04e_1
+bpython-0.24-py310hbe9552e_1
+bpython-0.24-py39h2804cbe_1
+bpython-0.24-py38h10201cd_2
+bpython-0.24-py310hbe9552e_2
+bpython-0.24-py312h81bd7bf_2
+bpython-0.24-py39h2804cbe_2
+bpython-0.24-py311h267d04e_2

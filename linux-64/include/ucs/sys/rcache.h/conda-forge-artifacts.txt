@@ -1,0 +1,14 @@
+ucx-1.5.1-h4f95a67_0_cpu
+ucx-1.5.1-he1b5a44_1_cpu
+ucx-1.5.1-ha5db111_1_cpu
+ucx-1.5.1-h7cc98d6_1_gpu
+ucx-1.5.1-hd6f8bf8_1_gpu
+ucx-1.5.1-h51cf6c1_1_gpu
+ucx-1.5.1-ha5db111_2_cpu
+ucx-1.5.1-hd6f8bf8_2_gpu
+ucx-1.5.1-h7cc98d6_2_gpu
+ucx-1.5.1-h51cf6c1_2_gpu
+ucx-1.5.2-ha5db111_0_cpu
+ucx-1.5.2-h7cc98d6_0_gpu
+ucx-1.5.2-hd6f8bf8_0_gpu
+ucx-1.5.2-h51cf6c1_0_gpu

@@ -1,0 +1,8 @@
+xorg-libxfixes-5.0.3-0
+xorg-libxfixes-5.0.3-1
+xorg-libxfixes-5.0.3-2
+xorg-libxfixes-5.0.3-h470a237_3
+xorg-libxfixes-5.0.3-h470a237_4
+xorg-libxfixes-5.0.3-h14c3975_1004
+xorg-libxfixes-5.0.3-h516909a_1004
+xorg-libxfixes-5.0.3-h7f98852_1004

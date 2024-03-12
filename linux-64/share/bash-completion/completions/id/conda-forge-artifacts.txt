@@ -1,0 +1,7 @@
+bash-completion-2.9-0
+bash-completion-2.10-0
+bash-completion-2.10-1
+bash-completion-2.11-0
+bash-completion-2.11-ha770c72_1
+uutils-coreutils-0.0.16-hbd0da30_0
+uutils-coreutils-0.0.17-hbd0da30_0

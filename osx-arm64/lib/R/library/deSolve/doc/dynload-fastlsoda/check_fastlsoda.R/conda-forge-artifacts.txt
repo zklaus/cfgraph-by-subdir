@@ -1,0 +1,12 @@
+r-desolve-1.35-r42h2920ffe_0
+r-desolve-1.35-r41h2920ffe_0
+r-desolve-1.35-r42h79f127a_1
+r-desolve-1.35-r43h79f127a_1
+r-desolve-1.36-r42h79f127a_0
+r-desolve-1.36-r43h79f127a_0
+r-desolve-1.37-r43h79f127a_0
+r-desolve-1.37-r42h79f127a_0
+r-desolve-1.38-r42h79f127a_0
+r-desolve-1.38-r43h79f127a_0
+r-desolve-1.40-r42h7dd115d_0
+r-desolve-1.40-r43h7dd115d_0

@@ -1,0 +1,7 @@
+pyscal3-3.0.1-py38hba43d4d_0
+pyscal3-3.0.1-py38hba43d4d_1
+pyscal3-3.1.0-py38hba43d4d_0
+pyscal3-3.1.0-py38hba43d4d_1
+pyscal3-3.1.1-py38h820b6e8_0
+pyscal3-3.1.1-py38h68d8ab2_1
+pyscal3-3.1.2-py38h68d8ab2_0

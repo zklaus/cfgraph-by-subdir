@@ -1,0 +1,8 @@
+bigdft-suite-1.9.3-mpi_openmpi_py311hcb5faff_0
+bigdft-suite-1.9.3-mpi_mpich_py38h267de6a_0
+bigdft-suite-1.9.3-mpi_openmpi_py39h6759cdb_0
+bigdft-suite-1.9.3-mpi_openmpi_py310hd456d8a_0
+bigdft-suite-1.9.3-mpi_mpich_py39h3b23a20_0
+bigdft-suite-1.9.3-mpi_openmpi_py38hbc26d51_0
+bigdft-suite-1.9.3-mpi_mpich_py311h71b1498_0
+bigdft-suite-1.9.3-mpi_mpich_py310hf438e6c_0

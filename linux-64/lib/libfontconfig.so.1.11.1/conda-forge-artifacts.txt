@@ -1,0 +1,8 @@
+fontconfig-2.13.0-0
+fontconfig-2.13.0-1
+fontconfig-2.13.0-h074f895_2
+fontconfig-2.13.0-h074f895_3
+fontconfig-2.13.0-h0c61d53_4
+fontconfig-2.13.0-hd36ec8e_5
+fontconfig-2.13.0-h65d0f4c_5
+fontconfig-2.13.0-h65d0f4c_6

@@ -1,0 +1,17 @@
+ogre-1.12.11-h0aef09b_0
+ogre-1.10.12-h6ffd33c_7
+ogre-1.12.12-h0aef09b_0
+ogre-1.12.13-h0aef09b_0
+ogre-1.12.13-he6f17a6_1
+ogre-1.10.12-h8e6b19e_8
+ogre-1.10.12-h5654cb5_9
+ogre-1.12.13-h148629e_2
+ogre-1.12.13-hd8c844f_3
+ogre-1.12.13-h9144a23_3
+ogre-1.10.12-h04145a7_10
+ogre-1.10.12-h416be8e_11
+ogre-1.10.12-he6d6d34_12
+ogre-1.10.12-h5c04fa6_13
+ogre-1.10.12-h5c04fa6_14
+ogre-1.10.12-h5c04fa6_15
+ogre-1.10.12-h72c3531_16

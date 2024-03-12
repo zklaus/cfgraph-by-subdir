@@ -1,0 +1,2 @@
+numactl-devel-cos7-ppc64le-2.0.12-h9d98e8f_104
+numactl-devel-cos7-ppc64le-2.0.12-h9b0a68f_105

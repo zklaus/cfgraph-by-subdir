@@ -1,0 +1,10 @@
+ncurses-6.2-he1b5a44_0
+ncurses-6.2-he1b5a44_1
+ncurses-6.2-he1b5a44_2
+ncurses-6.2-h7fd3ca4_3
+ncurses-6.2-h7fd3ca4_4
+ncurses-6.3-h01db608_0
+ncurses-6.3-headf329_1
+ncurses-6.4-h2e1726e_0
+ncurses-6.4-h0425590_1
+ncurses-6.4-h0425590_2

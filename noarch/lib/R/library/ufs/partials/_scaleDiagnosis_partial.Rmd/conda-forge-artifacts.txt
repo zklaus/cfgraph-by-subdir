@@ -1,0 +1,17 @@
+r-ufs-0.4.0-r36hc72bb7e_0
+r-ufs-0.4.0-r40hc72bb7e_0
+r-ufs-0.4.1-r36hc72bb7e_0
+r-ufs-0.4.1-r40hc72bb7e_0
+r-ufs-0.4.3-r36hc72bb7e_0
+r-ufs-0.4.3-r40hc72bb7e_0
+r-ufs-0.4.3-r41hc72bb7e_0
+r-ufs-0.5.2-r41hc72bb7e_0
+r-ufs-0.5.2-r40hc72bb7e_0
+r-ufs-0.5.2-r42hc72bb7e_1
+r-ufs-0.5.2-r41hc72bb7e_1
+r-ufs-0.5.6-r42hc72bb7e_0
+r-ufs-0.5.6-r41hc72bb7e_0
+r-ufs-0.5.10-r42hc72bb7e_0
+r-ufs-0.5.10-r41hc72bb7e_0
+r-ufs-0.5.10-r43hc72bb7e_1
+r-ufs-0.5.10-r42hc72bb7e_1

@@ -1,0 +1,14 @@
+r-ncdf4-1.21-r42h8e400d9_1
+r-ncdf4-1.21-r41h8e400d9_1
+r-ncdf4-1.21-r41h8f885be_2
+r-ncdf4-1.21-r42h8f885be_2
+r-ncdf4-1.21-r42h0df5395_3
+r-ncdf4-1.21-r41h0df5395_3
+r-ncdf4-1.21-r42h0df5395_4
+r-ncdf4-1.21-r43h0df5395_4
+r-ncdf4-1.21-r43h0d1eab5_5
+r-ncdf4-1.21-r42h0d1eab5_5
+r-ncdf4-1.21-r42h167168f_6
+r-ncdf4-1.21-r43h167168f_6
+r-ncdf4-1.22-r42he8061e3_0
+r-ncdf4-1.22-r43he8061e3_0

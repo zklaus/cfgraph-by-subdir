@@ -1,0 +1,2 @@
+fontconfig-2.14.1-h5bb23bf_0
+fontconfig-2.14.2-h5bb23bf_0

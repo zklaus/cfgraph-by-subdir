@@ -1,0 +1,4 @@
+sfml-2.5.1-h3be52bf_0
+sfml-2.5.1-h3be52bf_1
+sfml-2.5.1-h3be52bf_2
+sfml-2.5.1-h3be52bf_3

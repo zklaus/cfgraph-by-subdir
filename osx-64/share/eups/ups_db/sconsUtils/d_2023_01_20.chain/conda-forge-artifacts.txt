@@ -1,0 +1,5 @@
+stackvana-afw-0.2023.3-py310h2ec42d9_0
+stackvana-core-impl-0.2023.4-py310h2ec42d9_0
+stackvana-core-impl-0.2023.5-py310h2ec42d9_0
+stackvana-core-impl-0.2023.6-py310h2ec42d9_0
+stackvana-core-impl-0.2023.7-py310h2ec42d9_0

@@ -1,0 +1,7 @@
+libxcb-1.12-1
+libxcb-1.13-0
+xorg-libxcb-1.12-1
+xorg-libxcb-1.12-2
+xorg-libxcb-1.12-3
+libxcb-1.13-h470a237_0
+libxcb-1.13-h470a237_1

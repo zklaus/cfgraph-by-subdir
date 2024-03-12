@@ -1,0 +1,5 @@
+azure-identity-cpp-1.5.1-hc6116ba_0
+azure-identity-cpp-1.5.1-hc6116ba_1
+azure-identity-cpp-1.5.1-hfe0a895_1
+azure-identity-cpp-1.6.0-h359e366_0
+azure-identity-cpp-1.6.0-h8a98682_0

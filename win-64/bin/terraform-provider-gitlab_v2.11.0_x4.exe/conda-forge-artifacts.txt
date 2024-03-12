@@ -1,0 +1,2 @@
+terraform-provider-gitlab-2.11.0-h918b63b_0
+terraform-provider-gitlab-2.11.0-h73c3971_1

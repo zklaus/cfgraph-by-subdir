@@ -1,0 +1,13 @@
+cuquantum-0.1.0.30-h436c9ae_1
+cuquantum-0.1.0.30-h436c9ae_2
+cuquantum-22.03.0.40-h436c9ae_0
+cuquantum-22.05.0.41-h436c9ae_0
+cuquantum-22.07.0.11-h1212f3d_0
+cuquantum-22.07.1.14-h1212f3d_0
+cuquantum-22.07.1.14-he5bc250_2
+cuquantum-22.11.0.13-h7c5f410_0
+cuquantum-22.11.0.13-hba2cb3b_0
+cuquantum-22.11.0.13-hcd8e00d_0
+cuquantum-22.11.0.13-h7c5f410_1
+cuquantum-22.11.0.13-hba2cb3b_1
+cuquantum-22.11.0.13-hcd8e00d_1

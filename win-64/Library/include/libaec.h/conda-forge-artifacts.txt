@@ -1,0 +1,8 @@
+libaec-1.0.4-he025d50_1
+libaec-1.0.4-h39d44d4_1
+libaec-1.0.5-h39d44d4_0
+libaec-1.0.6-h39d44d4_0
+libaec-1.0.6-h63175ca_1
+libaec-1.1.1-h63175ca_0
+libaec-1.1.2-h63175ca_0
+libaec-1.1.2-h63175ca_1

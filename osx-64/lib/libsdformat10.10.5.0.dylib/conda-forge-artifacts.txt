@@ -1,0 +1,4 @@
+libsdformat10-10.5.0-h34bf806_0
+libsdformat10-10.5.0-hdf32bc5_0
+libsdformat10-10.5.0-h33ab756_1
+libsdformat10-10.5.0-h694dc4f_1

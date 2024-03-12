@@ -1,0 +1,8 @@
+hdf5-external-filter-plugins-bitshuffle-0.1.0-hb22d7dc_5
+hdf5-external-filter-plugins-bitshuffle-0.1.0-h5f6dcf7_6
+hdf5-external-filter-plugins-bitshuffle-0.1.0-he3fcba3_7
+hdf5-external-filter-plugins-bitshuffle-0.1.0-h7c5e6db_8
+hdf5-external-filter-plugins-bitshuffle-0.1.0-h21ea8c4_9
+hdf5-external-filter-plugins-bitshuffle-0.1.0-h95e34b4_10
+hdf5-external-filter-plugins-bitshuffle-0.1.0-h04c8570_11
+hdf5-external-filter-plugins-bitshuffle-0.1.0-h8ce5ebc_12

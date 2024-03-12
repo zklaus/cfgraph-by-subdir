@@ -1,0 +1,7 @@
+qrcode-5.2.2-py27_0
+qrcode-5.2.2-py34_0
+qrcode-5.2.2-py35_0
+qrcode-5.3-py27_0
+qrcode-5.3-py34_0
+qrcode-5.3-py35_0
+qrcode-5.3-py36_0

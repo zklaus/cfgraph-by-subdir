@@ -1,0 +1,9 @@
+libtasn1-4.13-1
+libtasn1-4.13-py36_0
+libtasn1-4.13-h470a237_2
+libtasn1-4.13-h14c3975_1002
+libtasn1-4.14-h516909a_0
+libtasn1-4.17.0-h7f98852_0
+libtasn1-4.18.0-h7f98852_0
+libtasn1-4.18.0-h166bdaf_1
+libtasn1-4.19.0-h166bdaf_0

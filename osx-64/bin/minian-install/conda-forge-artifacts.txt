@@ -1,0 +1,15 @@
+minian-0.2.9-py38_0
+minian-0.2.9-py38_1
+minian-0.2.9-py38h694c41f_1
+minian-0.2.9-py38h694c41f_2
+minian-0.3.1-py38h694c41f_2
+minian-0.3.1-py38h694c41f_3
+minian-0.3.1-py38h694c41f_4
+minian-1.0.0rc0-py38h694c41f_0
+minian-1.0.0rc1-py38h694c41f_0
+minian-1.0.0-py38h694c41f_0
+minian-1.0.1-py38h694c41f_0
+minian-1.1.0-py38h694c41f_0
+minian-1.2.0-py38h694c41f_0
+minian-1.2.1-py38h694c41f_0
+minian-1.2.1-py38h694c41f_1

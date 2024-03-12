@@ -1,0 +1,2 @@
+dotnet-aspnetcore-2.1.27-h73ebe80_1
+dotnet-aspnetcore-2.1.27-h73ebe80_2

@@ -1,0 +1,12 @@
+ostaphep-1.6.1.0-py38ha6022e6_0
+ostaphep-1.6.1.0-py37h2c05520_0
+ostaphep-1.6.1.0-py39h682dfd2_0
+ostaphep-1.6.1.0-py36h4f07ec2_0
+ostaphep-1.6.1.0-py38ha6022e6_1
+ostaphep-1.6.1.0-py37h2c05520_1
+ostaphep-1.6.1.0-py36h4f07ec2_1
+ostaphep-1.6.1.0-py39h682dfd2_1
+ostaphep-1.6.2.0-py36h4f07ec2_0
+ostaphep-1.6.2.0-py38ha6022e6_0
+ostaphep-1.6.2.0-py39h682dfd2_0
+ostaphep-1.6.2.0-py37h2c05520_0

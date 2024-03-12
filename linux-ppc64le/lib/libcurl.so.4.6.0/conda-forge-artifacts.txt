@@ -1,0 +1,12 @@
+libcurl-7.68.0-h8f7db48_0
+libcurl-7.68.0-h76d47d4_1
+libcurl-7.69.1-h76d47d4_0
+libcurl-7.71.0-he8386ad_0
+libcurl-7.71.1-he8386ad_0
+libcurl-7.71.1-he8386ad_1
+libcurl-7.71.1-he8386ad_2
+libcurl-7.71.1-he8386ad_3
+libcurl-7.71.1-he8386ad_4
+libcurl-7.71.1-he8386ad_5
+libcurl-7.71.1-he8386ad_6
+libcurl-7.71.1-he8386ad_8

@@ -1,0 +1,12 @@
+gemmi-0.4.3-py39ha0cd8c8_0
+gemmi-0.4.3-py37habb0c8c_0
+gemmi-0.4.3-py38h57a6900_0
+gemmi-0.4.3-py36haecd60e_0
+gemmi-0.4.3-py37habb0c8c_1
+gemmi-0.4.3-py36haecd60e_1
+gemmi-0.4.3-py39ha0cd8c8_1
+gemmi-0.4.3-py38h57a6900_1
+gemmi-0.4.4-py39ha0cd8c8_0
+gemmi-0.4.4-py36haecd60e_0
+gemmi-0.4.4-py37habb0c8c_0
+gemmi-0.4.4-py38h57a6900_0

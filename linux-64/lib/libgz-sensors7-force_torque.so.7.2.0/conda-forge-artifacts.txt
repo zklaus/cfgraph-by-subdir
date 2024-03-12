@@ -1,0 +1,6 @@
+libgz-sensors7-7.2.0-haf6b524_0
+libgz-sensors7-7.2.0-he558218_0
+libgz-sensors7-7.2.0-h14c18dd_1
+libgz-sensors7-7.2.0-he558218_1
+libgz-sensors7-7.2.0-hfd75383_2
+libgz-sensors7-7.2.0-hfd75383_3

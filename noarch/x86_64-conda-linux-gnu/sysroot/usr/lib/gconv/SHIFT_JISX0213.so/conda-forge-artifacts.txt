@@ -1,0 +1,5 @@
+sysroot_linux-64-2.12-0
+sysroot_linux-64-2.17-h3a0023d_0
+sysroot_linux-64-2.12-h3a0023d_1
+sysroot_linux-64-2.17-h3a0023d_1
+sysroot_linux-64-2.12.2-h3a0023d_0

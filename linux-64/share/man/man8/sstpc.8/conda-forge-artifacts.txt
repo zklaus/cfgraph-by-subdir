@@ -1,0 +1,8 @@
+sstp-client-1.0.12-h0e3c91b_0
+sstp-client-1.0.12-h08e6d88_1001
+sstp-client-1.0.12-h31eece1_1002
+sstp-client-1.0.12-h8fa4c9a_1003
+sstp-client-1.0.13-h8fa4c9a_0
+sstp-client-1.0.13-h8b92ecd_1
+sstp-client-1.0.13-h3054d2a_1
+sstp-client-1.0.13-h25890d1_2

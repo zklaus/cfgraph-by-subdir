@@ -1,0 +1,16 @@
+petsc-3.20.0-real_hec7bd88_100
+petsc-3.20.0-complex_h3596769_0
+petsc-3.20.0-complex_h79a29d6_0
+petsc-3.20.0-real_h75737a4_100
+petsc-3.20.0-complex_h79a29d6_1
+petsc-3.20.0-real_h75737a4_101
+petsc-3.20.0-real_hec7bd88_101
+petsc-3.20.0-complex_h3596769_1
+petsc-3.20.1-real_hec7bd88_100
+petsc-3.20.1-complex_h3596769_0
+petsc-3.20.1-real_h75737a4_100
+petsc-3.20.1-complex_h79a29d6_0
+petsc-3.20.2-complex_h3596769_0
+petsc-3.20.2-complex_h79a29d6_0
+petsc-3.20.2-real_hec7bd88_100
+petsc-3.20.2-real_h75737a4_100

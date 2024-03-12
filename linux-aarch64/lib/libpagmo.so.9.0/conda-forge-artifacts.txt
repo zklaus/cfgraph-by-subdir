@@ -1,0 +1,6 @@
+pagmo-2.19.0-he20ef3d_0
+pagmo-2.19.0-h752f718_1
+pagmo-2.19.0-h7da5abf_2
+pagmo-2.19.0-h8f19dac_3
+pagmo-2.19.0-h8f19dac_4
+pagmo-2.19.0-h7cb79ce_5

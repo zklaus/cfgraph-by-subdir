@@ -1,0 +1,1 @@
+jupyterlab-autosave-on-focus-change-0.1.2-pyhd8ed1ab_0

@@ -1,0 +1,2 @@
+libgoogle-cloud-2.6.0-h6461af8_0
+libgoogle-cloud-2.6.0-h101168d_0

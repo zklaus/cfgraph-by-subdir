@@ -1,0 +1,17 @@
+r-s2dverification-2.8.6-r40h6115d3f_0
+r-s2dverification-2.8.6-r36h6115d3f_0
+r-s2dverification-2.9.0-r36hc72bb7e_0
+r-s2dverification-2.9.0-r40hc72bb7e_0
+r-s2dverification-2.9.0-r41hc72bb7e_0
+r-s2dverification-2.10.0-r40hc72bb7e_0
+r-s2dverification-2.10.0-r41hc72bb7e_0
+r-s2dverification-2.10.1-r41hc72bb7e_0
+r-s2dverification-2.10.1-r40hc72bb7e_0
+r-s2dverification-2.10.2-r41hc72bb7e_0
+r-s2dverification-2.10.2-r40hc72bb7e_0
+r-s2dverification-2.10.3-r41hc72bb7e_0
+r-s2dverification-2.10.3-r40hc72bb7e_0
+r-s2dverification-2.10.3-r41hc72bb7e_1
+r-s2dverification-2.10.3-r42hc72bb7e_1
+r-s2dverification-2.10.3-r43hc72bb7e_2
+r-s2dverification-2.10.3-r42hc72bb7e_2

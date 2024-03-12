@@ -1,0 +1,3 @@
+covid-sim-0.8.0-h39b38d6_0
+covid-sim-0.8.0-ha789fc6_0
+covid-sim-0.8.0-h17ad935_0

@@ -1,0 +1,14 @@
+r-syuzhet-1.0.4-r351h6115d3f_1001
+r-syuzhet-1.0.4-r35h6115d3f_1002
+r-syuzhet-1.0.4-r36h6115d3f_1002
+r-syuzhet-1.0.4-r40h6115d3f_1003
+r-syuzhet-1.0.4-r36h6115d3f_1003
+r-syuzhet-1.0.6-r40hc72bb7e_0
+r-syuzhet-1.0.6-r36hc72bb7e_0
+r-syuzhet-1.0.6-r41hc72bb7e_0
+r-syuzhet-1.0.6-r42hc72bb7e_1
+r-syuzhet-1.0.6-r41hc72bb7e_1
+r-syuzhet-1.0.6-r42hc72bb7e_2
+r-syuzhet-1.0.6-r43hc72bb7e_2
+r-syuzhet-1.0.7-r42hc72bb7e_0
+r-syuzhet-1.0.7-r43hc72bb7e_0

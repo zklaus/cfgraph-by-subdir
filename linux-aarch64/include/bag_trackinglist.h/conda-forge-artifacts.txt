@@ -1,0 +1,4 @@
+libbaglib-2.0.1-h9367fb2_1
+libbaglib-2.0.2-h5dbe2d8_0
+libbaglib-2.0.2-h5dbe2d8_2
+libbaglib-2.0.2-h5dbe2d8_1

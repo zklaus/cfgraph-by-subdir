@@ -1,0 +1,17 @@
+r-ellipsis-0.0.2-r351h6115d3f_0
+r-ellipsis-0.1.0-r351h6115d3f_0
+r-ellipsis-0.2.0-r35h6115d3f_0
+r-ellipsis-0.2.0.1-r351hda5aaf8_0
+r-ellipsis-0.2.0.1-r35hda5aaf8_1
+r-ellipsis-0.2.0.1-r36hda5aaf8_1
+r-ellipsis-0.3.0-r35hda5aaf8_0
+r-ellipsis-0.3.0-r36hda5aaf8_0
+r-ellipsis-0.3.0-r36hda5aaf8_1
+r-ellipsis-0.3.0-r40hda5aaf8_1
+r-ellipsis-0.3.1-r36hda5aaf8_0
+r-ellipsis-0.3.1-r40hda5aaf8_0
+r-ellipsis-0.3.2-r36h6d2157b_0
+r-ellipsis-0.3.2-r40h6d2157b_0
+r-ellipsis-0.3.2-r41h6d2157b_0
+r-ellipsis-0.3.2-r41h6d2157b_1
+r-ellipsis-0.3.2-r41h6d2157b_2

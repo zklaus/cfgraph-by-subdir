@@ -1,0 +1,8 @@
+r-pagoda2-1.0.10-r40h43535f1_0
+r-pagoda2-1.0.10-r41h43535f1_0
+r-pagoda2-1.0.10-r41h9f5de39_1
+r-pagoda2-1.0.10-r42h9f5de39_1
+r-pagoda2-1.0.10-r42h08d816e_2
+r-pagoda2-1.0.10-r43h08d816e_2
+r-pagoda2-1.0.11-r43h08d816e_0
+r-pagoda2-1.0.11-r42h08d816e_0

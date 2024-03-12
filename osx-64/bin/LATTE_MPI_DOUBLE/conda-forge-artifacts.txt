@@ -1,0 +1,2 @@
+latte-1.2.2-mpi_openmpi_h89e0274_3
+latte-1.2.2-mpi_mpich_hb8cc803_3

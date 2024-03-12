@@ -1,0 +1,3 @@
+sdl2_ttf-2.20.2-h7bafa26_0
+sdl2_ttf-2.20.2-hc01f23c_1
+sdl2_ttf-2.20.2-he6f4a82_2

@@ -1,0 +1,3 @@
+google-cloud-cpp-1.16.0-h3bc3856_0
+google-cloud-cpp-1.16.0-he240686_1
+google-cloud-cpp-1.16.0-he4a878c_2

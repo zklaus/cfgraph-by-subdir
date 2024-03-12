@@ -1,0 +1,8 @@
+rdkit-2020.03.1-py37hdd87690_1
+rdkit-2020.03.1-py38h10dae1c_1
+rdkit-2020.03.1-py36h866857e_1
+rdkit-2020.03.1-py38h10dae1c_2
+rdkit-2020.03.1-py37hdd87690_2
+rdkit-2020.03.1-py37hdd87690_3
+rdkit-2020.03.1-py36h866857e_3
+rdkit-2020.03.1-py38h10dae1c_3

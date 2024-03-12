@@ -1,0 +1,13 @@
+quantlib-1.26-h06511f6_1
+quantlib-1.26-h06511f6_2
+quantlib-1.26-h06511f6_3
+quantlib-1.26-h06511f6_4
+quantlib-1.26-h06511f6_5
+quantlib-1.27-h06511f6_0
+quantlib-1.27-hddf1345_1
+quantlib-1.28-hddf1345_0
+quantlib-1.29-hddf1345_0
+quantlib-1.29-hddf1345_1
+quantlib-1.29-hddf1345_2
+quantlib-1.31.1-h3bcb843_0
+quantlib-1.31.1-hc266ad4_1

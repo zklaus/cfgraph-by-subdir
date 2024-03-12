@@ -1,0 +1,10 @@
+libxfoil-1.0-py38h9dd9fd4_4
+libxfoil-1.0-py37h869a0b6_4
+libxfoil-1.0-py39h0a136a2_4
+libxfoil-1.0-py36h14c02cf_4
+libxfoil-1.0-py37h09b56c8_4
+libxfoil-1.0-py37h09b56c8_5
+libxfoil-1.0-py39h0a136a2_5
+libxfoil-1.0-py37h869a0b6_5
+libxfoil-1.0-py310h1e4f2ad_5
+libxfoil-1.0-py38h9dd9fd4_5

@@ -1,0 +1,12 @@
+pycairo-1.13.3-py35_vc14_0
+pycairo-1.13.3-py36_vc14_0
+pycairo-1.16.3-py35_vc14_0
+pycairo-1.16.3-py36_vc14_0
+pycairo-1.16.3-py35h3b0b611_0
+pycairo-1.16.3-py36h3b0b611_0
+pycairo-1.17.1-py36h3b0b611_0
+pycairo-1.17.1-py35h3b0b611_0
+pycairo-1.17.1-py36hee13c1a_1000
+pycairo-1.17.1-py37hee13c1a_1000
+pycairo-1.18.0-py36hee13c1a_1000
+pycairo-1.18.0-py37hee13c1a_1000

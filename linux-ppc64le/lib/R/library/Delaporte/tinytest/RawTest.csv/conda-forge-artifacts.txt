@@ -1,0 +1,4 @@
+r-delaporte-8.1.1-r42h8fa77e4_0
+r-delaporte-8.1.1-r43h8fa77e4_0
+r-delaporte-8.2.0-r43h8fa77e4_0
+r-delaporte-8.2.0-r42h8fa77e4_0

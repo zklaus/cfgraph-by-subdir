@@ -1,0 +1,9 @@
+r-mopa-1.0.2-r40ha770c72_0
+r-mopa-1.0.2-r40ha770c72_1
+r-mopa-1.0.2-r40ha770c72_2
+r-mopa-1.1.1-r40ha770c72_0
+r-mopa-1.1.2-r41ha770c72_0
+r-mopa-1.1.2-r36ha770c72_0
+r-mopa-1.1.2-r42ha770c72_0
+r-mopa-1.1.2-r40ha770c72_0
+r-mopa-1.1.2-r43ha770c72_0

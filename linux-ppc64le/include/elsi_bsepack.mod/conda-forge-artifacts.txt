@@ -1,0 +1,10 @@
+elsi-2.8.2-mpi_mpich_hb27407b_0
+elsi-2.8.2-mpi_openmpi_h11bec1d_0
+elsi-2.8.2-mpi_mpich_hb27407b_1
+elsi-2.8.2-mpi_openmpi_h11bec1d_1
+elsi-2.8.2-mpi_openmpi_h11bec1d_2
+elsi-2.8.2-mpi_mpich_hb27407b_2
+elsi-2.9.0-mpi_mpich_hb27407b_0
+elsi-2.9.0-mpi_openmpi_h11bec1d_0
+elsi-2.9.1-mpi_mpich_hf904bf8_0
+elsi-2.9.1-mpi_openmpi_hfabfba0_0

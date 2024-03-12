@@ -1,0 +1,15 @@
+m3gnet-0.0.7-py310hc4a4660_0
+m3gnet-0.0.7-py38h514daf8_0
+m3gnet-0.0.7-py39hac2352c_0
+m3gnet-0.1.0-py310hc4a4660_0
+m3gnet-0.1.0-py38h4e30db6_0
+m3gnet-0.1.0-py39h7c9e3ff_0
+m3gnet-0.2.2-py39h7c9e3ff_0
+m3gnet-0.2.2-py38h4e30db6_0
+m3gnet-0.2.2-py310hc4a4660_0
+m3gnet-0.2.3-py39hcca971b_0
+m3gnet-0.2.3-py310hfdc917e_0
+m3gnet-0.2.3-py38h6f1a3b6_0
+m3gnet-0.2.4-py310hfdc917e_0
+m3gnet-0.2.4-py39hcca971b_0
+m3gnet-0.2.4-py38h6f1a3b6_0

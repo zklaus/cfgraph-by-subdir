@@ -1,0 +1,2 @@
+xorg-libxaw-1.0.14-h3422bc3_0
+xorg-libxaw-1.0.14-h3422bc3_1

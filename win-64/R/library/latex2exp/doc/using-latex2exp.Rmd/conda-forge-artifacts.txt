@@ -1,0 +1,2 @@
+r-latex2exp-0.4.0-r351h6115d3f_0
+r-latex2exp-0.4.0-r341h6115d3f_0

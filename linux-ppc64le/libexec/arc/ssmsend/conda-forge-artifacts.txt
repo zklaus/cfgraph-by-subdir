@@ -1,0 +1,12 @@
+nordugrid-arc-6.10.2-py38h0d4bf41_1
+nordugrid-arc-6.10.2-py36hef17d14_1
+nordugrid-arc-6.10.2-py37hf3eed16_1
+nordugrid-arc-6.10.2-py37h9585aa0_1
+nordugrid-arc-6.10.2-py39h113e502_1
+nordugrid-arc-6.10.2-py36h0ce30d7_1
+nordugrid-arc-6.11.0-py37h9585aa0_0
+nordugrid-arc-6.11.0-py36h0ce30d7_0
+nordugrid-arc-6.11.0-py37hf3eed16_0
+nordugrid-arc-6.11.0-py39h113e502_0
+nordugrid-arc-6.11.0-py38h0d4bf41_0
+nordugrid-arc-6.11.0-py36hef17d14_0

@@ -1,0 +1,13 @@
+openfst-1.6.1-0
+openfst-1.6.1-hfc679d8_0
+openfst-1.7.5-h7475705_0
+openfst-1.7.5-h7475705_1
+openfst-1.7.6-ha1b3eb9_0
+openfst-1.7.7-ha1b3eb9_0
+openfst-1.7.8-ha1b3eb9_0
+openfst-1.7.9-h879752b_0
+openfst-1.8.0-h9a9d8cb_0
+openfst-1.8.1-h940c156_0
+openfst-1.8.2-h940c156_0
+openfst-1.8.2-h940c156_1
+openfst-1.8.2-h4dcc89e_2

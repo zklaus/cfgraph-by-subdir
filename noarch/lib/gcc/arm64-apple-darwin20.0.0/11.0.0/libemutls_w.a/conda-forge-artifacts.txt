@@ -1,0 +1,3 @@
+libgfortran-devel_osx-arm64-11.0.0.dev0-hdc626ea_17
+libgfortran-devel_osx-arm64-11.0.0.dev0-hdc626ea_18
+libgfortran-devel_osx-arm64-11.0.0.dev0-hdc626ea_19

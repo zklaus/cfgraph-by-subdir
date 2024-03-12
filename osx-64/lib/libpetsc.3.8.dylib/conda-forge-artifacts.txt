@@ -1,0 +1,6 @@
+petsc-3.8.0-blas_openblas_0
+petsc-3.8.1-blas_openblas_0
+petsc-3.8.1-blas_openblas_1
+petsc-3.8.3-blas_openblas_0
+petsc-3.8.3-blas_openblas_1
+petsc-3.8.4-blas_openblas_0

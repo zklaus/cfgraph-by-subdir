@@ -1,0 +1,9 @@
+onednn-2.6-tbb_hb007830_0
+onednn-2.6-omp_h13be974_0
+onednn-2.6-threadpool_h4af0418_0
+onednn-2.6.1-omp_h13be974_0
+onednn-2.6.1-threadpool_h4af0418_0
+onednn-2.6.1-tbb_hb007830_0
+onednn-2.6.2-tbb_hb007830_0
+onednn-2.6.2-omp_h13be974_0
+onednn-2.6.2-threadpool_h4af0418_0

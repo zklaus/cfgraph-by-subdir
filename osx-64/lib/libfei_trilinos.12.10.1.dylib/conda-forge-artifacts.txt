@@ -1,0 +1,3 @@
+trilinos-12.10.1-0
+trilinos-12.10.1-h485e6cb_1
+trilinos-12.10.1-hc9a798d_1

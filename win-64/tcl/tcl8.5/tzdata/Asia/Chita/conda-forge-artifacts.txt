@@ -1,0 +1,13 @@
+python-2.7.15-0
+python-2.7.15-h2880e7c_0
+python-2.7.15-h2880e7c_1001
+python-2.7.15-h2880e7c_1002
+python-2.7.15-h2880e7c_1003
+python-2.7.15-h2880e7c_1004
+python-2.7.15-h2880e7c_1005
+python-2.7.15-h2880e7c_1006
+python-2.7.15-h2880e7c_1007
+python-2.7.15-h2880e7c_1008
+python-2.7.15-h2880e7c_1009
+python-2.7.15-h2880e7c_1010_cpython
+python-2.7.15-h2880e7c_1011_cpython

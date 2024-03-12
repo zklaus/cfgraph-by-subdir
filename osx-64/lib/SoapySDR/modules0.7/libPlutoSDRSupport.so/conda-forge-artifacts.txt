@@ -1,0 +1,4 @@
+soapysdr-module-plutosdr-0.2.0-ha1b3eb9_0
+soapysdr-module-plutosdr-0.2.0-h9903d45_1
+soapysdr-module-plutosdr-0.2.1-h9903d45_0
+soapysdr-module-plutosdr-0.2.1-h3fcbbe8_1

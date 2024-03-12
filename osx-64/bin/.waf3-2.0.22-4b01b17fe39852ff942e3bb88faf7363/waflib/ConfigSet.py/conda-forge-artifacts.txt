@@ -1,0 +1,2 @@
+pyinstaller-4.7-py37h83b74e4_0
+pyinstaller-4.7-py37h83b74e4_1

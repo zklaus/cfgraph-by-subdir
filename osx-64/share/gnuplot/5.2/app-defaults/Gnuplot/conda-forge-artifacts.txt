@@ -1,0 +1,2 @@
+gnuplot-5.2.5-he03a5e2_1
+gnuplot-5.2.6-he03a5e2_0

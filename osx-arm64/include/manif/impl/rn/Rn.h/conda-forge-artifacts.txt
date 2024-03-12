@@ -1,0 +1,6 @@
+manif-0.0.4-py310h7ea286d_12
+manif-0.0.4-py311h7ea286d_13
+manif-0.0.4-py310hb765f3a_13
+manif-0.0.4-py39hb765f3a_14
+manif-0.0.4-h13dd4ca_15
+manif-0.0.4-h13dd4ca_16

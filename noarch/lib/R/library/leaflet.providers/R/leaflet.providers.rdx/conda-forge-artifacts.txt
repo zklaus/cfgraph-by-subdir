@@ -1,0 +1,14 @@
+r-leaflet.providers-1.9.0-r35h6115d3f_0
+r-leaflet.providers-1.9.0-r36h6115d3f_0
+r-leaflet.providers-1.9.0-r40h6115d3f_1
+r-leaflet.providers-1.9.0-r36h6115d3f_1
+r-leaflet.providers-1.9.0-r41hc72bb7e_1
+r-leaflet.providers-1.9.0-r40hc72bb7e_1
+r-leaflet.providers-1.9.0-r42hc72bb7e_2
+r-leaflet.providers-1.9.0-r41hc72bb7e_2
+r-leaflet.providers-1.9.0-r42hc72bb7e_3
+r-leaflet.providers-1.9.0-r43hc72bb7e_3
+r-leaflet.providers-1.13.0-r42hc72bb7e_0
+r-leaflet.providers-1.13.0-r43hc72bb7e_0
+r-leaflet.providers-2.0.0-r42hc72bb7e_0
+r-leaflet.providers-2.0.0-r43hc72bb7e_0

@@ -1,0 +1,6 @@
+r-chemospec-5.1.48-r36h6115d3f_0
+r-chemospec-5.1.48-r35h6115d3f_0
+r-chemospec-5.2.12-r36h6115d3f_0
+r-chemospec-5.2.12-r35h6115d3f_0
+r-chemospec-5.2.12-r40h6115d3f_1
+r-chemospec-5.2.12-r36h6115d3f_1

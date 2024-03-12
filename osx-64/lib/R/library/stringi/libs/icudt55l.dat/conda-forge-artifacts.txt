@@ -1,0 +1,10 @@
+r-stringi-1.1.2-r3.3.2_0
+r-stringi-1.1.2-r3.4.1_0
+r-stringi-1.1.5-r3.3.2_0
+r-stringi-1.1.5-r3.4.1_0
+r-stringi-1.1.6-r3.3.2_0
+r-stringi-1.1.6-r3.4.1_0
+r-stringi-1.1.7-r3.3.2_0
+r-stringi-1.1.7-r3.3.2_1
+r-stringi-1.1.7-r3.4.1_0
+r-stringi-1.1.7-r3.4.1_1

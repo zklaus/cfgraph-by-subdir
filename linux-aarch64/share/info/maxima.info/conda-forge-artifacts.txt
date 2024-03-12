@@ -1,0 +1,6 @@
+maxima-5.42.2-h33275a5_2
+maxima-5.44.0-h33275a5_0
+maxima-5.45.0-haa44c19_0
+maxima-5.45.0-haa44c19_1
+maxima-5.45.0-haa44c19_2
+maxima-5.45.0-haa44c19_3

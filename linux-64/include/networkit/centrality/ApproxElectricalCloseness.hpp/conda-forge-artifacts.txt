@@ -1,0 +1,9 @@
+libnetworkit-8.0-h4bd325d_0
+libnetworkit-8.1-h4bd325d_0
+libnetworkit-9.0-h4bd325d_0
+libnetworkit-9.0-h4bd325d_1
+libnetworkit-9.1-h4bd325d_0
+libnetworkit-9.1.1-h4bd325d_0
+libnetworkit-10.0-h924138e_0
+libnetworkit-10.1-hf52228f_0
+libnetworkit-10.1-h00ab1b0_1

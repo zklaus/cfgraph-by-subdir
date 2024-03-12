@@ -1,0 +1,8 @@
+xorg-makedepend-1.0.5-0
+xorg-makedepend-1.0.5-hfc679d8_1
+xorg-makedepend-1.0.5-h0a44026_1001
+xorg-makedepend-1.0.6-h6de7cb9_0
+xorg-makedepend-1.0.6-h6de7cb9_1
+xorg-makedepend-1.0.6-h96cf925_2
+xorg-makedepend-1.0.8-he965462_0
+xorg-makedepend-1.0.8-h73e2aa4_0

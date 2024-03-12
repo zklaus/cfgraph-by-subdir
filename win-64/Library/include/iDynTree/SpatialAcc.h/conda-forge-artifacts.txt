@@ -1,0 +1,12 @@
+idyntree-10.0.0-py39h8a4d008_0
+idyntree-10.0.0-py312hbcb0ea0_0
+idyntree-10.0.0-py310hd3d36e5_0
+idyntree-10.0.0-py38h2d1b1a8_0
+idyntree-10.0.0-py39hce9c37f_0
+idyntree-10.0.0-py311h0a7ed4b_0
+idyntree-10.0.0-py310h042274b_1
+idyntree-10.0.0-py38h835c7e1_1
+idyntree-10.0.0-py311he16c9e2_1
+idyntree-10.0.0-py39h5eabf5b_1
+idyntree-10.0.0-py39hfeea526_1
+idyntree-10.0.0-py312h6eee9cf_1

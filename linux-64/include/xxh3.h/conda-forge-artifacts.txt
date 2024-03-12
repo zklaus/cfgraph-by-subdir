@@ -1,0 +1,8 @@
+xxhash-0.7.4-h516909a_0
+xxhash-0.8.0-h516909a_0
+xxhash-0.8.0-h516909a_1
+xxhash-0.8.0-h7f98852_1
+xxhash-0.8.0-h7f98852_2
+xxhash-0.8.0-h7f98852_3
+xxhash-0.8.1-h0b41bf4_0
+xxhash-0.8.2-hd590300_0

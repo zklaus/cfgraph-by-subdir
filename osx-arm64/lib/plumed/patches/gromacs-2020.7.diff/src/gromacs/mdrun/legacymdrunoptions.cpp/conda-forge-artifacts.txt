@@ -1,0 +1,3 @@
+plumed-2.8.1-nompi_hd508e74_100
+plumed-2.8.2-nompi_hd508e74_100
+plumed-2.9.0-nompi_haf67379_100

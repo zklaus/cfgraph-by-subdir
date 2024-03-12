@@ -1,0 +1,2 @@
+azure-identity-cpp-1.6.0-h4cd4486_0
+azure-identity-cpp-1.6.0-hf1915f5_0

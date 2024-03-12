@@ -1,0 +1,2 @@
+nelson-core-0.2.0-h181d51b_0
+nelson-core-0.3.0-h181d51b_0

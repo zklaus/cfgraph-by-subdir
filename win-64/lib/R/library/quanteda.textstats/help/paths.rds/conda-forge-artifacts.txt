@@ -1,0 +1,15 @@
+r-quanteda.textstats-0.94-r36ha856d6a_0
+r-quanteda.textstats-0.94-r40ha856d6a_0
+r-quanteda.textstats-0.94.1-r36ha856d6a_0
+r-quanteda.textstats-0.94.1-r40ha856d6a_0
+r-quanteda.textstats-0.94.1-r41ha856d6a_0
+r-quanteda.textstats-0.95-r40ha856d6a_0
+r-quanteda.textstats-0.95-r41ha856d6a_0
+r-quanteda.textstats-0.96-r40ha856d6a_0
+r-quanteda.textstats-0.96-r41ha856d6a_0
+r-quanteda.textstats-0.96-r41ha856d6a_1
+r-quanteda.textstats-0.96.1-r41ha856d6a_0
+r-quanteda.textstats-0.96.2-r41ha856d6a_0
+r-quanteda.textstats-0.96.2-r41ha856d6a_1
+r-quanteda.textstats-0.96.3-r41ha856d6a_0
+r-quanteda.textstats-0.96.4-r41ha856d6a_0

@@ -1,0 +1,4 @@
+pari-2.15.2-h85dc1ec_1_pthread
+pari-2.15.2-h85dc1ec_2_pthread
+pari-2.15.3-h85dc1ec_2_pthread
+pari-2.15.4-h7342130_2_pthread

@@ -1,0 +1,5 @@
+libpostal-v1.1.alpha-h38d415c_0
+libpostal-v1.1.0-h38d415c_0
+libpostal-v1.1.0-h38d415c_1
+libpostal-v1.1.0-h38d415c_2
+libpostal-1.1.0-h38d415c_2

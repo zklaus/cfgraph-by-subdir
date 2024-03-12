@@ -1,0 +1,2 @@
+chemfiles-lib-0.10.0-h7ef1c3c_0
+chemfiles-lib-0.10.0-hc5d47f9_1

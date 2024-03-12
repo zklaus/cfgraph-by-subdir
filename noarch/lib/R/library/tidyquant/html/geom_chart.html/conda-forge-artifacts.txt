@@ -1,0 +1,2 @@
+r-tidyquant-1.0.2-r40h852d06f_0
+r-tidyquant-1.0.2-r36h852d06f_0

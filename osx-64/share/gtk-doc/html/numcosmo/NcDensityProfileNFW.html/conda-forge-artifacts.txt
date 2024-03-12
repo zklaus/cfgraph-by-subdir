@@ -1,0 +1,16 @@
+numcosmo-0.14.0-py36_12
+numcosmo-0.14.1-py36_0
+numcosmo-0.14.1-py36h1ea32b8_1
+numcosmo-0.14.1-py36h1ea32b8_2
+numcosmo-0.14.2-py37h03819c3_0
+numcosmo-0.14.2-h03819c3_2
+numcosmo-0.14.2-h3599d82_3
+numcosmo-0.14.2-hfea1dd1_4
+numcosmo-0.14.2-hea9ecd8_5
+numcosmo-0.14.2-h55c3f18_7
+numcosmo-0.14.2-h55c3f18_8
+numcosmo-0.14.2-h38d1cfe_8
+numcosmo-0.14.2-hc97cdfc_9
+numcosmo-0.14.2-h0c96ff4_10
+numcosmo-0.14.2-hff6f061_11
+numcosmo-0.14.2-h9c0b936_12

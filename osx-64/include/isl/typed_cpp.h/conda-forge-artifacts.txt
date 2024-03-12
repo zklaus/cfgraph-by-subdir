@@ -1,0 +1,12 @@
+barvinok-0.41.5-h16cae1b_0
+barvinok-0.41.5-h16cae1b_1
+barvinok-0.41.5-h16cae1b_2
+isl-0.24-he49afe7_0
+isl-0.25-hb486fe8_0
+barvinok-0.41.5-h8198f7b_4
+barvinok-0.41.6-h8198f7b_0
+barvinok-0.41.6-hf67a70b_1
+isl-0.25-gmp_h705671a_1
+isl-0.25-imath32_h6f4902c_101
+isl-0.26-gmp_he1e0a94_1
+isl-0.26-imath32_h2e86a7b_101

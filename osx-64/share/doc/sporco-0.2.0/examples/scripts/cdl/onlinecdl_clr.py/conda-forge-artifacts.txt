@@ -1,0 +1,12 @@
+sporco-0.2.0-py37hf985489_0
+sporco-0.2.0-py37h5186d4c_0
+sporco-0.2.0-py36h5dafb3c_0
+sporco-0.2.0-py36h79c6626_0
+sporco-0.2.0-py38h50d1736_0
+sporco-0.2.0-py39h6e9494a_0
+sporco-0.2.0-py39h6e9494a_1
+sporco-0.2.0-py37hf985489_1
+sporco-0.2.0-py36h79c6626_1
+sporco-0.2.0-py36h5dafb3c_1
+sporco-0.2.0-py38h50d1736_1
+sporco-0.2.0-py37h5186d4c_1

@@ -1,0 +1,8 @@
+nim-1.2.4-hb1e8313_0
+nim-1.2.4-hb1e8313_1
+nim-1.4.0-h2e338ed_0
+nim-1.4.2-h046ec9c_0
+nim-1.4.4-he49afe7_0
+nim-1.4.6-he49afe7_0
+nim-1.4.8-he49afe7_0
+nim-2.0.0-he965462_0

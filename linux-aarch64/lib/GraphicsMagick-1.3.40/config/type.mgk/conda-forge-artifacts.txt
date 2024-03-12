@@ -1,0 +1,4 @@
+graphicsmagick-1.3.40-h427c933_0
+graphicsmagick-1.3.40-ha3c758c_1
+graphicsmagick-1.3.40-h307706d_2
+graphicsmagick-1.3.40-h8d545bc_3

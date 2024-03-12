@@ -1,0 +1,7 @@
+simpleitk-1.2.4-py37he1b5a44_0
+simpleitk-1.2.4-py27he1b5a44_0
+simpleitk-1.2.4-py38he1b5a44_0
+simpleitk-1.2.4-py36he1b5a44_0
+simpleitk-1.2.4-py38h950e882_1
+simpleitk-1.2.4-py36h831f99a_1
+simpleitk-1.2.4-py37h3340039_1

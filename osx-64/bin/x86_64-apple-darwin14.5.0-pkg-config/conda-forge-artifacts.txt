@@ -1,0 +1,6 @@
+pkg-config-0.29.1-2
+pkg-config-0.29.2-0
+pkg-config-0.29.2-1
+pkg-config-0.29.2-hf5063d0_2
+pkg-config-0.29.2-hf837533_3
+pkg-config-0.29.2-hf837533_4

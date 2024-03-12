@@ -1,0 +1,9 @@
+libpq-12.1-h7de762d_0
+libpq-12.2-hc3b7d24_0
+libpq-12.2-h181438f_1
+libpq-12.3-h181438f_0
+libpq-12.3-h181438f_1
+libpq-12.3-h181438f_2
+libpq-12.3-h1281834_2
+libpq-12.3-h6ff66d8_3
+libpq-12.3-h475683a_3

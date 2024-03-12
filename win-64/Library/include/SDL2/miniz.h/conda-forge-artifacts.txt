@@ -1,0 +1,16 @@
+sdl2_image-2.0.1-0
+sdl2_image-2.0.1-vc14_0
+sdl2_image-2.0.1-vc9_0
+sdl2_image-2.0.2-0
+sdl2_image-2.0.2-vc14_0
+sdl2_image-2.0.2-vc9_0
+sdl2_image-2.0.2-h38009a3_1
+sdl2_image-2.0.2-hdc526f9_1
+sdl2_image-2.0.4-hdc526f9_0
+sdl2_image-2.0.4-h38009a3_0
+sdl2_image-2.0.4-h4bcde91_1
+sdl2_image-2.0.4-h63225fd_1
+sdl2_image-2.0.5-h4bcde91_0
+sdl2_image-2.0.5-h63225fd_0
+sdl2_image-2.0.5-h2da4f57_1
+sdl2_image-2.0.5-hb9708c9_2

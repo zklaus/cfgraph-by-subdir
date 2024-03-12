@@ -1,0 +1,8 @@
+mold-2.1.0-h5d4715a_1
+mold-2.1.0-h5d4715a_2
+mold-2.2.0-h5d4715a_0
+mold-2.3.0-hdbeb7c9_0
+mold-2.3.1-h0a35e54_0
+mold-2.3.2-hdbeb7c9_0
+mold-2.3.3-hdbeb7c9_0
+mold-2.4.0-hdbeb7c9_0

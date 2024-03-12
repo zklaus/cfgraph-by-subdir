@@ -1,0 +1,11 @@
+rsync-3.2.3-h3f4bb97_0
+rsync-3.2.3-he0dc364_1
+rsync-3.2.3-hf87fc23_2
+rsync-3.2.3-hf87fc23_3
+rsync-3.2.3-h97ad3e5_3
+rsync-3.2.3-h380b542_4
+rsync-3.2.3-h45c244a_4
+rsync-3.2.6-h191f6af_0
+rsync-3.2.6-h0c0bf12_0
+rsync-3.2.7-h191f6af_0
+rsync-3.2.7-h0c0bf12_0

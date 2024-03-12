@@ -1,0 +1,3 @@
+arrow-cpp-0.12.0-py27h2ddd891_0
+arrow-cpp-0.12.0-py36h2ddd891_0
+arrow-cpp-0.12.0-py37h2ddd891_0

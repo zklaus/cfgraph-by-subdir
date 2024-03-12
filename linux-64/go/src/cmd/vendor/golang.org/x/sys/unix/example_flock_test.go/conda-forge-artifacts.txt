@@ -1,0 +1,4 @@
+go-cgo-1.12.5-h77d97cf_0
+go-nocgo-1.12.5-h8b2e17f_0
+go-nocgo-1.12.5-h8b2e17f_1
+go-cgo-1.12.5-h77d97cf_1

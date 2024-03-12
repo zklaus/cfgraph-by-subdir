@@ -1,0 +1,12 @@
+cryptopp-5.6.5-vc14_0
+cryptopp-5.6.5-vc14_1
+cryptopp-5.6.5-vc14_3
+cryptopp-5.6.5-he025d50_3
+cryptopp-5.6.5-he025d50_1003
+cryptopp-7.0.0-he025d50_1000
+cryptopp-5.6.5-he025d50_1004
+cryptopp-7.0.0-he025d50_1001
+cryptopp-5.6.5-he025d50_1005
+cryptopp-7.0.0-he025d50_1002
+cryptopp-7.0.0-he025d50_1003
+cryptopp-7.0.0-he025d50_1004

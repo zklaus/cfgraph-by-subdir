@@ -1,0 +1,17 @@
+wxwidgets-3.2.0-h059a3f2_0
+wxwidgets-3.2.0-py310hede299b_2
+wxwidgets-3.2.1-py310h0631da6_0
+wxwidgets-3.2.1-py311hd03dcfa_1
+wxwidgets-3.2.1-py311hec028dd_2
+wxwidgets-3.2.1-py311h5f68573_3
+wxwidgets-3.2.1-py311h7d2cb89_4
+wxwidgets-3.2.2-py311h7d2cb89_0
+wxwidgets-3.2.2.1-py311h7d2cb89_0
+wxwidgets-3.2.2.1-py311h3e37ab7_1
+wxwidgets-3.2.2.1-h3f3c8dc_2
+wxwidgets-3.2.2.1-h3f3c8dc_3
+wxwidgets-3.2.2.1-h71f4985_4
+wxwidgets-3.2.2.1-h78d0b3a_5
+wxwidgets-3.2.3-h78d0b3a_0
+wxwidgets-3.2.4-h78d0b3a_0
+wxwidgets-3.2.4-hc4bc87e_1

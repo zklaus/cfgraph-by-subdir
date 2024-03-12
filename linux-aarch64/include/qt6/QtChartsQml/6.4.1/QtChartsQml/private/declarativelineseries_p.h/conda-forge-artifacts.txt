@@ -1,0 +1,6 @@
+qt6-main-6.4.1-h7ab754d_0
+qt6-main-6.4.1-h03454da_1
+qt6-main-6.4.1-h5eea320_1
+qt6-main-6.4.1-hbc6cbea_2
+qt6-charts-6.4.1-h2e1726e_2
+qt6-charts-6.4.1-h2e1726e_3

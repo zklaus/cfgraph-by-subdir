@@ -1,0 +1,9 @@
+spyder-2.3.9-py27_0
+spyder-2.3.9-py27_1
+spyder-2.3.9-py27_2
+spyder-2.3.9-py34_0
+spyder-2.3.9-py35_0
+spyder-2.3.9-py35_1
+spyder-2.3.9-py35_2
+spyder-2.3.9-py36_1
+spyder-2.3.9-py36_2

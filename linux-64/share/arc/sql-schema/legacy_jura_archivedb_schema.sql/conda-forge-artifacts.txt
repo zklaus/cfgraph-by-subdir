@@ -1,0 +1,17 @@
+nordugrid-arc-6.6.0-py36h12870f5_0
+nordugrid-arc-6.6.0-py37h0b72734_0
+nordugrid-arc-6.6.0-py27h810f38a_0
+nordugrid-arc-6.6.0-py38hd916450_0
+nordugrid-arc-6.6.0-py36h720dcbd_1
+nordugrid-arc-6.6.0-py37h04533e7_1
+nordugrid-arc-6.6.0-py38h3501bcc_1
+nordugrid-arc-6.6.0-py37h04533e7_2
+nordugrid-arc-6.6.0-py36h720dcbd_2
+nordugrid-arc-6.6.0-py38h3501bcc_2
+nordugrid-arc-6.7.0-py36h720dcbd_0
+nordugrid-arc-6.7.0-py37h04533e7_0
+nordugrid-arc-6.7.0-py38h3501bcc_0
+nordugrid-arc-6.7.0-py39hca6ba81_1
+nordugrid-arc-6.7.0-py38h3501bcc_1
+nordugrid-arc-6.7.0-py36h720dcbd_1
+nordugrid-arc-6.7.0-py37h04533e7_1

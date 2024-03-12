@@ -1,0 +1,13 @@
+sgpp-3.2.0-py37h86efe34_0
+sgpp-3.2.0-py36h86efe34_0
+sgpp-3.2.0-py37h4f17bb1_0
+sgpp-3.2.0-py38h4f17bb1_0
+sgpp-3.2.0-py36h4f17bb1_0
+sgpp-3.2.0-py38h6be0db6_1
+sgpp-3.2.0-py36h72eec15_1
+sgpp-3.2.0-py37h6d0141a_1
+sgpp-3.2.0-py39h13df4ff_1
+sgpp-3.2.0-py37h42bd7e2_1
+sgpp-3.2.0-py36h073170c_1
+sgpp-3.2.0-py39h72ef27f_1
+sgpp-3.2.0-py38h0a7b08e_1

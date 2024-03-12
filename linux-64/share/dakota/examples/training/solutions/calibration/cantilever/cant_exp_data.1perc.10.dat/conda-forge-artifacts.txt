@@ -1,0 +1,5 @@
+dakota-6.10-py37hf2a3b5a_0
+dakota-6.10-py37hf2a3b5a_1
+dakota-6.10-py37h79b674d_2
+dakota-6.10-py37hcd2aa06_2
+dakota-6.10-py38hcd2aa06_2

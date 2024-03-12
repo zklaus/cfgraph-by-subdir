@@ -1,0 +1,2 @@
+conda-bash-completion-1.7-hce30654_0
+conda-bash-completion-1.7-hce30654_1

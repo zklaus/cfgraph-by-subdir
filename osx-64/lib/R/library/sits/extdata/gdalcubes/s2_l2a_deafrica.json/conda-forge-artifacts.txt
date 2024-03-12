@@ -1,0 +1,12 @@
+r-sits-0.15.0-r40h7f99e6c_0
+r-sits-0.15.0-r41h7f99e6c_0
+r-sits-0.15.1-r40h7f99e6c_0
+r-sits-0.15.1-r41h7f99e6c_0
+r-sits-0.16.0-r40h7f99e6c_0
+r-sits-0.16.0-r41h7f99e6c_0
+r-sits-0.16.1-r41h7f99e6c_0
+r-sits-0.16.1-r40h7f99e6c_0
+r-sits-0.16.2-r40h7f99e6c_0
+r-sits-0.16.2-r41h7f99e6c_0
+r-sits-0.16.2-r42h8d69260_1
+r-sits-0.16.2-r41h8d69260_1

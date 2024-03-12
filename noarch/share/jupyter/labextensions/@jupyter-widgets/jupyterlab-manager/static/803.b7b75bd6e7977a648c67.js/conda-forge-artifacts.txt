@@ -1,0 +1,9 @@
+jupyterlab_widgets-1.0.0-pyhd8ed1ab_0
+jupyterlab_widgets-1.0.0-pyhd8ed1ab_1
+jupyterlab_widgets-1.0.1-pyhd8ed1ab_0
+jupyterlab_widgets-1.0.2-pyhd8ed1ab_0
+jupyterlab_widgets-1.1.0-pyhd8ed1ab_0
+jupyterlab_widgets-1.1.1-pyhd8ed1ab_0
+jupyterlab_widgets-1.1.2-pyhd8ed1ab_0
+jupyterlab_widgets-1.1.5-pyhd8ed1ab_0
+jupyterlab_widgets-1.1.7-pyhd8ed1ab_0

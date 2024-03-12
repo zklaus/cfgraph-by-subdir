@@ -1,0 +1,12 @@
+affogato-0.3.3-py39h9993004_1
+affogato-0.3.3-py310h8ff1a59_1
+affogato-0.3.3-py38hb054daf_1
+affogato-0.3.3-py311hd14b731_2
+affogato-0.3.3-py310h8ff1a59_2
+affogato-0.3.3-py39h9993004_2
+affogato-0.3.3-py38hb054daf_2
+affogato-0.3.3-py38h181dcb6_3
+affogato-0.3.3-py311h9e438b8_3
+affogato-0.3.3-py39h425d09f_3
+affogato-0.3.3-py310h5924a0a_3
+affogato-0.3.3-py312h58738bf_3

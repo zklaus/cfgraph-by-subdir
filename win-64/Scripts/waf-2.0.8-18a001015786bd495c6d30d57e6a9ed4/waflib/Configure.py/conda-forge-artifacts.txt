@@ -1,0 +1,6 @@
+pyinstaller-3.3.1-py27h7a46e7a_1
+pyinstaller-3.4-py27h7a46e7a_0
+pyinstaller-3.4-py27h7a46e7a_1
+pyinstaller-3.5-py27h7a46e7a_0
+pyinstaller-3.5-py27h7a46e7a_1
+pyinstaller-3.6-py27h7a46e7a_0

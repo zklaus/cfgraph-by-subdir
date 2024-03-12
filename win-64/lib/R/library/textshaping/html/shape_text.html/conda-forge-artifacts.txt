@@ -1,0 +1,5 @@
+r-textshaping-0.3.4-r40haa1c89b_0
+r-textshaping-0.3.4-r40hbe1bd49_1
+r-textshaping-0.3.6-r40hbe1bd49_0
+r-textshaping-0.3.6-r40haa3e5ab_1
+r-textshaping-0.3.6-r40h2321e1b_2

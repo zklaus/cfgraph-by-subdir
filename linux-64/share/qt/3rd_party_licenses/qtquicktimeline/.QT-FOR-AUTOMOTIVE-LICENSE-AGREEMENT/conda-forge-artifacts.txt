@@ -1,0 +1,7 @@
+qt-main-5.15.2-hf8cb05d_0
+qt-main-5.15.2-h88c78e7_1
+qt-main-5.15.2-h88c78e7_2
+qt-main-5.15.2-hdf1cb14_3
+qt-main-5.15.3-hf97cb25_0
+qt-main-5.15.3-hf97cb25_1
+qt-main-5.15.3-hf97cb25_2

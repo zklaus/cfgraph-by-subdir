@@ -1,0 +1,15 @@
+mysql-connector-cpp-8.0.22-h368c366_1
+mysql-connector-cpp-8.0.23-h812cca2_0
+mysql-connector-cpp-8.0.24-h368c366_0
+mysql-connector-cpp-8.0.25-h368c366_0
+mysql-connector-cpp-8.0.25-h368c366_1
+mysql-connector-cpp-8.0.26-h812cca2_0
+mysql-connector-cpp-8.0.27-h7a4f57c_0
+mysql-connector-cpp-8.0.27-h7a4f57c_1
+mysql-connector-cpp-8.0.28-ha67dfc1_0
+mysql-connector-cpp-8.0.29-hf18ea70_0
+mysql-connector-cpp-8.0.29-hf18ea70_1
+mysql-connector-cpp-8.0.29-hc5ead5f_1
+mysql-connector-cpp-8.0.29-hced9a49_2
+mysql-connector-cpp-8.0.29-h38d9289_2
+mysql-connector-cpp-8.0.29-h1933689_3

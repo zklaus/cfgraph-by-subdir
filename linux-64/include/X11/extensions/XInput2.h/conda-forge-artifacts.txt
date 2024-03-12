@@ -1,0 +1,10 @@
+xorg-libxi-1.7.8-0
+xorg-libxi-1.7.8-1
+xorg-libxi-1.7.8-2
+xorg-libxi-1.7.9-h470a237_0
+xorg-libxi-1.7.9-h470a237_1
+xorg-libxi-1.7.9-h470a237_2
+xorg-libxi-1.7.9-h14c3975_1002
+xorg-libxi-1.7.9-h516909a_1002
+xorg-libxi-1.7.10-h516909a_0
+xorg-libxi-1.7.10-h7f98852_0

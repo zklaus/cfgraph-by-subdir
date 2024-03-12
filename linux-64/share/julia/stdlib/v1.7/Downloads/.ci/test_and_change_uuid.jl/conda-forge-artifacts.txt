@@ -1,0 +1,6 @@
+julia-1.7.1-h989b2f6_3
+julia-1.7.2-h989b2f6_0
+julia-1.7.2-h35b96e5_1
+julia-1.7.2-h52e3dff_1
+julia-1.7.3-h35b96e5_0
+julia-1.7.3-h6f5dd7c_1

@@ -1,0 +1,4 @@
+qt6-main-6.5.3-hcbe8701_0
+qt6-main-6.6.0-hcbe8701_0
+qt6-main-6.6.1-h729e66d_0
+qt6-main-6.6.1-h8e16aa4_2

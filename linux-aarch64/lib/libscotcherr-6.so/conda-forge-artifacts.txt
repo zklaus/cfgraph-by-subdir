@@ -1,0 +1,6 @@
+scotch-6.0.9-he1efa8a_1
+scotch-6.0.9-h0eec0ba_1
+scotch-6.0.9-h1ee6704_1
+scotch-6.0.9-h865df61_1
+scotch-6.0.9-h93574f1_2
+scotch-6.0.9-h07b6642_2

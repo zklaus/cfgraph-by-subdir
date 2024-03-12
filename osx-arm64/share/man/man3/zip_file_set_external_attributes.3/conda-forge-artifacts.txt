@@ -1,0 +1,13 @@
+libzip-1.7.3-ha008827_0
+libzip-1.8.0-h3887732_0
+libzip-1.8.0-h3887732_1
+libzip-1.8.0-hc06522b_1
+libzip-1.9.2-h8caee39_0
+libzip-1.9.2-h57b78ed_0
+libzip-1.9.2-h96606af_1
+libzip-1.9.2-h76ab92c_1
+libzip-1.10.0-ha0bc3c6_0
+libzip-1.10.1-ha0bc3c6_0
+libzip-1.10.1-ha0bc3c6_1
+libzip-1.10.1-ha0bc3c6_2
+libzip-1.10.1-ha0bc3c6_3

@@ -1,0 +1,2 @@
+coincbc-2.10.5-hcf1b700_1
+coin-or-utils-2.11.4-hd27ae0f_3

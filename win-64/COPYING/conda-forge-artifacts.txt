@@ -1,0 +1,17 @@
+nsis-2.46-0
+nsis-2.46-1
+levenshtein-0.19.0-py39h415ef7b_0
+levenshtein-0.19.0-py37hf2a7229_0
+levenshtein-0.19.0-py38h885f38d_0
+levenshtein-0.19.0-py38h885f38d_1
+levenshtein-0.19.0-py37hf2a7229_1
+levenshtein-0.19.0-py310h8a704f9_1
+levenshtein-0.19.0-py39h415ef7b_1
+levenshtein-0.19.2-py38h885f38d_0
+levenshtein-0.19.2-py39h415ef7b_0
+levenshtein-0.19.2-py310h8a704f9_0
+levenshtein-0.19.2-py37hf2a7229_0
+levenshtein-0.19.3-py310h8a704f9_0
+levenshtein-0.19.3-py37hf2a7229_0
+levenshtein-0.19.3-py38h885f38d_0
+levenshtein-0.19.3-py39h415ef7b_0

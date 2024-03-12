@@ -1,0 +1,4 @@
+gstreamer-1.18.5-h76c114f_0
+gstreamer-1.18.5-h9f60fe5_1
+gstreamer-1.18.5-h9f60fe5_2
+gstreamer-1.18.5-h9f60fe5_3

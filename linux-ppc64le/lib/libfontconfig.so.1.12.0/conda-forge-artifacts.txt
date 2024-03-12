@@ -1,0 +1,11 @@
+fontconfig-2.13.1-h9ca2722_1000
+fontconfig-2.13.1-h3f60eee_1001
+fontconfig-2.13.1-hefa78c7_1002
+fontconfig-2.13.1-h0e90d01_1002
+fontconfig-2.13.1-h7131b80_1003
+fontconfig-2.13.1-h51d57f9_1004
+fontconfig-2.13.1-h51d57f9_1005
+fontconfig-2.13.94-hb1b3014_0
+fontconfig-2.13.96-hb1b3014_0
+fontconfig-2.13.96-haba4ffa_1
+fontconfig-2.13.96-haba4ffa_2

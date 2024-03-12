@@ -1,0 +1,2 @@
+libcint-5.2.0-h7e4f40d_0
+libcint-5.2.0-h0a54255_0

@@ -1,0 +1,3 @@
+assimp-5.0.1-h044441e_4
+assimp-5.0.1-h0cf024e_6
+assimp-5.0.1-h0cf024e_7

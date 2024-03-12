@@ -1,0 +1,12 @@
+r-cubist-0.4.0-r41h28b5c78_0
+r-cubist-0.4.0-r40h28b5c78_0
+r-cubist-0.4.0-r41h815d134_1
+r-cubist-0.4.0-r42h815d134_1
+r-cubist-0.4.1-r41h815d134_0
+r-cubist-0.4.1-r42h815d134_0
+r-cubist-0.4.2-r42h815d134_0
+r-cubist-0.4.2-r41h815d134_0
+r-cubist-0.4.2.1-r41h815d134_0
+r-cubist-0.4.2.1-r42h815d134_0
+r-cubist-0.4.2.1-r42h6dc245f_1
+r-cubist-0.4.2.1-r43h6dc245f_1

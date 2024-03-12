@@ -1,0 +1,12 @@
+pygmo_plugins_nonfree-0.22-py39h1cb79e8_7
+pygmo_plugins_nonfree-0.22-py310hde61280_7
+pygmo_plugins_nonfree-0.22-py311h5e86375_7
+pygmo_plugins_nonfree-0.22-py38hf1cbb7b_7
+pygmo_plugins_nonfree-0.24-py310h8b01dcd_0
+pygmo_plugins_nonfree-0.24-py38h1b2c1f5_0
+pygmo_plugins_nonfree-0.24-py39h0b64147_0
+pygmo_plugins_nonfree-0.24-py311h2987568_0
+pygmo_plugins_nonfree-0.24-py310h51b22d2_1
+pygmo_plugins_nonfree-0.24-py311h6196a3d_1
+pygmo_plugins_nonfree-0.24-py38h02fe9ae_1
+pygmo_plugins_nonfree-0.24-py39h1e9ee50_1

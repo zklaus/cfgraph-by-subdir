@@ -1,0 +1,4 @@
+libjpeg-turbo-cos7-ppc64le-1.2.90-hdf0574f_102
+libjpeg-turbo-cos7-ppc64le-1.2.90-ha826a6f_103
+libjpeg-turbo-cos7-ppc64le-1.2.90-h9d98e8f_104
+libjpeg-turbo-cos7-ppc64le-1.2.90-h9b0a68f_105

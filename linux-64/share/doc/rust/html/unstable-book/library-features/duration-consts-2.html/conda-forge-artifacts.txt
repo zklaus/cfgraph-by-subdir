@@ -1,0 +1,16 @@
+rust-1.47.0-hd18ef5c_0
+rust-1.48.0-h36c2ea0_0
+rust-1.49.0-h3bf0571_0
+rust-1.50.0-h3bf0571_0
+rust-1.51.0-h3bf0571_0
+rust-1.52.0-h3bf0571_0
+rust-1.52.1-h3bf0571_0
+rust-1.53.0-h3bf0571_0
+rust-1.54.0-h3bf0571_0
+rust-1.55.0-h3bf0571_0
+rust-1.55.0-h3bf0571_1
+rust-1.55.0-h3bf0571_2
+rust-1.55.0-h61edd41_3
+rust-1.56.0-h61edd41_0
+rust-1.56.1-h61edd41_0
+rust-1.57.0-h61edd41_0

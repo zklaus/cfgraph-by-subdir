@@ -1,0 +1,6 @@
+lesscpy-0.12.0-py27_0
+lesscpy-0.12.0-py35_0
+lesscpy-0.12.0-py36_0
+lesscpy-0.13.0-py27_0
+lesscpy-0.13.0-py35_0
+lesscpy-0.13.0-py36_0

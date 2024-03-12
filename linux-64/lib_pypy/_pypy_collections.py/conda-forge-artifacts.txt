@@ -1,0 +1,4 @@
+pypy3.5-5.10.1-he80c2bd_0
+pypy3.5-6.0.0-ha9e8ddd_0
+pypy3.5-6.0.0-ha9e8ddd_1
+pypy3.5-6.0.0-hd0a95e2_2

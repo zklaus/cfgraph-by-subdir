@@ -1,0 +1,9 @@
+openturns-1.13rc1-py27h2ed784a_0
+openturns-1.13rc1-py36h2ed784a_0
+openturns-1.13rc1-py37h2ed784a_0
+openturns-1.13rc1-py27h2ed784a_1
+openturns-1.13rc1-py36h2ed784a_1
+openturns-1.13rc1-py37h2ed784a_1
+openturns-1.13rc1-py36h62a98e9_2
+openturns-1.13rc1-py27h62a98e9_2
+openturns-1.13rc1-py37h62a98e9_2

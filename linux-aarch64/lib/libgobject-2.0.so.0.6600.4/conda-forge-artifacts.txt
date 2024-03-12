@@ -1,0 +1,11 @@
+libglib-2.66.4-h4f61916_0
+libglib-2.66.4-he271a7a_0
+libglib-2.66.4-h3ca944d_0
+libglib-2.66.4-h6c688d6_0
+libglib-2.66.4-h4f61916_1
+libglib-2.66.4-h6c688d6_1
+libglib-2.66.4-h3ca944d_1
+libglib-2.66.4-he271a7a_1
+libglib-2.66.4-h6c688d6_2
+libglib-2.66.4-he271a7a_2
+libglib-2.66.4-h4f61916_2

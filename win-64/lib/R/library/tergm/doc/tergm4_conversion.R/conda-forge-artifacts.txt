@@ -1,0 +1,10 @@
+r-tergm-4.0.1-r40h6d2157b_0
+r-tergm-4.0.1-r41h6d2157b_0
+r-tergm-4.0.2-r41h6d2157b_0
+r-tergm-4.0.2-r40h6d2157b_0
+r-tergm-4.1.0-r41h6d2157b_0
+r-tergm-4.1.0-r40h6d2157b_0
+r-tergm-4.1.0-r41h6d2157b_1
+r-tergm-4.1.1-r41h6d2157b_0
+r-tergm-4.2.0-r41h6d2157b_0
+r-tergm-4.2.0-r41h6d2157b_1

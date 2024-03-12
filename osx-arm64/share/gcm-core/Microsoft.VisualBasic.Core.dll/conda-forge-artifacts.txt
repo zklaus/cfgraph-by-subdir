@@ -1,0 +1,6 @@
+git-credential-manager-2.1.1-hce30654_1
+git-credential-manager-2.1.2-hce30654_0
+git-credential-manager-2.2.2-hce30654_0
+git-credential-manager-2.3.1-hce30654_0
+git-credential-manager-2.3.2-hce30654_0
+git-credential-manager-2.4.1-hce30654_0

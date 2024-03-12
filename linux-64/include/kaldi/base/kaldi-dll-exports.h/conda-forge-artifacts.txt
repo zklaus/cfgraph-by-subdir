@@ -1,0 +1,11 @@
+kaldi-5.5.1068-cpu_h05f3a92_0
+kaldi-5.5.1068-cuda112h961d610_0
+kaldi-5.5.1068-cuda110h4284680_0
+kaldi-5.5.1068-cpu_h05f3a92_1
+kaldi-5.5.1068-cuda110h4284680_1
+kaldi-5.5.1068-cuda112h961d610_1
+kaldi-5.5.1068-cuda120h6a63ba3_1
+kaldi-5.5.1068-cuda112h9c89dd3_1
+kaldi-5.5.1068-cpu_h31769b2_2
+kaldi-5.5.1068-cuda120h41cae9c_2
+kaldi-5.5.1068-cuda112h971fcfb_2

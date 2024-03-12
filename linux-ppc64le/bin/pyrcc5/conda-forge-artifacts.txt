@@ -1,0 +1,13 @@
+pyqt-5.15.7-py39hb6ebeee_3
+pyqt-5.15.7-py310h090db09_3
+pyqt-5.15.7-py38h4f7bc66_3
+pyqt-5.15.7-py311ha0d2b3e_3
+pyqt-5.15.9-py38h0f762fb_4
+pyqt-5.15.9-py311h10e9bb3_4
+pyqt-5.15.9-py310h05aca5a_4
+pyqt-5.15.9-py39h9ad10a1_4
+pyqt-5.15.9-py311h10e9bb3_5
+pyqt-5.15.9-py38h0f762fb_5
+pyqt-5.15.9-py310h05aca5a_5
+pyqt-5.15.9-py39h9ad10a1_5
+pyqt-5.15.9-py312h3902226_5

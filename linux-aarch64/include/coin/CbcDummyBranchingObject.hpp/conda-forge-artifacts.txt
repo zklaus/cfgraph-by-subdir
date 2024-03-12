@@ -1,0 +1,4 @@
+coin-or-cbc-2.10.8-hcea0fe4_0
+coin-or-cbc-2.10.9-h2f64a8a_0
+coin-or-cbc-2.10.9-h2f64a8a_1
+coin-or-cbc-2.10.10-h2f64a8a_0

@@ -1,0 +1,6 @@
+scine-core-4.0.0-h1ccbcd8_0
+scine-core-4.0.1-h1ccbcd8_0
+scine-core-4.0.2-h1ccbcd8_0
+scine-core-4.0.2-h4d9c6cd_1
+scine-core-4.1.0-hd11383d_0
+scine-core-5.0.0-h385c677_0

@@ -1,0 +1,3 @@
+pytypes-1.0b3-py27_0
+pytypes-1.0b3-py35_0
+pytypes-1.0b3-py36_0

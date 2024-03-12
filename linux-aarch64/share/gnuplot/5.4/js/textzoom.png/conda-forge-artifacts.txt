@@ -1,0 +1,9 @@
+gnuplot-5.4.1-hb00ea9e_3
+gnuplot-5.4.3-hb00ea9e_0
+gnuplot-5.4.3-h9715c6e_1
+gnuplot-5.4.3-ha139de2_2
+gnuplot-5.4.3-h7544da3_3
+gnuplot-5.4.4-h7544da3_0
+gnuplot-5.4.5-h1fafa18_0
+gnuplot-5.4.5-h1fafa18_1
+gnuplot-5.4.8-h1fafa18_0

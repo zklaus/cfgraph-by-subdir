@@ -1,0 +1,10 @@
+glfw-3.3.1-h2fa13f4_0
+glfw-3.3.2-h2fa13f4_0
+glfw-3.3.2-h2fa13f4_1
+glfw-3.3.3-h8ffe710_0
+glfw-3.3.4-h8ffe710_0
+glfw-3.3.5-h8ffe710_0
+glfw-3.3.6-h8ffe710_0
+glfw-3.3.7-h8ffe710_0
+glfw-3.3.8-h8ffe710_0
+glfw-3.3.8-hcfcfb64_1

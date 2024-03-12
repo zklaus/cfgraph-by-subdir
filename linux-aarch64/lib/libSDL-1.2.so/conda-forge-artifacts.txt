@@ -1,0 +1,6 @@
+sdl-1.2.52-h4de3ea5_0
+sdl-1.2.52-h4de3ea5_1
+sdl-1.2.56-h4de3ea5_0
+sdl-1.2.60-h4de3ea5_0
+sdl-1.2.64-h32cd00b_0
+sdl-1.2.68-h32cd00b_0

@@ -1,0 +1,13 @@
+cppzmq-4.4.1-h1bb5118_1
+cppzmq-4.5.0-h1bb5118_0
+cppzmq-4.6.0-h1bb5118_0
+cppzmq-4.6.0-h1bb5118_1
+cppzmq-4.6.0-h4896d04_2
+cppzmq-4.7.1-h4896d04_0
+cppzmq-4.7.1-h867b188_0
+cppzmq-4.7.1-h4e17a75_1
+cppzmq-4.8.0-h5c3ff33_0
+cppzmq-4.8.1-h5c3ff33_0
+cppzmq-4.9.0-h36673b4_0
+cppzmq-4.10.0-h2d1234b_0
+cppzmq-4.10.0-h8681a2e_1

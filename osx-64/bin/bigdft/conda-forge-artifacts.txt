@@ -1,0 +1,10 @@
+bigdft-suite-1.9.4_rc.2-mpi_openmpi_py39hd802ac4_0
+bigdft-suite-1.9.4_rc.2-mpi_mpich_py311h4fb0f55_0
+bigdft-suite-1.9.4_rc.2-mpi_mpich_py38h129fd69_0
+bigdft-suite-1.9.4_rc.2-mpi_mpich_py39h86de343_0
+bigdft-suite-1.9.4_rc.2-mpi_mpich_py310h44c241f_0
+bigdft-suite-1.9.4_rc.2-mpi_openmpi_py311ha7311db_0
+bigdft-suite-1.9.4_rc.2-mpi_openmpi_py38hf51255b_0
+bigdft-suite-1.9.4_rc.2-mpi_openmpi_py310ha4907e4_0
+bigdft-suite-1.9.4-mpi_mpich_py310h6992914_1
+bigdft-suite-1.9.4-mpi_openmpi_py310h29d0a76_1

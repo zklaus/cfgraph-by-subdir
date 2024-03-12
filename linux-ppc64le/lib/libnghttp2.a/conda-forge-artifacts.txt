@@ -1,0 +1,12 @@
+libnghttp2-1.41.0-h0e66b82_1
+libnghttp2-static-1.41.0-hb209c28_2
+libnghttp2-static-1.43.0-h3b9df90_0
+libnghttp2-static-1.43.0-h3b9df90_1
+libnghttp2-static-1.46.0-hf9a8087_0
+libnghttp2-static-1.46.0-haf43566_0
+libnghttp2-static-1.47.0-ha6b4ebd_0
+libnghttp2-static-1.47.0-h33c4487_0
+libnghttp2-static-1.51.0-haf9a9e6_1
+libnghttp2-static-1.52.0-haf9a9e6_0
+libnghttp2-static-1.55.1-had385bd_0
+libnghttp2-static-1.58.0-had385bd_0

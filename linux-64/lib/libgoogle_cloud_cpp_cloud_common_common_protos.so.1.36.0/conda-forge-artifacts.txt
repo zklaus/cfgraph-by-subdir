@@ -1,0 +1,6 @@
+libgoogle-cloud-1.36.0-h6945097_0
+libgoogle-cloud-1.36.0-hb19718a_0
+libgoogle-cloud-1.36.0-h4b11766_1
+libgoogle-cloud-1.36.0-h1b6e0d2_1
+libgoogle-cloud-1.36.0-hf890b09_2
+libgoogle-cloud-1.36.0-h0b459b8_2

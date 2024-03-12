@@ -1,0 +1,5 @@
+log4cpp-1.1.3-hfc679d8_0
+log4cpp-1.1.3-hfc679d8_1
+log4cpp-1.1.3-h0a44026_1001
+log4cpp-1.1.3-hb1e8313_1002
+log4cpp-1.1.3-he49afe7_1002

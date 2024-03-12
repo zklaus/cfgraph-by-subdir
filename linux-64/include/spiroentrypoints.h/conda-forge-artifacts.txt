@@ -1,0 +1,3 @@
+libspiro-20200505-h7f98852_0
+libspiro-20220722-h166bdaf_0
+libspiro-20221101-h166bdaf_0

@@ -1,0 +1,7 @@
+libitk-devel-5.2.0-ha709d19_4
+libitk-devel-5.2.1-ha709d19_0
+libitk-devel-5.2.1-ha709d19_1
+libitk-devel-5.2.1-ha709d19_2
+libitk-devel-5.2.1-ha709d19_3
+libitk-devel-5.2.1-ha709d19_4
+libitk-devel-5.2.1-h1b424bd_4

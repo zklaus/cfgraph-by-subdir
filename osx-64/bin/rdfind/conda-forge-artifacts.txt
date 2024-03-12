@@ -1,0 +1,7 @@
+rdfind-1.4.1-hf675e98_0
+rdfind-1.4.1-h1537808_1
+rdfind-1.4.1-hf2fc675_2
+rdfind-1.5.0-h3b4ed28_0
+rdfind-1.5.0-h1b00941_1
+rdfind-1.6.0-h59d0a21_0
+rdfind-1.6.0-he8ad3e4_1

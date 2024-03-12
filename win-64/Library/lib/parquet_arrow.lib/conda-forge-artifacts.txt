@@ -1,0 +1,6 @@
+parquet-cpp-1.1.0pre-vc14_2
+parquet-cpp-1.1.0pre-vc14_3
+parquet-cpp-1.1.0pre-vc14_4
+parquet-cpp-1.1.0-vc14_0
+parquet-cpp-1.1.0-vc14_1
+parquet-cpp-1.1.0-vc14_2

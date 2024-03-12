@@ -1,0 +1,5 @@
+libitk-devel-5.1.0-ha925a31_0
+libitk-devel-5.1.1-ha925a31_0
+libitk-devel-5.1.1-ha925a31_1
+libitk-devel-5.1.2-h0e60522_0
+libitk-devel-5.1.2-h0e60522_1

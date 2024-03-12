@@ -1,0 +1,10 @@
+future-0.18.2-py38h10201cd_2
+future-0.18.2-py39h2804cbe_2
+future-0.18.2-py38h10201cd_3
+future-0.18.2-py39h2804cbe_3
+future-0.18.2-py39h2804cbe_4
+future-0.18.2-py310hbe9552e_4
+future-0.18.2-py38h10201cd_4
+future-0.18.2-py38h10201cd_5
+future-0.18.2-py310hbe9552e_5
+future-0.18.2-py39h2804cbe_5

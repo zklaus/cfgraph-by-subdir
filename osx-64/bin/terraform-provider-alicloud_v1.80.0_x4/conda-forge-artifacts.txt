@@ -1,0 +1,1 @@
+terraform-provider-alicloud-1.80.0-ha8a90a3_0

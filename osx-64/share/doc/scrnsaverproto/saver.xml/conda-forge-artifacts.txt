@@ -1,0 +1,11 @@
+xorg-scrnsaverproto-1.2.2-0
+xorg-scrnsaverproto-1.2.2-h470a237_1
+xorg-scrnsaverproto-1.2.2-h1de35cc_1001
+xorg-xorgproto-2021.4-h0d85af4_0
+xorg-xorgproto-2021.5-h0d85af4_0
+xorg-xorgproto-2022.1-h5eb16cf_0
+xorg-xorgproto-2022.2-hb7f2c08_0
+xorg-xorgproto-2022.2-h0dc2134_1
+xorg-xorgproto-2023.1-h0dc2134_0
+xorg-xorgproto-2023.2-h0dc2134_0
+xorg-xorgproto-2023.2-h10d778d_0

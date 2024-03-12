@@ -1,0 +1,6 @@
+r-quanteda.textmodels-0.9.5-r40he82acad_0
+r-quanteda.textmodels-0.9.5-r41he82acad_0
+r-quanteda.textmodels-0.9.5_1-r41he82acad_0
+r-quanteda.textmodels-0.9.5_1-r41he82acad_1
+r-quanteda.textmodels-0.9.6-r41he82acad_0
+r-quanteda.textmodels-0.9.6-r41he82acad_1

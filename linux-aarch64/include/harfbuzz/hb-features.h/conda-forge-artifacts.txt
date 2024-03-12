@@ -1,0 +1,10 @@
+harfbuzz-6.0.0-hbcb8a4f_0
+harfbuzz-6.0.0-h3c6782d_1
+harfbuzz-7.1.0-h3c6782d_1
+harfbuzz-7.2.0-h8428050_0
+harfbuzz-7.3.0-h8428050_0
+harfbuzz-7.3.0-hebeb849_1
+harfbuzz-8.1.1-hebeb849_1
+harfbuzz-8.2.0-hebeb849_0
+harfbuzz-8.2.1-hebeb849_0
+harfbuzz-8.3.0-hebeb849_0

@@ -1,0 +1,2 @@
+dotnet-aspnetcore-6.0.0-hd68eb72_0
+dotnet-aspnetcore-6.0.0-hd68eb72_1

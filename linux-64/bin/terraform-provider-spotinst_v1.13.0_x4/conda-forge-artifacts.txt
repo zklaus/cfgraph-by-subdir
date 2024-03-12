@@ -1,0 +1,1 @@
+terraform-provider-spotinst-1.13.0-h209b5c4_0

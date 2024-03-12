@@ -1,0 +1,9 @@
+libarrow-gandiva-14.0.1-heeebe7c_0_cpu
+libarrow-gandiva-14.0.1-heeebe7c_1_cpu
+libarrow-gandiva-14.0.1-heeebe7c_2_cpu
+libarrow-gandiva-14.0.1-heeebe7c_3_cpu
+libarrow-gandiva-14.0.1-heeebe7c_4_cpu
+libarrow-gandiva-14.0.1-heeebe7c_5_cpu
+libarrow-gandiva-14.0.1-heeebe7c_6_cpu
+libarrow-gandiva-14.0.1-heeebe7c_7_cpu
+libarrow-gandiva-14.0.1-heeebe7c_8_cpu

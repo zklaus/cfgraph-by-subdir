@@ -1,0 +1,8 @@
+r-gaston-1.5.6-r40h8ab0226_0
+r-gaston-1.5.6-r36h8ab0226_0
+r-gaston-1.5.7-r36h8ab0226_0
+r-gaston-1.5.7-r40h8ab0226_0
+r-gaston-1.5.7-r40h8380222_0
+r-gaston-1.5.7-r41h8380222_0
+r-gaston-1.5.7-r41h690469d_1
+r-gaston-1.5.7-r42h690469d_1

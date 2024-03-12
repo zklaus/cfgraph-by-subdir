@@ -1,0 +1,8 @@
+gnuradio-soapy-3.9.7.0-py310hab6484b_0
+gnuradio-soapy-3.9.7.0-py37hb07ceed_0
+gnuradio-soapy-3.9.7.0-py39h136dc15_0
+gnuradio-soapy-3.9.7.0-py38h376e5c7_0
+gnuradio-soapy-3.9.7.0-py310he3efc03_1
+gnuradio-soapy-3.9.7.0-py38hcf5d742_1
+gnuradio-soapy-3.9.7.0-py37h422078f_1
+gnuradio-soapy-3.9.7.0-py39h282a726_1

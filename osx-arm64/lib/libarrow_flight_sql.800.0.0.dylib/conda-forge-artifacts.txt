@@ -1,0 +1,6 @@
+arrow-cpp-8.0.0-py39h5805033_5_cpu
+arrow-cpp-8.0.0-py38hf3a2c03_5_cpu
+arrow-cpp-8.0.0-py38h7d4df96_5_cpu
+arrow-cpp-8.0.0-py310h4fee3f5_5_cpu
+arrow-cpp-8.0.0-py39h148c617_5_cpu
+arrow-cpp-8.0.0-py310hef82f62_5_cpu

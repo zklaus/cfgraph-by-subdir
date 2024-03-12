@@ -1,0 +1,13 @@
+triqs-2.2.1-py27he081bff_0
+triqs-2.2.1-py27h10a1ecc_0
+triqs-2.2.1-py27h10a1ecc_1
+triqs-2.2.1-py27h10a1ecc_2
+triqs-2.2.1-py27h64208ec_3
+triqs-2.2.1-py27ha843aec_4
+triqs-2.2.2-py27ha843aec_0
+triqs-2.2.2-py27h1429a24_1
+triqs-2.2.2-py27h4874126_1
+triqs-2.2.2-py27hd99c9e1_3
+triqs-2.2.2-py27haae2f4e_3
+triqs-2.2.3-py27haae2f4e_0
+triqs-2.2.3-py27hd99c9e1_0

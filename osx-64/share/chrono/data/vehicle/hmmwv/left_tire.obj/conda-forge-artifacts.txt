@@ -1,0 +1,11 @@
+pychrono-4.0.0-py36he641558_0
+pychrono-4.0.0-py27he641558_0
+pychrono-4.0.0-py37he641558_0
+pychrono-4.0.0-py37h4a8c4bd_1
+pychrono-4.0.0-py36h4a8c4bd_1
+pychrono-4.0.0-py27h4a8c4bd_1
+pychrono-4.0.0-py37h4a8c4bd_3
+pychrono-4.0.0-py36h4a8c4bd_3
+pychrono-4.0.0-py38h4a8c4bd_3
+chrono-4.0.0-h4a8c4bd_4
+chrono-4.0.0-h4a8c4bd_5

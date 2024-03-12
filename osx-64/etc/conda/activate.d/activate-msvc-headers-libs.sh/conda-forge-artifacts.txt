@@ -1,0 +1,14 @@
+msvc-headers-libs-14.14.26423-he0c64b4_4
+msvc-headers-libs-14.14.26423-hd6d559d_5
+msvc-headers-libs-14.14.26423-hd6d559d_6
+msvc-headers-libs-14.14.26423-hdcd9423_0
+msvc-headers-libs-14.16.27023-h716e03d_2
+msvc-headers-libs-14.16.27023-h716e03d_0
+msvc-headers-libs-14.29.30133-hab1ab0b_1
+msvc-headers-libs-14.34.31933-h7196ab8_1
+msvc-headers-libs-14.34.31933-h7196ab8_2
+msvc-headers-libs-14.29.30133-hab1ab0b_2
+msvc-headers-libs-14.29.30133-hab1ab0b_3
+msvc-headers-libs-14.36.32532-h97863ab_3
+msvc-headers-libs-14.29.30133-h5af613e_4
+msvc-headers-libs-14.37.32822-h8ed7f03_4

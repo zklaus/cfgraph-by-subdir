@@ -1,0 +1,4 @@
+petsc-3.14.6-he1f1896_0
+petsc-3.14.6-h7d2c48f_0
+petsc-3.14.6-h5e65d42_0
+petsc-3.14.6-ha180fcc_0

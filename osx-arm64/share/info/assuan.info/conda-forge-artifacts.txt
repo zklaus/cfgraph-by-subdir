@@ -1,0 +1,2 @@
+libassuan-2.5.5-hbdafb3b_0
+libassuan-2.5.6-h13dd4ca_0

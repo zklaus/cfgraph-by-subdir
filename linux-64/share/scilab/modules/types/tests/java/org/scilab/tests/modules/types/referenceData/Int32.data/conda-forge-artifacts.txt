@@ -1,0 +1,8 @@
+scilab-6.0.2-hdd93a37_0
+scilab-6.0.2-hf20a7dd_1
+scilab-6.0.2-hdcc2a7a_2
+scilab-6.1.0-hcdc6c78_0
+scilab-6.1.1-hcdc6c78_0
+scilab-6.1.1-hcdc6c78_1
+scilab-6.1.1-he84a06f_1
+scilab-6.1.1-h8b13fda_2

@@ -1,0 +1,12 @@
+lpython-0.13.0-ha614eb4_1
+lpython-0.15.0-ha614eb4_0
+lpython-0.15.0-ha614eb4_1
+lpython-0.16.0-ha614eb4_0
+lpython-0.17.0-ha614eb4_0
+lpython-0.18.0-ha614eb4_0
+lpython-0.18.1-ha614eb4_0
+lpython-0.18.2-ha614eb4_0
+lpython-0.18.3-ha614eb4_0
+lpython-0.18.4-ha614eb4_0
+lpython-0.19.0-ha614eb4_0
+lpython-0.20.0-ha614eb4_0

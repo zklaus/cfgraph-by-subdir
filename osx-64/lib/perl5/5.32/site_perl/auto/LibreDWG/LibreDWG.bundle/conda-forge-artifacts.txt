@@ -1,0 +1,8 @@
+libredwg-0.11.3876-py39pl5321hf41e7f8_1
+libredwg-0.11.3876-py38pl5321h6ea4786_1
+libredwg-0.11.3876-py37pl5321h250624f_1
+libredwg-0.11.3876-py36pl5321habcf893_1
+libredwg-0.11.3876-py39pl5321hf41e7f8_2
+libredwg-0.11.3876-py310pl5321ha9f0948_2
+libredwg-0.11.3876-py37pl5321h250624f_2
+libredwg-0.11.3876-py38pl5321h6ea4786_2

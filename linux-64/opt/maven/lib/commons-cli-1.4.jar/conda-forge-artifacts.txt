@@ -1,0 +1,8 @@
+maven-3.5.0-0
+maven-3.6.0-0
+maven-3.6.3-ha770c72_0
+maven-3.8.5-ha770c72_0
+maven-3.8.6-ha770c72_0
+maven-3.8.7-ha770c72_0
+maven-3.9.0-ha770c72_0
+maven-3.9.1-ha770c72_0

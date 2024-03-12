@@ -1,0 +1,4 @@
+websocketpp-0.8.2-h4c92fa2_0
+websocketpp-0.8.2-hf40c2ba_1
+websocketpp-0.8.2-head77aa_2
+websocketpp-0.8.2-hfb0e8fe_3

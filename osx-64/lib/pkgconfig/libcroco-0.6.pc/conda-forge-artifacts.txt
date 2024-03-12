@@ -1,0 +1,10 @@
+libcroco-0.6.12-0
+libcroco-0.6.12-ha15ef52_1
+libcroco-0.6.12-hb7dcfda_1001
+libcroco-0.6.12-h67e89d5_1
+libcroco-0.6.12-h1750bd5_1002
+libcroco-0.6.13-hc484408_0
+libcroco-0.6.13-h9035b8d_1
+libcroco-0.6.13-h27fba37_2
+libcroco-0.6.13-heedbaa3_3
+libcroco-0.6.13-h53fc908_4

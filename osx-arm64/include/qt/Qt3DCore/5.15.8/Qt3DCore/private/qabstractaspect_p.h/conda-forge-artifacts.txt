@@ -1,0 +1,11 @@
+qt-main-5.15.8-hfe8d25c_6
+qt-main-5.15.8-h80905e8_7
+qt-main-5.15.8-h8c42f20_9
+qt-main-5.15.8-h8c42f20_10
+qt-main-5.15.8-hcac2fde_11
+qt-main-5.15.8-hcac2fde_12
+qt-main-5.15.8-hcac2fde_13
+qt-main-5.15.8-hcac2fde_14
+qt-main-5.15.8-hab52160_15
+qt-main-5.15.8-h219f738_16
+qt-main-5.15.8-h6bf1bb6_17

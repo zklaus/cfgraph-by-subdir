@@ -1,0 +1,4 @@
+pythia8-8.244-py38hc84c608_1
+pythia8-8.244-py36h0130604_1
+pythia8-8.244-py37h570ac47_1
+pythia8-8.244-py27hde1d37b_1

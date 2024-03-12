@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-2.4.1-h520bb56_0

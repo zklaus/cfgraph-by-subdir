@@ -1,0 +1,4 @@
+r-modeltime.resample-0.2.3-r42hc72bb7e_0
+r-modeltime.resample-0.2.3-r41hc72bb7e_0
+r-modeltime.resample-0.2.3-r43hc72bb7e_1
+r-modeltime.resample-0.2.3-r42hc72bb7e_1

@@ -1,0 +1,8 @@
+parallelproj-1.2.9-cuda11.2h9631440_2
+parallelproj-1.2.9-cuda10.2h9a3eccd_2
+parallelproj-1.2.9-cuda11.1h9ceb898_2
+parallelproj-1.2.9-cuda11.0hdb97b34_2
+parallelproj-1.2.9-cuda11.0hdb97b34_3
+parallelproj-1.2.9-cuda10.2h9a3eccd_3
+parallelproj-1.2.9-cuda11.1h9ceb898_3
+parallelproj-1.2.9-cuda11.2h9631440_3

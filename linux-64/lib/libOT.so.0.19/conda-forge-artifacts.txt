@@ -1,0 +1,17 @@
+openturns-1.18rc1-py38he25ae59_0
+openturns-1.18rc1-py37h39f2696_0
+openturns-1.18rc1-py39h1f890ee_0
+openturns-1.18rc1-py37h3f35c54_1
+openturns-1.18rc1-py39hee49801_1
+openturns-1.18rc1-py38h0725fe1_1
+openturns-1.18-py38h0725fe1_0
+openturns-1.18-py39hee49801_0
+openturns-1.18-py37h3f35c54_0
+openturns-1.18-py38h0725fe1_1
+openturns-1.18-py310hcadf27d_1
+openturns-1.18-py37h3f35c54_1
+openturns-1.18-py39hee49801_1
+openturns-1.18-py37hfdb5036_2
+openturns-1.18-py39hb0e77a6_2
+openturns-1.18-py310h823784e_2
+openturns-1.18-py38ha525690_2

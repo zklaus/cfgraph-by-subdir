@@ -1,0 +1,6 @@
+dftatom-1.0.4-h70d4695_0
+dftatom-1.0.4-h9b3141d_0
+dftatom-1.0.4-h70d4695_1
+dftatom-1.0.4-h9b3141d_1
+dftatom-1.0.4-h2f356a1_2
+dftatom-1.0.4-h6c2f995_3

@@ -1,0 +1,16 @@
+python-htcondor-9.5.0-py37had3064c_0
+python-htcondor-9.6.0-py37had3064c_0
+python-htcondor-9.7.0-py37h7af4733_0
+python-htcondor-9.8.0-py37h7af4733_0
+python-htcondor-9.8.1-py37h7af4733_0
+python-htcondor-9.9.0-py37h7af4733_0
+python-htcondor-9.0.14-py37h6d3205b_0
+python-htcondor-9.10.0-py37hfdeae47_0
+python-htcondor-9.10.1-py37hfdeae47_0
+python-htcondor-9.0.15-py37h6d3205b_0
+python-htcondor-9.0.16-py37h47d275f_0
+python-htcondor-9.11.0-py37hfdeae47_0
+python-htcondor-9.11.2-py37hfdeae47_0
+python-htcondor-9.11.2-py37hfdeae47_1
+python-htcondor-9.0.17-py37h47d275f_0
+python-htcondor-9.12.0-py37hfdeae47_0

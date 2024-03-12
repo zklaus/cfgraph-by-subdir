@@ -1,0 +1,3 @@
+terraform-provider-atlas-0.1.1-0
+terraform-provider-atlas-0.1.1-1
+terraform-provider-atlas-0.1.1-1001

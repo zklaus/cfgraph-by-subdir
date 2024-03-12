@@ -1,0 +1,12 @@
+r-boolnet-2.1.4-r351hc070d10_0
+r-boolnet-2.1.4-r351h96ca727_1000
+r-boolnet-2.1.7-r40h06615bd_0
+r-boolnet-2.1.7-r41h06615bd_0
+r-boolnet-2.1.7-r42h06615bd_1
+r-boolnet-2.1.7-r41h06615bd_1
+r-boolnet-2.1.8-r42h133d619_0
+r-boolnet-2.1.8-r41h133d619_0
+r-boolnet-2.1.8-r43h57805ef_1
+r-boolnet-2.1.8-r42h57805ef_1
+r-boolnet-2.1.9-r42h57805ef_0
+r-boolnet-2.1.9-r43h57805ef_0

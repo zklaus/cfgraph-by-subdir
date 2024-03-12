@@ -1,0 +1,5 @@
+stackvana-lsst_distrib-0.2023.35-py311hece06ba_0
+stackvana-core-impl-0.2023.36-py311h38be061_0
+stackvana-core-impl-0.2023.37-py311h38be061_0
+stackvana-core-impl-0.2023.38-py311h38be061_0
+stackvana-core-impl-0.2023.39-py311h38be061_0

@@ -1,0 +1,3 @@
+perl-memoize-1.10-pl5321hd8ed1ab_0
+perl-memoize-1.12-pl5321hd8ed1ab_0
+perl-memoize-1.13-pl5321hd8ed1ab_0

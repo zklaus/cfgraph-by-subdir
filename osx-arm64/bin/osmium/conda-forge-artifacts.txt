@@ -1,0 +1,2 @@
+osmium-tool-1.16.0-h1dcb447_1
+osmium-tool-1.16.0-h50f88fa_2

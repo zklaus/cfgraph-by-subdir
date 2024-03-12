@@ -1,0 +1,12 @@
+esbuild-0.14.51-h8ffe710_0
+esbuild-0.14.51-h57928b3_1
+esbuild-0.14.54-h57928b3_0
+esbuild-0.15.1-h4f38e3e_0
+esbuild-0.15.1-h93d5fdd_0
+esbuild-0.15.1-h7812537_0
+esbuild-0.15.5-h93d5fdd_0
+esbuild-0.15.5-h4f38e3e_0
+esbuild-0.15.5-h7812537_0
+esbuild-0.15.5-h57928b3_1
+esbuild-0.15.5-h57928b3_2
+esbuild-0.19.2-h57928b3_0

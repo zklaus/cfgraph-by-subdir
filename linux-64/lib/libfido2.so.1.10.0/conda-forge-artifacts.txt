@@ -1,0 +1,2 @@
+libfido2-1.10.0-ha19adfc_0
+libfido2-1.10.0-h812cca2_0

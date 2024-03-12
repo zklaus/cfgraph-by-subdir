@@ -1,0 +1,4 @@
+r-dirichletreg-0.7_0-r40h6d2157b_0
+r-dirichletreg-0.7_0-r36h6d2157b_0
+r-dirichletreg-0.7_1-r40h6d2157b_0
+r-dirichletreg-0.7_1-r36h6d2157b_0

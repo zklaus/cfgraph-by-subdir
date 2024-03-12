@@ -1,0 +1,9 @@
+rdkit-2017.09.3-py27_0
+rdkit-2017.09.3-py35_0
+rdkit-2017.09.3-py36_0
+rdkit-Release_2017_09_3-py27_1
+rdkit-Release_2017_09_3-py27_3
+rdkit-Release_2017_09_3-py35_1
+rdkit-Release_2017_09_3-py35_3
+rdkit-Release_2017_09_3-py36_1
+rdkit-Release_2017_09_3-py36_3

@@ -1,0 +1,14 @@
+nettle-3.3-0
+nettle-3.4-0
+nettle-3.4-ha0399c4_1
+nettle-3.4-hd3a4fd2_1001
+nettle-3.4.1-hf484d3e_1001
+nettle-3.4.1-hfc679d8_1
+nettle-3.4.1-h14c3975_1002
+nettle-3.4.1-h470a237_2
+nettle-3.4.1-h1bed415_1002
+nettle-3.6-he412f7d_0
+nettle-3.7-h98cffda_0
+nettle-3.8-hc379101_0
+nettle-3.8.1-hc379101_1
+nettle-3.9.1-h7ab15ed_0

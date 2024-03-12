@@ -1,0 +1,2 @@
+fontconfig-2.14.1-hbde0cde_0
+fontconfig-2.14.2-hbde0cde_0

@@ -1,0 +1,8 @@
+rust-1.51.0-hce1f27d_0
+rust-1.52.0-hce1f27d_0
+rust-1.53.0-hce1f27d_0
+rust-1.54.0-hce1f27d_0
+rust-1.55.0-hce1f27d_0
+rust-1.55.0-hce1f27d_1
+rust-1.55.0-hce1f27d_2
+rust-1.55.0-h9b2858f_3

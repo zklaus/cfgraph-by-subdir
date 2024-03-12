@@ -1,0 +1,4 @@
+rdkit-2021.03.5-py36h42cbf7c_0
+rdkit-2021.03.5-py37ha4ffcd7_0
+rdkit-2021.03.5-py39h584b56c_0
+rdkit-2021.03.5-py38hfa2736d_0

@@ -1,0 +1,5 @@
+assimp-4.1.0-hbe0fc1c_0
+assimp-4.1.0-hbe0fc1c_1
+assimp-4.1.0-h0536686_2
+assimp-5.0.1-h0536686_0
+assimp-5.0.1-h0536686_1

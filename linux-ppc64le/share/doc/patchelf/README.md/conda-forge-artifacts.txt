@@ -1,0 +1,14 @@
+patchelf-0.11-hb209c28_0
+patchelf-0.12-h3b9df90_0
+patchelf-0.12-hea85c5d_1
+patchelf-0.13-hea85c5d_0
+patchelf-0.14.1-hea85c5d_0
+patchelf-0.14.2-hea85c5d_0
+patchelf-0.14.3-hea85c5d_0
+patchelf-0.14.5-hea85c5d_0
+patchelf-0.15.0-hea85c5d_0
+patchelf-0.16.1-hea85c5d_0
+patchelf-0.17.0-hea85c5d_0
+patchelf-0.17.2-hea85c5d_0
+patchelf-0.18.0-h46f38da_0
+patchelf-0.18.0-h46f38da_1

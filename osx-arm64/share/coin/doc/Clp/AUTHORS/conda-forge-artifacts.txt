@@ -1,0 +1,11 @@
+coin-or-clp-1.17.6-h97646b0_1
+coincbc-2.10.5-hca96968_1
+coin-or-clp-1.17.6-h97646b0_2
+coin-or-clp-1.17.4-h97646b0_0
+coin-or-clp-1.17.4-h97646b0_1
+coin-or-clp-1.17.6-h97646b0_3
+coin-or-clp-1.17.6-h5f94771_3
+coin-or-clp-1.17.7-h5f94771_0
+coin-or-clp-1.17.7-h96423db_1
+coin-or-clp-1.17.7-h65c2c7c_2
+coin-or-clp-1.17.8-h65c2c7c_0

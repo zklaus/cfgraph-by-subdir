@@ -1,0 +1,9 @@
+r-tufte-0.4-r351h6115d3f_1000
+r-tufte-0.12-r40hc72bb7e_0
+r-tufte-0.12-r41hc72bb7e_0
+r-tufte-0.12-r42hc72bb7e_1
+r-tufte-0.12-r41hc72bb7e_1
+r-tufte-0.12-r42hc72bb7e_2
+r-tufte-0.12-r43hc72bb7e_2
+r-tufte-0.13-r43hc72bb7e_0
+r-tufte-0.13-r42hc72bb7e_0

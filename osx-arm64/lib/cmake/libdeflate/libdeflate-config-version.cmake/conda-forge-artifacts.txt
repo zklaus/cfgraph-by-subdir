@@ -1,0 +1,4 @@
+libdeflate-1.16-h1a8c8d9_0
+libdeflate-1.17-h1a8c8d9_0
+libdeflate-1.18-h1a8c8d9_0
+libdeflate-1.19-hb547adb_0

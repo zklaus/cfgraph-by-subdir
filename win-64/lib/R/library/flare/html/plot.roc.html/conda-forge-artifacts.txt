@@ -1,0 +1,12 @@
+r-flare-1.6.0-r351h6115d3f_0
+r-flare-1.6.0-r351h6115d3f_1000
+r-flare-1.6.0.1-r35hda5aaf8_0
+r-flare-1.6.0.1-r35hda5aaf8_1
+r-flare-1.6.0.1-r36hda5aaf8_1
+r-flare-1.6.0.2-r35hda5aaf8_0
+r-flare-1.6.0.2-r36hda5aaf8_0
+r-flare-1.6.0.2-r40hda5aaf8_1
+r-flare-1.6.0.2-r36hda5aaf8_1
+r-flare-1.7.0-r40h6d2157b_0
+r-flare-1.7.0-r36h6d2157b_0
+r-flare-1.7.0.1-r40h6d2157b_0

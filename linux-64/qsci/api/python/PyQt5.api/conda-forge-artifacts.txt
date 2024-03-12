@@ -1,0 +1,13 @@
+pyqtwebkit-5.15.7-py38hfa26641_1
+pyqtwebkit-5.15.7-py37hd23a5d3_1
+pyqtwebkit-5.15.7-py310hd8f1fbe_1
+pyqtwebkit-5.15.7-py39h5a03fae_1
+pyqtwebkit-5.15.7-py310h29803b5_2
+pyqtwebkit-5.15.7-py38h7492b6b_2
+pyqtwebkit-5.15.7-py37hf30b843_2
+pyqtwebkit-5.15.7-py39h18e9c17_2
+pyqtwebkit-5.15.7-py38h7492b6b_3
+pyqtwebkit-5.15.7-py39h18e9c17_3
+pyqtwebkit-5.15.7-py310h29803b5_3
+pyqtwebkit-5.15.7-py37hf30b843_3
+pyqtwebkit-5.15.7-py311h3408d8f_3

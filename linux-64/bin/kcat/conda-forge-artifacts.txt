@@ -1,0 +1,5 @@
+kafkacat-1.7.0-ha8f6f22_0
+kafkacat-1.7.0-hd799aa9_1
+kafkacat-1.7.1-hd799aa9_0
+kafkacat-1.7.1-h29342fe_1
+kafkacat-1.7.1-h560f12b_2

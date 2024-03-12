@@ -1,0 +1,3 @@
+galsim-2.2.6-py39hd55d796_0
+galsim-2.2.6-py38h3bbb814_0
+galsim-2.2.6-py37h542498e_0

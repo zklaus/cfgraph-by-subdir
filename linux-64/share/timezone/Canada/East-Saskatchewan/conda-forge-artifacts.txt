@@ -1,0 +1,12 @@
+postgresql-9.5.4-3
+postgresql-9.6.3-0
+postgresql-9.6.3-1
+postgresql-9.6.3-2
+postgresql-9.6.3-3
+postgresql-9.6.3-4
+postgresql-9.6.3-py27_5
+postgresql-9.6.3-py35_5
+postgresql-9.6.3-py36_5
+postgres-xl-9.5r1.6-0
+postgres-xl-9.5r1.6-hf2f33ae_2
+postgres-xl-9.5r1.6-hc161e2c_3

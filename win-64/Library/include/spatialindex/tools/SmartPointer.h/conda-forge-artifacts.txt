@@ -1,0 +1,14 @@
+libspatialindex-1.8.5-py27_0
+libspatialindex-1.8.5-vc10_1
+libspatialindex-1.8.5-vc14_1
+libspatialindex-1.8.5-vc9_1
+libspatialindex-1.8.5-h2880e7c_1
+libspatialindex-1.8.5-he025d50_1
+libspatialindex-1.8.5-h2880e7c_2
+libspatialindex-1.8.5-he025d50_2
+libspatialindex-1.8.5-h2880e7c_3
+libspatialindex-1.8.5-he025d50_3
+libspatialindex-1.8.5-h2880e7c_1003
+libspatialindex-1.8.5-he025d50_1003
+libspatialindex-1.8.5-h2880e7c_4
+libspatialindex-1.8.5-he025d50_4

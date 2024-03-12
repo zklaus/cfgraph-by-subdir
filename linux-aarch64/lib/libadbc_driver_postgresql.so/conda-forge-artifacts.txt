@@ -1,0 +1,11 @@
+libadbc-driver-postgresql-0.2.0-h22ebdef_0
+libadbc-driver-postgresql-0.3.0-h22ebdef_0
+libadbc-driver-postgresql-0.4.0-h31a2069_0
+libadbc-driver-postgresql-0.5.0-h31a2069_0
+libadbc-driver-postgresql-0.5.1-h31a2069_0
+libadbc-driver-postgresql-0.6.0-h31a2069_0
+libadbc-driver-postgresql-0.7.0-h31a2069_0
+libadbc-driver-postgresql-0.7.0-h870b471_1
+libadbc-driver-postgresql-0.7.0-h870b471_2
+libadbc-driver-postgresql-0.7.0-h870b471_3
+libadbc-driver-postgresql-0.8.0-h870b471_0

@@ -1,0 +1,7 @@
+r-asioheaders-1.12.1_1-r351h6115d3f_0
+r-asioheaders-1.12.1_1-r35h6115d3f_1
+r-asioheaders-1.12.1_1-r36h6115d3f_1
+r-asioheaders-1.12.2_1-r36h6115d3f_0
+r-asioheaders-1.12.2_1-r35h6115d3f_0
+r-asioheaders-1.12.2_1-r36h6115d3f_1
+r-asioheaders-1.12.2_1-r40h6115d3f_1

@@ -1,0 +1,8 @@
+gnuradio-core-3.9.7.0-py310hda18193_0
+gnuradio-core-3.9.7.0-py37h788c774_0
+gnuradio-core-3.9.7.0-py39h4ba9762_0
+gnuradio-core-3.9.7.0-py38h4a80bcb_0
+gnuradio-core-3.9.7.0-py310h39eb4b2_1
+gnuradio-core-3.9.7.0-py38hb38b861_1
+gnuradio-core-3.9.7.0-py37h1747848_1
+gnuradio-core-3.9.7.0-py39h29c3797_1

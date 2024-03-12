@@ -1,0 +1,7 @@
+rdkit-2018.03.4-py27ha4bbe77_0
+rdkit-2018.03.4-py35ha4bbe77_0
+rdkit-2018.03.4-py36ha4bbe77_0
+rdkit-2018.03.4-py37ha4bbe77_0
+rdkit-2018.03.4-py37h03f642c_1000
+rdkit-2018.03.4-py27h03f642c_1000
+rdkit-2018.03.4-py36h03f642c_1000

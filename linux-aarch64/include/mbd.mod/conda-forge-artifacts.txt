@@ -1,0 +1,13 @@
+libmbd-0.12.1-nompi_h2ace903_101
+libmbd-0.12.1-mpi_openmpi_hc35d2c3_1
+libmbd-0.12.1-mpi_mpich_h6f23df9_1
+libmbd-0.12.2-mpi_mpich_h6f23df9_0
+libmbd-0.12.2-mpi_openmpi_hc35d2c3_0
+libmbd-0.12.2-nompi_h2ace903_100
+libmbd-0.12.2-mpi_mpich_h6f23df9_1
+libmbd-0.12.2-nompi_h2ace903_101
+libmbd-0.12.2-mpi_openmpi_hc35d2c3_1
+libmbd-0.12.3-mpi_mpich_h6f23df9_0
+libmbd-0.12.3-mpi_openmpi_hc35d2c3_0
+qe-7.2-h4c94778_1
+qe-7.2-h4c94778_3

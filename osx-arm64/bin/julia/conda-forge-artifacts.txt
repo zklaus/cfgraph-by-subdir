@@ -1,0 +1,4 @@
+juliaup-1.11.15-h69fbcac_0
+juliaup-1.11.21-h69fbcac_0
+juliaup-1.11.22-h69fbcac_0
+juliaup-1.12.5-h5ef7bb8_0

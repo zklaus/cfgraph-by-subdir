@@ -1,0 +1,1 @@
+libopenvino-arm-cpu-plugin-2023.2.0-h965bd2d_0

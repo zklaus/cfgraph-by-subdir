@@ -1,0 +1,3 @@
+sysroot_linux-64-2.12-0
+sysroot_linux-64-2.12-h3a0023d_1
+sysroot_linux-64-2.12-conda_cos6_variant_hb99331e_9

@@ -1,0 +1,8 @@
+r-arrow-0.17.1-r40_2
+r-arrow-0.17.1-r36_2
+r-arrow-1.0.0-r36_1
+r-arrow-1.0.0-r40_1
+r-arrow-1.0.1-r40_0
+r-arrow-1.0.1-r36_0
+r-arrow-2.0.0-r40_0
+r-arrow-2.0.0-r36_0

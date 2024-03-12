@@ -1,0 +1,16 @@
+r-clinfun-1.1.0-r40h8da6f51_0
+r-clinfun-1.1.0-r41h8da6f51_0
+r-clinfun-1.1.0-r41h8da6f51_1
+r-clinfun-1.1.0-r42h8da6f51_1
+r-clinfun-1.1.1-r41hac0b197_0
+r-clinfun-1.1.1-r42hac0b197_0
+r-clinfun-1.1.1-r42h61816a4_1
+r-clinfun-1.1.1-r43h61816a4_1
+r-clinfun-1.1.2-r43h61816a4_0
+r-clinfun-1.1.2-r42h61816a4_0
+r-clinfun-1.1.3-r42h61816a4_0
+r-clinfun-1.1.3-r43h61816a4_0
+r-clinfun-1.1.4-r43h61816a4_0
+r-clinfun-1.1.4-r42h61816a4_0
+r-clinfun-1.1.5-r42h61816a4_0
+r-clinfun-1.1.5-r43h61816a4_0

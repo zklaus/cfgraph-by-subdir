@@ -1,0 +1,13 @@
+libuwebsockets-20.36.0-h3eb15da_0
+libuwebsockets-20.37.0-h3eb15da_0
+libuwebsockets-20.38.0-h3eb15da_0
+libuwebsockets-20.39.0-hfc55251_0
+libuwebsockets-20.40.0-hfc55251_0
+libuwebsockets-20.41.0-hfc55251_0
+libuwebsockets-20.42.0-hfc55251_0
+libuwebsockets-20.43.0-hfc55251_0
+libuwebsockets-20.44.0-hfc55251_0
+libuwebsockets-20.45.0-hfc55251_0
+libuwebsockets-20.46.0-hfc55251_0
+libuwebsockets-20.47.0-hfc55251_0
+libuwebsockets-20.48.0-hfc55251_0

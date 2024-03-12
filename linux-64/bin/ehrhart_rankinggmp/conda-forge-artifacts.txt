@@ -1,0 +1,11 @@
+barvinok-0.41.5-h6c2513c_0
+barvinok-0.41.5-h6c2513c_1
+barvinok-0.41.5-h6c2513c_2
+barvinok-0.41.5-h682d088_3
+polylib-5.22.5-h0ff8eb4_0
+barvinok-0.41.5-h682d088_4
+barvinok-0.41.6-h682d088_0
+barvinok-0.41.6-h682d088_1
+barvinok-0.41.6-hefa4c1d_2
+barvinok-0.41.7-hefa4c1d_0
+barvinok-0.41.7-h31849ad_1

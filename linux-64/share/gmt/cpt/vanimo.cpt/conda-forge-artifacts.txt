@@ -1,0 +1,13 @@
+gmt-6.2.0-h88440e8_0
+gmt-6.2.0-hceee263_1
+gmt-6.2.0-h7e416ca_2
+gmt-6.2.0-h7e416ca_3
+gmt-6.2.0-hcfc2acf_4
+gmt-6.3.0-hcfc2acf_0
+gmt-6.3.0-hcfc2acf_1
+gmt-6.3.0-haaaf7b6_1
+gmt-6.3.0-haaaf7b6_2
+gmt-6.3.0-h13dc416_3
+gmt-6.3.0-h793420d_4
+gmt-6.3.0-h9c93da3_5
+gmt-6.3.0-he424f55_6

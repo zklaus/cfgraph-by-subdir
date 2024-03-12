@@ -1,0 +1,6 @@
+rsconnect-jupyter-1.4.2-pyhd8ed1ab_0
+rsconnect-jupyter-1.4.5-pyhd8ed1ab_0
+rsconnect-jupyter-1.5.0-pyhd8ed1ab_0
+rsconnect-jupyter-1.6.0-pyhd8ed1ab_0
+rsconnect-jupyter-1.7.0-pyhd8ed1ab_0
+rsconnect-jupyter-1.8.0-pyhd8ed1ab_0

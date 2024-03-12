@@ -1,0 +1,15 @@
+ipopt-3.14.2-he30dbdd_0
+ipopt-3.14.3-he30dbdd_0
+ipopt-3.14.4-he30dbdd_0
+ipopt-3.14.5-h6ed53f1_0
+ipopt-3.14.6-h6ed53f1_0
+ipopt-3.14.7-h5b46ea5_0
+ipopt-3.14.7-h5b46ea5_1
+ipopt-3.14.8-h5b46ea5_0
+ipopt-3.14.9-h5b46ea5_0
+ipopt-3.14.9-h586de3e_1
+ipopt-3.14.10-h586de3e_0
+ipopt-3.14.11-h538b5c1_0
+ipopt-3.14.12-h538b5c1_0
+ipopt-3.14.12-h5680a98_1
+ipopt-3.14.13-h5680a98_0

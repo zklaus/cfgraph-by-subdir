@@ -1,0 +1,14 @@
+libusb-1.0.22-hc56fc5f_0
+libusb-1.0.22-h6538335_0
+libusb-1.0.23-hc56fc5f_0
+libusb-1.0.23-h6538335_0
+libusb-1.0.23-h6538335_1
+libusb-1.0.23-ha925a31_2
+libusb-1.0.23-ha925a31_3
+libusb-1.0.24-h0e60522_0
+libusb-1.0.24-h0e60522_1
+libusb-1.0.24-h0e60522_2
+libusb-1.0.24-h8ffe710_4
+libusb-1.0.24-h8ffe710_105
+libusb-1.0.25-h8ffe710_100
+libusb-1.0.26-h8ffe710_100

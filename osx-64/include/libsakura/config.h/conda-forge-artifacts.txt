@@ -1,0 +1,3 @@
+libsakura-3.0.0-0
+libsakura-3.0.0-h7d4d677_0
+libsakura-3.0.0-h2098e52_1000

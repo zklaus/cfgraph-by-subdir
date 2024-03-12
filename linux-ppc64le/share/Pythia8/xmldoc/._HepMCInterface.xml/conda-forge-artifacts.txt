@@ -1,0 +1,9 @@
+pythia8-8.240-py27hb209c28_2
+pythia8-8.240-py37hb209c28_2
+pythia8-8.240-py36hb209c28_2
+pythia8-8.240-py36hb209c28_3
+pythia8-8.240-py37hb209c28_3
+pythia8-8.240-py38hb209c28_3
+pythia8-8.240-py36hb209c28_4
+pythia8-8.240-py37hb209c28_4
+pythia8-8.240-py38hb209c28_4

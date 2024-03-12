@@ -1,0 +1,3 @@
+freetype-2.12.1-hbbbf32d_0
+freetype-2.12.1-hbbbf32d_1
+freetype-2.12.1-hf0a5ef3_2

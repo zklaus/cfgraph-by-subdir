@@ -1,0 +1,14 @@
+sdl2_ttf-2.0.14-vc10_0
+sdl2_ttf-2.0.14-vc14_0
+sdl2_ttf-2.0.14-vc9_0
+sdl2_ttf-2.0.14-h08abf24_1
+sdl2_ttf-2.0.14-h8909db8_1
+sdl2_ttf-2.0.15-h4636d2b_0
+sdl2_ttf-2.0.15-hdbef25a_0
+sdl2_ttf-2.0.15-h751664e_2
+sdl2_ttf-2.0.18-h751664e_0
+sdl2_ttf-2.20.1-h751664e_0
+sdl2_ttf-2.20.1-h41be9cf_1
+sdl2_ttf-2.20.2-h41be9cf_0
+sdl2_ttf-2.20.2-h29dc827_1
+sdl2_ttf-2.20.2-hd5f56a6_2

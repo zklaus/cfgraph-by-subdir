@@ -1,0 +1,16 @@
+giza-0.9.4-0
+giza-0.9.4-1
+giza-0.9.5-0
+giza-0.9.5-hcc246a6_0
+giza-0.9.5-hbebe035_1000
+giza-0.9.5-hdfdc43f_1001
+giza-0.9.5-heeab532_1001
+pgplot-5.2.2-h971d54c_1005
+pgplot-5.2.2-h971d54c_1006
+pgplot-5.2.2-ha010686_1007
+pgplot-5.2.2-hbb49c18_1007
+giza-1.1.0-h7ffc773_0
+giza-1.1.0-h2908886_0
+pgplot-5.2.2-h7ade4bd_1008
+pgplot-5.2.2-h375df2d_1008
+pgplot-5.2.2-h36c7cbc_1008

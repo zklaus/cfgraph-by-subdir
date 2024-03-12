@@ -1,0 +1,2 @@
+freetype-2.10.0-h4d385ea_2
+freetype-2.10.1-h4d385ea_0

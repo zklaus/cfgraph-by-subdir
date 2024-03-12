@@ -1,0 +1,8 @@
+aws-session-manager-plugin-1.2.312.0-hd02998f_1
+aws-session-manager-plugin-1.2.323.0-hd02998f_0
+aws-session-manager-plugin-1.2.331.0-hd02998f_0
+aws-session-manager-plugin-1.2.339.0-hd02998f_0
+aws-session-manager-plugin-1.2.398.0-hd02998f_0
+aws-session-manager-plugin-1.2.463.0-hd02998f_0
+aws-session-manager-plugin-1.2.463.0-hd02998f_1
+aws-session-manager-plugin-1.2.497.0-hd02998f_0

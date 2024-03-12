@@ -1,0 +1,5 @@
+ninja-1.10.1-h917a88b_2
+ninja-1.10.2-h4d860bb_0
+ninja-1.10.2-hc021e02_1
+ninja-1.11.0-hf86a087_0
+ninja-1.11.1-hffc8910_0

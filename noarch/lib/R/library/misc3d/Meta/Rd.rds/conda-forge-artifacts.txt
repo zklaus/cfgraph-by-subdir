@@ -1,0 +1,15 @@
+r-misc3d-0.8_4-r351_2001
+r-misc3d-0.8_4-r36_2002
+r-misc3d-0.8_4-r35_2002
+r-misc3d-0.8_4-r40_2003
+r-misc3d-0.8_4-r36_2003
+r-misc3d-0.9_0-r40_0
+r-misc3d-0.9_0-r36_0
+r-misc3d-0.9_0-r41ha770c72_0
+r-misc3d-0.9_0-r40ha770c72_0
+r-misc3d-0.9_1-r40ha770c72_0
+r-misc3d-0.9_1-r41ha770c72_0
+r-misc3d-0.9_1-r41ha770c72_1
+r-misc3d-0.9_1-r42ha770c72_1
+r-misc3d-0.9_1-r43hc72bb7e_2
+r-misc3d-0.9_1-r42hc72bb7e_2

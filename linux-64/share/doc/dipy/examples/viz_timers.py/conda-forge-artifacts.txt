@@ -1,0 +1,6 @@
+dipy-0.15.0-py27h7eb728f_0
+dipy-0.15.0-py36h7eb728f_0
+dipy-0.15.0-py35h7eb728f_0
+dipy-0.16.0-py37h3010b51_0
+dipy-0.16.0-py27h4df700f_0
+dipy-0.16.0-py36h3010b51_0

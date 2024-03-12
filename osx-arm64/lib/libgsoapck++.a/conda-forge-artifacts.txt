@@ -1,0 +1,2 @@
+gsoap-2.8.109-h3cb27db_0
+gsoap-2.8.110-h3cb27db_0

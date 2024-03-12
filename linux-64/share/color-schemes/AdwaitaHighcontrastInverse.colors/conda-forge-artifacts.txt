@@ -1,0 +1,6 @@
+qgnomeplatform-0.9.1-hd5947ba_0
+qgnomeplatform6-0.9.1-hd5947ba_0
+qgnomeplatform-0.9.1-h707077e_1
+qgnomeplatform-0.9.1-h707077e_2
+qgnomeplatform-0.9.2-h8b7e3d8_0
+qgnomeplatform-0.9.2-h8b7e3d8_1

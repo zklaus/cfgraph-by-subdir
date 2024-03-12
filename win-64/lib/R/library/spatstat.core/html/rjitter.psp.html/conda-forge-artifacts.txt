@@ -1,0 +1,2 @@
+r-spatstat.core-2.3_1-r40ha856d6a_0
+r-spatstat.core-2.3_2-r40ha856d6a_0

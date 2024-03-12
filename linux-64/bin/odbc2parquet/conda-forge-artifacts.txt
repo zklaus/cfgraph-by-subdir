@@ -1,0 +1,9 @@
+odbc2parquet-2.0.2-he8a937b_0
+odbc2parquet-2.0.3-he8a937b_0
+odbc2parquet-2.0.4-he8a937b_0
+odbc2parquet-3.0.0-he8a937b_0
+odbc2parquet-3.0.1-he8a937b_0
+odbc2parquet-3.1.0-he8a937b_0
+odbc2parquet-3.1.1-he8a937b_0
+odbc2parquet-3.1.2-he8a937b_0
+odbc2parquet-4.0.0-he8a937b_0

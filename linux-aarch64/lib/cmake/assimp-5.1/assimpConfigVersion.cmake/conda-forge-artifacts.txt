@@ -1,0 +1,6 @@
+assimp-5.1.0-h66e8f5a_0
+assimp-5.1.0-h66e8f5a_1
+assimp-5.1.3-h66e8f5a_1
+assimp-5.1.4-h66e8f5a_0
+assimp-5.1.5-h66e8f5a_0
+assimp-5.1.6-h66e8f5a_0

@@ -1,0 +1,9 @@
+r-rjags-4_6-r3.3.2_0
+r-rjags-4_6-r3.4.1_0
+r-rjags-4_6-r341hfc679d8_1
+r-rjags-4_6-r341h9d2a408_2
+r-rjags-4_6-r351h9d2a408_2
+r-rjags-4_6-r351h466af19_1002
+r-rjags-4_6-r35hf99fc2c_1003
+r-rjags-4_9-r35hf99fc2c_0
+r-rjags-4_10-r35hc5da6b9_0

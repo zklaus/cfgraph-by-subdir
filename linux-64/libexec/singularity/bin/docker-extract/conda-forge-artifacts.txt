@@ -1,0 +1,5 @@
+singularity-2.5.0-h470a237_0
+singularity-2.5.1-h470a237_0
+singularity-2.5.2-h470a237_0
+singularity-2.6.0-h470a237_0
+singularity-2.6.0-h14c3975_1000

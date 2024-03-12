@@ -1,0 +1,13 @@
+pyne-0.5.10-py27_blas_openblas_0
+pyne-0.5.10-py35_blas_openblas_0
+pyne-0.5.10-py36_blas_openblas_0
+pyne-0.5.11-py27_blas_openblas_0
+pyne-0.5.11-py35_blas_openblas_0
+pyne-0.5.11-py36_blas_openblas_0
+pyne-0.7.0-nomoab_noopenmc_py36h99facba_1
+pyne-0.7.0-moab_noopenmc_py36hb689430_1
+pyne-0.7.0-moab_noopenmc_py37hadec719_1
+pyne-0.7.0-nomoab_noopenmc_py37h351adfa_1
+pyne-0.7.0-moab_openmc_py36hf64dfe8_1
+pyne-0.7.0-moab_openmc_py37h88a89af_1
+pyne-0.7.0-nomoab_openmc_py37hd9dd9f1_1

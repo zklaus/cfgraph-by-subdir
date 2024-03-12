@@ -1,0 +1,12 @@
+aws-sdk-cpp-1.7.143-h1f8afcc_0
+aws-sdk-cpp-1.7.143-h1f8afcc_2
+aws-sdk-cpp-1.7.145-h1f8afcc_0
+aws-sdk-cpp-1.7.149-h1f8afcc_0
+aws-sdk-cpp-1.7.154-h1f8afcc_0
+aws-sdk-cpp-1.7.159-h1f8afcc_0
+aws-sdk-cpp-1.7.160-h1f8afcc_0
+aws-sdk-cpp-1.7.160-h1f8afcc_1
+aws-sdk-cpp-1.7.164-h1f8afcc_0
+aws-sdk-cpp-1.7.164-hc831370_0
+aws-sdk-cpp-1.7.164-hc831370_1
+aws-sdk-cpp-1.7.164-hba45d7a_2

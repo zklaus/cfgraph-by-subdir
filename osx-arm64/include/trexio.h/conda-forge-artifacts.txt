@@ -1,0 +1,2 @@
+trexio-2.4.2-mpi_openmpi_he8577bb_0
+trexio-2.4.2-nompi_h66ad42d_100

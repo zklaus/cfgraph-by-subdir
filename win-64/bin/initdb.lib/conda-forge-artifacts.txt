@@ -1,0 +1,5 @@
+omniscidb-5.10.2-h1234567_2_cpu
+omniscidb-5.10.2-h1234567_3_cpu
+omniscidb-5.10.2-h1234567_4_cpu
+omniscidb-5.10.2-h1234567_5_cpu
+omniscidb-5.10.2-h1234567_6_cpu

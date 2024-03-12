@@ -1,0 +1,14 @@
+ipyparallel-7.0.1-pyhd8ed1ab_0
+ipyparallel-7.1.0-pyhd8ed1ab_0
+ipyparallel-8.0.0-pyhd8ed1ab_0
+ipyparallel-8.0.0-pyhd8ed1ab_1
+ipyparallel-8.1.0-pyhd8ed1ab_0
+ipyparallel-8.2.0-pyhd8ed1ab_0
+ipyparallel-8.2.1-pyhd8ed1ab_0
+ipyparallel-8.3.0-pyhd8ed1ab_0
+ipyparallel-8.4.0-pyhd8ed1ab_0
+ipyparallel-8.4.1-pyhd8ed1ab_0
+ipyparallel-8.5.0-pyhd8ed1ab_0
+ipyparallel-8.5.1-pyhd8ed1ab_0
+ipyparallel-8.6.0-pyhd8ed1ab_0
+ipyparallel-8.6.1-pyhd8ed1ab_0

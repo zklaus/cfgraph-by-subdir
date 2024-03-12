@@ -1,0 +1,3 @@
+ipopt-3.13.0-hc6cf775_0
+ipopt-3.13.0-hc6cf775_1
+ipopt-3.13.1-hc6cf775_0

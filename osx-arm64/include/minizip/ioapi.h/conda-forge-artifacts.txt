@@ -1,0 +1,12 @@
+libkml-1.3.0-h28e2201_1012
+libkml-1.3.0-h0e10842_1013
+libkml-1.3.0-h893ab4d_1014
+libkml-1.3.0-h41464e4_1015
+libkml-1.3.0-h4f02115_1016
+minizip-1.2-ha614eb4_0
+minizip-1.2-ha614eb4_1
+libkml-1.3.0-h1eb4d9f_1017
+libkml-1.3.0-h1eb4d9f_1018
+minizip-1.2-ha614eb4_2
+minizip-4.0.2-hd5cad61_0
+minizip-4.0.3-hd5cad61_0

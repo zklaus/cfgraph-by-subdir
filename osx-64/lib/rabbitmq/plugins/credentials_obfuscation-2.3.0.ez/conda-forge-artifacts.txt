@@ -1,0 +1,2 @@
+rabbitmq-server-3.8.11-h694c41f_0
+rabbitmq-server-3.8.12-h694c41f_0

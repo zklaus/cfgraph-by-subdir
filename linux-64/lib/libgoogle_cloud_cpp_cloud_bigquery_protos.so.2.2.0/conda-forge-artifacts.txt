@@ -1,0 +1,6 @@
+libgoogle-cloud-2.2.0-h838d150_0
+libgoogle-cloud-2.2.0-hd6f79ff_0
+libgoogle-cloud-2.2.0-hd6f79ff_1
+libgoogle-cloud-2.2.0-h838d150_1
+libgoogle-cloud-2.2.0-h5544587_1
+libgoogle-cloud-2.2.0-hd012917_1

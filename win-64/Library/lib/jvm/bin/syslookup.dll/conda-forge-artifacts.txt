@@ -1,0 +1,8 @@
+openjdk-20.0.0-h57928b3_0
+openjdk-20.0.0-h57928b3_1
+openjdk-20.0.0-h57928b3_2
+openjdk-20.0.2-h57928b3_0
+openjdk-20.0.2-h57928b3_1
+openjdk-20.0.2-h57928b3_2
+openjdk-21.0.0-h57928b3_0
+openjdk-21.0.1-h57928b3_0

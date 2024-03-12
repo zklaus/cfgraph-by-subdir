@@ -1,0 +1,13 @@
+r-magrittr-2.0.1-r36h9e2df91_1
+r-magrittr-2.0.1-r40h9e2df91_1
+r-magrittr-2.0.1-r36hcfec24a_1
+r-magrittr-2.0.1-r40hcfec24a_1
+r-magrittr-2.0.1-r41hcfec24a_1
+r-magrittr-2.0.2-r41hcfec24a_0
+r-magrittr-2.0.2-r40hcfec24a_0
+r-magrittr-2.0.3-r40h06615bd_0
+r-magrittr-2.0.3-r41h06615bd_0
+r-magrittr-2.0.3-r42h06615bd_1
+r-magrittr-2.0.3-r41h06615bd_1
+r-magrittr-2.0.3-r42h57805ef_2
+r-magrittr-2.0.3-r43h57805ef_2

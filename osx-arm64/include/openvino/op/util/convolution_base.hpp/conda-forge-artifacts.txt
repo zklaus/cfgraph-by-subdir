@@ -1,0 +1,10 @@
+openvino-2023.0.0-py310h3e4f58f_0
+openvino-2023.0.0-h7fe7c4a_1
+openvino-2023.0.1-h7fe7c4a_1
+openvino-2023.0.1-h7fe7c4a_2
+openvino-2023.0.1-h7fe7c4a_3
+openvino-2023.0.2-h7fe7c4a_0
+libopenvino-dev-2023.1.0-hf85358f_0
+libopenvino-dev-2023.1.0-h3605181_1
+libopenvino-dev-2023.1.0-h3605181_2
+libopenvino-dev-2023.2.0-h3605181_0

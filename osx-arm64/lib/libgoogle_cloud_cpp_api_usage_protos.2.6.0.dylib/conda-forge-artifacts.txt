@@ -1,0 +1,2 @@
+libgoogle-cloud-2.6.0-hcf11473_0
+libgoogle-cloud-2.6.0-h7c6a1a0_0

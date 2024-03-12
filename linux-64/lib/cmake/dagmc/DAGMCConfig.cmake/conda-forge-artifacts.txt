@@ -1,0 +1,12 @@
+dagmc-3.2.2-mpi_openmpi_py39ha06272d_0
+dagmc-3.2.2-mpi_mpich_py39h3d8636e_0
+dagmc-3.2.2-nompi_py39h14f0ccc_100
+dagmc-3.2.2-mpi_openmpi_py310ha06272d_0
+dagmc-3.2.2-nompi_py310h14f0ccc_100
+dagmc-3.2.2-mpi_mpich_py310h3d8636e_0
+dagmc-3.2.2-nompi_py310h8cece01_101
+dagmc-3.2.2-mpi_openmpi_py310h48176b5_1
+dagmc-3.2.2-mpi_mpich_py310hc89fbf8_1
+dagmc-3.2.2-mpi_mpich_py310hc89fbf8_2
+dagmc-3.2.2-nompi_py310h8cece01_102
+dagmc-3.2.2-mpi_openmpi_py310h48176b5_2

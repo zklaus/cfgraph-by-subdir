@@ -1,0 +1,14 @@
+libgpg-error-1.27-1
+libgpg-error-1.29-0
+libgpg-error-1.30-0
+libgpg-error-1.31-h0a44026_0
+libgpg-error-1.32-hfc679d8_0
+libgpg-error-1.32-h0a44026_1000
+libgpg-error-1.36-h6de7cb9_0
+libgpg-error-1.39-hb1e8313_0
+libgpg-error-1.41-h046ec9c_0
+libgpg-error-1.42-he49afe7_0
+libgpg-error-1.44-h57e8f2d_0
+libgpg-error-1.45-h8d84a1d_0
+libgpg-error-1.46-hc1a6a1b_0
+libgpg-error-1.47-h9335cf4_0

@@ -1,0 +1,9 @@
+visp-3.5.0-h3775912_1
+visp-3.5.0-h16ea58c_1
+visp-3.5.0-hca0d90e_2
+visp-3.5.0-hca0d90e_3
+visp-3.5.0-h52c959d_4
+visp-3.5.0-h52c959d_5
+visp-3.6.0-h79e405c_0
+visp-3.6.0-h41a0237_1
+visp-3.6.0-h41a0237_2

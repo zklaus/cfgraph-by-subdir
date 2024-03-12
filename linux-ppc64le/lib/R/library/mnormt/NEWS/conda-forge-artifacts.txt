@@ -1,0 +1,15 @@
+r-mnormt-1.5_6-r36h2c7be84_0
+r-mnormt-1.5_7-r36h2c7be84_0
+r-mnormt-1.5_7-r40h2c7be84_1
+r-mnormt-1.5_7-r36h2c7be84_1
+r-mnormt-1.5_7-r40h534c42c_2
+r-mnormt-1.5_7-r40hb106373_2
+r-mnormt-1.5_7-r36hb106373_2
+r-mnormt-1.5_7-r36h534c42c_2
+r-mnormt-2.0.2-r40ha9c7abe_0
+r-mnormt-2.0.2-r36ha9c7abe_0
+r-mnormt-2.0.2-r41ha9c7abe_0
+r-mnormt-2.1.0-r41h169bc6f_0
+r-mnormt-2.1.0-r40h169bc6f_0
+r-mnormt-2.1.0-r42h169bc6f_1
+r-mnormt-2.1.0-r41h169bc6f_1

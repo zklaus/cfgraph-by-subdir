@@ -1,0 +1,11 @@
+pathy-0.3.4-py37h03978a9_0
+pathy-0.3.4-py38haa244fe_0
+pathy-0.3.4-py36ha15d459_0
+pathy-0.3.4-py36ha15d459_1
+pathy-0.3.4-py38haa244fe_1
+pathy-0.3.4-py39hcbf5309_1
+pathy-0.3.4-py37h03978a9_1
+pathy-0.3.4-py36ha15d459_2
+pathy-0.3.4-py39hcbf5309_2
+pathy-0.3.4-py37h03978a9_2
+pathy-0.3.4-py38haa244fe_2

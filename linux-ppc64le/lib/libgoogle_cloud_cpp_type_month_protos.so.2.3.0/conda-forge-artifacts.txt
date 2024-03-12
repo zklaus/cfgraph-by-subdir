@@ -1,0 +1,6 @@
+libgoogle-cloud-2.3.0-h1f05bb6_0
+libgoogle-cloud-2.3.0-hc233b02_0
+libgoogle-cloud-2.3.0-ha8a1e2d_0
+libgoogle-cloud-2.3.0-h3ec74c2_0
+libgoogle-cloud-2.3.0-h60beb80_1
+libgoogle-cloud-2.3.0-hde79dcc_1

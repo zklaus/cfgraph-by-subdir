@@ -1,0 +1,6 @@
+r-sgeostat-1.0_27-r3.3.2_0
+r-sgeostat-1.0_27-r3.4.1_0
+r-sgeostat-1.0_27-r341h8933c1f_1
+r-sgeostat-1.0_27-r351h8933c1f_2
+r-sgeostat-1.0_27-r341h8933c1f_2
+r-sgeostat-1.0_27-r351h8933c1f_1002

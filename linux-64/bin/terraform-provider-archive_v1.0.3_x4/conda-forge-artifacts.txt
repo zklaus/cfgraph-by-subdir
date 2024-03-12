@@ -1,0 +1,2 @@
+terraform-provider-archive-1.0.3-0
+terraform-provider-archive-1.0.3-1000

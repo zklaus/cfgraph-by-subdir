@@ -1,0 +1,7 @@
+pdspy-2.0.5-py38h1a1499a_0
+pdspy-2.0.5-py310h3254323_0
+pdspy-2.0.5-py39hcfb25b2_0
+pdspy-2.0.5-py37h7bf8d0b_0
+pdspy-2.0.6-py310hbb510c8_0
+pdspy-2.0.6-py39h448d452_0
+pdspy-2.0.6-py38h858afbb_0

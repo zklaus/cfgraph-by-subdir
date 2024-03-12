@@ -1,0 +1,2 @@
+xorg-libxres-1.2.1-h166bdaf_0
+xorg-libxres-1.2.2-h0b41bf4_0

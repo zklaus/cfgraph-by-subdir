@@ -1,0 +1,14 @@
+google-cloud-cpp-2.9.1-he22f4c0_0
+google-cloud-cpp-2.10.0-he22f4c0_0
+google-cloud-cpp-2.10.1-he22f4c0_0
+google-cloud-cpp-2.10.1-he22f4c0_1
+google-cloud-cpp-2.11.0-he22f4c0_0
+google-cloud-cpp-2.11.0-he22f4c0_1
+google-cloud-cpp-2.11.0-h5263b79_1
+google-cloud-cpp-2.12.0-he22f4c0_0
+google-cloud-cpp-2.12.0-h5263b79_0
+google-cloud-cpp-2.12.0-he22f4c0_1
+google-cloud-cpp-2.12.0-h05652e3_1
+google-cloud-cpp-2.12.0-hde42cda_2
+google-cloud-cpp-2.12.0-h5a37b55_3
+google-cloud-cpp-2.12.0-hfb399a7_4

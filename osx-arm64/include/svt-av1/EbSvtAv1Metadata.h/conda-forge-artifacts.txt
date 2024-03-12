@@ -1,0 +1,15 @@
+svt-av1-0.8.7-hc470f4d_0
+svt-av1-0.8.7-hc470f4d_1
+svt-av1-0.9.0-hc470f4d_0
+svt-av1-0.9.0-h07bb92c_1
+svt-av1-0.9.1-h07bb92c_0
+svt-av1-1.1.0-hbe31e94_0
+svt-av1-1.1.0-hbe31e94_1
+svt-av1-1.2.0-he23bcac_0
+svt-av1-1.2.1-he23bcac_0
+svt-av1-1.3.0-h7ea286d_0
+svt-av1-1.4.0-h7ea286d_0
+svt-av1-1.4.1-h7ea286d_0
+svt-av1-1.5.0-hb765f3a_0
+svt-av1-1.6.0-hb765f3a_0
+svt-av1-1.7.0-hb765f3a_0

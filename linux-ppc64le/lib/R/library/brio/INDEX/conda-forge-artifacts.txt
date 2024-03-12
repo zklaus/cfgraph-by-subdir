@@ -1,0 +1,12 @@
+r-brio-1.1.0-r36h87346cd_1
+r-brio-1.1.0-r40h87346cd_1
+r-brio-1.1.1-r40h2be38b1_0
+r-brio-1.1.2-r36h2be38b1_0
+r-brio-1.1.2-r40h2be38b1_0
+r-brio-1.1.2-r41h2be38b1_0
+r-brio-1.1.3-r41h2be38b1_0
+r-brio-1.1.3-r40h2be38b1_0
+r-brio-1.1.3-r41hfb29466_1
+r-brio-1.1.3-r42hfb29466_1
+r-brio-1.1.3-r42h94388fc_2
+r-brio-1.1.3-r43h94388fc_2

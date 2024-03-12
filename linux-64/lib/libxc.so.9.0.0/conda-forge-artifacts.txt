@@ -1,0 +1,6 @@
+libxc-5.0.0-h6e990d7_0
+libxc-5.0.0-h6e990d7_1
+libxc-5.0.0-h6e990d7_2
+libxc-5.0.0-h86c2bf4_2
+libxc-5.0.0-h893e4fe_2
+libxc-5.0.0-h92ddd45_2

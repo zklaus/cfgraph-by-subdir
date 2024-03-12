@@ -1,0 +1,5 @@
+dotnet-desktop-5.0.0-h57928b3_0
+dotnet-desktop-5.0.0-h57928b3_1
+dotnet-desktop-5.0.0-h57928b3_2
+dotnet-desktop-5.0.0-h57928b3_3
+dotnet-desktop-5.0.0-h57928b3_4

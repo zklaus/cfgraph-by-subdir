@@ -1,0 +1,6 @@
+r-rcpparmadillo-0.12.6.1.0-r43h08d816e_0
+r-rcpparmadillo-0.12.6.1.0-r42h08d816e_0
+r-rcpparmadillo-0.12.6.3.0-r42h08d816e_0
+r-rcpparmadillo-0.12.6.3.0-r43h08d816e_0
+r-rcpparmadillo-0.12.6.4.0-r42h08d816e_0
+r-rcpparmadillo-0.12.6.4.0-r43h08d816e_0

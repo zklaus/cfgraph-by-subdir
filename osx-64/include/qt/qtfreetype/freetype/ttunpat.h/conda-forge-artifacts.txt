@@ -1,0 +1,6 @@
+qt-main-5.15.3-h938c29d_0
+qt-main-5.15.3-h938c29d_1
+qt-main-5.15.3-h938c29d_2
+qt-main-5.15.4-h938c29d_0
+qt-main-5.15.4-h938c29d_1
+qt-main-5.15.4-h938c29d_2

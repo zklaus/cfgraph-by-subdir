@@ -1,0 +1,4 @@
+scip-8.0.1-h7158e95_0
+scip-8.0.1-hc348fcc_1
+scip-8.0.1-hb8cc2fd_2
+scip-8.0.1-hb8cc2fd_3

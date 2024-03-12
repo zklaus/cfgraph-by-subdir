@@ -1,0 +1,12 @@
+pyxtensor-0.3.1-py39h4d2d688_0
+pyxtensor-0.3.1-py38h1670459_0
+pyxtensor-0.3.1-py39h4d2d688_1
+pyxtensor-0.3.1-py38h1670459_1
+pyxtensor-0.3.1-py310hd99b56e_1
+pyxtensor-0.3.1-py39h2c803a9_2
+pyxtensor-0.3.1-py38h0f71543_2
+pyxtensor-0.3.1-py310hea002bf_2
+pyxtensor-0.3.1-py310h2887b22_3
+pyxtensor-0.3.1-py311hd6ee22a_3
+pyxtensor-0.3.1-py38h9dc3d6a_3
+pyxtensor-0.3.1-py39haaf3ac1_3

@@ -1,0 +1,4 @@
+libleidenalg-0.10.0-h1c7c39f_0
+libleidenalg-0.11.0-h1c7c39f_0
+libleidenalg-0.11.0-h1c7c39f_1
+libleidenalg-0.11.1-h1c7c39f_0

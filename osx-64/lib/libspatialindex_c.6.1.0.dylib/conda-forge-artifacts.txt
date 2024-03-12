@@ -1,0 +1,1 @@
+libspatialindex-1.9.2-h4a8c4bd_0

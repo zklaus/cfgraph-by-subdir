@@ -1,0 +1,2 @@
+stackvana-lsst_distrib-0.2021.7-py38h9281a5e_0
+stackvana-afw-0.2021.8-py38hadd0cf4_0

@@ -1,0 +1,3 @@
+terraform-provider-mailgun-0.1.0-0
+terraform-provider-mailgun-0.1.0-1
+terraform-provider-mailgun-0.1.0-1001

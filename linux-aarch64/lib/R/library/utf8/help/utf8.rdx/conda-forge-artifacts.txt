@@ -1,0 +1,16 @@
+r-utf8-1.1.4-r36hcdcec82_1002
+r-utf8-1.1.4-r40hcdcec82_1003
+r-utf8-1.1.4-r36hcdcec82_1003
+r-utf8-1.2.1-r36h96a179c_0
+r-utf8-1.2.1-r40h96a179c_0
+r-utf8-1.2.1-r41h96a179c_0
+r-utf8-1.2.2-r40h96a179c_0
+r-utf8-1.2.2-r41h96a179c_0
+r-utf8-1.2.2-r42h8e445f0_1
+r-utf8-1.2.2-r41h8e445f0_1
+r-utf8-1.2.3-r42h4fed366_0
+r-utf8-1.2.3-r41h4fed366_0
+r-utf8-1.2.3-r43h25e906a_1
+r-utf8-1.2.3-r42h25e906a_1
+r-utf8-1.2.4-r42h25e906a_0
+r-utf8-1.2.4-r43h25e906a_0

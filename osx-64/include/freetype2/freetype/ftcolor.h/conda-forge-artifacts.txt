@@ -1,0 +1,13 @@
+freetype-2.10.0-h24853df_0
+freetype-2.10.0-h24853df_1
+freetype-2.10.0-h8da9a1a_2
+freetype-2.10.1-h8da9a1a_0
+freetype-2.10.2-h8da9a1a_0
+freetype-2.10.3-ha233b18_0
+freetype-2.10.4-ha233b18_0
+freetype-2.10.4-h3f75d11_0
+freetype-2.10.4-h4cff582_1
+freetype-2.10.4-h3f81eb7_2
+freetype-2.12.1-h3f81eb7_0
+freetype-2.12.1-h3f81eb7_1
+freetype-2.12.1-h60636b9_2

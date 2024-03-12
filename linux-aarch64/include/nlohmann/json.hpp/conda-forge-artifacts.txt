@@ -1,0 +1,12 @@
+nlohmann_json-3.7.3-he1b5a44_1
+nlohmann_json-3.8.0-he1b5a44_0
+nlohmann_json-3.9.0-he1b5a44_0
+nlohmann_json-3.9.1-he1b5a44_0
+nlohmann_json-3.9.1-h01db608_1
+nlohmann_json-3.10.1-h01db608_0
+nlohmann_json-3.10.2-h01db608_0
+nlohmann_json-3.10.3-h01db608_0
+nlohmann_json-3.10.5-h01db608_0
+nlohmann_json-3.10.5-h4de3ea5_1
+nlohmann_json-3.11.1-h4de3ea5_0
+nlohmann_json-3.11.2-h4de3ea5_0

@@ -1,0 +1,9 @@
+fortran-compiler-1.0.4-h5fd1ba7_0
+fortran-compiler-1.1.0-h5fd1ba7_0
+fortran-compiler-1.1.1-h5fd1ba7_0
+fortran-compiler-1.1.1-hbb7d975_1
+fortran-compiler-1.1.1-h5fd1ba7_1
+fortran-compiler-1.1.2-hf65302f_0
+fortran-compiler-1.1.2-h4d50961_0
+fortran-compiler-1.1.3-hf65302f_0
+fortran-compiler-1.2.0-hf65302f_0

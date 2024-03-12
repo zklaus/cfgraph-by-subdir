@@ -1,0 +1,17 @@
+libitk-4.13.0-vc14_0
+libitk-4.13.0-hbb0e5dd_1000
+libitk-4.13.0-habb07a7_1000
+libitk-4.13.0-hbb0e5dd_1001
+libitk-4.13.0-habb07a7_1001
+libitk-4.13.2-hbb0e5dd_0
+libitk-4.13.2-habb07a7_0
+libitk-4.13.2-h1903a50_1
+libitk-4.13.2-h308b517_1
+libitk-4.13.2-h8851bf5_2
+libitk-4.13.2-h0e7070d_2
+libitk-4.13.2-hb5fd50e_3
+libitk-4.13.2-h11d061a_3
+libitk-4.13.2-hb5fd50e_5
+libitk-4.13.2-h11d061a_5
+libitk-4.13.2-hb5fd50e_6
+libitk-4.13.2-h11d061a_6

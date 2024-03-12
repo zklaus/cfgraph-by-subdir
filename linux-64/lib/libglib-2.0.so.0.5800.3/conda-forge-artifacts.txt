@@ -1,0 +1,16 @@
+glib-2.58.3-hf63aee3_1001
+glib-2.58.3-h6f030ca_1001
+glib-2.58.3-h6f030ca_1002
+glib-2.58.3-py27h6f030ca_1002
+glib-2.58.3-py37h6f030ca_1002
+glib-2.58.3-py36h6f030ca_1002
+glib-2.58.3-py38h6f030ca_1002
+glib-2.58.3-py37he00f558_1003
+glib-2.58.3-py36h9717c5f_1003
+glib-2.58.3-py27he9b9f4b_1003
+glib-2.58.3-py38h73cb85d_1003
+glib-2.58.3-py36hd3ed26a_1003
+glib-2.58.3-py38h73cb85d_1004
+glib-2.58.3-py36h9717c5f_1004
+glib-2.58.3-py37he00f558_1004
+glib-2.58.3-py36hd3ed26a_1004

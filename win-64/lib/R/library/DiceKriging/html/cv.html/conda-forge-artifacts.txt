@@ -1,0 +1,4 @@
+r-dicekriging-1.6.0-r40hcd874cb_0
+r-dicekriging-1.6.0-r36hcd874cb_0
+r-dicekriging-1.6.0-r36h6d2157b_0
+r-dicekriging-1.6.0-r40h6d2157b_0

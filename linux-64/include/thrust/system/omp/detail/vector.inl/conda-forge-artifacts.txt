@@ -1,0 +1,3 @@
+thrust-1.9.8-0
+thrust-1.9.9-0
+thrust-1.9.10-0

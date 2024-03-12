@@ -1,0 +1,2 @@
+coincbc-2.10.5-hcf1b700_1
+coin-or-clp-1.17.6-h138b220_3

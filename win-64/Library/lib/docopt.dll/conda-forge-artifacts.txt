@@ -1,0 +1,4 @@
+docopt.cpp-0.6.2-h1ad3211_0
+docopt.cpp-0.6.3-h7ef1ec2_0
+docopt.cpp-0.6.3-h5362a0b_0
+docopt.cpp-0.6.3-h181d51b_1

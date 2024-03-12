@@ -1,0 +1,4 @@
+coin-or-cgl-0.60.6-h564ed3d_0
+coin-or-cgl-0.60.6-h1a03506_1
+coin-or-cgl-0.60.6-h1a03506_2
+coin-or-cgl-0.60.7-hf7bac96_0

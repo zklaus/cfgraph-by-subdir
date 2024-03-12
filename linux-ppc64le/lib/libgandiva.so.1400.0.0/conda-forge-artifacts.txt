@@ -1,0 +1,2 @@
+libarrow-gandiva-14.0.0-h0d2a06d_0_cpu
+libarrow-gandiva-14.0.0-h8f56c31_0_cuda

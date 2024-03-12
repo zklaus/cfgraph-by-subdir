@@ -1,0 +1,4 @@
+libxscrnsaver-devel-cos7-ppc64le-1.2.2-hdf0574f_1102
+libxscrnsaver-devel-cos7-ppc64le-1.2.2-ha826a6f_1103
+libxscrnsaver-devel-cos7-ppc64le-1.2.2-h9d98e8f_1104
+libxscrnsaver-devel-cos7-ppc64le-1.2.2-h9b0a68f_1105

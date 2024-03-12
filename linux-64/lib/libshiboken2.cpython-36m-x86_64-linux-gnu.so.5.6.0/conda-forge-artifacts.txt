@@ -1,0 +1,7 @@
+pyside2-5.6.0a1-py36_0
+pyside2-5.6.0a1-py36_1
+pyside2-5.6.0a1-py36_2
+pyside2-5.6.0a1-py36h45ccf91_3
+pyside2-5.6.0a1-py36h4a9562c_1003
+pyside2-5.6.0a1-py36h4a9562c_1004
+pyside2-5.6.0a1-py36h62b865f_1005

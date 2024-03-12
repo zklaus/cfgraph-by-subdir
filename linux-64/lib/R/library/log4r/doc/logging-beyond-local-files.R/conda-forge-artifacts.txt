@@ -1,0 +1,12 @@
+r-log4r-0.4.0-r41hcfec24a_0
+r-log4r-0.4.0-r40hcfec24a_0
+r-log4r-0.4.1-r41hcfec24a_0
+r-log4r-0.4.1-r40hcfec24a_0
+r-log4r-0.4.2-r40hcfec24a_0
+r-log4r-0.4.2-r41hcfec24a_0
+r-log4r-0.4.2-r41h06615bd_1
+r-log4r-0.4.2-r42h06615bd_1
+r-log4r-0.4.3-r42h06615bd_0
+r-log4r-0.4.3-r41h06615bd_0
+r-log4r-0.4.3-r43h57805ef_1
+r-log4r-0.4.3-r42h57805ef_1

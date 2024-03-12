@@ -1,0 +1,12 @@
+libastra-2.1.0-hf08ab47_2
+libastra-2.1.0-hf08ab47_3
+libastra-2.1.0-hf08ab47_4
+libastra-2.1.0-hf08ab47_5
+libastra-2.1.0-hf08ab47_6
+libastra-2.1.0-hbf66163_7
+libastra-2.1.0-hbf66163_8
+libastra-2.1.0-hae0e34d_9
+libastra-2.1.0-hae0e34d_10
+libastra-2.1.0-hae0e34d_11
+libastra-2.1.2-hae0e34d_0
+libastra-2.1.2-h0df51b0_1

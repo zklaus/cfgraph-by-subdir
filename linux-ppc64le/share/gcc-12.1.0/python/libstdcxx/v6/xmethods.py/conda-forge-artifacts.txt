@@ -1,0 +1,12 @@
+gxx_impl_linux-ppc64le-12.1.0-ha561e0a_16
+gxx_impl_linux-aarch64-12.1.0-h8013ac3_16
+gxx_impl_linux-s390x-12.1.0-hc7de871_16
+gxx_impl_linux-64-12.1.0-he05f604_16
+gcc_bootstrap_linux-ppc64le-12.1.0-h50af55b_10
+gcc_bootstrap_linux-64-12.1.0-h4c28eba_10
+gcc_bootstrap_linux-s390x-12.1.0-h38f5254_10
+gcc_bootstrap_linux-aarch64-12.1.0-h441832d_10
+gxx_impl_linux-64-12.1.0-he05f604_17
+gxx_impl_linux-aarch64-12.1.0-h8013ac3_17
+gxx_impl_linux-ppc64le-12.1.0-ha561e0a_17
+gxx_impl_linux-s390x-12.1.0-hc7de871_17

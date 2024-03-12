@@ -1,0 +1,11 @@
+r-littler-0.3.12-r40h0eb13af_0
+r-littler-0.3.12-r36h0eb13af_0
+r-littler-0.3.12-r36h8312697_1
+r-littler-0.3.12-r40h8312697_1
+r-littler-0.3.12-r41h8312697_1
+r-littler-0.3.12-r41h4f19e79_2
+r-littler-0.3.12-r40h4f19e79_2
+r-littler-0.3.13-r41hcfec24a_0
+r-littler-0.3.13-r40hcfec24a_0
+r-littler-0.3.14-r41hcfec24a_0
+r-littler-0.3.14-r40hcfec24a_0

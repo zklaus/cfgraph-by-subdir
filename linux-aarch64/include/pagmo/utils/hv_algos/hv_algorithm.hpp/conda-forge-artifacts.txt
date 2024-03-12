@@ -1,0 +1,16 @@
+pagmo-devel-2.17.0-had47d25_3
+pagmo-devel-2.17.0-had47d25_4
+pagmo-devel-2.18.0-had47d25_0
+pagmo-devel-2.18.0-had47d25_1
+pagmo-devel-2.18.0-had47d25_2
+pagmo-devel-2.18.0-had47d25_3
+pagmo-devel-2.18.0-h4289e91_4
+pagmo-devel-2.18.0-h5e33aa3_5
+pagmo-devel-2.18.0-h7db92e8_6
+pagmo-devel-2.18.0-h7db92e8_7
+pagmo-devel-2.19.0-h7db92e8_0
+pagmo-devel-2.19.0-h40c81bf_1
+pagmo-devel-2.19.0-h8d5ab3b_2
+pagmo-devel-2.19.0-ha3272fc_3
+pagmo-devel-2.19.0-ha3272fc_4
+pagmo-devel-2.19.0-he2e37cf_5

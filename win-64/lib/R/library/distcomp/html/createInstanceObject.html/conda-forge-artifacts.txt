@@ -1,0 +1,2 @@
+r-distcomp-1.1-r36h02096d4_0
+r-distcomp-1.1-r40h02096d4_0

@@ -1,0 +1,2 @@
+rdkit-2019.03.1-py36haff9cca_0
+rdkit-2019.03.1-py37haff9cca_0

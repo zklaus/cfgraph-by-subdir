@@ -1,0 +1,7 @@
+r-intrinsic-0.2.1-r42h910fb29_0
+r-intrinsic-0.2.1-r41h910fb29_0
+r-intrinsic-0.2.2-r42h910fb29_0
+r-intrinsic-1.0.0-r42h910fb29_0
+r-intrinsic-1.0.1-r42hccecf6d_0
+r-intrinsic-1.0.1-r42hccecf6d_1
+r-intrinsic-1.0.1-r43hccecf6d_1

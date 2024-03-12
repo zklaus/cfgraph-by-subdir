@@ -1,0 +1,2 @@
+pyside2-5.15.4-py38ha169d2c_0
+pyside2-5.15.4-py38hbfaf349_1

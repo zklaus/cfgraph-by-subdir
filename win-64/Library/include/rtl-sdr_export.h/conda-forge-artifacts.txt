@@ -1,0 +1,10 @@
+rtl-sdr-0.6.0-he774522_0
+rtl-sdr-0.6.0-he774522_1
+rtl-sdr-0.6.0-h8ffe710_2
+rtl-sdr-0.6.0.post20220126-h8ffe710_0
+rtl-sdr-0.6.0.post20230822-hcfcfb64_0
+rtl-sdr-0.6.0.post20230829-hcfcfb64_0
+rtl-sdr-0.6.0.post20230829-hcfcfb64_1
+rtl-sdr-0.6.0.post20231004-hcfcfb64_0
+rtl-sdr-2.0.0-hcfcfb64_0
+rtl-sdr-2.0.1-hcfcfb64_0

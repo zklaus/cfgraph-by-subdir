@@ -1,0 +1,17 @@
+obake-devel-0.7.0-h468c888_0
+obake-devel-0.7.0-h1bac06a_1
+obake-devel-0.7.0-ha271da2_2
+obake-devel-0.7.0-hf5904ba_3
+obake-devel-0.7.0-ha271da2_4
+obake-devel-0.7.0-hf5904ba_4
+obake-devel-0.7.0-hf5904ba_5
+obake-devel-0.7.0-ha271da2_6
+obake-devel-0.7.0-hf5904ba_6
+obake-devel-0.7.0-he562668_7
+obake-devel-0.7.0-h2d46524_8
+obake-devel-0.7.0-h3647744_9
+obake-devel-0.8.0-h33d133d_0
+obake-devel-0.8.0-he189970_1
+obake-devel-0.8.0-h55227ee_2
+obake-devel-0.8.0-h4bdc81b_3
+obake-devel-0.8.0-hbf13276_4

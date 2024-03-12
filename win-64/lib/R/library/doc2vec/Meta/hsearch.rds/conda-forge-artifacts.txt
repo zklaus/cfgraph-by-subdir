@@ -1,0 +1,4 @@
+r-doc2vec-0.2.0-r40ha856d6a_0
+r-doc2vec-0.2.0-r41ha856d6a_0
+r-doc2vec-0.2.0-r41ha856d6a_1
+r-doc2vec-0.2.0-r41ha856d6a_2

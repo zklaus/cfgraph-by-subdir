@@ -1,0 +1,5 @@
+openlibm-0.8.0-hf897c2e_0
+openlibm-0.7.4-hf897c2e_0
+openlibm-0.7.5-hf897c2e_0
+openlibm-0.8.1-hf897c2e_0
+libopenlibm-static-0.8.1-h31becfc_1

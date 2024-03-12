@@ -1,0 +1,12 @@
+antic-0.2.1-h04dde30_0
+antic-0.2.1-hbd1b91e_1
+antic-0.2.2-h04dde30_0
+antic-0.2.3-h7e34412_0
+antic-0.2.4-h7e34412_0
+antic-0.2.4-h7e34412_1
+antic-0.2.4-h7e34412_2
+antic-0.2.4-hbbd85db_3
+antic-0.2.4-h7ebfb53_4
+antic-0.2.5-h7ebfb53_0
+antic-0.2.5-h7ebfb53_1
+antic-0.2.5-h44d021b_2

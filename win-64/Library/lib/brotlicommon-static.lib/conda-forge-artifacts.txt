@@ -1,0 +1,5 @@
+brotli-1.0.2-vc14_0
+brotli-1.0.6-he025d50_1000
+brotli-1.0.7-he025d50_1000
+brotli-1.0.7-he025d50_1001
+brotli-1.0.7-h33f27b4_1002

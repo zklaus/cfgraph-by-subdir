@@ -1,0 +1,3 @@
+log4cxx-0.10.0-he2cd326_1
+log4cxx-0.10.0-h4d785f4_2
+log4cxx-0.10.0-h2b61ad8_2

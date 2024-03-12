@@ -1,0 +1,8 @@
+assimp-5.0.1-hfcf317e_3
+assimp-5.0.1-h2c2f449_3
+assimp-5.0.1-hf01f27e_4
+assimp-5.0.1-hdca8b6f_4
+assimp-5.0.1-h740116f_5
+assimp-5.0.1-h66e8f5a_5
+assimp-5.0.1-h66e8f5a_6
+assimp-5.0.1-h66e8f5a_7

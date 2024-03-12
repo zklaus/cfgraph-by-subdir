@@ -1,0 +1,9 @@
+r-gtsummary-1.4.0-r36hc72bb7e_0
+r-gtsummary-1.4.0-r40hc72bb7e_0
+r-gtsummary-1.4.1-r36hc72bb7e_0
+r-gtsummary-1.4.1-r40hc72bb7e_0
+r-gtsummary-1.4.1-r41hc72bb7e_0
+r-gtsummary-1.4.2-r40hc72bb7e_0
+r-gtsummary-1.4.2-r41hc72bb7e_0
+r-gtsummary-1.5.0-r41hc72bb7e_0
+r-gtsummary-1.5.0-r40hc72bb7e_0

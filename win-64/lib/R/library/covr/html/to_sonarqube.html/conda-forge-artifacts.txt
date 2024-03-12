@@ -1,0 +1,10 @@
+r-covr-3.5.0-r36h796a38f_0
+r-covr-3.5.0-r35h796a38f_0
+r-covr-3.5.0-r36h796a38f_1
+r-covr-3.5.0-r40h796a38f_1
+r-covr-3.5.1-r36h796a38f_0
+r-covr-3.5.1-r40h796a38f_0
+r-covr-3.5.1-r36ha856d6a_0
+r-covr-3.5.1-r40ha856d6a_0
+r-covr-3.6.0-r40ha856d6a_0
+r-covr-3.6.1-r40ha856d6a_0

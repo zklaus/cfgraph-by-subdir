@@ -1,0 +1,8 @@
+pinocchio-2.6.19-py38h420a0b6_0
+pinocchio-2.6.19-py311ha2fd7aa_0
+pinocchio-2.6.19-py39hefcbbb8_0
+pinocchio-2.6.19-py310hbcf16de_0
+pinocchio-2.6.19-py39hefcbbb8_1
+pinocchio-2.6.19-py310hbcf16de_1
+pinocchio-2.6.19-py38h420a0b6_1
+pinocchio-2.6.19-py311ha2fd7aa_1

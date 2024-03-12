@@ -1,0 +1,1 @@
+terraform-provider-kubernetes-2.12.0-h73c3971_0

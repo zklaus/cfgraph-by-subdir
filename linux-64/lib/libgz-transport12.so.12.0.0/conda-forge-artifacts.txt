@@ -1,0 +1,2 @@
+libgz-transport12-12.0.0-h60772c6_0
+libgz-transport12-12.0.0-h034a4ee_1

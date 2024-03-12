@@ -1,0 +1,10 @@
+pygmo-1.1.7-py27_0
+pygmo-1.1.7-py27_1
+pygmo-1.1.7-py27_2
+pygmo-1.1.7-py34_0
+pygmo-1.1.7-py34_1
+pygmo-1.1.7-py34_2
+pygmo-1.1.7-py35_0
+pygmo-1.1.7-py35_1
+pygmo-1.1.7-py35_2
+pygmo-1.1.7-py36_2
